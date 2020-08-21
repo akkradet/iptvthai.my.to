@@ -21,7 +21,7 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 http://160.119.77.50/iptv/hd-tfilm.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/hbo.jpg" group-title="PREMIUM", 6. HBO
-https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/fox_movies.png" group-title="PREMIUM", 7. FOX Movies HD
 https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
@@ -45,13 +45,13 @@ http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
 http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd4.png" group-title="PREMIUM", 14. Premier HD4
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+http://139.99.17.52:8081/liveorigin/epl-4_720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd5.png" group-title="PREMIUM", 15. Premier HD5
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+http://139.99.17.52:8081/liveorigin/epl-5_720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/tnn16.png" group-title="THAI DIGITAL TV", 16. TNN16
-http://119.59.125.74/stream/totnew.php?channel_id=77774220bb8e40aa94e549e29ff3ed8a&.m3u8
+http://139.99.17.52:8081/liveorigin/sd-tnn24_480/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/news1.png" group-title="SAT & CABLE", 17. NEWS1 HD
 http://news1.live14.com/stream/news1_hi.m3u8
@@ -102,13 +102,13 @@ https://one31-rlbwkq.cdn.byteark.com/live/playlist-hd.m3u8
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/ch3.png" group-title="THAI DIGITAL TV", 33. CH3 HD
-https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
+http://iptvthai.my.to/M3U8/Token/CH3HD.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/amarin.png" group-title="THAI DIGITAL TV", 34. Amarin TV HD
 http://27.254.130.64:80/feed/chamarin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/ch7.png" group-title="THAI DIGITAL TV", 35. CH7 HD
-http://livesport2018.dyndns.tv:8080/live/7hd/playlist.m3u8
+http://160.119.77.50/iptv/hd-ch7.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/pptv.png" group-title="THAI DIGITAL TV", 36. PPTV HD
 http://203.150.107.30:8081/tested2iptv/core1/playlist.m3u8
