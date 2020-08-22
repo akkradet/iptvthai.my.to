@@ -24,7 +24,7 @@ http://160.119.77.50/iptv/hd-tfilm.stream/playlist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/fox_movies.png" group-title="PREMIUM", 7. FOX Movies HD
-http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
+http://dootvthai-hd.com/cmd/true/Fox-thai/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/fox_action_movies.png" group-title="PREMIUM", 8. Fox Action Movies HD
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
@@ -141,7 +141,7 @@ http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/playlist.m3u8
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/axn.png" group-title="PREMIUM", 46. AXN HD
-http://139.99.17.52:8081/liveorigin/hd-axn_720/playlist.m3u8
+http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/blue_ant.jpg" group-title="PREMIUM", 47. Blue Ant ENT HD
 http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
