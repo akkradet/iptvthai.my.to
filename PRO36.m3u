@@ -24,10 +24,10 @@ http://160.119.77.50/iptv/hd-tfilm.stream/playlist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/fox_movies.png" group-title="PREMIUM", 7. FOX Movies HD
-http://dootvthai-hd.com/cmd/true/Fox-thai/playlist.m3u8
+http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/fox_action_movies.png" group-title="PREMIUM", 8. Fox Action Movies HD
-http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
+http://203.150.107.30:8081/tested2iptv/core206/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/fox_thai.jpg" group-title="PREMIUM", 9. FOX Thai HD
 http://dootvthai-hd.com/cmd/true/Fox-thai/playlist.m3u8
@@ -66,7 +66,7 @@ http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 http://stream.rs.co.th/ch2-hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/voice_tv.png" group-title="SAT & CABLE", 21. Voice TV HD
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WPTV.m3u8
+http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/nation.jpg" group-title="THAI DIGITAL TV", 22. Nation TV
 https://cdn6.goprimetime.info/feed/chnation/index.m3u8
@@ -147,7 +147,7 @@ http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
 http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/disney.png" group-title="PREMIUM", 48. DISNEY CHANNEL
-http://160.119.77.50/iptv/uk-disney.stream/playlist.m3u8
+http://203.150.107.30:8081/tested2iptv/core107/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/history.png" group-title="PREMIUM", 49. History HD
 http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
@@ -168,10 +168,10 @@ http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-amarin.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/ch7.png" group-title="BACKUP", 55. CH7 HD (Alt)
-http://160.119.77.50/iptv/hd-ch7.stream/playlist.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x6/7hd_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/pptv.png" group-title="BACKUP", 56. PPTV HD (Alt)
-https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x6/pptv_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/workpoint.png" group-title="BACKUP", 57. Workpoint TV HD (Alt)
 https://cdn6.goprimetime.info/feed/chworkpoint//index.m3u8
