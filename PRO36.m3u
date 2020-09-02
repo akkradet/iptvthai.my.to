@@ -2,7 +2,7 @@
  
 # =======================================================
 # Playlist Name: PRO36.m3u
-# Last Update: 14-08-2020
+# Last Update: 02-09-2020
 # =======================================================
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/tv5.png" group-title="THAI DIGITAL TV", 1. TV5 HD
@@ -185,4 +185,23 @@ https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/ch
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/gmm25.png" group-title="BACKUP", 60. GMM25 HD (Alt)
 https://cdn161.cloud-streaming.com/ilike4kin_x6/gmm25_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd1.png" group-title="BACKUP", 61. Premier HD1
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd1_720/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd2.png" group-title="BACKUP", 62. Premier HD2
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd2_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd3.png" group-title="BACKUP", 33. Premier HD3
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd3_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd4.png" group-title="BACKUP", 64. Premier HD4
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd4_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd5.png" group-title="BACKUP", 65. Premier HD5
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd5_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/discovery-channel.png" group-title="PREMIUM", 66. DISCOVERY
+http://103.233.195.185/keyking/discovery_keyking/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/discovery-asia.png" group-title="PREMIUM", 67. DISCOVERY ASIA
+http://103.233.195.185/keyking/discoveryasia_keyking/playlist.m3u8
