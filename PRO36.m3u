@@ -86,7 +86,7 @@ http://27.254.142.207:8080/live/web.m3u8
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/ch8.jpg" group-title="THAI DIGITAL TV", 27. CH8 RS
 http://stream.rs.co.th/ch8-hi/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/animal-planet.png" group-title="THAI DIGITAL TV", 28. ANIMAL PLANET
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/animal-planet.png" group-title="PREMIUM", 28. ANIMAL PLANET
 http://103.233.195.185/keyking/animalplanet_keyking/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/mono29.png" group-title="THAI DIGITAL TV", 29. MONO29 HD
