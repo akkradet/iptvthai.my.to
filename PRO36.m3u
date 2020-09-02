@@ -162,10 +162,10 @@ http://160.119.77.50/iptv/hd-gmmone.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-thairath.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/ch3.png" group-title="BACKUP", 53. CH3 HD (Alt)
-http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x6/3hd_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/amarin.png" group-title="BACKUP", 54. Amarin TV HD (Alt)
-http://160.119.77.50/iptv/hd-amarin.stream/playlist.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x6/amarintv_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/ch7.png" group-title="BACKUP", 55. CH7 HD (Alt)
 https://cdn161.cloud-streaming.com/ilike4kin_x6/7hd_720p/chunks.m3u8
