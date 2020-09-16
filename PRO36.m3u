@@ -21,7 +21,7 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 http://160.119.77.50/iptv/hd-tfilm.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/hbo.jpg" group-title="PREMIUM", 6. HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+http://196.53.248.18:8081/live/hbo-hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/fox_movies.png" group-title="PREMIUM", 7. FOX Movies HD
 http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8
