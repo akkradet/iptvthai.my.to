@@ -86,8 +86,8 @@ http://27.254.142.207:8080/live/web.m3u8
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/ch8.jpg" group-title="THAI DIGITAL TV", 27. CH8 RS
 http://stream.rs.co.th/ch8-hi/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/animal-planet.png" group-title="PREMIUM", 28. ANIMAL PLANET
-http://103.233.195.185/keyking/animalplanet_keyking/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/monoplus.png" group-title="SAT & CABLE", 28. MONO PLUS HD
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/cloudiptv_monoplus_live1.stream/playlist.m3u8?username=mTRTvdvQbtd1DsswhsZTMoZUdI8MT4W6&password=Rp93AKS1peyuyYDApZw6sThMshGL1vvO
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/mono29.png" group-title="THAI DIGITAL TV", 29. MONO29 HD
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
@@ -220,3 +220,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/cinemax.png" group-title="PREMIUM", 72. Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/animal-planet.png" group-title="PREMIUM", 28. ANIMAL PLANET
+http://103.233.195.185/keyking/animalplanet_keyking/playlist.m3u8
