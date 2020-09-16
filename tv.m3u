@@ -1,0 +1,21 @@
+#EXTM3U
+
+#EXTINF:0 tvg-rec="3",TPF1 FHD
+#EXTGRP:Sports
+http://ip2121.com:8081/at1/ENG1/playlist.m3u8
+
+#EXTINF:0 tvg-rec="3",TPF2 FHD
+#EXTGRP:Sports
+http://ip2121.com:8081/at1/ENG2/playlist.m3u8
+
+#EXTINF:0 tvg-rec="3",TPF3 FHD
+#EXTGRP:Sports
+http://ip2121.com:8081/at1/ENG3/playlist.m3u8
+
+#EXTINF:0 tvg-rec="3",TPF4 FHD
+#EXTGRP:Sports
+http://ip2121.com:8081/at1/ENG4/playlist.m3u8
+
+#EXTINF:0 tvg-rec="3",TPF5 FHD
+#EXTGRP:Sports
+http://ip2121.com:8081/at1/ENG5/playlist.m3u8
