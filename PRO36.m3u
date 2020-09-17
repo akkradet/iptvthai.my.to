@@ -119,23 +119,23 @@ http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/bein2.png" group-title="PREMIUM", 38. beIN Sports HD2
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvthai.my.to/logo/true_sports_hd.png" group-title="PREMIUM", 39. True Sports HD
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/true_sports_hd.png" group-title="PREMIUM", 39. True Sports HD
 http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvthai.my.to/logo/true_sports_hd2.png" group-title="PREMIUM", 40. True Sports HD2
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/true_sports_hd2.png" group-title="PREMIUM", 40. True Sports HD2
 http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvthai.my.to/logo/tvb.png" group-title="SAT & CABLE", 41. TVB Thai
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/tvb.png" group-title="SAT & CABLE", 41. TVB Thai
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/csat.jpg" group-title="SAT & CABLE", 42. Live SKY 2 HD
-http://27.254.149.109:8081/tumlive/ipmskyworldhd2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/flix.jpg" group-title="PREMIUM", &FlixHd
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/csat.jpg" group-title="SAT & CABLE", 43. Live SKY 3 HD
-http://27.254.149.109:8081/tumlive/ipmskyworldhd3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/prive.jpg" group-title="PREMIUM", &PriveHd
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/csat.jpg" group-title="SAT & CABLE", 44. Live SKY 4 HD
-http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://iptvthaiz.my.to/logo/ctb.png" group-title="SAT & CABLE", 44. CTB TV
+http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/warner.png" group-title="PREMIUM", 45. Warner TV HD
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
@@ -223,6 +223,3 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/animal-planet.png" group-title="PREMIUM", 73. ANIMAL PLANET
 https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/warner.png" group-title="PREMIUM", 74. Warner TV HD
-http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
