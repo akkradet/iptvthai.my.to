@@ -45,13 +45,13 @@ http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
 http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd4.png" group-title="PREMIUM", 14. Premier HD4
-http://139.99.17.52:8081/liveorigin/epl-4_720/playlist.m3u8
+http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd5.png" group-title="PREMIUM", 15. Premier HD5
-http://139.99.17.52:8081/liveorigin/epl-5_720/playlist.m3u8
+http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/tnn16.png" group-title="THAI DIGITAL TV", 16. TNN16
-http://139.99.17.52:8081/liveorigin/sd-tnn24_480/playlist.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x6/tnn24_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/news1.png" group-title="SAT & CABLE", 17. NEWS1 HD
 http://news1.live14.com/stream/news1_hi.m3u8
@@ -201,10 +201,10 @@ https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd4_720/chunks.m3u8
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd5_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/discovery-channel.png" group-title="PREMIUM", 66. DISCOVERY
-http://103.233.195.185/keyking/discovery_keyking/playlist.m3u8
+http://203.150.107.30:8081/tested2iptv/core201/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/discovery-asia.png" group-title="PREMIUM", 67. DISCOVERY ASIA
-http://103.233.195.185/keyking/discoveryasia_keyking/playlist.m3u8
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/hbo-hits.png" group-title="PREMIUM", 68. HBO HITS
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
@@ -221,5 +221,5 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/cinemax.png" group-title="PREMIUM", 72. Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/animal-planet.png" group-title="PREMIUM", 28. ANIMAL PLANET
-http://103.233.195.185/keyking/animalplanet_keyking/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/animal-planet.png" group-title="PREMIUM", 73. ANIMAL PLANET
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
