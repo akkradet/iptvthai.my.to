@@ -1,21 +1,7 @@
 #EXTM3U
 
-#EXTINF:0 tvg-rec="3",TPF1 FHD
-#EXTGRP:Sports
-http://ip2121.com:8081/at1/ENG1/playlist.m3u8
+#EXTINF:-1  group-title="Digital TV" tvg-logo="",CH5 HD
+http://103.47.132.164/PLTV/88888888/224/3221227139/index.m3u8
 
-#EXTINF:0 tvg-rec="3",TPF2 FHD
-#EXTGRP:Sports
-http://ip2121.com:8081/at1/ENG2/playlist.m3u8
-
-#EXTINF:0 tvg-rec="3",TPF3 FHD
-#EXTGRP:Sports
-http://ip2121.com:8081/at1/ENG3/playlist.m3u8
-
-#EXTINF:0 tvg-rec="3",TPF4 FHD
-#EXTGRP:Sports
-http://ip2121.com:8081/at1/ENG4/playlist.m3u8
-
-#EXTINF:0 tvg-rec="3",TPF5 FHD
-#EXTGRP:Sports
-http://ip2121.com:8081/at1/ENG5/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO
+https://raw.githubusercontent.com/ProjectAdrian/MYTV/8485590dff0e815cfdc4f5f09c9e87f86bb41fff/m3u8/FAMILY.m3u8
