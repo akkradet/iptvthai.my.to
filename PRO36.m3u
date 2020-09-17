@@ -2,7 +2,7 @@
  
 # =======================================================
 # Playlist Name: PRO36.m3u
-# Last Update: 02-09-2020
+# Last Update: 17-09-2020
 # =======================================================
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/tv5.png" group-title="THAI DIGITAL TV", 1. TV5 HD
@@ -129,7 +129,7 @@ http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/flix.jpg" group-title="PREMIUM",42. &FlixHd
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andflixhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/prive.jpg" group-title="PREMIUM",43. &PriveHd
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
