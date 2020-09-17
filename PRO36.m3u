@@ -128,13 +128,13 @@ http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/tvb.png" group-title="SAT & CABLE", 41. TVB Thai
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/flix.jpg" group-title="PREMIUM", &FlixHd
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/flix.jpg" group-title="PREMIUM",42. &FlixHd
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/prive.jpg" group-title="PREMIUM", &PriveHd
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/prive.jpg" group-title="PREMIUM",43. &PriveHd
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptvthaiz.my.to/logo/ctb.png" group-title="SAT & CABLE", 44. CTB TV
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/ctb.png" group-title="SAT & CABLE", 44. CTB TV
 http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/warner.png" group-title="PREMIUM", 45. Warner TV HD
