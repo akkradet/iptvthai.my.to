@@ -21,14 +21,21 @@ https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
 #EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/BgU7dBW.png",HBO
 http://iptvthai.my.to/hbogo/HBO.m3u8
 
-#EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/BgU7dBW.png",HBO
-http://iptvthai.my.to/hbogo/HBO.m3u8
+#EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/p5doERm.png",HBO Family
+http://iptvthai.my.to/hbogo/FAMILY.m3u8
 
-#EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/BgU7dBW.png",HBO
-http://iptvthai.my.to/hbogo/HBO.m3u8
+#EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/BgU7dBW.png",HBO Hits
+http://iptvthai.my.to/hbogo/HITS.m3u8
 
-#EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/BgU7dBW.png",HBO
-http://iptvthai.my.to/hbogo/HBO.m3u8
+#EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/i89AzSA.png",HBO Signature
+http://iptvthai.my.to/hbogo/SIG.m3u8
+
+#EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/BgU7dBW.png",Red by HBO
+http://iptvthai.my.to/hbogo/RED.m3u8
+
+#EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/BgU7dBW.png",Cinemax
+http://iptvthai.my.to/hbogo/MAX.m3u8
+
 
 #EXTINF:-1  group-title="Variety" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
 http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
