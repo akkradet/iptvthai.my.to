@@ -8,7 +8,7 @@
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="tgl",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="tgl",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/9.m3u8"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="ind",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="ind",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/10.m3u8"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="bur",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="bur",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/11.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="mal",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="mal",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/12.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="mal",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="mal",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/12.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=480x270,AUDIO="audiod",SUBTITLES="subs"
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1147048,AVERAGE-BANDWIDTH=1147048,CODECS="avc1.64001e,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=640x360,AUDIO="audiod",SUBTITLES="subs"
