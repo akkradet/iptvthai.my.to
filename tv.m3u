@@ -1,17 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1  group-title="Digital TV" tvg-logo="",CH5 HD
-http://103.47.132.164/PLTV/88888888/224/3221227139/index.m3u8
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
+http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/D1jo1L4.png",NBT HD
+https://cdn161.cloud-streaming.com/ilike4kin_x6/nbt_720p/playlist.m3u8
+
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/R839NLW.png",Thai PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/gFNABNU.png",ALTV HD
+https://iptvthai.my.to/vip/altv.m3u8
+
+#EXTINF:-1  group-title="Kids" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
+https://github.com/fotvnetwork/iptv-free/blob/02a806046339baa154c89d47717c232d590e2d9f/Cable.m3u8
+
+#EXTINF:-1  group-title="Documentary" tvg-logo="https://i.imgur.com/iPQFqKC.png",Discovery Asia
+https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
+
+#EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/BgU7dBW.png",HBO
 http://iptvthai.my.to/hbogo/HBO.m3u8
+
+#EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/BgU7dBW.png",HBO
+http://iptvthai.my.to/hbogo/HBO.m3u8
+
+#EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/BgU7dBW.png",HBO
+http://iptvthai.my.to/hbogo/HBO.m3u8
+
+#EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/BgU7dBW.png",HBO
+http://iptvthai.my.to/hbogo/HBO.m3u8
+
+#EXTINF:-1  group-title="Variety" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
+http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
+
+#EXTINF:-1  group-title="Sport" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
+http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
+
+#EXTINF:-1  group-title="Sport (Inter)" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
+http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
+
+
+#EXTINF:-1  group-title="News" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
+http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="电影",Cinemax
 http://iptvthai.my.to/hbogo/MAX.m3u8
 
 #EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="电影",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="电影",HBO
+#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.imgur.com/BgU7dBW.png" group-title="电影",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="电影",HBO Family
 http://iptvthai.my.to/hbogo/FAMILY.m3u8
