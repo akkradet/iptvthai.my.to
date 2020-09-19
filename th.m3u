@@ -1,0 +1,11 @@
+﻿#EXTM3U
+
+#EXTINF:1, tvg-id="CH5" tvg-logo="https://i.imgur.com/2xdfssX.png" tvg-name="CH5"  group-title="Digital TV",CH5
+http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
+
+#EXTINF:2, tvg-id="NBT" tvg-logo="https://i.imgur.com/D1jo1L4.png" tvg-name="NBT"  group-title="Digital TV",NBT
+https://cdn161.cloud-streaming.com/ilike4kin_x6/nbt_720p/playlist.m3u8
+
+#EXTINF:3, tvg-id="Thai PBS" tvg-logo="https://i.imgur.com/R839NLW.png" tvg-name="Thai PBS"  group-title="Digital TV",Thai PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
