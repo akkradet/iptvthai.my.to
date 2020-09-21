@@ -36,19 +36,19 @@ http://dootvthai-hd.com/cmd/api/true/FOX-THAI/playlist.m3u8
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd1.png" group-title="PREMIUM", 11. Premier HD1
-http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
+http://tv10.chang55.com/epl-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd2.png" group-title="PREMIUM", 12. Premier HD2
-http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
+http://tv10.chang55.com/epl-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd3.png" group-title="PREMIUM", 13. Premier HD3
-http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8
+http://tv10.chang55.com/epl-3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd4.png" group-title="PREMIUM", 14. Premier HD4
-http://dootvthai-hd.com/cmd/true/ep1-4/playlist.m3u8
+http://tv10.chang55.com/epl-4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd5.png" group-title="PREMIUM", 15. Premier HD5
-http://dootvthai-hd.com/cmd/true/ep1-4/playlist.m3u8
+http://tv10.chang55.com/epl-5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/tnn16.png" group-title="THAI DIGITAL TV", 16. TNN16
 https://cdn161.cloud-streaming.com/ilike4kin_x6/tnn24_720p/playlist.m3u8
