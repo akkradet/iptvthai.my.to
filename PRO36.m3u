@@ -62,8 +62,8 @@ https://cdn6.goprimetime.info/feed/newtv/index.m3u8
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/psi.png" group-title="SAT & CABLE", 19. PSI Saradee HD
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/ch2.png" group-title="SAT & CABLE", 20. CH2 RS
-http://stream.rs.co.th/ch2-hi/index.m3u8
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/trueid.png" group-title="PREMIUM", 20. ID Station
+http://dootvthai-hd.com/cmd/api/true/idstation/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/voice_tv.png" group-title="SAT & CABLE", 21. Voice TV HD
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w142679599.m3u8
@@ -223,3 +223,12 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/animal-planet.png" group-title="PREMIUM", 73. ANIMAL PLANET
 https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/foxsport.png" group-title="PREMIUM", 74. FOX Sports HD
+http://dootvthai-hd.com/cmd/api/true/idstation/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/foxsport2.png" group-title="PREMIUM", 75. FOX Sports 2 HD
+http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-2-HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/foxsport3.png" group-title="PREMIUM", 75. FOX Sports 3
+http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-3/playlist.m3u8
