@@ -9,7 +9,7 @@
 http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/nbt.png" group-title="THAI DIGITAL TV", 2. NBT HD
-http://160.119.77.50/iptv/sd-nbt.stream/playlist.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x6/nbt_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/thaipbs.png" group-title="THAI DIGITAL TV", 3. Thai PBS HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
@@ -30,7 +30,7 @@ http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8
 http://203.150.107.30:8081/tested2iptv/core206/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/fox_thai.jpg" group-title="PREMIUM", 9. FOX Thai HD
-http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/api/true/FOX-THAI/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/tptv.png" group-title="THAI DIGITAL TV", 10. TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
@@ -45,10 +45,10 @@ http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
 http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd4.png" group-title="PREMIUM", 14. Premier HD4
-http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/true/ep1-4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd5.png" group-title="PREMIUM", 15. Premier HD5
-http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u
+http://dootvthai-hd.com/cmd/true/ep1-4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/tnn16.png" group-title="THAI DIGITAL TV", 16. TNN16
 https://cdn161.cloud-streaming.com/ilike4kin_x6/tnn24_720p/playlist.m3u8
@@ -93,7 +93,7 @@ http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/cloudiptv_monoplus_live1.s
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/mcot.png" group-title="THAI DIGITAL TV", 30. MCOT HD
-http://160.119.77.50/iptv/hd-mcot.stream/playlist.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x6/mcothd_720p/chunks.m3u88
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/one.png" group-title="THAI DIGITAL TV", 31. ONE HD
 https://one31-rlbwkq.cdn.byteark.com/live/playlist-hd.m3u8
@@ -144,7 +144,7 @@ http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/blue_ant.jpg" group-title="PREMIUM", 47. Blue Ant ENT HD
-http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/api/true/BLUE-ANT-ENTERTAINMENT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/disney.png" group-title="PREMIUM", 48. DISNEY CHANNEL
 http://203.150.107.30:8081/tested2iptv/core107/playlist.m3u8
@@ -156,10 +156,10 @@ http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
 http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/one.png" group-title="BACKUP", 51. ONE HD (Alt)
-http://160.119.77.50/iptv/hd-gmmone.stream/playlist.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x6/one_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/thairath.png" group-title="BACKUP", 52. Thairath TV HD (Alt)
-http://160.119.77.50/iptv/hd-thairath.stream/playlist.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x6/thairath_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/ch3.png" group-title="BACKUP", 53. CH3 HD (Alt)
 https://cdn161.cloud-streaming.com/ilike4kin_x6/3hd_720p/chunks.m3u8
