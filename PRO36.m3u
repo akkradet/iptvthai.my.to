@@ -93,7 +93,8 @@ http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/cloudiptv_monoplus_live1.s
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/mcot.png" group-title="THAI DIGITAL TV", 30. MCOT HD
-https://cdn161.cloud-streaming.com/ilike4kin_x6/mcothd_720p/chunks.m3u88
+https://cdn161.cloud-streaming.com/ilike4kin_x6/mcothd_720p/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/one.png" group-title="THAI DIGITAL TV", 31. ONE HD
 https://one31-rlbwkq.cdn.byteark.com/live/playlist-hd.m3u8
