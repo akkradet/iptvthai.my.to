@@ -40,8 +40,16 @@ http://iptvthai.my.to/hbo-th/MAX.m3u8
 #EXTINF:-1  group-title="Variety" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
 http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
 
-#EXTINF:-1  group-title="Sport" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
-http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd1.png",Premier HD1
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd1_720/chunks.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd2.png",Premier HD2
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd2_720/chunks.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd3.png",Premier HD3
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd3_720/chunks.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd4.png",Premier HD4
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd4_720/chunks.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd5.png",Premier HD5
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd5_720/chunks.m3u8
 
 #EXTINF:-1  group-title="Sport (Inter)" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
 http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
