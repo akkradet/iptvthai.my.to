@@ -12,6 +12,9 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/gFNABNU.png",ALTV HD
 https://iptvthai.my.to/vip/altv.m3u8
 
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/2iIhC8r.png",One31 HD
+https://cdn6.goprimetime.info/feed/chonehd/index.m3u8
+
 #EXTINF:-1  group-title="Kids" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
 https://github.com/fotvnetwork/iptv-free/blob/02a806046339baa154c89d47717c232d590e2d9f/Cable.m3u8
 
@@ -41,15 +44,15 @@ http://iptvthai.my.to/hbo-th/MAX.m3u8
 http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd1.png",Premier HD1
-https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd1_720/chunks.m3u8
+http://tv10.chang55.com/epl-1/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd2.png",Premier HD2
-https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd2_720/chunks.m3u8
+http://tv10.chang55.com/epl-2/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd3.png",Premier HD3
-https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd3_720/chunks.m3u8
+http://tv10.chang55.com/epl-3/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd4.png",Premier HD4
-https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd4_720/chunks.m3u8
+http://tv10.chang55.com/epl-4/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd5.png",Premier HD5
-https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd5_720/chunks.m3u8
+http://tv10.chang55.com/epl-5/playlist.m3u8
 
 #EXTINF:-1  group-title="Sport (Inter)" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
 http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
