@@ -14,6 +14,8 @@ https://iptvthai.my.to/vip/altv.m3u8
 
 #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/2iIhC8r.png",One31 HD
 https://cdn6.goprimetime.info/feed/chonehd/index.m3u8
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/U53exlH.png",THAIRATH TV
+https://edge6a.v2h-cdn.com/m2i4/ThairathHD.stream_720p/playlist.m3u8
 
 #EXTINF:-1  group-title="Kids" tvg-logo="https://i.imgur.com/yanEP1T.png",Jatingja
 https://github.com/fotvnetwork/iptv-free/blob/02a806046339baa154c89d47717c232d590e2d9f/Cable.m3u8
