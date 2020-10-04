@@ -12,7 +12,7 @@ https://edge6a.v2h-cdn.com/m2i1/TPBS.stream_720p/playlist.m3u8
 #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/gFNABNU.png",ALTV HD
 https://iptvthai.my.to/vip/altv.m3u8
 #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/AZNQAo2.png",TNN16
-https://dootvthai-hd.com/cmd/api/TH/TNN-16/playlist.m3u8
+https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
 #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/4EpcrrT.png",NEW TV 18
 https://edge6a.v2h-cdn.com/m2i1/NEW.stream_360p/playlist.m3u8
 #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/uQqgpkp.png",WORKPOINT
@@ -20,9 +20,9 @@ https://dootvthai-hd.com/cmd/api/TH/WORKPOINTTV/playlist.m3u8
 #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/n2354RI.png",TRUE4U
 https://dootvthai-hd.com/cmd/api/TH/TH4U/playlist.m3u8
 #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/B0Kq8XM.png",GMM 25
-https://edge6a.v2h-cdn.com/m2i3/McotHD.stream_720p/playlist.m3u8
+http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
 #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/4B5gX1p.png",CH8
-https://edge6a.v2h-cdn.com/m2i3/McotHD.stream_720p/playlist.m3u8
+https://cdn6.goprimetime.info/feed/ch8/index.m3u8
 #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/DiNMwO3.png",MONO 29
 https://edge6a.v2h-cdn.com/m2i1/Mono.stream_720p/playlist.m3u8
 #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/eY6ic8F.png",MCOT HD
@@ -97,3 +97,36 @@ http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
 
 #EXTINF:-1  group-title="News" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
 http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/01_channel_logo.png",DLTV1 ประถมศึกษาปีที่ 1
+https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/02_channel_logo.png",DLTV2 ประถมศึกษาปีที่ 2
+https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/03_channel_logo.png",DLTV3 ประถมศึกษาปีที่ 3
+https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/04_channel_logo.png",DLTV4 ประถมศึกษาปีที่ 4
+https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/05_channel_logo.png",DLTV5 ประถมศึกษาปีที่ 5
+https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/06_channel_logo.png",DLTV6 ประถมศึกษาปีที่ 6
+https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/07_channel_logo.png",DLTV7 มัธยมศึกษาปีที่ 1
+https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/08_channel_logo.png",DLTV8 มัธยมศึกษาปีที่ 2
+https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/09_channel_logo.png",DLTV9 มัธยมศึกษาปีที่ 3
+https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/10_channel_logo.png",DLTV10 อนุบาลศึกษาปีที่ 1
+https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/11_channel_logo.png",DLTV11 อนุบาลศึกษาปีที่ 2
+https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/12_channel_logo.png",DLTV12 อนุบาลศึกษาปีที่ 3
+https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/13_channel_logo.png",DLTV13 อาชีวศึกษา
+https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/14_channel_logo.png",DLTV14 อุดมศึกษา
+https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/15_channel_logo.png",DLTV15 ภาษาต่างประเทศ
+https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://upload.wikimedia.org/wikipedia/th/3/35/ETV_Logo.jpg",ETV SD
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
