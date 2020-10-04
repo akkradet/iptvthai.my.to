@@ -11,7 +11,13 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/gFNABNU.png",ALTV HD
 https://iptvthai.my.to/vip/altv.m3u8
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/2iIhC8r.png",MCOT HD
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/uQqgpkp.png",WORKPOINT
+https://edge6a.v2h-cdn.com/m2i3/McotHD.stream_720p/playlist.m3u8
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/4B5gX1p.png",CH8
+https://edge6a.v2h-cdn.com/m2i3/McotHD.stream_720p/playlist.m3u8
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/DiNMwO3.png",MONO 29
+https://edge6a.v2h-cdn.com/m2i1/Mono.stream_720p/playlist.m3u8
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/eY6ic8F.png",MCOT HD
 https://edge6a.v2h-cdn.com/m2i3/McotHD.stream_720p/playlist.m3u8
 #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/2iIhC8r.png",One HD
 https://edge6a.v2h-cdn.com/m2i1/OneHD.stream_720p/playlist.m3u8
@@ -19,7 +25,7 @@ https://edge6a.v2h-cdn.com/m2i1/OneHD.stream_720p/playlist.m3u8
 https://edge6a.v2h-cdn.com/m2i4/ThairathHD.stream_720p/playlist.m3u8
 #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/y03ZBhX.png",CH3 HD
 https://edge6a.v2h-cdn.com/m2i1/3HD.stream_720p/playlist.m3u8
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/y03ZBhX.png",AMARIN TV
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/8dpAG47.png",AMARIN TV
 https://edge6a.v2h-cdn.com/m2i1/AmarinHD.stream_720p/playlist.m3u8
 #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/8d6KzSh.png",CH7 HD
 https://edge6a.v2h-cdn.com/m2i1/7HD.stream_720p/playlist.m3u8
