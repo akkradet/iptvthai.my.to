@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/9S4aBdt.png",CH5 HD
 http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
 
 #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/D1jo1L4.png",NBT HD
 https://cdn161.cloud-streaming.com/ilike4kin_x6/nbt_720p/playlist.m3u8
 
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/R839NLW.png",Thai PBS
+#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/UcVCd3I.png",Thai PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/gFNABNU.png",ALTV HD
@@ -15,12 +15,24 @@ https://iptvthai.my.to/vip/altv.m3u8
 #EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/2iIhC8r.png",One31 HD
 https://cdn6.goprimetime.info/feed/chonehd/index.m3u8
 
-#EXTINF:-1  group-title="Kids" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
+#EXTINF:-1  group-title="Kids" tvg-logo="https://i.imgur.com/yanEP1T.png",Jatingja
+https://github.com/fotvnetwork/iptv-free/blob/02a806046339baa154c89d47717c232d590e2d9f/Cable.m3u8
+#EXTINF:-1  group-title="Kids" tvg-logo="https://i.imgur.com/jxrgC7j.png",True spark jump
+https://github.com/fotvnetwork/iptv-free/blob/02a806046339baa154c89d47717c232d590e2d9f/Cable.m3u8
+#EXTINF:-1  group-title="Kids" tvg-logo="https://i.imgur.com/yanEP1T.png",Jatingja
+https://github.com/fotvnetwork/iptv-free/blob/02a806046339baa154c89d47717c232d590e2d9f/Cable.m3u8
+#EXTINF:-1  group-title="Kids" tvg-logo="https://i.imgur.com/yanEP1T.png",Jatingja
+https://github.com/fotvnetwork/iptv-free/blob/02a806046339baa154c89d47717c232d590e2d9f/Cable.m3u8
+#EXTINF:-1  group-title="Kids" tvg-logo="https://i.imgur.com/yanEP1T.png",Jatingja
 https://github.com/fotvnetwork/iptv-free/blob/02a806046339baa154c89d47717c232d590e2d9f/Cable.m3u8
 
 #EXTINF:-1  group-title="Documentary" tvg-logo="https://i.imgur.com/iPQFqKC.png",Discovery Asia
 https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
 
+#EXTINF:-1  group-title="Documentary" tvg-logo="https://i.imgur.com/zFopA2r.png",History TH
+#EXTINF:-1  group-title="Documentary" tvg-logo="https://i.imgur.com/dT0jNC0.png",H2 TH
+#EXTINF:-1  group-title="Documentary" tvg-logo="https://i.imgur.com/zFopA2r.png",History TH
+#EXTINF:-1  group-title="Documentary" tvg-logo="https://i.imgur.com/zFopA2r.png",History TH
 #EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/BgU7dBW.png",HBO
 http://iptvthai.my.to/hbo-th/HBO.m3u8
 
@@ -40,18 +52,19 @@ http://iptvthai.my.to/hbo-th/RED.m3u8
 http://iptvthai.my.to/hbo-th/MAX.m3u8
 
 
-#EXTINF:-1  group-title="Variety" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
-http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd1.png",Premier HD1
+#EXTINF:-1  group-title="Variety" tvg-logo="https://i.imgur.com/2xdfssX.png",Asian Food Network
+http://dootvthai-hd.com/cmd/true/asian-food-channel/playlist.m3u8
+#EXTINF:-1  group-title="Variety" tvg-logo="https://i.imgur.com/IsYQIkr.png",KBS World HD
+http://dootvthai-hd.com/cmd/api/true/KBS-WORLD-HD/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7rH0dDV.png",Premier HD1
 http://tv10.chang55.com/epl-1/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd2.png",Premier HD2
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/QMY5o8V.png",Premier HD2
 http://tv10.chang55.com/epl-2/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd3.png",Premier HD3
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/EtPdMUx.png",Premier HD3
 http://tv10.chang55.com/epl-3/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd4.png",Premier HD4
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/rumeNYS.png",Premier HD4
 http://tv10.chang55.com/epl-4/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd5.png",Premier HD5
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/b5iVwQc.png",Premier HD5
 http://tv10.chang55.com/epl-5/playlist.m3u8
 
 #EXTINF:-1  group-title="Sport (Inter)" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
