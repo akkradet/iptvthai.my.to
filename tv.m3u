@@ -1,134 +1,170 @@
-#EXTM3U
+﻿#EXTM3U
 
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/9S4aBdt.png",CH5 HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/9S4aBdt.png" tvg-name="CH5 HD"  group-title="Digital TV",CH5 HD
 http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
 
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/D1jo1L4.png",NBT HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/D1jo1L4.png" tvg-name="NBT HD"  group-title="Digital TV",NBT HD
 https://edge6a.v2h-cdn.com/m2i3/NBT.stream_720p/playlist.m3u8
 
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/UcVCd3I.png",Thai PBS
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/UcVCd3I.png" tvg-name="Thai PBS"  group-title="Digital TV",Thai PBS
 https://edge6a.v2h-cdn.com/m2i1/TPBS.stream_720p/playlist.m3u8
 
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/gFNABNU.png",ALTV HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/gFNABNU.png" tvg-name="ALTV HD"  group-title="Digital TV",ALTV HD
 https://iptvthai.my.to/vip/altv.m3u8
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/AZNQAo2.png",TNN16
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/AZNQAo2.png" tvg-name="TNN16"  group-title="Digital TV",TNN16
 https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/4EpcrrT.png",NEW TV 18
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/4EpcrrT.png" tvg-name="NEW TV 18"  group-title="Digital TV",NEW TV 18
 https://edge6a.v2h-cdn.com/m2i1/NEW.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.imgur.com/b60FpIx.png",Nation
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/b60FpIx.png" tvg-name="Nation"  group-title="Digital TV",Nation
 http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/uQqgpkp.png",WORKPOINT
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/uQqgpkp.png" tvg-name="WORKPOINT"  group-title="Digital TV",WORKPOINT
 https://dootvthai-hd.com/cmd/api/TH/WORKPOINTTV/playlist.m3u8
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/n2354RI.png",TRUE4U
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/n2354RI.png" tvg-name="TRUE4U"  group-title="Digital TV",TRUE4U
 https://dootvthai-hd.com/cmd/api/TH/TH4U/playlist.m3u8
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/B0Kq8XM.png",GMM 25
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/B0Kq8XM.png" tvg-name="GMM 25"  group-title="Digital TV",GMM 25
 http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/4B5gX1p.png",CH8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/4B5gX1p.png" tvg-name="CH8"  group-title="Digital TV",CH8
 https://cdn6.goprimetime.info/feed/ch8/index.m3u8
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/DiNMwO3.png",MONO 29
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/DiNMwO3.png" tvg-name="MONO 29"  group-title="Digital TV",MONO 29
 https://edge6a.v2h-cdn.com/m2i1/Mono.stream_720p/playlist.m3u8
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/eY6ic8F.png",MCOT HD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/eY6ic8F.png" tvg-name="MCOT HD"  group-title="Digital TV",MCOT HD
 https://edge6a.v2h-cdn.com/m2i3/McotHD.stream_720p/playlist.m3u8
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/2iIhC8r.png",One HD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/2iIhC8r.png" tvg-name="One HD"  group-title="Digital TV",One HD
 https://edge6a.v2h-cdn.com/m2i1/OneHD.stream_720p/playlist.m3u8
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/U53exlH.png",THAIRATH TV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/U53exlH.png" tvg-name="THAIRATH TV"  group-title="Digital TV",THAIRATH TV
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/y03ZBhX.png",CH3 HD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/y03ZBhX.png" tvg-name="CH3 HD"  group-title="Digital TV",CH3 HD
 https://edge6a.v2h-cdn.com/m2i1/3HD.stream_720p/playlist.m3u8
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/8dpAG47.png",AMARIN TV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/8dpAG47.png" tvg-name="AMARIN TV"  group-title="Digital TV",AMARIN TV
 https://edge6a.v2h-cdn.com/m2i1/AmarinHD.stream_720p/playlist.m3u8
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/8d6KzSh.png",CH7 HD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/8d6KzSh.png" tvg-name="CH7 HD"  group-title="Digital TV",CH7 HD
 https://edge6a.v2h-cdn.com/m2i1/7HD.stream_720p/playlist.m3u8
-#EXTINF:-1  group-title="Digital TV" tvg-logo="https://i.imgur.com/AdMV4CC.png",PPTV HD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/AdMV4CC.png" tvg-name="PPTV HD"  group-title="Digital TV",PPTV HD
 https://edge6a.v2h-cdn.com/m2i1/PPTV.stream_720p/playlist.m3u8
-#EXTINF:-1  group-title="Kids" tvg-logo="https://i.imgur.com/yanEP1T.png",Jatingja
-https://github.com/fotvnetwork/iptv-free/blob/02a806046339baa154c89d47717c232d590e2d9f/Cable.m3u8
-#EXTINF:-1  group-title="Kids" tvg-logo="https://i.imgur.com/jxrgC7j.png",True spark jump
-https://github.com/fotvnetwork/iptv-free/blob/02a806046339baa154c89d47717c232d590e2d9f/Cable.m3u8
-#EXTINF:-1  group-title="Kids" tvg-logo="https://i.imgur.com/yanEP1T.png",Jatingja
-https://github.com/fotvnetwork/iptv-free/blob/02a806046339baa154c89d47717c232d590e2d9f/Cable.m3u8
-#EXTINF:-1  group-title="Kids" tvg-logo="https://i.imgur.com/yanEP1T.png",Jatingja
-https://github.com/fotvnetwork/iptv-free/blob/02a806046339baa154c89d47717c232d590e2d9f/Cable.m3u8
-#EXTINF:-1  group-title="Kids" tvg-logo="https://i.imgur.com/yanEP1T.png",Jatingja
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/yanEP1T.png" tvg-name="Jatingja"  group-title="Kids",Jatingja
 https://github.com/fotvnetwork/iptv-free/blob/02a806046339baa154c89d47717c232d590e2d9f/Cable.m3u8
 
-#EXTINF:-1  group-title="Documentary" tvg-logo="https://i.imgur.com/iPQFqKC.png",Discovery Asia
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/jxrgC7j.png" tvg-name="True spark jump"  group-title="Kids",True spark jump
+https://github.com/fotvnetwork/iptv-free/blob/02a806046339baa154c89d47717c232d590e2d9f/Cable.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/yanEP1T.png" tvg-name="Jatingja"  group-title="Kids",Jatingja
+https://github.com/fotvnetwork/iptv-free/blob/02a806046339baa154c89d47717c232d590e2d9f/Cable.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/yanEP1T.png" tvg-name="Jatingja"  group-title="Kids",Jatingja
+https://github.com/fotvnetwork/iptv-free/blob/02a806046339baa154c89d47717c232d590e2d9f/Cable.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/yanEP1T.png" tvg-name="Jatingja"  group-title="Kids",Jatingja
+https://github.com/fotvnetwork/iptv-free/blob/02a806046339baa154c89d47717c232d590e2d9f/Cable.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/iPQFqKC.png" tvg-name="Discovery Asia"  group-title="Documentary",Discovery Asia
 https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
 
-#EXTINF:-1  group-title="Documentary" tvg-logo="https://i.imgur.com/zFopA2r.png",History TH
-#EXTINF:-1  group-title="Documentary" tvg-logo="https://i.imgur.com/dT0jNC0.png",H2 TH
-#EXTINF:-1  group-title="Documentary" tvg-logo="https://i.imgur.com/zFopA2r.png",History TH
-#EXTINF:-1  group-title="Documentary" tvg-logo="https://i.imgur.com/zFopA2r.png",History TH
-#EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/BgU7dBW.png",HBO
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/BgU7dBW.png" tvg-name="HBO"  group-title="Movies",HBO
 http://iptvthai.my.to/hbo-th/HBO.m3u8
 
-#EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/ore5hRX.png",HBO Family
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ore5hRX.png" tvg-name="HBO Family"  group-title="Movies",HBO Family
 http://iptvthai.my.to/hbo-th/FAMILY.m3u8
 
-#EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/O2RMd87.png",HBO Hits
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/O2RMd87.png" tvg-name="HBO Hits"  group-title="Movies",HBO Hits
 http://iptvthai.my.to/hbo-th/HITS.m3u8
 
-#EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/i89AzSA.png",HBO Signature
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/i89AzSA.png" tvg-name="HBO Signature"  group-title="Movies",HBO Signature
 http://iptvthai.my.to/hbo-th/SIG.m3u8
 
-#EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/ly1iRDY.png",Red by HBO
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ly1iRDY.png" tvg-name="Red by HBO"  group-title="Movies",Red by HBO
 http://iptvthai.my.to/hbo-th/RED.m3u8
 
-#EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/2MEgcPP.png",Cinemax
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/2MEgcPP.png" tvg-name="Cinemax"  group-title="Movies",Cinemax
 http://iptvthai.my.to/hbo-th/MAX.m3u8
 
-
-#EXTINF:-1  group-title="Variety" tvg-logo="https://i.imgur.com/2xdfssX.png",Asian Food Network
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/2xdfssX.png" tvg-name="Asian Food Network"  group-title="Variety",Asian Food Network
 http://dootvthai-hd.com/cmd/true/asian-food-channel/playlist.m3u8
-#EXTINF:-1  group-title="Variety" tvg-logo="https://i.imgur.com/IsYQIkr.png",KBS World HD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/IsYQIkr.png" tvg-name="KBS World HD"  group-title="Variety",KBS World HD
 http://dootvthai-hd.com/cmd/api/true/KBS-WORLD-HD/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7rH0dDV.png",Premier HD1
-http://tv10.chang55.com/epl-1/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/QMY5o8V.png",Premier HD2
-http://tv10.chang55.com/epl-2/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/EtPdMUx.png",Premier HD3
-http://tv10.chang55.com/epl-3/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/rumeNYS.png",Premier HD4
-http://tv10.chang55.com/epl-4/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/b5iVwQc.png",Premier HD5
-http://tv10.chang55.com/epl-5/playlist.m3u8
 
-#EXTINF:-1  group-title="Sport (Inter)" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/7rH0dDV.png" tvg-name="Premier HD1"  group-title="Sport",Premier HD1
+http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/QMY5o8V.png" tvg-name="Premier HD2"  group-title="Sport",Premier HD2
+http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/EtPdMUx.png" tvg-name="Premier HD3"  group-title="Sport",Premier HD3
+http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/rumeNYS.png" tvg-name="Premier HD4"  group-title="Sport",Premier HD4
+http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/b5iVwQc.png" tvg-name="Premier HD5"  group-title="Sport",Premier HD5
+http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/2xdfssX.png" tvg-name="CH5 HD"  group-title="Sport (Inter)",CH5 HD
 http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
 
-
-#EXTINF:-1  group-title="News" tvg-logo="https://i.imgur.com/2xdfssX.png",CH5 HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/2xdfssX.png" tvg-name="CH5 HD"  group-title="News",CH5 HD
 http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
 
-#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/01_channel_logo.png",DLTV1 ประถมศึกษาปีที่ 1
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dltv.ac.th/upload/data/channels/01_channel_logo.png" tvg-name="DLTV1 ประถมศึกษาปีที่ 1"  group-title="Education",DLTV1 ประถมศึกษาปีที่ 1
 https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
-#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/02_channel_logo.png",DLTV2 ประถมศึกษาปีที่ 2
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dltv.ac.th/upload/data/channels/02_channel_logo.png" tvg-name="DLTV2 ประถมศึกษาปีที่ 2"  group-title="Education",DLTV2 ประถมศึกษาปีที่ 2
 https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
-#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/03_channel_logo.png",DLTV3 ประถมศึกษาปีที่ 3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dltv.ac.th/upload/data/channels/03_channel_logo.png" tvg-name="DLTV3 ประถมศึกษาปีที่ 3"  group-title="Education",DLTV3 ประถมศึกษาปีที่ 3
 https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
-#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/04_channel_logo.png",DLTV4 ประถมศึกษาปีที่ 4
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dltv.ac.th/upload/data/channels/04_channel_logo.png" tvg-name="DLTV4 ประถมศึกษาปีที่ 4"  group-title="Education",DLTV4 ประถมศึกษาปีที่ 4
 https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
-#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/05_channel_logo.png",DLTV5 ประถมศึกษาปีที่ 5
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dltv.ac.th/upload/data/channels/05_channel_logo.png" tvg-name="DLTV5 ประถมศึกษาปีที่ 5"  group-title="Education",DLTV5 ประถมศึกษาปีที่ 5
 https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
-#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/06_channel_logo.png",DLTV6 ประถมศึกษาปีที่ 6
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dltv.ac.th/upload/data/channels/06_channel_logo.png" tvg-name="DLTV6 ประถมศึกษาปีที่ 6"  group-title="Education",DLTV6 ประถมศึกษาปีที่ 6
 https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
-#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/07_channel_logo.png",DLTV7 มัธยมศึกษาปีที่ 1
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dltv.ac.th/upload/data/channels/07_channel_logo.png" tvg-name="DLTV7 มัธยมศึกษาปีที่ 1"  group-title="Education",DLTV7 มัธยมศึกษาปีที่ 1
 https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
-#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/08_channel_logo.png",DLTV8 มัธยมศึกษาปีที่ 2
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dltv.ac.th/upload/data/channels/08_channel_logo.png" tvg-name="DLTV8 มัธยมศึกษาปีที่ 2"  group-title="Education",DLTV8 มัธยมศึกษาปีที่ 2
 https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
-#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/09_channel_logo.png",DLTV9 มัธยมศึกษาปีที่ 3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dltv.ac.th/upload/data/channels/09_channel_logo.png" tvg-name="DLTV9 มัธยมศึกษาปีที่ 3"  group-title="Education",DLTV9 มัธยมศึกษาปีที่ 3
 https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
-#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/10_channel_logo.png",DLTV10 อนุบาลศึกษาปีที่ 1
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dltv.ac.th/upload/data/channels/10_channel_logo.png" tvg-name="DLTV10 อนุบาลศึกษาปีที่ 1"  group-title="Education",DLTV10 อนุบาลศึกษาปีที่ 1
 https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
-#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/11_channel_logo.png",DLTV11 อนุบาลศึกษาปีที่ 2
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dltv.ac.th/upload/data/channels/11_channel_logo.png" tvg-name="DLTV11 อนุบาลศึกษาปีที่ 2"  group-title="Education",DLTV11 อนุบาลศึกษาปีที่ 2
 https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
-#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/12_channel_logo.png",DLTV12 อนุบาลศึกษาปีที่ 3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dltv.ac.th/upload/data/channels/12_channel_logo.png" tvg-name="DLTV12 อนุบาลศึกษาปีที่ 3"  group-title="Education",DLTV12 อนุบาลศึกษาปีที่ 3
 https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
-#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/13_channel_logo.png",DLTV13 อาชีวศึกษา
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dltv.ac.th/upload/data/channels/13_channel_logo.png" tvg-name="DLTV13 อาชีวศึกษา"  group-title="Education",DLTV13 อาชีวศึกษา
 https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
-#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/14_channel_logo.png",DLTV14 อุดมศึกษา
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dltv.ac.th/upload/data/channels/14_channel_logo.png" tvg-name="DLTV14 อุดมศึกษา"  group-title="Education",DLTV14 อุดมศึกษา
 https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
-#EXTINF:-1 group-title="Education" tvg-logo="https://dltv.ac.th/upload/data/channels/15_channel_logo.png",DLTV15 ภาษาต่างประเทศ
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dltv.ac.th/upload/data/channels/15_channel_logo.png" tvg-name="DLTV15 ภาษาต่างประเทศ"  group-title="Education",DLTV15 ภาษาต่างประเทศ
 https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
-#EXTINF:-1 group-title="Education" tvg-logo="https://upload.wikimedia.org/wikipedia/th/3/35/ETV_Logo.jpg",ETV SD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/th/3/35/ETV_Logo.jpg" tvg-name="ETV SD"  group-title="Education",ETV SD
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
+
