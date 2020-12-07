@@ -10,7 +10,7 @@ https://edge6a.v2h-cdn.com/m2i3/NBT.stream_720p/playlist.m3u8
 https://edge6a.v2h-cdn.com/m2i1/TPBS.stream_720p/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/gFNABNU.png" tvg-name="ALTV HD"  group-title="Digital TV",ALTV HD
-https://iptvthai.my.to/vip/altv.m3u8
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/AZNQAo2.png" tvg-name="TNN16"  group-title="Digital TV",TNN16
 https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
@@ -22,10 +22,10 @@ https://edge6a.v2h-cdn.com/m2i1/NEW.stream_360p/playlist.m3u8
 http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/uQqgpkp.png" tvg-name="WORKPOINT"  group-title="Digital TV",WORKPOINT
-https://dootvthai-hd.com/cmd/api/TH/WORKPOINTTV/playlist.m3u8
+https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/n2354RI.png" tvg-name="TRUE4U"  group-title="Digital TV",TRUE4U
-https://dootvthai-hd.com/cmd/api/TH/TH4U/playlist.m3u8
+https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/B0Kq8XM.png" tvg-name="GMM 25"  group-title="Digital TV",GMM 25
 http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
@@ -43,7 +43,7 @@ https://edge6a.v2h-cdn.com/m2i3/McotHD.stream_720p/playlist.m3u8
 https://edge6a.v2h-cdn.com/m2i1/OneHD.stream_720p/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/U53exlH.png" tvg-name="THAIRATH TV"  group-title="Digital TV",THAIRATH TV
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/y03ZBhX.png" tvg-name="CH3 HD"  group-title="Digital TV",CH3 HD
 https://edge6a.v2h-cdn.com/m2i1/3HD.stream_720p/playlist.m3u8
@@ -76,25 +76,25 @@ https://github.com/fotvnetwork/iptv-free/blob/02a806046339baa154c89d47717c232d59
 https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/BgU7dBW.png" tvg-name="HBO"  group-title="Movies",HBO
-http://iptvthai.my.to/hbo-th/HBO.m3u8
+https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/HBO.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ore5hRX.png" tvg-name="HBO Family"  group-title="Movies",HBO Family
-http://iptvthai.my.to/hbo-th/FAMILY.m3u8
+https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/FAMILY.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/O2RMd87.png" tvg-name="HBO Hits"  group-title="Movies",HBO Hits
-http://iptvthai.my.to/hbo-th/HITS.m3u8
+https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/HITS.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/i89AzSA.png" tvg-name="HBO Signature"  group-title="Movies",HBO Signature
-http://iptvthai.my.to/hbo-th/SIG.m3u8
+https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/SIG.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ly1iRDY.png" tvg-name="Red by HBO"  group-title="Movies",Red by HBO
-http://iptvthai.my.to/hbo-th/RED.m3u8
+https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/RED.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/2MEgcPP.png" tvg-name="Cinemax"  group-title="Movies",Cinemax
-http://iptvthai.my.to/hbo-th/MAX.m3u8
+https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/MAX.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/2xdfssX.png" tvg-name="Asian Food Network"  group-title="Variety",Asian Food Network
-http://dootvthai-hd.com/cmd/true/asian-food-channel/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/2xdfssX.png" tvg-name="Asian Food Network"  group-title="Variety",Asian Food Channel
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/IsYQIkr.png" tvg-name="KBS World HD"  group-title="Variety",KBS World HD
 http://dootvthai-hd.com/cmd/api/true/KBS-WORLD-HD/playlist.m3u8
