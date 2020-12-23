@@ -13,7 +13,7 @@ https://edge6a.v2h-cdn.com/m2i1/TPBS.stream_720p/playlist.m3u8
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/AZNQAo2.png" tvg-name="TNN16"  group-title="Digital TV",TNN16
-https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/4EpcrrT.png" tvg-name="NEW TV 18"  group-title="Digital TV",NEW TV 18
 https://edge6a.v2h-cdn.com/m2i1/NEW.stream_360p/playlist.m3u8
@@ -22,19 +22,19 @@ https://edge6a.v2h-cdn.com/m2i1/NEW.stream_360p/playlist.m3u8
 http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/uQqgpkp.png" tvg-name="WORKPOINT"  group-title="Digital TV",WORKPOINT
-https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
+https://github.com/exodiver/IPTV/raw/master/M3U8/Token/WPTV.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/n2354RI.png" tvg-name="TRUE4U"  group-title="Digital TV",TRUE4U
-https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
+http://183.182.100.184/live/true4u/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/B0Kq8XM.png" tvg-name="GMM 25"  group-title="Digital TV",GMM 25
 http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/4B5gX1p.png" tvg-name="CH8"  group-title="Digital TV",CH8
-https://cdn6.goprimetime.info/feed/ch8/index.m3u8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/DiNMwO3.png" tvg-name="MONO 29"  group-title="Digital TV",MONO 29
-https://edge6a.v2h-cdn.com/m2i1/Mono.stream_720p/playlist.m3u8
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/eY6ic8F.png" tvg-name="MCOT HD"  group-title="Digital TV",MCOT HD
 https://edge6a.v2h-cdn.com/m2i3/McotHD.stream_720p/playlist.m3u8
@@ -58,13 +58,26 @@ https://edge6a.v2h-cdn.com/m2i1/7HD.stream_720p/playlist.m3u8
 https://edge6a.v2h-cdn.com/m2i1/PPTV.stream_720p/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_1.png" tvg-name="Boomerang"  group-title="Kids",Boomerang
-https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
+https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_360p/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/jxrgC7j.png" tvg-name="TRUE SPARK JUMP"  group-title="Kids",TRUE SPARK JUMP
 http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png" tvg-name="Nick JR"  group-title="Kids",Nick JR
 http://160.119.77.116:8081/iptv/uk-nickjr.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids"tvg-logo="https://i.imgur.com/PzNRbK9.png",DISNEY CHANNEL
+https://doofootball.livestream-cdn.com/iptv/uk-disney.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Kids"tvg-logo="https://i.imgur.com/jXqpvy0.png",DISNEY XD
+http://160.119.77.116:8081/iptv/hd-disneyxd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids"tvg-logo="https://i.imgur.com/b2SoZUz.png",Disney JUNIOR En
+https://doofootball.livestream-cdn.com/iptv/uk-nickjr.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Kids"tvg-logo="https://i.imgur.com/umtQjvY.png",EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
 
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/iPQFqKC.png" tvg-name="Discovery Asia"  group-title="Documentary",Discovery Asia
@@ -87,7 +100,13 @@ https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/RED.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/2MEgcPP.png" tvg-name="Cinemax"  group-title="Movies",Cinemax
 https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/MAX.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlgjgnPY03shWihuug-FmM8oDjGiLV8Y0KA&usqp=CAU" group-title="Movies",Star Chinese Movies
+http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8'
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_hoBCq-H3UUoBID12pRiAF0Zf_VDIJsGuQ&usqp=CAU" group-title="Movies",&FlixHd
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU"group-title="Movies" ,&PriveHd
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/2xdfssX.png" tvg-name="Asian Food Network"  group-title="Variety",Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvtv-official-logo.png"  group-title="Variety",MVTV
