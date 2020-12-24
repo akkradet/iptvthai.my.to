@@ -121,31 +121,7 @@ https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/SIG.m3u8|Referer=ht
 https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/RED.m3u8|Referer=https://liveorigin01.hbogoasia.com
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/2MEgcPP.png" tvg-name="Cinemax"  group-title="Movies",Cinemax
-https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/MAX.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png"  group-title="Movies",HBO HDเลือกภาษาได้
-https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8|Referer=https://liveorigin01.hbogoasia.com
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrKqL3z0SkACJKkdMdAmdMsMDT3euDmu7mA&usqp=CAU"  group-title="Movies",REDมีพากย์ไทย
-https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8|Referer=https://liveorigin01.hbogoasia.com
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png"  group-title="Movies",HBO signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo-family.png"  group-title="Movies",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8|Referer=https://liveorigin01.hbogoasia.com
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png"  group-title="Movies",HBO HITS
-https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8|Referer=https://liveorigin01.hbogoasia.com
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png"  group-title="Movies",CINEMAX
-https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png  group-title="Movies"AXN HD
-http://160.119.77.116:8081/iptv/hd-axn.stream/playlist.m3u8
-
+https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/MAX.m3u8|Referer=https://liveorigin01.hbogoasia.com
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlgjgnPY03shWihuug-FmM8oDjGiLV8Y0KA&usqp=CAU" group-title="Movies",Star Chinese Movies
 http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8'
@@ -154,7 +130,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU" group-title="Movies" ,&PriveHd
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2Ff2e16412-98be-40a4-8690-74fd2ba059fc.png&w=320&h=240" group-title="Movies" ,BLUE ANT EXTREME
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
