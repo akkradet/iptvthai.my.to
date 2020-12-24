@@ -42,8 +42,8 @@ https://edge6a.v2h-cdn.com/m2i3/McotHD.stream_720p/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/2iIhC8r.png" tvg-name="One HD"  group-title="Digital TV",One HD
 https://edge6a.v2h-cdn.com/m2i1/OneHD.stream_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/U53exlH.png" tvg-name="THAIRATH TV"  group-title="Digital TV",THAIRATH TV
-https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
+#EXTINF:-1, tvg-logo="https://i.imgur.com/q0oIZ8G.png" tvg-name="THAIRATH TV"  group-title="Digital TV",THAIRATH TV
+https://edge6a.v2h-cdn.com/m2i4/ThairathHD.stream_720p/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/y03ZBhX.png" tvg-name="CH3 HD"  group-title="Digital TV",CH3 HD
 https://edge6a.v2h-cdn.com/m2i1/3HD.stream_720p/playlist.m3u8
