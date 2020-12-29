@@ -4,16 +4,16 @@
     <display-name lang="en">CH5 HD</display-name>
     <url>http://www.aisplay.ais.co.th</url>
   </channel>
-  <channel id="NBT 2 HD">
-    <display-name lang="en">NBT 2 HD</display-name>
+  <channel id="NBT HD">
+    <display-name lang="en">NBT HD</display-name>
     <url>http://www.aisplay.ais.co.th</url>
   </channel>
-  <channel id="TPBS">
-    <display-name lang="en">TPBS</display-name>
+  <channel id="Thai PBS">
+    <display-name lang="en">Thai PBS</display-name>
     <url>http://www.aisplay.ais.co.th</url>
   </channel>
-  <channel id="ALTV">
-    <display-name lang="en">ALTV</display-name>
+  <channel id="ALTV HD">
+    <display-name lang="en">ALTV HD</display-name>
     <url>http://www.aisplay.ais.co.th</url>
   </channel>
   <channel id="Parliament">
@@ -660,382 +660,382 @@
     <title lang="en">ซีอีโอ ซี้ปึ๊ก</title>
     <desc lang="en">สอบถามข้อมูลเพิ่มเติม 0-2615-2213.(n)</desc>
   </programme>
-  <programme start="20201229000000 +0700" stop="20201229040000 +0700" channel="NBT 2 HD">
+  <programme start="20201229000000 +0700" stop="20201229040000 +0700" channel="NBT HD">
     <title lang="en">ปิดสถานี</title>
     <desc lang="en">ปิดสถานี.(n)</desc>
   </programme>
-  <programme start="20201229040000 +0700" stop="20201229050000 +0700" channel="NBT 2 HD">
+  <programme start="20201229040000 +0700" stop="20201229050000 +0700" channel="NBT HD">
     <title lang="en">ธรรมรส ธรรมรัฐ</title>
     <desc lang="en">รายการธรรมมะ.(n)</desc>
   </programme>
-  <programme start="20201229050000 +0700" stop="20201229063000 +0700" channel="NBT 2 HD">
+  <programme start="20201229050000 +0700" stop="20201229063000 +0700" channel="NBT HD">
     <title lang="en">ข่าวเช้า NBT</title>
     <desc lang="en">ข่าว เหตุการณ์ประจำวัน.(n)</desc>
   </programme>
-  <programme start="20201229063000 +0700" stop="20201229083000 +0700" channel="NBT 2 HD">
+  <programme start="20201229063000 +0700" stop="20201229083000 +0700" channel="NBT HD">
     <title lang="en">คุยถึงแก่น</title>
     <desc lang="en">สนทนา.(n)</desc>
   </programme>
-  <programme start="20201229083000 +0700" stop="20201229090000 +0700" channel="NBT 2 HD">
+  <programme start="20201229083000 +0700" stop="20201229090000 +0700" channel="NBT HD">
     <title lang="en">Gen Why</title>
     <desc lang="en">ประชาชนทั่วไป.(n)</desc>
   </programme>
-  <programme start="20201229090000 +0700" stop="20201229100000 +0700" channel="NBT 2 HD">
+  <programme start="20201229090000 +0700" stop="20201229100000 +0700" channel="NBT HD">
     <title lang="en">มองรัฐสภา</title>
     <desc lang="en">ประชาสัมพันธ์นโยบายรัฐบาล.(n)</desc>
   </programme>
-  <programme start="20201229100000 +0700" stop="20201229113000 +0700" channel="NBT 2 HD">
+  <programme start="20201229100000 +0700" stop="20201229113000 +0700" channel="NBT HD">
     <title lang="en">NBT รวมใจคนไทยไม่ทิ้งกัน</title>
     <desc lang="en">ช่วยเหลือสังคม.(n)</desc>
   </programme>
-  <programme start="20201229113000 +0700" stop="20201229130000 +0700" channel="NBT 2 HD">
+  <programme start="20201229113000 +0700" stop="20201229130000 +0700" channel="NBT HD">
     <title lang="en">ข่าวเที่ยง NBT</title>
     <desc lang="en">ข่าว เหตุการณ์ประจำวัน.(n)</desc>
   </programme>
-  <programme start="20201229130000 +0700" stop="20201229133000 +0700" channel="NBT 2 HD">
+  <programme start="20201229130000 +0700" stop="20201229133000 +0700" channel="NBT HD">
     <title lang="en">เมืองไทยดี๊ ดี</title>
     <desc lang="en">ประชาชนทั่วไป.(n)</desc>
   </programme>
-  <programme start="20201229133000 +0700" stop="20201229140000 +0700" channel="NBT 2 HD">
+  <programme start="20201229133000 +0700" stop="20201229140000 +0700" channel="NBT HD">
     <title lang="en">เช็คอินถิ่นเหนือ</title>
     <desc lang="en">ประชาชนทั่วไป.(n)</desc>
   </programme>
-  <programme start="20201229140000 +0700" stop="20201229150000 +0700" channel="NBT 2 HD">
+  <programme start="20201229140000 +0700" stop="20201229150000 +0700" channel="NBT HD">
     <title lang="en">NBT รวมใจ คนไทยไม่ทิ้งกัน</title>
     <desc lang="en">ประชาชนทั่วไป.(n)</desc>
   </programme>
-  <programme start="20201229150000 +0700" stop="20201229153000 +0700" channel="NBT 2 HD">
+  <programme start="20201229150000 +0700" stop="20201229153000 +0700" channel="NBT HD">
     <title lang="en">รอบภูมิภาค</title>
     <desc lang="en">ประชาชนทั่วไป.(n)</desc>
   </programme>
-  <programme start="20201229153000 +0700" stop="20201229160000 +0700" channel="NBT 2 HD">
+  <programme start="20201229153000 +0700" stop="20201229160000 +0700" channel="NBT HD">
     <title lang="en">เคลียร์ คัด ชัดเจน</title>
     <desc lang="en">ประชาชนทั่วไป.(n)</desc>
   </programme>
-  <programme start="20201229160000 +0700" stop="20201229170000 +0700" channel="NBT 2 HD">
+  <programme start="20201229160000 +0700" stop="20201229170000 +0700" channel="NBT HD">
     <title lang="en">สารคดี NBT DOCUMENTARY</title>
     <desc lang="en">ประชาชนทั่วไป.(n)</desc>
   </programme>
-  <programme start="20201229170000 +0700" stop="20201229203000 +0700" channel="NBT 2 HD">
+  <programme start="20201229170000 +0700" stop="20201229203000 +0700" channel="NBT HD">
     <title lang="en">ข่าวค่ำ NBT</title>
     <desc lang="en">ข่าว เหตุการณ์ประจำวัน.(n)</desc>
   </programme>
-  <programme start="20201229203000 +0700" stop="20201229210000 +0700" channel="NBT 2 HD">
+  <programme start="20201229203000 +0700" stop="20201229210000 +0700" channel="NBT HD">
     <title lang="en">เรื่องดังหลังข่าว</title>
     <desc lang="en">รายการสนทนาข่าว.(n)</desc>
   </programme>
-  <programme start="20201229210000 +0700" stop="20201229220000 +0700" channel="NBT 2 HD">
+  <programme start="20201229210000 +0700" stop="20201229220000 +0700" channel="NBT HD">
     <title lang="en">ฟังชัดๆถนอมจัดให้</title>
     <desc lang="en">ข่าวเกี่ยวกับนโยบายรัฐบาล.(n)</desc>
   </programme>
-  <programme start="20201229220000 +0700" stop="20201229230000 +0700" channel="NBT 2 HD">
+  <programme start="20201229220000 +0700" stop="20201229230000 +0700" channel="NBT HD">
     <title lang="en">ข่าวดึก NBT</title>
     <desc lang="en">ข่าว เหตุการณ์ประจำวัน.(n)</desc>
   </programme>
-  <programme start="20201229230000 +0700" stop="20201229233000 +0700" channel="NBT 2 HD">
+  <programme start="20201229230000 +0700" stop="20201229233000 +0700" channel="NBT HD">
     <title lang="en">เมืองไทยดี๊ ดี</title>
     <desc lang="en">ประชาชนทั่วไป.(n)</desc>
   </programme>
-  <programme start="20201229233000 +0700" stop="20201230000000 +0700" channel="NBT 2 HD">
+  <programme start="20201229233000 +0700" stop="20201230000000 +0700" channel="NBT HD">
     <title lang="en">Newsline</title>
     <desc lang="en">ข่าว เหตุการณ์ประจำวัน.(n)</desc>
   </programme>
-  <programme start="20201229000000 +0700" stop="20201229003000 +0700" channel="TPBS">
+  <programme start="20201229000000 +0700" stop="20201229003000 +0700" channel="Thai PBS">
     <title lang="en">Foodwork</title>
     <desc lang="en">สอนทำอาหารอย่างง่าย ๆ ผู้ชมสามารถเรียนรู้ไปได้พร้อม ๆ กันกับแขกรับเชิญ.(n)</desc>
   </programme>
-  <programme start="20201229003000 +0700" stop="20201229010000 +0700" channel="TPBS">
+  <programme start="20201229003000 +0700" stop="20201229010000 +0700" channel="Thai PBS">
     <title lang="en">ดูให้รู้</title>
     <desc lang="en">เจาะลึกถึงวัฒนธรรม ระบบการศึกษา ระบบการออกแบบวางแผนจราจร และอื่น ๆ ในญี่ปุ่น.(n)</desc>
   </programme>
-  <programme start="20201229010000 +0700" stop="20201229043000 +0700" channel="TPBS">
+  <programme start="20201229010000 +0700" stop="20201229043000 +0700" channel="Thai PBS">
     <title lang="en">ปิดสถานี</title>
     <desc lang="en">ปิดสถานี.(n)</desc>
   </programme>
-  <programme start="20201229043000 +0700" stop="20201229050000 +0700" channel="TPBS">
+  <programme start="20201229043000 +0700" stop="20201229050000 +0700" channel="Thai PBS">
     <title lang="en">สารพันลั่นทุ่ง (บางเขน)</title>
     <desc lang="en">นำเสนอเพลงไทยในแต่ละยุคที่ผ่านมา ให้ผู้ชมเห็นภาพสะท้อนของสังคมในแต่ละช่วงสมัย.(n)</desc>
   </programme>
-  <programme start="20201229050000 +0700" stop="20201229080000 +0700" channel="TPBS">
+  <programme start="20201229050000 +0700" stop="20201229080000 +0700" channel="Thai PBS">
     <title lang="en">วันใหม่ ไทยพีบีเอส</title>
     <desc lang="en">เปิดมุมมองข่าว อย่างรู้เท่าทัน รวมถึงมองไปข้างหน้ากับทิศทางข่าว ที่จะเกิดขึ้น.(n)</desc>
   </programme>
-  <programme start="20201229080000 +0700" stop="20201229100000 +0700" channel="TPBS">
+  <programme start="20201229080000 +0700" stop="20201229100000 +0700" channel="Thai PBS">
     <title lang="en">วันใหม่วาไรตี้</title>
     <desc lang="en">วันใหม่วาไรตี้ คุยข่าวแบบสบาย ๆ ตามติดประเด็นสังคม คุณภาพชีวิตของประชาชน.(n)</desc>
   </programme>
-  <programme start="20201229100000 +0700" stop="20201229103000 +0700" channel="TPBS">
+  <programme start="20201229100000 +0700" stop="20201229103000 +0700" channel="Thai PBS">
     <title lang="en">ไทยบันเทิง</title>
     <desc lang="en">เกาะกระแสข่าวในแวดวงศิลปวัฒนธรรมบันเทิงทั้งในประเทศและต่างประเทศสืบสานวัฒนธรรมสร้างสรรค์บันเทิง.(n)</desc>
   </programme>
-  <programme start="20201229103000 +0700" stop="20201229130000 +0700" channel="TPBS">
+  <programme start="20201229103000 +0700" stop="20201229130000 +0700" channel="Thai PBS">
     <title lang="en">จับตาสถานการณ์</title>
     <desc lang="en">รายงานข่าวตามสถานการณ์.(n)</desc>
   </programme>
-  <programme start="20201229130000 +0700" stop="20201229133000 +0700" channel="TPBS">
+  <programme start="20201229130000 +0700" stop="20201229133000 +0700" channel="Thai PBS">
     <title lang="en">บ่ายโมงตรงประเด็น</title>
     <desc lang="en">ข่าวและสถานการณ์ในการขับเคลื่อนประเด็นทางสังคม.(n)</desc>
   </programme>
-  <programme start="20201229133000 +0700" stop="20201229140000 +0700" channel="TPBS">
+  <programme start="20201229133000 +0700" stop="20201229140000 +0700" channel="Thai PBS">
     <title lang="en">ก(ล)างเมือง</title>
     <desc lang="en">เพื่อเป็นพื้นที่แสดงออกทางความคิดของภาคประชาชน.(n)</desc>
   </programme>
-  <programme start="20201229140000 +0700" stop="20201229140500 +0700" channel="TPBS">
+  <programme start="20201229140000 +0700" stop="20201229140500 +0700" channel="Thai PBS">
     <title lang="en">ทันข่าว 14.00 น.</title>
     <desc lang="en">รายงานข่าวตามสถานการณ์ต้นชั่วโมง.(n)</desc>
   </programme>
-  <programme start="20201229140500 +0700" stop="20201229150000 +0700" channel="TPBS">
+  <programme start="20201229140500 +0700" stop="20201229150000 +0700" channel="Thai PBS">
     <title lang="en">สถานีประชาชน</title>
     <desc lang="en">เป็นสื่อกลางเพื่อนำเสนอปัญหาและหาทางออกของปัญหา เป็นที่พึ่งของประชาชนที่หาทางออกให้คุณได้.(n)</desc>
   </programme>
-  <programme start="20201229150000 +0700" stop="20201229150500 +0700" channel="TPBS">
+  <programme start="20201229150000 +0700" stop="20201229150500 +0700" channel="Thai PBS">
     <title lang="en">ทันข่าว 15.00 น.</title>
     <desc lang="en">รายงานข่าวตามสถานการณ์ต้นชั่วโมง.(n)</desc>
   </programme>
-  <programme start="20201229150500 +0700" stop="20201229153000 +0700" channel="TPBS">
+  <programme start="20201229150500 +0700" stop="20201229153000 +0700" channel="Thai PBS">
     <title lang="en">คนสู้โรค</title>
     <desc lang="en">ให้ข้อมูลทางการแพทย์ การดูแลรักษาสุขภาพ การป้องกันและการรักษาโรค.(n)</desc>
   </programme>
-  <programme start="20201229153000 +0700" stop="20201229160000 +0700" channel="TPBS">
+  <programme start="20201229153000 +0700" stop="20201229160000 +0700" channel="Thai PBS">
     <title lang="en">ทุกทิศทั่วไทย</title>
     <desc lang="en">วาไรตี้ข่าวภูมิภาคบอกเล่าเรื่องราวที่เกิดขึ้นในทุกพื้นที่ของประเทศไทย.(n)</desc>
   </programme>
-  <programme start="20201229160000 +0700" stop="20201229163000 +0700" channel="TPBS">
+  <programme start="20201229160000 +0700" stop="20201229163000 +0700" channel="Thai PBS">
     <title lang="en">ทันข่าว 16.00 น.</title>
     <desc lang="en">รายงานข่าวตามสถานการณ์ต้นชั่วโมง.(n)</desc>
   </programme>
-  <programme start="20201229163000 +0700" stop="20201229170000 +0700" channel="TPBS">
+  <programme start="20201229163000 +0700" stop="20201229170000 +0700" channel="Thai PBS">
     <title lang="en">คิดสนุก</title>
     <desc lang="en">ส่งเสริมทักษะชีวิตและวิทยาการความรู้ต่าง ๆ สำหรับเด็ก.(n)</desc>
   </programme>
-  <programme start="20201229170000 +0700" stop="20201229172500 +0700" channel="TPBS">
+  <programme start="20201229170000 +0700" stop="20201229172500 +0700" channel="Thai PBS">
     <title lang="en">การ์ตูน พีเจ มาสก์...ฮีโร่รัตติกาล</title>
     <desc lang="en">ส่งเสริมทักษะชีวิตและวิทยาการความรู้ต่าง ๆ สำหรับเด็ก.(n)</desc>
   </programme>
-  <programme start="20201229172500 +0700" stop="20201229173000 +0700" channel="TPBS">
+  <programme start="20201229172500 +0700" stop="20201229173000 +0700" channel="Thai PBS">
     <title lang="en">ข.ขยับ</title>
     <desc lang="en">ส่งเสริมคุณภาพและสร้างแรงบันดาลใจในการดูแลสุขภาพ.(n)</desc>
   </programme>
-  <programme start="20201229173000 +0700" stop="20201229180000 +0700" channel="TPBS">
+  <programme start="20201229173000 +0700" stop="20201229180000 +0700" channel="Thai PBS">
     <title lang="en">ติมอร์เลสเต จากฝันร้ายสู่ชีวิตใหม่</title>
     <desc lang="en">ติมอร์เลสเต จากฝันร้ายสู่ชีวิตใหม่.(n)</desc>
   </programme>
-  <programme start="20201229180000 +0700" stop="20201229185000 +0700" channel="TPBS">
+  <programme start="20201229180000 +0700" stop="20201229185000 +0700" channel="Thai PBS">
     <title lang="en">ท่องโลกกว้าง</title>
     <desc lang="en">เพื่อให้ความรู้และสร้างความตระหนักในคุณค่า ของความแตกต่างหลากหลาย.(n)</desc>
   </programme>
-  <programme start="20201229185000 +0700" stop="20201229203000 +0700" channel="TPBS">
+  <programme start="20201229185000 +0700" stop="20201229203000 +0700" channel="Thai PBS">
     <title lang="en">ข่าวค่ำ มิติใหม่ ทั่วไทย</title>
     <desc lang="en">ข่าวสาร สำคัญของประเทศ ให้ประชาชนรับรู้.(n)</desc>
   </programme>
-  <programme start="20201229203000 +0700" stop="20201229211500 +0700" channel="TPBS">
+  <programme start="20201229203000 +0700" stop="20201229211500 +0700" channel="Thai PBS">
     <title lang="en">ตอบโจทย์</title>
     <desc lang="en">สนทนาแลกเปลี่ยนความคิดเห็นกับบุคคลในแวดวงต่างๆ เพื่อ ตอบโจทย์ คำถามและข้อสงสัยที่เป็นประเด็นร้อน.(n)</desc>
   </programme>
-  <programme start="20201229211500 +0700" stop="20201229220000 +0700" channel="TPBS">
+  <programme start="20201229211500 +0700" stop="20201229220000 +0700" channel="Thai PBS">
     <title lang="en">ชีวิตจริงยิ่งกว่าละคร</title>
     <desc lang="en">ส่งเสริมคุณภาพชีวิตและเรียนรู้ประสบการณ์จากชีวิตจริงของบุคคลในสังคม.(n)</desc>
   </programme>
-  <programme start="20201229220000 +0700" stop="20201229224500 +0700" channel="TPBS">
+  <programme start="20201229220000 +0700" stop="20201229224500 +0700" channel="Thai PBS">
     <title lang="en">ที่นี่ Thai PBS</title>
     <desc lang="en">รายการข่าวเจาะลึก ตรงประเด็น อธิบายเบื้องหน้าเบื้องหลังข่าว.(n)</desc>
   </programme>
-  <programme start="20201229224500 +0700" stop="20201229234500 +0700" channel="TPBS">
+  <programme start="20201229224500 +0700" stop="20201229234500 +0700" channel="Thai PBS">
     <title lang="en">โลกหลากมิติ</title>
     <desc lang="en">เพื่อให้ความรู้และสร้างความตระหนักในคุณค่า ของความแตกต่างหลากหลาย.(n)</desc>
   </programme>
-  <programme start="20201229234500 +0700" stop="20201230000000 +0700" channel="TPBS">
+  <programme start="20201229234500 +0700" stop="20201230000000 +0700" channel="Thai PBS">
     <title lang="en">ข่าวดึก</title>
     <desc lang="en">สรุปข่าวรอบวัน.(n)</desc>
   </programme>
-  <programme start="20201229000000 +0700" stop="20201229060000 +0700" channel="ALTV">
+  <programme start="20201229000000 +0700" stop="20201229060000 +0700" channel="ALTV HD">
     <title lang="en">See all</title>
   </programme>
-  <programme start="20201229060000 +0700" stop="20201229060500 +0700" channel="ALTV">
+  <programme start="20201229060000 +0700" stop="20201229060500 +0700" channel="ALTV HD">
     <title lang="en">PEPPA PIG (Rerun)</title>
     <desc lang="en">PEPPA PIG (Rerun).(n)</desc>
   </programme>
-  <programme start="20201229060500 +0700" stop="20201229061500 +0700" channel="ALTV">
+  <programme start="20201229060500 +0700" stop="20201229061500 +0700" channel="ALTV HD">
     <title lang="en">เด็กจอมพลัง</title>
     <desc lang="en">เด็กจอมพลัง.(n)</desc>
   </programme>
-  <programme start="20201229061500 +0700" stop="20201229062000 +0700" channel="ALTV">
+  <programme start="20201229061500 +0700" stop="20201229062000 +0700" channel="ALTV HD">
     <title lang="en">คิดคลับส์</title>
     <desc lang="en">คิดคลับส์.(n)</desc>
   </programme>
-  <programme start="20201229062000 +0700" stop="20201229063000 +0700" channel="ALTV">
+  <programme start="20201229062000 +0700" stop="20201229063000 +0700" channel="ALTV HD">
     <title lang="en">นิทานตื่นนอน</title>
     <desc lang="en">นิทานตื่นนอน.(n)</desc>
   </programme>
-  <programme start="20201229063000 +0700" stop="20201229064000 +0700" channel="ALTV">
+  <programme start="20201229063000 +0700" stop="20201229064000 +0700" channel="ALTV HD">
     <title lang="en">SHIMAJIRO (Rer8n)</title>
     <desc lang="en">SHIMAJIRO (Rer8n).(n)</desc>
   </programme>
-  <programme start="20201229064000 +0700" stop="20201229064500 +0700" channel="ALTV">
+  <programme start="20201229064000 +0700" stop="20201229064500 +0700" channel="ALTV HD">
     <title lang="en">คิดคลับส์</title>
     <desc lang="en">คิดคลับส์.(n)</desc>
   </programme>
-  <programme start="20201229064500 +0700" stop="20201229065500 +0700" channel="ALTV">
+  <programme start="20201229064500 +0700" stop="20201229065500 +0700" channel="ALTV HD">
     <title lang="en">ฉงน ฉงาย สองควายช่างสงสัย (Rerun)</title>
     <desc lang="en">ฉงน ฉงาย สองควายช่างสงสัย (Rerun).(n)</desc>
   </programme>
-  <programme start="20201229065500 +0700" stop="20201229070500 +0700" channel="ALTV">
+  <programme start="20201229065500 +0700" stop="20201229070500 +0700" channel="ALTV HD">
     <title lang="en">คิดคลับส์</title>
     <desc lang="en">คิดคลับส์.(n)</desc>
   </programme>
-  <programme start="20201229070500 +0700" stop="20201229072000 +0700" channel="ALTV">
+  <programme start="20201229070500 +0700" stop="20201229072000 +0700" channel="ALTV HD">
     <title lang="en">ชวนคิด กับนักวิทย์น้อย</title>
     <desc lang="en">ชวนคิด กับนักวิทย์น้อย.(n)</desc>
   </programme>
-  <programme start="20201229072000 +0700" stop="20201229073000 +0700" channel="ALTV">
+  <programme start="20201229072000 +0700" stop="20201229073000 +0700" channel="ALTV HD">
     <title lang="en">การ์ตูน Space Racer (Rerun)</title>
     <desc lang="en">การ์ตูน Space Racer (Rerun).(n)</desc>
   </programme>
-  <programme start="20201229073000 +0700" stop="20201229074000 +0700" channel="ALTV">
+  <programme start="20201229073000 +0700" stop="20201229074000 +0700" channel="ALTV HD">
     <title lang="en">Have A Newsday</title>
     <desc lang="en">Have A Newsday.(n)</desc>
   </programme>
-  <programme start="20201229074000 +0700" stop="20201229080000 +0700" channel="ALTV">
+  <programme start="20201229074000 +0700" stop="20201229080000 +0700" channel="ALTV HD">
     <title lang="en">สารคดีคลับ</title>
     <desc lang="en">สารคดีคลับ.(n)</desc>
   </programme>
-  <programme start="20201229080000 +0700" stop="20201229080200 +0700" channel="ALTV">
+  <programme start="20201229080000 +0700" stop="20201229080200 +0700" channel="ALTV HD">
     <title lang="en">เคารพธงชาติ</title>
     <desc lang="en">เคารพธงชาติ.(n)</desc>
   </programme>
-  <programme start="20201229080200 +0700" stop="20201229091000 +0700" channel="ALTV">
+  <programme start="20201229080200 +0700" stop="20201229091000 +0700" channel="ALTV HD">
     <title lang="en">สารคดีคลับ</title>
     <desc lang="en">สารคดีคลับ.(n)</desc>
   </programme>
-  <programme start="20201229091000 +0700" stop="20201229093000 +0700" channel="ALTV">
+  <programme start="20201229091000 +0700" stop="20201229093000 +0700" channel="ALTV HD">
     <title lang="en">ครูพุ่มพวง (Rerun)</title>
     <desc lang="en">ครูพุ่มพวง (Rerun).(n)</desc>
   </programme>
-  <programme start="20201229093000 +0700" stop="20201229100000 +0700" channel="ALTV">
+  <programme start="20201229093000 +0700" stop="20201229100000 +0700" channel="ALTV HD">
     <title lang="en">Why Room? ห้องพิเศษใส่ไข่ (Rerun)</title>
     <desc lang="en">Why Room? ห้องพิเศษใส่ไข่ (Rerun).(n)</desc>
   </programme>
-  <programme start="20201229100000 +0700" stop="20201229103000 +0700" channel="ALTV">
+  <programme start="20201229100000 +0700" stop="20201229103000 +0700" channel="ALTV HD">
     <title lang="en">The Camp ค่ายหรรษา (Rerun)</title>
     <desc lang="en">The Camp ค่ายหรรษา (Rerun).(n)</desc>
   </programme>
-  <programme start="20201229103000 +0700" stop="20201229110000 +0700" channel="ALTV">
+  <programme start="20201229103000 +0700" stop="20201229110000 +0700" channel="ALTV HD">
     <title lang="en">มหัสจรรย์โลกกว้าง (Amazing World)</title>
     <desc lang="en">มหัสจรรย์โลกกว้าง (Amazing World).(n)</desc>
   </programme>
-  <programme start="20201229110000 +0700" stop="20201229113000 +0700" channel="ALTV">
+  <programme start="20201229110000 +0700" stop="20201229113000 +0700" channel="ALTV HD">
     <title lang="en">PLAY LEARN เพลินดี (Rerun)</title>
     <desc lang="en">PLAY LEARN เพลินดี (Rerun).(n)</desc>
   </programme>
-  <programme start="20201229113000 +0700" stop="20201229115800 +0700" channel="ALTV">
+  <programme start="20201229113000 +0700" stop="20201229115800 +0700" channel="ALTV HD">
     <title lang="en">กลางเมือง (Rerun)</title>
     <desc lang="en">กลางเมือง (Rerun).(n)</desc>
   </programme>
-  <programme start="20201229115800 +0700" stop="20201229120000 +0700" channel="ALTV">
+  <programme start="20201229115800 +0700" stop="20201229120000 +0700" channel="ALTV HD">
     <title lang="en">คลิป ดูให้รู้</title>
     <desc lang="en">คลิป ดูให้รู้.(n)</desc>
   </programme>
-  <programme start="20201229120000 +0700" stop="20201229121000 +0700" channel="ALTV">
+  <programme start="20201229120000 +0700" stop="20201229121000 +0700" channel="ALTV HD">
     <title lang="en">Have A Newsday</title>
     <desc lang="en">Have A Newsday.(n)</desc>
   </programme>
-  <programme start="20201229121000 +0700" stop="20201229124000 +0700" channel="ALTV">
+  <programme start="20201229121000 +0700" stop="20201229124000 +0700" channel="ALTV HD">
     <title lang="en">Innovative Wisdom</title>
     <desc lang="en">Innovative Wisdom.(n)</desc>
   </programme>
-  <programme start="20201229124000 +0700" stop="20201229125500 +0700" channel="ALTV">
+  <programme start="20201229124000 +0700" stop="20201229125500 +0700" channel="ALTV HD">
     <title lang="en">สนุก สะกด (Rerun)</title>
     <desc lang="en">สนุก สะกด (Rerun).(n)</desc>
   </programme>
-  <programme start="20201229125500 +0700" stop="20201229131500 +0700" channel="ALTV">
+  <programme start="20201229125500 +0700" stop="20201229131500 +0700" channel="ALTV HD">
     <title lang="en">เกมท้าภาษาไทย (Rerun)</title>
     <desc lang="en">เกมท้าภาษาไทย (Rerun).(n)</desc>
   </programme>
-  <programme start="20201229131500 +0700" stop="20201229134000 +0700" channel="ALTV">
+  <programme start="20201229131500 +0700" stop="20201229134000 +0700" channel="ALTV HD">
     <title lang="en">สนุกเรียน (Rerun)</title>
     <desc lang="en">สนุกเรียน (Rerun).(n)</desc>
   </programme>
-  <programme start="20201229134000 +0700" stop="20201229141000 +0700" channel="ALTV">
+  <programme start="20201229134000 +0700" stop="20201229141000 +0700" channel="ALTV HD">
     <title lang="en">ละครเด็ก You&amp;Me เพื่อนซี้ปาฏิหาริย์ S.2</title>
     <desc lang="en">ละครเด็ก You&amp;Me เพื่อนซี้ปาฏิหาริย์ S.2.(n)</desc>
   </programme>
-  <programme start="20201229141000 +0700" stop="20201229141500 +0700" channel="ALTV">
+  <programme start="20201229141000 +0700" stop="20201229141500 +0700" channel="ALTV HD">
     <title lang="en">คลิป สวัสดีชาวโซเซียล 35 คลิป / ความรู้รอบตัว</title>
     <desc lang="en">คลิป สวัสดีชาวโซเซียล 35 คลิป / ความรู้รอบตัว.(n)</desc>
   </programme>
-  <programme start="20201229141500 +0700" stop="20201229150500 +0700" channel="ALTV">
+  <programme start="20201229141500 +0700" stop="20201229150500 +0700" channel="ALTV HD">
     <title lang="en">ละครฝันให้สุด</title>
     <desc lang="en">ละครฝันให้สุด.(n)</desc>
   </programme>
-  <programme start="20201229150500 +0700" stop="20201229153500 +0700" channel="ALTV">
+  <programme start="20201229150500 +0700" stop="20201229153500 +0700" channel="ALTV HD">
     <title lang="en">ห้องเรียน On Air</title>
     <desc lang="en">ห้องเรียน On Air.(n)</desc>
   </programme>
-  <programme start="20201229153500 +0700" stop="20201229154000 +0700" channel="ALTV">
+  <programme start="20201229153500 +0700" stop="20201229154000 +0700" channel="ALTV HD">
     <title lang="en">คลิป Chris Job</title>
     <desc lang="en">คลิป Chris Job.(n)</desc>
   </programme>
-  <programme start="20201229154000 +0700" stop="20201229160500 +0700" channel="ALTV">
+  <programme start="20201229154000 +0700" stop="20201229160500 +0700" channel="ALTV HD">
     <title lang="en">โต้คลื่นอนาคต</title>
     <desc lang="en">โต้คลื่นอนาคต.(n)</desc>
   </programme>
-  <programme start="20201229160500 +0700" stop="20201229162500 +0700" channel="ALTV">
+  <programme start="20201229160500 +0700" stop="20201229162500 +0700" channel="ALTV HD">
     <title lang="en">ไม่ตายหรอกเธอ</title>
     <desc lang="en">ไม่ตายหรอกเธอ.(n)</desc>
   </programme>
-  <programme start="20201229162500 +0700" stop="20201229165500 +0700" channel="ALTV">
+  <programme start="20201229162500 +0700" stop="20201229165500 +0700" channel="ALTV HD">
     <title lang="en">ห้องเรียน On Air</title>
     <desc lang="en">ห้องเรียน On Air.(n)</desc>
   </programme>
-  <programme start="20201229165500 +0700" stop="20201229171700 +0700" channel="ALTV">
+  <programme start="20201229165500 +0700" stop="20201229171700 +0700" channel="ALTV HD">
     <title lang="en">Nature Spy สายลับธรรมชาติ</title>
     <desc lang="en">Nature Spy สายลับธรรมชาติ.(n)</desc>
   </programme>
-  <programme start="20201229171700 +0700" stop="20201229172000 +0700" channel="ALTV">
+  <programme start="20201229171700 +0700" stop="20201229172000 +0700" channel="ALTV HD">
     <title lang="en">คลิป So เชี่ยว</title>
     <desc lang="en">คลิป So เชี่ยว.(n)</desc>
   </programme>
-  <programme start="20201229172000 +0700" stop="20201229174000 +0700" channel="ALTV">
+  <programme start="20201229172000 +0700" stop="20201229174000 +0700" channel="ALTV HD">
     <title lang="en">ครูพุ่มพวง</title>
     <desc lang="en">ครูพุ่มพวง.(n)</desc>
   </programme>
-  <programme start="20201229174000 +0700" stop="20201229180000 +0700" channel="ALTV">
+  <programme start="20201229174000 +0700" stop="20201229180000 +0700" channel="ALTV HD">
     <title lang="en">Have A Newsday</title>
     <desc lang="en">Have A Newsday.(n)</desc>
   </programme>
-  <programme start="20201229180000 +0700" stop="20201229180200 +0700" channel="ALTV">
+  <programme start="20201229180000 +0700" stop="20201229180200 +0700" channel="ALTV HD">
     <title lang="en">เคารพธงชาติ</title>
     <desc lang="en">เคารพธงชาติ.(n)</desc>
   </programme>
-  <programme start="20201229180200 +0700" stop="20201229181500 +0700" channel="ALTV">
+  <programme start="20201229180200 +0700" stop="20201229181500 +0700" channel="ALTV HD">
     <title lang="en">ชวนคิด กับนักวิทย์น้อย</title>
     <desc lang="en">ชวนคิด กับนักวิทย์น้อย.(n)</desc>
   </programme>
-  <programme start="20201229181500 +0700" stop="20201229183500 +0700" channel="ALTV">
+  <programme start="20201229181500 +0700" stop="20201229183500 +0700" channel="ALTV HD">
     <title lang="en">คิดวิทย์</title>
     <desc lang="en">คิดวิทย์.(n)</desc>
   </programme>
-  <programme start="20201229183500 +0700" stop="20201229190000 +0700" channel="ALTV">
+  <programme start="20201229183500 +0700" stop="20201229190000 +0700" channel="ALTV HD">
     <title lang="en">สนุกเรียน</title>
     <desc lang="en">สนุกเรียน.(n)</desc>
   </programme>
-  <programme start="20201229190000 +0700" stop="20201229190500 +0700" channel="ALTV">
+  <programme start="20201229190000 +0700" stop="20201229190500 +0700" channel="ALTV HD">
     <title lang="en">คลิป The Active</title>
     <desc lang="en">คลิป The Active.(n)</desc>
   </programme>
-  <programme start="20201229190500 +0700" stop="20201229200000 +0700" channel="ALTV">
+  <programme start="20201229190500 +0700" stop="20201229200000 +0700" channel="ALTV HD">
     <title lang="en">กล้าคิด</title>
     <desc lang="en">กล้าคิด.(n)</desc>
   </programme>
-  <programme start="20201229200000 +0700" stop="20201229203000 +0700" channel="ALTV">
+  <programme start="20201229200000 +0700" stop="20201229203000 +0700" channel="ALTV HD">
     <title lang="en">Have A Newsday</title>
     <desc lang="en">Have A Newsday.(n)</desc>
   </programme>
-  <programme start="20201229203000 +0700" stop="20201229210000 +0700" channel="ALTV">
+  <programme start="20201229203000 +0700" stop="20201229210000 +0700" channel="ALTV HD">
     <title lang="en">ข่าวในพระราชสำนัก</title>
     <desc lang="en">ข่าวในพระราชสำนัก.(n)</desc>
   </programme>
-  <programme start="20201229210000 +0700" stop="20201230060000 +0700" channel="ALTV">
+  <programme start="20201229210000 +0700" stop="20201230060000 +0700" channel="ALTV HD">
     <title lang="en">ปิดสถานี</title>
     <desc lang="en">ปิดสถานี.(n)</desc>
   </programme>
@@ -2155,6 +2155,106 @@
   </programme>
   <programme start="20201229225900 +0700" stop="20201230000000 +0700" channel="3 HD">
     <title lang="en">แชนเนลทรี..คุณย่าย้อนวัย หัวใจวัยทีน /ของฝาก..</title>
+  </programme>
+  <programme start="20201229000000 +0700" stop="20201229004000 +0700" channel="CH7 HD">
+    <title lang="en">GUESS MY AGE รู้หน้า ไม่รู้วัย (Rerun)</title>
+    <desc lang="en">เกมโชว์รูปแบบใหม่ที่ง่ายที่สุดในประเทศไทย แค่เห็นหน้าแล้วทายว่าอายุเท่าไหร่เพื่อชิงเงินรางวัล.(n)</desc>
+  </programme>
+  <programme start="20201229004000 +0700" stop="20201229014000 +0700" channel="CH7 HD">
+    <title lang="en">ปิ่นไพร (Rerun)</title>
+    <desc lang="en">เมื่อความใกล้ชิดทำให้เขาเผลอใจ การพิสูจน์ตัวเองจึงดำเนินไปพร้อมกับความรักสามเส้าที่ยากจะลงตัว.(n)</desc>
+  </programme>
+  <programme start="20201229014000 +0700" stop="20201229024000 +0700" channel="CH7 HD">
+    <title lang="en">ข่าวดึก 7HD</title>
+    <desc lang="en">รวมรายงานข่าวสำคัญของวัน พร้อมมุมมองข่าวในวันรุ่งขึ้น.(n)</desc>
+  </programme>
+  <programme start="20201229024000 +0700" stop="20201229034000 +0700" channel="CH7 HD">
+    <title lang="en">กล้าลองกล้าลุย</title>
+    <desc lang="en">รายการที่จะพาคุณไปพิสูจน์ความท้าทายแบบเจาะลึกในทุกอาชีพ.(n)</desc>
+  </programme>
+  <programme start="20201229034000 +0700" stop="20201229043000 +0700" channel="CH7 HD">
+    <title lang="en">ห้องข่าววาไรตี้</title>
+    <desc lang="en">ประมวลข่าวสำคัญ และคอลัมน์เด่นจากรายการข่าวต่างๆ เพื่อคนนอนดึก ตื่นเช้า.(n)</desc>
+  </programme>
+  <programme start="20201229043000 +0700" stop="20201229060000 +0700" channel="CH7 HD">
+    <title lang="en">เช้า - ข่าว 7 สี</title>
+    <desc lang="en">อรุณสวัสดิ์ยามเช้าด้วยรายงานข่าวและความเคลื่อนไหวเหตุการณ์ต่างๆ.(n)</desc>
+  </programme>
+  <programme start="20201229060000 +0700" stop="20201229073000 +0700" channel="CH7 HD">
+    <title lang="en">เช้านี้...ที่หมอชิต</title>
+    <desc lang="en">วาไรตี้ข่าว และเหตุการณ์ปัจจุบันโดย สวิตต์ ศรีสุภางค์ และเหมือนฝัน.(n)</desc>
+  </programme>
+  <programme start="20201229073000 +0700" stop="20201229093000 +0700" channel="CH7 HD">
+    <title lang="en">สนามข่าว 7 สี</title>
+    <desc lang="en">รายงานข่าวของคนข่าวภาคสนาม พร้อมติดตามทุกเรื่องที่น่าสนใจ ในทุกพื้นที่ ด้วยทีมข่าวที่มากประสบการณ์.(n)</desc>
+  </programme>
+  <programme start="20201229093000 +0700" stop="20201229111500 +0700" channel="CH7 HD">
+    <title lang="en">วันนี้ที่รอคอย (Rerun)</title>
+    <desc lang="en">เรื่องราวของเจ้าชายน่านปิงนรเทพ ยอมเสียราชบัลลังก์เพื่อที่กลับมาอีกครั้งอย่างสมศักดิ์ศรี.(n)</desc>
+  </programme>
+  <programme start="20201229111500 +0700" stop="20201229112000 +0700" channel="CH7 HD">
+    <title lang="en">สารคดีเฉลิมพระเกียรติ ชุด จดหมายเหตุพระราชพิธีบรมร</title>
+    <desc lang="en">สารคดีเฉลิมพระเกียรติ ชุด จดหมายเหตุพระราชพิธีบรมร.(n)</desc>
+  </programme>
+  <programme start="20201229112000 +0700" stop="20201229130000 +0700" channel="CH7 HD">
+    <title lang="en">ห้องข่าวภาคเที่ยง</title>
+    <desc lang="en">เกาะติดข่าว ทันเหตุการณ์ ทั้งในประเทศ และต่างประเทศ.(n)</desc>
+  </programme>
+  <programme start="20201229130000 +0700" stop="20201229134300 +0700" channel="CH7 HD">
+    <title lang="en">ดวลเพลงดัง</title>
+    <desc lang="en">รายการที่เปิดรับสมัครให้ผู้ชมทางบ้านสมัครแข่งขันร้องเพลง ไม่ว่าจะเป็นเพลงเด็ด เพลงดัง ขอแค่เป็นเพลงท.(n)</desc>
+  </programme>
+  <programme start="20201229134300 +0700" stop="20201229134500 +0700" channel="CH7 HD">
+    <title lang="en">ข่าวเด็ด 7 สี</title>
+    <desc lang="en">เกาะติดข่าว ทันเหตุการณ์ ทั้งในและต่างประเทศ.(n)</desc>
+  </programme>
+  <programme start="20201229134500 +0700" stop="20201229154500 +0700" channel="CH7 HD">
+    <title lang="en">ผู้บ่าวอินดี้ ยาหยีอินเตอร์ (Rerun)</title>
+    <desc lang="en">เมื่อคู่ปรับต่างที่ไม่มีใครยอมใคร ต้องกลายมาเป็นคู่รักกำมะลอ เรื่องราววุ่นๆ จึงเกิดขึ้น.(n)</desc>
+  </programme>
+  <programme start="20201229154500 +0700" stop="20201229170000 +0700" channel="CH7 HD">
+    <title lang="en">เจาะประเด็นข่าวค่ำ</title>
+    <desc lang="en">เจาะทุกประเด็นข่าวร้อน และเหตุการณ์ที่น่าสนใจตลอดทั้งวัน ทั้งในประเทศ และต่างประเทศ.(n)</desc>
+  </programme>
+  <programme start="20201229170000 +0700" stop="20201229171500 +0700" channel="CH7 HD">
+    <title lang="en">7 สีช่วยชาวบ้าน</title>
+    <desc lang="en">รายการข่าวที่นำเสนอเรื่องราวของชาวบ้านที่เดือดร้อน.(n)</desc>
+  </programme>
+  <programme start="20201229171500 +0700" stop="20201229175900 +0700" channel="CH7 HD">
+    <title lang="en">ปลดหนี้ พลิกชีวิต</title>
+    <desc lang="en">รายการเกมโชว์ที่จะมาช่วยผู้เข้าแข่งขันร่วมปลดหนี้ พร้อมให้ทุนไปประกอบอาชีพใหม่ที่อยากทำ.(n)</desc>
+  </programme>
+  <programme start="20201229175900 +0700" stop="20201229180000 +0700" channel="CH7 HD">
+    <title lang="en">ไอเดีย เกษตร</title>
+    <desc lang="en">สารคดีสั้นนำเสนอแนวคิด หรือวิธีการทำเกษตรของคนรุ่น.(n)</desc>
+  </programme>
+  <programme start="20201229180000 +0700" stop="20201229190000 +0700" channel="CH7 HD">
+    <title lang="en">เกมแจกเงิน The Money Drop ไทยแลนด์</title>
+    <desc lang="en">รายการเกมโชว์ระดับโลก ที่มาพร้อม 7 คำถามใกล้ตัว เงินรางวัลที่จะได้ ขึ้นอยู่กับการตัดสินใจของคุณ.(n)</desc>
+  </programme>
+  <programme start="20201229190000 +0700" stop="20201229200000 +0700" channel="CH7 HD">
+    <title lang="en">ปิ่นไพร</title>
+    <desc lang="en">เมื่อความใกล้ชิดทำให้เขาเผลอใจ การพิสูจน์ตัวเองจึงดำเนินไปพร้อมกับความรักสามเส้าที่ยากจะลงตัว.(n)</desc>
+  </programme>
+  <programme start="20201229200000 +0700" stop="20201229202500 +0700" channel="CH7 HD">
+    <title lang="en">ข่าวภาคค่ำ</title>
+    <desc lang="en">รวมประเด็นข่าวที่น่าสนใจตลอดทั้งวัน ทั้งในประเทศ และต่างประเทศ.(n)</desc>
+  </programme>
+  <programme start="20201229202500 +0700" stop="20201229203000 +0700" channel="CH7 HD">
+    <title lang="en">เส้นทางบันเทิง</title>
+    <desc lang="en">รายงานข่าวเด็ดในวงการบันเทิง และเบื้องหลังละครดัง.(n)</desc>
+  </programme>
+  <programme start="20201229203000 +0700" stop="20201229223000 +0700" channel="CH7 HD">
+    <title lang="en">รหัสริษยา</title>
+    <desc lang="en">การทวงคืนและแก้แค้นของทายาทสาวมหาเศรษฐี ที่ต้องสูญเสียทุกอย่างให้กับคนใกล้ตัว.(n)</desc>
+  </programme>
+  <programme start="20201229223000 +0700" stop="20201229231000 +0700" channel="CH7 HD">
+    <title lang="en">ประเด็นเด็ด 7 สี</title>
+    <desc lang="en">เจาะลึกประเด็นร้อนรอบวัน พร้อมสรุปข่าวร้อนที่น่าสนใจทั่วไทยและทั่วโลก ครบรส หลายหลาย และครอบคลุม.(n)</desc>
+  </programme>
+  <programme start="20201229231000 +0700" stop="20201230000000 +0700" channel="CH7 HD">
+    <title lang="en">เชฟกระทะเหล็ก ประเทศไทย (IRON CHEF THAILAND) (Reru</title>
+    <desc lang="en">รายการเกมโชว์แข่งขันประชันฝีมือทางด้านอาหารรูปแบบใหม่ ที่คัดสรรวัตถุดิบที่น่าสนใจจากเชฟระดับยอดฝีมือ.(n)</desc>
   </programme>
   <programme start="20201229000000 +0700" stop="20201229002000 +0700" channel="PPTV HD">
     <title lang="en">True Shopping</title>

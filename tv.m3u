@@ -5,13 +5,13 @@ http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/D1jo1L4.png" tvg-name="NBT HD"  group-title="Digital TV",NBT HD
 https://edge6a.v2h-cdn.com/m2i3/NBT.stream_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/UcVCd3I.png" tvg-name="TPBS"  group-title="Digital TV",Thai PBS
+#EXTINF:-1, tvg-logo="https://i.imgur.com/UcVCd3I.png" tvg-name="Thai PBS"  group-title="Digital TV",Thai PBS
 https://edge6a.v2h-cdn.com/m2i1/TPBS.stream_720p/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/gFNABNU.png" tvg-name="ALTV HD"  group-title="Digital TV",ALTV HD
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/AZNQAo2.png" tvg-name="TNN24"  group-title="Digital TV",TNN16
+#EXTINF:-1, tvg-logo="https://i.imgur.com/AZNQAo2.png" tvg-name="TNN16"  group-title="Digital TV",TNN16
 https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/4EpcrrT.png" tvg-name="NEW TV 18"  group-title="Digital TV",NEW TV 18
@@ -47,7 +47,7 @@ https://edge6a.v2h-cdn.com/m2i4/ThairathHD.stream_720p/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/y03ZBhX.png" tvg-name="CH3 HD"  group-title="Digital TV",CH3 HD
 https://edge6a.v2h-cdn.com/m2i1/3HD.stream_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/8dpAG47.png" tvg-name="AMARIN TV"  group-title="Digital TV",AMARIN TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/8dpAG47.png" tvg-name="AmarinTV HD"  group-title="Digital TV",AmarinTV HD
 https://edge6a.v2h-cdn.com/m2i1/AmarinHD.stream_720p/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/8d6KzSh.png" tvg-name="CH7 HD"  group-title="Digital TV",CH7 HD
