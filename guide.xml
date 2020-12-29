@@ -36,8 +36,8 @@
     <display-name lang="en">Workpoint TV</display-name>
     <url>http://www.aisplay.ais.co.th</url>
   </channel>
-  <channel id="True 4 U">
-    <display-name lang="en">True 4 U</display-name>
+  <channel id="TRUE4U">
+    <display-name lang="en">TRUE4U</display-name>
     <url>http://www.aisplay.ais.co.th</url>
   </channel>
   <channel id="GMM25">
@@ -48,8 +48,8 @@
     <display-name lang="en">CH 8</display-name>
     <url>http://www.aisplay.ais.co.th</url>
   </channel>
-  <channel id="MONO">
-    <display-name lang="en">MONO</display-name>
+  <channel id="MONO 29">
+    <display-name lang="en">MONO 29</display-name>
     <url>http://www.aisplay.ais.co.th</url>
   </channel>
   <channel id="MCOT HD">
@@ -64,8 +64,8 @@
     <display-name lang="en">Thairath TV HD</display-name>
     <url>http://www.aisplay.ais.co.th</url>
   </channel>
-  <channel id="3 HD">
-    <display-name lang="en">3 HD</display-name>
+  <channel id="CH3 HD">
+    <display-name lang="en">CH3 HD</display-name>
     <url>http://www.aisplay.ais.co.th</url>
   </channel>
   <channel id="AmarinTV HD">
@@ -1553,126 +1553,126 @@
     <title lang="en">ลูกทุ่งไมค์ทองคำ</title>
     <desc lang="en">รายการเพลงลูกทุ่ง.(n)</desc>
   </programme>
-  <programme start="20201229000000 +0700" stop="20201229003000 +0700" channel="True 4 U">
+  <programme start="20201229000000 +0700" stop="20201229003000 +0700" channel="TRUE4U">
     <title lang="en">ทรูช้อปปิ้ง</title>
     <desc lang="en">พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ.(n)</desc>
   </programme>
-  <programme start="20201229003000 +0700" stop="20201229010000 +0700" channel="True 4 U">
+  <programme start="20201229003000 +0700" stop="20201229010000 +0700" channel="TRUE4U">
     <title lang="en">ทรูช้อปปิ้ง</title>
     <desc lang="en">พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ.(n)</desc>
   </programme>
-  <programme start="20201229010000 +0700" stop="20201229013000 +0700" channel="True 4 U">
+  <programme start="20201229010000 +0700" stop="20201229013000 +0700" channel="TRUE4U">
     <title lang="en">ทรูช้อปปิ้ง</title>
     <desc lang="en">พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ.(n)</desc>
   </programme>
-  <programme start="20201229013000 +0700" stop="20201229020000 +0700" channel="True 4 U">
+  <programme start="20201229013000 +0700" stop="20201229020000 +0700" channel="TRUE4U">
     <title lang="en">ทรูช้อปปิ้ง</title>
     <desc lang="en">พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ.(n)</desc>
   </programme>
-  <programme start="20201229020000 +0700" stop="20201229030000 +0700" channel="True 4 U">
+  <programme start="20201229020000 +0700" stop="20201229030000 +0700" channel="TRUE4U">
     <title lang="en">TNN ประเด็นใหญ่</title>
     <desc lang="en">คุยข่าวใหญ่ ขยายข่าวดัง กับ เคนโด้ เกรียงไกรมาศ และ เก๋ กมลพรวรกุล.(n)</desc>
   </programme>
-  <programme start="20201229030000 +0700" stop="20201229033000 +0700" channel="True 4 U">
+  <programme start="20201229030000 +0700" stop="20201229033000 +0700" channel="TRUE4U">
     <title lang="en">ทรูช้อปปิ้ง</title>
     <desc lang="en">พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ.(n)</desc>
   </programme>
-  <programme start="20201229033000 +0700" stop="20201229040000 +0700" channel="True 4 U">
+  <programme start="20201229033000 +0700" stop="20201229040000 +0700" channel="TRUE4U">
     <title lang="en">ทรูช้อปปิ้ง</title>
     <desc lang="en">พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ.(n)</desc>
   </programme>
-  <programme start="20201229040000 +0700" stop="20201229043000 +0700" channel="True 4 U">
+  <programme start="20201229040000 +0700" stop="20201229043000 +0700" channel="TRUE4U">
     <title lang="en">ทรูช้อปปิ้ง</title>
     <desc lang="en">พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ.(n)</desc>
   </programme>
-  <programme start="20201229043000 +0700" stop="20201229050000 +0700" channel="True 4 U">
+  <programme start="20201229043000 +0700" stop="20201229050000 +0700" channel="TRUE4U">
     <title lang="en">เชฟข้างถนน</title>
     <desc lang="en">รายการที่จะพาไปสัมผัสลิ้มรสอาหารริมทางแสนอร่อยและเหล่านักปรุงอาหารมือฉมังผู้ล้วนสร้างแรงบัลดาลใจให้ก.(n)</desc>
   </programme>
-  <programme start="20201229050000 +0700" stop="20201229053000 +0700" channel="True 4 U">
+  <programme start="20201229050000 +0700" stop="20201229053000 +0700" channel="TRUE4U">
     <title lang="en">I am ฉัน(จะ)เป็น</title>
     <desc lang="en">รายการแนะแนวอาชีพและการศึกษาสำหรับนักเรียนวัยมัธยมโดยถ่ายทอดผ่านมุมมองของผู้ประสบความสำเร็จในสาขาวิช.(n)</desc>
   </programme>
-  <programme start="20201229053000 +0700" stop="20201229060000 +0700" channel="True 4 U">
+  <programme start="20201229053000 +0700" stop="20201229060000 +0700" channel="TRUE4U">
     <title lang="en">TNN ข่าวรุ่งเช้า</title>
     <desc lang="en">ทันโลก ทันเศรษฐกิจ ทันทุกความจริง ทุกเหตุการณ์ไปกับรายการ TNN ข่าวรุ่งเช้า.(n)</desc>
   </programme>
-  <programme start="20201229060000 +0700" stop="20201229080000 +0700" channel="True 4 U">
+  <programme start="20201229060000 +0700" stop="20201229080000 +0700" channel="TRUE4U">
     <title lang="en">TNN ข่าวเช้า</title>
     <desc lang="en">ทันโลก ทันเศรษฐกิจ ทันทุกความจริง กับรายการ TNN ข่าวเช้า.(n)</desc>
   </programme>
-  <programme start="20201229080000 +0700" stop="20201229080100 +0700" channel="True 4 U">
+  <programme start="20201229080000 +0700" stop="20201229080100 +0700" channel="TRUE4U">
     <title lang="en">เพลงชาติไทย</title>
     <desc lang="en">เคารพธงชาติ.(n)</desc>
   </programme>
-  <programme start="20201229080100 +0700" stop="20201229083000 +0700" channel="True 4 U">
+  <programme start="20201229080100 +0700" stop="20201229083000 +0700" channel="TRUE4U">
     <title lang="en">True Insider</title>
     <desc lang="en">รายการนำเสนอโลกแห่งวงการบันเทิงทั้งเบื้องหน้าเบื้องหลังที่ผู้ชมอาจจะไม่เคยรู้มาก่อน.(n)</desc>
   </programme>
-  <programme start="20201229083000 +0700" stop="20201229090000 +0700" channel="True 4 U">
+  <programme start="20201229083000 +0700" stop="20201229090000 +0700" channel="TRUE4U">
     <title lang="en">Good Morning Inside</title>
     <desc lang="en">ต้อนรับเช้าวันใหม่ด้วยข่าวบันเทิงล่าสุดสดใหม่ก่อนใคร.(n)</desc>
   </programme>
-  <programme start="20201229090000 +0700" stop="20201229093000 +0700" channel="True 4 U">
+  <programme start="20201229090000 +0700" stop="20201229093000 +0700" channel="TRUE4U">
     <title lang="en">ทรูช้อปปิ้ง</title>
     <desc lang="en">พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ.(n)</desc>
   </programme>
-  <programme start="20201229093000 +0700" stop="20201229113000 +0700" channel="True 4 U">
+  <programme start="20201229093000 +0700" stop="20201229113000 +0700" channel="TRUE4U">
     <title lang="en">ภ.รูโรนิ เคนชิน เกียวโตทะเลเพลิง 2</title>
     <desc lang="en">ซามูไรหนุ่ม ฮิมูระ เคนชิน กับการกลับมาอีกครั้งพร้อมกับดาบคู่ใจของเขา เมื่อศัตรูตัวฉกาจอย่าง ชิชิโอ ม.(n)</desc>
   </programme>
-  <programme start="20201229113000 +0700" stop="20201229123000 +0700" channel="True 4 U">
+  <programme start="20201229113000 +0700" stop="20201229123000 +0700" channel="TRUE4U">
     <title lang="en">TNN ข่าวเที่ยง</title>
     <desc lang="en">ทันโลก ทันเศรษฐกิจ ทันทุกความจริง กับรายการ TNN ข่าวเที่ยง.(n)</desc>
   </programme>
-  <programme start="20201229123000 +0700" stop="20201229130000 +0700" channel="True 4 U">
+  <programme start="20201229123000 +0700" stop="20201229130000 +0700" channel="TRUE4U">
     <title lang="en">ทรูช้อปปิ้ง</title>
     <desc lang="en">พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ.(n)</desc>
   </programme>
-  <programme start="20201229130000 +0700" stop="20201229140000 +0700" channel="True 4 U">
+  <programme start="20201229130000 +0700" stop="20201229140000 +0700" channel="TRUE4U">
     <title lang="en">ทีวีแชมเปียน คิวามิ</title>
     <desc lang="en">รายการแข่งขันระดับตำนานจากประเทศญี่ปุ่นเพื่อเฟ้นหาสุดยอดแห่งการเป็นที่สุด.(n)</desc>
   </programme>
-  <programme start="20201229140000 +0700" stop="20201229143000 +0700" channel="True 4 U">
+  <programme start="20201229140000 +0700" stop="20201229143000 +0700" channel="TRUE4U">
     <title lang="en">ทรูช้อปปิ้ง</title>
     <desc lang="en">พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ.(n)</desc>
   </programme>
-  <programme start="20201229143000 +0700" stop="20201229153000 +0700" channel="True 4 U">
+  <programme start="20201229143000 +0700" stop="20201229153000 +0700" channel="TRUE4U">
     <title lang="en">สปอร์ต เวิลด์ คลาส</title>
     <desc lang="en">รายการนำเสนอช่วงสำคัญๆของกีฬาระดับโลกในรอบสัปดาห์ทุกการแข่งขันไม่ว่าจะเป็นศึกโตโยต้าไทยพรีเมียร์ลีก.(n)</desc>
   </programme>
-  <programme start="20201229153000 +0700" stop="20201229163000 +0700" channel="True 4 U">
+  <programme start="20201229153000 +0700" stop="20201229163000 +0700" channel="TRUE4U">
     <title lang="en">TNN ข่าวเย็น</title>
     <desc lang="en">ทันโลก ทันเศรษฐกิจ ทันทุกความจริง กับรายการ TNN ข่าวเย็น.(n)</desc>
   </programme>
-  <programme start="20201229163000 +0700" stop="20201229171500 +0700" channel="True 4 U">
+  <programme start="20201229163000 +0700" stop="20201229171500 +0700" channel="TRUE4U">
     <title lang="en">ข่าวติดปาก</title>
     <desc lang="en">วาไรตี้ข่าวนำเสนอบรรดาเรื่องราวที่กำลังอยู่ในกระแสและเป็นประเด็นร้อน -- ดำเนินรายการโดยทีมพิธีกรฝีปา.(n)</desc>
   </programme>
-  <programme start="20201229171500 +0700" stop="20201229173000 +0700" channel="True 4 U">
+  <programme start="20201229171500 +0700" stop="20201229173000 +0700" channel="TRUE4U">
     <title lang="en">ลุยกองข่าว</title>
     <desc lang="en">รายการข่าวสารล่าสุดทั้งสาระและบันเทิง -- ดำเนินราย.(n)</desc>
   </programme>
-  <programme start="20201229173000 +0700" stop="20201229180000 +0700" channel="True 4 U">
+  <programme start="20201229173000 +0700" stop="20201229180000 +0700" channel="TRUE4U">
     <title lang="en">Entertainment Day</title>
     <desc lang="en">รายการนำเสนอข่าวสารล่าสุดในวงการบันเทิงทุกเหตุการณ์และความเคลื่อนไหวไม่ว่าจะเป็นข่าวของดาราไทยในอดีต.(n)</desc>
   </programme>
-  <programme start="20201229180000 +0700" stop="20201229180100 +0700" channel="True 4 U">
+  <programme start="20201229180000 +0700" stop="20201229180100 +0700" channel="TRUE4U">
     <title lang="en">เพลงชาติไทย</title>
     <desc lang="en">เคารพธงชาติ.(n)</desc>
   </programme>
-  <programme start="20201229180100 +0700" stop="20201229200000 +0700" channel="True 4 U">
+  <programme start="20201229180100 +0700" stop="20201229200000 +0700" channel="TRUE4U">
     <title lang="en">Match Day</title>
     <desc lang="en">อัพเดทข่าวสารแบบเจาะลึกของวงการกีฬา.(n)</desc>
   </programme>
-  <programme start="20201229200000 +0700" stop="20201229203000 +0700" channel="True 4 U">
+  <programme start="20201229200000 +0700" stop="20201229203000 +0700" channel="TRUE4U">
     <title lang="en">ข่าวพระราชสำนัก</title>
     <desc lang="en">ข่าวในพระราชสำนัก.(n)</desc>
   </programme>
-  <programme start="20201229203000 +0700" stop="20201229234500 +0700" channel="True 4 U">
+  <programme start="20201229203000 +0700" stop="20201229234500 +0700" channel="TRUE4U">
     <title lang="en">ภ.ตำนานสมเด็จพระนเรศวรมหาราช</title>
   </programme>
-  <programme start="20201229234500 +0700" stop="20201230000000 +0700" channel="True 4 U">
+  <programme start="20201229234500 +0700" stop="20201230000000 +0700" channel="TRUE4U">
     <title lang="en">หัวใจนักสู้</title>
     <desc lang="en">รายการเปี่ยมแรงบันดาลใจที่นำเสนอเรื่องราวของบรรดาน.(n)</desc>
   </programme>
@@ -1952,6 +1952,207 @@
     <title lang="en">ซีรี่ส์ THE ROYAL GUARDIAN</title>
     <desc lang="en">นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ.(n)</desc>
   </programme>
+  <programme start="20201229000000 +0700" stop="20201229000500 +0700" channel="MCOT HD">
+    <title lang="en">ข่าวต้นชั่วโมง</title>
+  </programme>
+  <programme start="20201229000500 +0700" stop="20201229003000 +0700" channel="MCOT HD">
+    <title lang="en">MCOT Sports Weekly</title>
+  </programme>
+  <programme start="20201229003000 +0700" stop="20201229010000 +0700" channel="MCOT HD">
+    <title lang="en">แปลกแต่จริง</title>
+  </programme>
+  <programme start="20201229010000 +0700" stop="20201229030000 +0700" channel="MCOT HD">
+    <title lang="en">TVD SHOP</title>
+  </programme>
+  <programme start="20201229030000 +0700" stop="20201229033000 +0700" channel="MCOT HD">
+    <title lang="en">ชีวิตสัตว์มหัศจรรย์ The Wonderful Animals</title>
+  </programme>
+  <programme start="20201229033000 +0700" stop="20201229040000 +0700" channel="MCOT HD">
+    <title lang="en">ที่นี่แปซิฟิก</title>
+  </programme>
+  <programme start="20201229040000 +0700" stop="20201229043000 +0700" channel="MCOT HD">
+    <title lang="en">รู้ธรรมนำชีวิต</title>
+  </programme>
+  <programme start="20201229043000 +0700" stop="20201229050000 +0700" channel="MCOT HD">
+    <title lang="en">คำตอบชีวิต The Answer</title>
+  </programme>
+  <programme start="20201229050000 +0700" stop="20201229055000 +0700" channel="MCOT HD">
+    <title lang="en">TVD SHOP</title>
+  </programme>
+  <programme start="20201229055000 +0700" stop="20201229060000 +0700" channel="MCOT HD">
+    <title lang="en">Shop Mania</title>
+  </programme>
+  <programme start="20201229060000 +0700" stop="20201229062500 +0700" channel="MCOT HD">
+    <title lang="en">คนไทยหัวใจเกษตร</title>
+  </programme>
+  <programme start="20201229062500 +0700" stop="20201229063000 +0700" channel="MCOT HD">
+    <title lang="en">ต้นไม้ใบหญ้า</title>
+  </programme>
+  <programme start="20201229063000 +0700" stop="20201229075500 +0700" channel="MCOT HD">
+    <title lang="en">เช้าชวนคุย</title>
+  </programme>
+  <programme start="20201229075500 +0700" stop="20201229080000 +0700" channel="MCOT HD">
+    <title lang="en">เช็กอิน อินเทรนด์</title>
+  </programme>
+  <programme start="20201229080000 +0700" stop="20201229080100 +0700" channel="MCOT HD">
+    <title lang="en">เคารพธงชาติ 08.00 น.</title>
+  </programme>
+  <programme start="20201229080100 +0700" stop="20201229093000 +0700" channel="MCOT HD">
+    <title lang="en">เจาะลึกทั่วไทย Inside Thailand</title>
+  </programme>
+  <programme start="20201229093000 +0700" stop="20201229100000 +0700" channel="MCOT HD">
+    <title lang="en">นาทีลงทุน</title>
+  </programme>
+  <programme start="20201229100000 +0700" stop="20201229100500 +0700" channel="MCOT HD">
+    <title lang="en">ข่าวต้นชั่วโมง</title>
+  </programme>
+  <programme start="20201229100500 +0700" stop="20201229103000 +0700" channel="MCOT HD">
+    <title lang="en">Money Daily</title>
+  </programme>
+  <programme start="20201229103000 +0700" stop="20201229110000 +0700" channel="MCOT HD">
+    <title lang="en">ไทยสปิริต</title>
+  </programme>
+  <programme start="20201229110000 +0700" stop="20201229110500 +0700" channel="MCOT HD">
+    <title lang="en">ข่าวต้นชั่วโมง</title>
+  </programme>
+  <programme start="20201229110500 +0700" stop="20201229113000 +0700" channel="MCOT HD">
+    <title lang="en">ไนน์เอ็นเตอร์เทน</title>
+  </programme>
+  <programme start="20201229113000 +0700" stop="20201229123000 +0700" channel="MCOT HD">
+    <title lang="en">ข่าวเที่ยง</title>
+  </programme>
+  <programme start="20201229123000 +0700" stop="20201229130000 +0700" channel="MCOT HD">
+    <title lang="en">Her Day วันของเธอ</title>
+  </programme>
+  <programme start="20201229130000 +0700" stop="20201229133500 +0700" channel="MCOT HD">
+    <title lang="en">คัมภีร์วิถีรวย</title>
+  </programme>
+  <programme start="20201229133500 +0700" stop="20201229140000 +0700" channel="MCOT HD">
+    <title lang="en">ASIAN SERIES</title>
+    <desc lang="en">ภาพยนตร์จีน ชุด มือปราบสาวแห่งไคฟง.(n)</desc>
+  </programme>
+  <programme start="20201229140000 +0700" stop="20201229140500 +0700" channel="MCOT HD">
+    <title lang="en">ข่าวต้นชั่วโมง</title>
+  </programme>
+  <programme start="20201229140500 +0700" stop="20201229142000 +0700" channel="MCOT HD">
+    <title lang="en">ASIAN SERIES</title>
+    <desc lang="en">ภาพยนตร์จีน ชุด มือปราบสาวแห่งไคฟง.(n)</desc>
+  </programme>
+  <programme start="20201229142000 +0700" stop="20201229143000 +0700" channel="MCOT HD">
+    <title lang="en">อุ่นใจใกล้หมอ</title>
+  </programme>
+  <programme start="20201229143000 +0700" stop="20201229150000 +0700" channel="MCOT HD">
+    <title lang="en">ก๊วนกวนแซ่บ</title>
+  </programme>
+  <programme start="20201229150000 +0700" stop="20201229150500 +0700" channel="MCOT HD">
+    <title lang="en">ข่าวต้นชั่วโมง</title>
+  </programme>
+  <programme start="20201229150500 +0700" stop="20201229160000 +0700" channel="MCOT HD">
+    <title lang="en">คุยโขมง บ่าย 3 โมง</title>
+  </programme>
+  <programme start="20201229160000 +0700" stop="20201229164500 +0700" channel="MCOT HD">
+    <title lang="en">ตกมันส์บันเทิง</title>
+  </programme>
+  <programme start="20201229164500 +0700" stop="20201229180000 +0700" channel="MCOT HD">
+    <title lang="en">เรื่องพลบค่ำ</title>
+  </programme>
+  <programme start="20201229180000 +0700" stop="20201229180100 +0700" channel="MCOT HD">
+    <title lang="en">เคารพธงชาติ 18.00 น.</title>
+  </programme>
+  <programme start="20201229180100 +0700" stop="20201229190000 +0700" channel="MCOT HD">
+    <title lang="en">เปาบุ้นจิ้น</title>
+  </programme>
+  <programme start="20201229190000 +0700" stop="20201229205000 +0700" channel="MCOT HD">
+    <title lang="en">ข่าวค่ำ</title>
+  </programme>
+  <programme start="20201229205000 +0700" stop="20201229205500 +0700" channel="MCOT HD">
+    <title lang="en">พลังวิทย์ คิดเพื่อคนไทย</title>
+  </programme>
+  <programme start="20201229205500 +0700" stop="20201229210500 +0700" channel="MCOT HD">
+    <title lang="en">เรื่องง่าย ใกล้ตัว</title>
+  </programme>
+  <programme start="20201229210500 +0700" stop="20201229213000 +0700" channel="MCOT HD">
+    <title lang="en">ฟังหู ไว้หู</title>
+  </programme>
+  <programme start="20201229213000 +0700" stop="20201229215000 +0700" channel="MCOT HD">
+    <title lang="en">ไนน์เอ็นเตอร์เทน ไนท์ ไลฟ์</title>
+  </programme>
+  <programme start="20201229215000 +0700" stop="20201229223000 +0700" channel="MCOT HD">
+    <title lang="en">คับข่าว ครบประเด็น</title>
+  </programme>
+  <programme start="20201229223000 +0700" stop="20201229230000 +0700" channel="MCOT HD">
+    <title lang="en">World Today</title>
+  </programme>
+  <programme start="20201229230000 +0700" stop="20201229230500 +0700" channel="MCOT HD">
+    <title lang="en">ข่าวต้นชั่วโมง</title>
+  </programme>
+  <programme start="20201229230500 +0700" stop="20201229235000 +0700" channel="MCOT HD">
+    <title lang="en">PREMIUM SERIES</title>
+    <desc lang="en">ภาพยนตร์จีน ชุด แต่งงานไหม หากใจตรงกัน.(n)</desc>
+  </programme>
+  <programme start="20201229235000 +0700" stop="20201230000000 +0700" channel="MCOT HD">
+    <title lang="en">Shop Mania</title>
+  </programme>
+  <programme start="20201229000000 +0700" stop="20201229013000 +0700" channel="ONE 31 HD">
+    <title lang="en">ละครมาราธอน มงกุฎดอกหญ้า</title>
+    <desc lang="en">เรื่องราวของหญิงสาวนักสู้ ที่ลุกขึ้นมาทวงคืนความเป็นธรรมกลับมาให้ครอบครัว.(n)</desc>
+  </programme>
+  <programme start="20201229013000 +0700" stop="20201229022000 +0700" channel="ONE 31 HD">
+    <title lang="en">ข่าวเย็นช่องวัน</title>
+    <desc lang="en">เล่าเรื่องจริง ตรงไปตรงมา เข้าใจง่าย แง่มุมสร้างสรรค์ เพื่อสังคมน่าอยู่.(n)</desc>
+  </programme>
+  <programme start="20201229022000 +0700" stop="20201229030000 +0700" channel="ONE 31 HD">
+    <title lang="en">รักล้นๆคนเต็มบ้าน</title>
+    <desc lang="en">เรื่องราวคู่รักที่เพิ่งแต่งงานกันแค่ 7 วัน แล้วบ้านญาติฝ่ายหญิงที่สุพรรณบุรีเกิดไฟไหม้ จึงต้องย้ายมา.(n)</desc>
+  </programme>
+  <programme start="20201229030000 +0700" stop="20201229040000 +0700" channel="ONE 31 HD">
+    <title lang="en">วันนี้มีธรรม</title>
+    <desc lang="en">รับบุญ ฟังเทศน์ ฟังธรรม แต่เช้าตรู่ ร่วมคิดวิเคราะห์และนำคำสอนทางพระพุทธศาสนาไปใช้ในชีวิต.(n)</desc>
+  </programme>
+  <programme start="20201229040000 +0700" stop="20201229041000 +0700" channel="ONE 31 HD">
+    <title lang="en">O SHOPPING</title>
+    <desc lang="en">วาไรตี้แนะนำสินค้า.(n)</desc>
+  </programme>
+  <programme start="20201229041000 +0700" stop="20201229053000 +0700" channel="ONE 31 HD">
+    <title lang="en">ดวลเพลงชิงทุน</title>
+    <desc lang="en">ศึกสังเวียนแห่งการฟาดฟันเสียงร้อง เพื่อชิงทุนการศึกษา.(n)</desc>
+  </programme>
+  <programme start="20201229053000 +0700" stop="20201229060000 +0700" channel="ONE 31 HD">
+    <title lang="en">ข่าวเช้าตรู่ช่องวัน</title>
+    <desc lang="en">รับเช้าวันใหม่ เปิดประเด็น ทิศทางข่าว ให้คุณทันโลก เกาะติดทุกสถานการณ์ ในข่าวเช้าตรู่ช่องวัน.(n)</desc>
+  </programme>
+  <programme start="20201229060000 +0700" stop="20201229080000 +0700" channel="ONE 31 HD">
+    <title lang="en">ข่าวเช้าช่องวัน</title>
+    <desc lang="en">รับเช้าวันใหม่ เปิดประเด็น ทิศทางข่าว ให้คุณทันโลก เกาะติดทุกสถานการณ์.(n)</desc>
+  </programme>
+  <programme start="20201229080000 +0700" stop="20201229160000 +0700" channel="ONE 31 HD">
+    <title lang="en">ละครมาราธอน รักแลกภพ</title>
+    <desc lang="en">เมื่อเขาย้อนเวลากลับไปหาอดีตถึง 100 ปี เรื่องราวรักข้ามภพ ที่กาลเวลานำพาเขาและเธอมาเจอกันจึงเริ่มต้น.(n)</desc>
+  </programme>
+  <programme start="20201229160000 +0700" stop="20201229180000 +0700" channel="ONE 31 HD">
+    <title lang="en">ข่าวเย็นช่องวัน</title>
+    <desc lang="en">เล่าเรื่องจริง ตรงไปตรงมา เข้าใจง่าย แง่มุมสร้างสรรค์ เพื่อสังคมน่าอยู่.(n)</desc>
+  </programme>
+  <programme start="20201229180000 +0700" stop="20201229190000 +0700" channel="ONE 31 HD">
+    <title lang="en">ดวลเพลงชิงทุน</title>
+    <desc lang="en">ศึกสังเวียนแห่งการฟาดฟันเสียงร้อง เพื่อชิงทุนการศึกษา.(n)</desc>
+  </programme>
+  <programme start="20201229190000 +0700" stop="20201229195500 +0700" channel="ONE 31 HD">
+    <title lang="en">ละครมาราธอน มงกุฎดอกหญ้า</title>
+    <desc lang="en">เรื่องราวของหญิงสาวนักสู้ ที่ลุกขึ้นมาทวงคืนความเป็นธรรมกลับมาให้ครอบครัว.(n)</desc>
+  </programme>
+  <programme start="20201229195500 +0700" stop="20201229200000 +0700" channel="ONE 31 HD">
+    <title lang="en">ข่าวค่ำช่องวัน</title>
+    <desc lang="en">เล่าเรื่องจริง ตรงไปตรงมา เข้าใจง่าย แง่มุมสร้างสร.(n)</desc>
+  </programme>
+  <programme start="20201229200000 +0700" stop="20201229203000 +0700" channel="ONE 31 HD">
+    <title lang="en">ข่าว / ละครมาราธอน มงกุฎดอกหญ้า</title>
+    <desc lang="en">ข่าว / ละครมาราธอน มงกุฎดอกหญ้า.(n)</desc>
+  </programme>
+  <programme start="20201229203000 +0700" stop="20201230000000 +0700" channel="ONE 31 HD">
+    <title lang="en">ละครมาราธอน มงกุฎดอกหญ้า</title>
+    <desc lang="en">เรื่องราวของหญิงสาวนักสู้ ที่ลุกขึ้นมาทวงคืนความเป็นธรรมกลับมาให้ครอบครัว.(n)</desc>
+  </programme>
   <programme start="20201229000000 +0700" stop="20201229001500 +0700" channel="Thairath TV HD">
     <title lang="en">ไทยรัฐเจาะประเด็น</title>
   </programme>
@@ -2048,113 +2249,221 @@
   <programme start="20201229232500 +0700" stop="20201230000000 +0700" channel="Thairath TV HD">
     <title lang="en">ไทยรัฐเจาะประเด็น</title>
   </programme>
-  <programme start="20201229000000 +0700" stop="20201229002900 +0700" channel="3 HD">
+  <programme start="20201229000000 +0700" stop="20201229002900 +0700" channel="CH3 HD">
     <title lang="en">ทรี สปอร์ต แม็กกาซีน / ของฝากนักกอล์ฟ</title>
     <desc lang="en">Three Sport Magazine.(n)</desc>
   </programme>
-  <programme start="20201229002900 +0700" stop="20201229012400 +0700" channel="3 HD">
+  <programme start="20201229002900 +0700" stop="20201229012400 +0700" channel="CH3 HD">
     <title lang="en">ข่าววันใหม่</title>
   </programme>
-  <programme start="20201229012400 +0700" stop="20201229014800 +0700" channel="3 HD">
+  <programme start="20201229012400 +0700" stop="20201229014800 +0700" channel="CH3 HD">
     <title lang="en">ภ.จีน ลิ่วซ่านเหมิน สำนักพิทักษ์คุณธรรม</title>
   </programme>
-  <programme start="20201229014800 +0700" stop="20201229020800 +0700" channel="3 HD">
+  <programme start="20201229014800 +0700" stop="20201229020800 +0700" channel="CH3 HD">
     <title lang="en">รีวิวบันเทิง ทูไนท์</title>
   </programme>
-  <programme start="20201229020800 +0700" stop="20201229022800 +0700" channel="3 HD">
+  <programme start="20201229020800 +0700" stop="20201229022800 +0700" channel="CH3 HD">
     <title lang="en">B Times Business Moment By Bancha</title>
   </programme>
-  <programme start="20201229022800 +0700" stop="20201229032800 +0700" channel="3 HD">
+  <programme start="20201229022800 +0700" stop="20201229032800 +0700" channel="CH3 HD">
     <title lang="en">(AD/CC) สารคดี ประสบการณ์โลก</title>
   </programme>
-  <programme start="20201229032800 +0700" stop="20201229034300 +0700" channel="3 HD">
+  <programme start="20201229032800 +0700" stop="20201229034300 +0700" channel="CH3 HD">
     <title lang="en">Young @ Heart Show</title>
   </programme>
-  <programme start="20201229034300 +0700" stop="20201229042700 +0700" channel="3 HD">
+  <programme start="20201229034300 +0700" stop="20201229042700 +0700" channel="CH3 HD">
     <title lang="en">ภ.จีน ทีมแพทย์หัวใจทระนง</title>
     <desc lang="en">Big White Duel.(n)</desc>
   </programme>
-  <programme start="20201229042700 +0700" stop="20201229043000 +0700" channel="3 HD">
+  <programme start="20201229042700 +0700" stop="20201229043000 +0700" channel="CH3 HD">
     <title lang="en">(AD/CC) ตะวันส่องธรรม</title>
   </programme>
-  <programme start="20201229043000 +0700" stop="20201229053000 +0700" channel="3 HD">
+  <programme start="20201229043000 +0700" stop="20201229053000 +0700" channel="CH3 HD">
     <title lang="en">ตีข่าว</title>
   </programme>
-  <programme start="20201229053000 +0700" stop="20201229060000 +0700" channel="3 HD">
+  <programme start="20201229053000 +0700" stop="20201229060000 +0700" channel="CH3 HD">
     <title lang="en">เรื่องเล่าหน้าหนึ่ง</title>
   </programme>
-  <programme start="20201229060000 +0700" stop="20201229075500 +0700" channel="3 HD">
+  <programme start="20201229060000 +0700" stop="20201229075500 +0700" channel="CH3 HD">
     <title lang="en">เรื่องเล่าเช้านี้</title>
   </programme>
-  <programme start="20201229075500 +0700" stop="20201229080000 +0700" channel="3 HD">
+  <programme start="20201229075500 +0700" stop="20201229080000 +0700" channel="CH3 HD">
     <title lang="en">The List อัศจรรย์ความรู้ / ศัพท์สอนรวย</title>
   </programme>
-  <programme start="20201229080000 +0700" stop="20201229082000 +0700" channel="3 HD">
+  <programme start="20201229080000 +0700" stop="20201229082000 +0700" channel="CH3 HD">
     <title lang="en">ผู้หญิงยกกำลังเเจ๋ว</title>
   </programme>
-  <programme start="20201229082000 +0700" stop="20201229082500 +0700" channel="3 HD">
+  <programme start="20201229082000 +0700" stop="20201229082500 +0700" channel="CH3 HD">
     <title lang="en">อร่อยเลิศกับคุณหรีด</title>
   </programme>
-  <programme start="20201229082500 +0700" stop="20201229100500 +0700" channel="3 HD">
+  <programme start="20201229082500 +0700" stop="20201229100500 +0700" channel="CH3 HD">
     <title lang="en">ละครดังข้ามเวลา สามี</title>
   </programme>
-  <programme start="20201229100500 +0700" stop="20201229103000 +0700" channel="3 HD">
+  <programme start="20201229100500 +0700" stop="20201229103000 +0700" channel="CH3 HD">
     <title lang="en">ทีเด็ดลูกหนี้</title>
   </programme>
-  <programme start="20201229103000 +0700" stop="20201229105500 +0700" channel="3 HD">
+  <programme start="20201229103000 +0700" stop="20201229105500 +0700" channel="CH3 HD">
     <title lang="en">มาสเตอร์คีย์ เวทีแจ้งเกิด / แฟลช นิวส์</title>
     <desc lang="en">MASTER KEY.(n)</desc>
   </programme>
-  <programme start="20201229105500 +0700" stop="20201229112000 +0700" channel="3 HD">
+  <programme start="20201229105500 +0700" stop="20201229112000 +0700" channel="CH3 HD">
     <title lang="en">โกดัง มหาสนุก</title>
   </programme>
-  <programme start="20201229112000 +0700" stop="20201229123500 +0700" channel="3 HD">
+  <programme start="20201229112000 +0700" stop="20201229123500 +0700" channel="CH3 HD">
     <title lang="en">เที่ยงวันทันเหตุการณ์</title>
   </programme>
-  <programme start="20201229123500 +0700" stop="20201229131000 +0700" channel="3 HD">
+  <programme start="20201229123500 +0700" stop="20201229131000 +0700" channel="CH3 HD">
     <title lang="en">โหนกระเเส / จับข่าวลวง</title>
   </programme>
-  <programme start="20201229131000 +0700" stop="20201229131500 +0700" channel="3 HD">
+  <programme start="20201229131000 +0700" stop="20201229131500 +0700" channel="CH3 HD">
     <title lang="en">บางกอกกระซิบ โว้ว มายา</title>
   </programme>
-  <programme start="20201229131500 +0700" stop="20201229134500 +0700" channel="3 HD">
+  <programme start="20201229131500 +0700" stop="20201229134500 +0700" channel="CH3 HD">
     <title lang="en">ครัวคุณต๋อย / แฟลช นิวส์</title>
   </programme>
-  <programme start="20201229134500 +0700" stop="20201229141500 +0700" channel="3 HD">
+  <programme start="20201229134500 +0700" stop="20201229141500 +0700" channel="CH3 HD">
     <title lang="en">แซ่บ พาซ่าส์ / True Shopping</title>
   </programme>
-  <programme start="20201229141500 +0700" stop="20201229154500 +0700" channel="3 HD">
+  <programme start="20201229141500 +0700" stop="20201229154500 +0700" channel="CH3 HD">
     <title lang="en">ละคร แรงตะวัน</title>
   </programme>
-  <programme start="20201229154500 +0700" stop="20201229164500 +0700" channel="3 HD">
+  <programme start="20201229154500 +0700" stop="20201229164500 +0700" channel="CH3 HD">
     <title lang="en">เรื่องเด่นเย็นนี้ / เล่าเรื่องไทย ๆ กับสายสวรรค์</title>
   </programme>
-  <programme start="20201229164500 +0700" stop="20201229170000 +0700" channel="3 HD">
+  <programme start="20201229164500 +0700" stop="20201229170000 +0700" channel="CH3 HD">
     <title lang="en">รีวิวบันเทิง</title>
   </programme>
-  <programme start="20201229170000 +0700" stop="20201229173000 +0700" channel="3 HD">
+  <programme start="20201229170000 +0700" stop="20201229173000 +0700" channel="CH3 HD">
     <title lang="en">ดาวินชี เกมถอดรหัส</title>
   </programme>
-  <programme start="20201229173000 +0700" stop="20201229180000 +0700" channel="3 HD">
+  <programme start="20201229173000 +0700" stop="20201229180000 +0700" channel="CH3 HD">
     <title lang="en">เกมแจกรถ / อิงลิช ออน ทัวร์</title>
   </programme>
-  <programme start="20201229180000 +0700" stop="20201229200600 +0700" channel="3 HD">
+  <programme start="20201229180000 +0700" stop="20201229200600 +0700" channel="CH3 HD">
     <title lang="en">ละคร รักจังเอย / แฟลช นิวส์</title>
   </programme>
-  <programme start="20201229200600 +0700" stop="20201229201400 +0700" channel="3 HD">
+  <programme start="20201229200600 +0700" stop="20201229201400 +0700" channel="CH3 HD">
     <title lang="en">ข่าวนอกลู่</title>
   </programme>
-  <programme start="20201229201400 +0700" stop="20201229202900 +0700" channel="3 HD">
+  <programme start="20201229201400 +0700" stop="20201229202900 +0700" channel="CH3 HD">
     <title lang="en">ข่าวในพระราชสำนัก / สีสันบันเทิง / แฟลช นิวส์</title>
   </programme>
-  <programme start="20201229202900 +0700" stop="20201229222900 +0700" channel="3 HD">
+  <programme start="20201229202900 +0700" stop="20201229222900 +0700" channel="CH3 HD">
     <title lang="en">ละคร กรงกรรม</title>
   </programme>
-  <programme start="20201229222900 +0700" stop="20201229225900 +0700" channel="3 HD">
+  <programme start="20201229222900 +0700" stop="20201229225900 +0700" channel="CH3 HD">
     <title lang="en">ข่าว 3 มิติ โดย กิตติ สิงหาปัด</title>
   </programme>
-  <programme start="20201229225900 +0700" stop="20201230000000 +0700" channel="3 HD">
+  <programme start="20201229225900 +0700" stop="20201230000000 +0700" channel="CH3 HD">
     <title lang="en">แชนเนลทรี..คุณย่าย้อนวัย หัวใจวัยทีน /ของฝาก..</title>
+  </programme>
+  <programme start="20201229000000 +0700" stop="20201229003000 +0700" channel="AmarinTV HD">
+    <title lang="en">TVD SHOP</title>
+  </programme>
+  <programme start="20201229003000 +0700" stop="20201229013000 +0700" channel="AmarinTV HD">
+    <title lang="en">ทรูช้อปปิ้ง</title>
+  </programme>
+  <programme start="20201229013000 +0700" stop="20201229020000 +0700" channel="AmarinTV HD">
+    <title lang="en">แปลก!ฅน</title>
+  </programme>
+  <programme start="20201229020000 +0700" stop="20201229030000 +0700" channel="AmarinTV HD">
+    <title lang="en">สภากาแฟ 4.0 ยกล้อ</title>
+  </programme>
+  <programme start="20201229030000 +0700" stop="20201229043000 +0700" channel="AmarinTV HD">
+    <title lang="en">TVD SHOP</title>
+  </programme>
+  <programme start="20201229043000 +0700" stop="20201229053000 +0700" channel="AmarinTV HD">
+    <title lang="en">สุขทุกวัน 7 วัน 7 กูรู</title>
+  </programme>
+  <programme start="20201229053000 +0700" stop="20201229061500 +0700" channel="AmarinTV HD">
+    <title lang="en">ข่าวอรุณอมรินทร์ ทั่วไทย</title>
+  </programme>
+  <programme start="20201229061500 +0700" stop="20201229080000 +0700" channel="AmarinTV HD">
+    <title lang="en">ข่าวอรุณอมรินทร์</title>
+  </programme>
+  <programme start="20201229080000 +0700" stop="20201229080100 +0700" channel="AmarinTV HD">
+    <title lang="en">เพลงชาติไทย</title>
+  </programme>
+  <programme start="20201229080100 +0700" stop="20201229083000 +0700" channel="AmarinTV HD">
+    <title lang="en">ข่าวอรุณอมรินทร์</title>
+  </programme>
+  <programme start="20201229083000 +0700" stop="20201229084000 +0700" channel="AmarinTV HD">
+    <title lang="en">ชีวิตดีมีสุข</title>
+  </programme>
+  <programme start="20201229084000 +0700" stop="20201229092500 +0700" channel="AmarinTV HD">
+    <title lang="en">ความลับแห่งเอเชีย</title>
+  </programme>
+  <programme start="20201229092500 +0700" stop="20201229093500 +0700" channel="AmarinTV HD">
+    <title lang="en">ชีวิตดีมีสุข</title>
+  </programme>
+  <programme start="20201229093500 +0700" stop="20201229100000 +0700" channel="AmarinTV HD">
+    <title lang="en">ทึ่งทั่วโลก</title>
+  </programme>
+  <programme start="20201229100000 +0700" stop="20201229103000 +0700" channel="AmarinTV HD">
+    <title lang="en">ชีพจรลงพุง รีรัน</title>
+  </programme>
+  <programme start="20201229103000 +0700" stop="20201229110000 +0700" channel="AmarinTV HD">
+    <title lang="en">ตามอำเภอจาน รีรัน</title>
+  </programme>
+  <programme start="20201229110000 +0700" stop="20201229123000 +0700" channel="AmarinTV HD">
+    <title lang="en">ข่าวเที่ยงอมรินทร์</title>
+  </programme>
+  <programme start="20201229123000 +0700" stop="20201229133000 +0700" channel="AmarinTV HD">
+    <title lang="en">ต้มยำอมรินทร์</title>
+  </programme>
+  <programme start="20201229133000 +0700" stop="20201229134000 +0700" channel="AmarinTV HD">
+    <title lang="en">ชีวิตดีมีสุข</title>
+  </programme>
+  <programme start="20201229134000 +0700" stop="20201229144000 +0700" channel="AmarinTV HD">
+    <title lang="en">ทะเลแปร</title>
+  </programme>
+  <programme start="20201229144000 +0700" stop="20201229145000 +0700" channel="AmarinTV HD">
+    <title lang="en">ชีวิตดีมีสุข</title>
+  </programme>
+  <programme start="20201229145000 +0700" stop="20201229153500 +0700" channel="AmarinTV HD">
+    <title lang="en">Z Story</title>
+  </programme>
+  <programme start="20201229153500 +0700" stop="20201229154500 +0700" channel="AmarinTV HD">
+    <title lang="en">ชีวิตดีมีสุข</title>
+  </programme>
+  <programme start="20201229154500 +0700" stop="20201229164500 +0700" channel="AmarinTV HD">
+    <title lang="en">เอเชียนซีรีส์ เรื่อง องค์หญิงสวมรอย</title>
+  </programme>
+  <programme start="20201229164500 +0700" stop="20201229165500 +0700" channel="AmarinTV HD">
+    <title lang="en">ชีวิตดีมีสุข</title>
+  </programme>
+  <programme start="20201229165500 +0700" stop="20201229175000 +0700" channel="AmarinTV HD">
+    <title lang="en">ฅ.คนขั้นเทพ</title>
+  </programme>
+  <programme start="20201229175000 +0700" stop="20201229180000 +0700" channel="AmarinTV HD">
+    <title lang="en">APOP Today</title>
+  </programme>
+  <programme start="20201229180000 +0700" stop="20201229180100 +0700" channel="AmarinTV HD">
+    <title lang="en">เพลงชาติไทย</title>
+  </programme>
+  <programme start="20201229180100 +0700" stop="20201229182000 +0700" channel="AmarinTV HD">
+    <title lang="en">APOP Today</title>
+  </programme>
+  <programme start="20201229182000 +0700" stop="20201229185000 +0700" channel="AmarinTV HD">
+    <title lang="en">เรื่องเด็ดเอ็ดตะโร</title>
+  </programme>
+  <programme start="20201229185000 +0700" stop="20201229200000 +0700" channel="AmarinTV HD">
+    <title lang="en">ทุบโต๊ะข่าว</title>
+  </programme>
+  <programme start="20201229200000 +0700" stop="20201229201500 +0700" channel="AmarinTV HD">
+    <title lang="en">ข่าวในพระราชสำนัก</title>
+  </programme>
+  <programme start="20201229201500 +0700" stop="20201229223000 +0700" channel="AmarinTV HD">
+    <title lang="en">ทุบโต๊ะข่าว</title>
+  </programme>
+  <programme start="20201229223000 +0700" stop="20201229230000 +0700" channel="AmarinTV HD">
+    <title lang="en">TURF &amp; TRIP</title>
+  </programme>
+  <programme start="20201229230000 +0700" stop="20201229233000 +0700" channel="AmarinTV HD">
+    <title lang="en">เกมกระชากล้าน ซีซั่น 2</title>
+  </programme>
+  <programme start="20201229233000 +0700" stop="20201230000000 +0700" channel="AmarinTV HD">
+    <title lang="en">TVD SHOP</title>
   </programme>
   <programme start="20201229000000 +0700" stop="20201229004000 +0700" channel="CH7 HD">
     <title lang="en">GUESS MY AGE รู้หน้า ไม่รู้วัย (Rerun)</title>
