@@ -38,7 +38,7 @@ https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/ch
 #EXTINF:-1, tvg-logo="https://i.imgur.com/eY6ic8F.png" tvg-name="MCOT HD"  group-title="Digital TV",MCOT HD
 https://edge6a.v2h-cdn.com/m2i3/McotHD.stream_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/2iIhC8r.png" tvg-name="One HD"  group-title="Digital TV",One HD
+#EXTINF:-1, tvg-logo="https://i.imgur.com/2iIhC8r.png" tvg-name="ONE 31 HD"  group-title="Digital TV",ONE 31 HD
 https://edge6a.v2h-cdn.com/m2i1/OneHD.stream_720p/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/q0oIZ8G.png" tvg-name="Thairath TV HD"  group-title="Digital TV",THAIRATH TV
