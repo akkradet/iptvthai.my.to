@@ -1,5 +1,4 @@
-﻿#EXTM3U
-
+﻿#EXTM3U x-tvg-url="http://iptvthai.my.to/guide.xml"
 #EXTINF:-1, tvg-logo="https://i.imgur.com/9S4aBdt.png" tvg-name="CH5 HD"  group-title="Digital TV",CH5 HD
 http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
 
