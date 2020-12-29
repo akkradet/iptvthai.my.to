@@ -5,31 +5,31 @@ http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/D1jo1L4.png" tvg-name="NBT HD"  group-title="Digital TV",NBT HD
 https://edge6a.v2h-cdn.com/m2i3/NBT.stream_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/UcVCd3I.png" tvg-name="Thai PBS"  group-title="Digital TV",Thai PBS
+#EXTINF:-1, tvg-logo="https://i.imgur.com/UcVCd3I.png" tvg-name="TPBS"  group-title="Digital TV",Thai PBS
 https://edge6a.v2h-cdn.com/m2i1/TPBS.stream_720p/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/gFNABNU.png" tvg-name="ALTV HD"  group-title="Digital TV",ALTV HD
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/AZNQAo2.png" tvg-name="TNN16"  group-title="Digital TV",TNN16
+#EXTINF:-1, tvg-logo="https://i.imgur.com/AZNQAo2.png" tvg-name="TNN24"  group-title="Digital TV",TNN16
 https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/4EpcrrT.png" tvg-name="NEW TV 18"  group-title="Digital TV",NEW TV 18
 https://edge6a.v2h-cdn.com/m2i1/NEW.stream_360p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/b60FpIx.png" tvg-name="Nation"  group-title="Digital TV",Nation
+#EXTINF:-1, tvg-logo="https://i.imgur.com/b60FpIx.png" tvg-name="Nation TV"  group-title="Digital TV",Nation TV
 http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/uQqgpkp.png" tvg-name="WORKPOINT"  group-title="Digital TV",WORKPOINT
+#EXTINF:-1, tvg-logo="https://i.imgur.com/uQqgpkp.png" tvg-name="Workpoint TV"  group-title="Digital TV",Workpoint TV
 https://github.com/exodiver/IPTV/raw/master/M3U8/Token/WPTV.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/n2354RI.png" tvg-name="TRUE4U"  group-title="Digital TV",TRUE4U
 http://183.182.100.184/live/true4u/chunklist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/B0Kq8XM.png" tvg-name="GMM 25"  group-title="Digital TV",GMM 25
+#EXTINF:-1, tvg-logo="https://i.imgur.com/B0Kq8XM.png" tvg-name="GMM25"  group-title="Digital TV",GMM25
 http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/4B5gX1p.png" tvg-name="CH8"  group-title="Digital TV",CH8
+#EXTINF:-1, tvg-logo="https://i.imgur.com/4B5gX1p.png" tvg-name="CH 8"  group-title="Digital TV",CH 8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/DiNMwO3.png" tvg-name="MONO 29"  group-title="Digital TV",MONO 29
@@ -41,7 +41,7 @@ https://edge6a.v2h-cdn.com/m2i3/McotHD.stream_720p/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/2iIhC8r.png" tvg-name="One HD"  group-title="Digital TV",One HD
 https://edge6a.v2h-cdn.com/m2i1/OneHD.stream_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/q0oIZ8G.png" tvg-name="THAIRATH TV"  group-title="Digital TV",THAIRATH TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/q0oIZ8G.png" tvg-name="Thairath TV HD"  group-title="Digital TV",THAIRATH TV
 https://edge6a.v2h-cdn.com/m2i4/ThairathHD.stream_720p/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/y03ZBhX.png" tvg-name="CH3 HD"  group-title="Digital TV",CH3 HD
