@@ -104,23 +104,23 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/220px-NASA_logo.svg.png" group-title="Documentary",nasa
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/BgU7dBW.png" tvg-name="HBO"  group-title="Movies",HBO
-https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/HBO.m3u8|Referer=https://liveorigin01.hbogoasia.com
+#EXTINF:-1, tvg-logo="https://i.imgur.com/163JvCN.png" tvg-name="HBO"  group-title="Movies",HBO
+https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/HBO.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/ore5hRX.png" tvg-name="HBO Family"  group-title="Movies",HBO Family
-https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/FAMILY.m3u8|Referer=https://liveorigin01.hbogoasia.com
+#EXTINF:-1, tvg-logo="https://i.imgur.com/2YQna3O.png" tvg-name="HBO Family"  group-title="Movies",HBO Family
+https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/FAMILY.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/O2RMd87.png" tvg-name="HBO Hits"  group-title="Movies",HBO Hits
-https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/HITS.m3u8|Referer=https://liveorigin01.hbogoasia.com
+#EXTINF:-1, tvg-logo="https://i.imgur.com/PKhbPZS.png" tvg-name="HBO Hits"  group-title="Movies",HBO Hits
+https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/HITS.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/i89AzSA.png" tvg-name="HBO Signature"  group-title="Movies",HBO Signature
-https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/SIG.m3u8|Referer=https://liveorigin01.hbogoasia.com
+#EXTINF:-1, tvg-logo="https://i.imgur.com/Tua0EqL.png" tvg-name="HBO Signature"  group-title="Movies",HBO Signature
+https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/SIG.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/ly1iRDY.png" tvg-name="Red by HBO"  group-title="Movies",Red by HBO
-https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/RED.m3u8|Referer=https://liveorigin01.hbogoasia.com
+#EXTINF:-1, tvg-logo="https://i.imgur.com/6gA6KWY.png" tvg-name="Red by HBO"  group-title="Movies",Red by HBO
+https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/RED.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/2MEgcPP.png" tvg-name="Cinemax"  group-title="Movies",Cinemax
-https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/MAX.m3u8|Referer=https://liveorigin01.hbogoasia.com
+#EXTINF:-1, tvg-logo="https://i.imgur.com/1Wbvf8m.png" tvg-name="Cinemax"  group-title="Movies",Cinemax
+https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/MAX.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlgjgnPY03shWihuug-FmM8oDjGiLV8Y0KA&usqp=CAU" group-title="Movies",Star Chinese Movies
 http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8'
