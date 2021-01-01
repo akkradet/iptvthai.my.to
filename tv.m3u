@@ -8,7 +8,7 @@ https://edge6a.v2h-cdn.com/m2i3/NBT.stream_720p/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/UcVCd3I.png" tvg-name="Thai PBS"  group-title="Digital TV",Thai PBS
 https://edge6a.v2h-cdn.com/m2i1/TPBS.stream_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/gFNABNU.png" tvg-name="ALTV HD"  group-title="Digital TV",ALTV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/gFNABNU.png" tvg-name="ALTV"  group-title="Digital TV",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/AZNQAo2.png" tvg-name="TNN16"  group-title="Digital TV",TNN16
