@@ -1,17 +1,17 @@
 ﻿#EXTM3U x-tvg-url="http://iptvthai.my.to/guide.xml"
 #EXTINF:-1, tvg-logo="https://i.imgur.com/9S4aBdt.png" tvg-name="CH5 HD"  group-title="Digital TV",CH5 HD
 http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
-
+Thai PBS
 #EXTINF:-1, tvg-logo="https://i.imgur.com/D1jo1L4.png" tvg-name="NBT HD"  group-title="Digital TV",NBT HD
 https://edge6a.v2h-cdn.com/m2i3/NBT.stream_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/UcVCd3I.png" tvg-name="Thai PBS"  group-title="Digital TV",Thai PBS
+#EXTINF:-1, tvg-logo="https://i.imgur.com/UcVCd3I.png" tvg-name="Thai PBS"  group-title="Digital TV",
 https://edge6a.v2h-cdn.com/m2i1/TPBS.stream_720p/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/gFNABNU.png" tvg-name="ALTV"  group-title="Digital TV",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/AZNQAo2.png" tvg-name="TNN16"  group-title="Digital TV",TNN16
+#EXTINF:-1, tvg-logo="https://i.imgur.com/AZNQAo2.png" tvg-name="TNN 16"  group-title="Digital TV",TNN 16
 https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/4EpcrrT.png" tvg-name="NEW TV 18"  group-title="Digital TV",NEW TV 18
@@ -23,10 +23,10 @@ http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/uQqgpkp.png" tvg-name="Workpoint TV"  group-title="Digital TV",Workpoint TV
 https://github.com/exodiver/IPTV/raw/master/M3U8/Token/WPTV.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/n2354RI.png" tvg-name="TRUE4U"  group-title="Digital TV",TRUE4U
+#EXTINF:-1, tvg-logo="https://i.imgur.com/n2354RI.png" tvg-name="True 4U"  group-title="Digital TV",True 4U
 http://183.182.100.184/live/true4u/chunklist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/B0Kq8XM.png" tvg-name="GMM25"  group-title="Digital TV",GMM25
+#EXTINF:-1, tvg-logo="https://i.imgur.com/B0Kq8XM.png" tvg-name="GMM 25"  group-title="Digital TV",GMM 25
 http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/4B5gX1p.png" tvg-name="CH 8"  group-title="Digital TV",CH 8
@@ -38,16 +38,16 @@ https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/ch
 #EXTINF:-1, tvg-logo="https://i.imgur.com/eY6ic8F.png" tvg-name="MCOT HD"  group-title="Digital TV",MCOT HD
 https://edge6a.v2h-cdn.com/m2i3/McotHD.stream_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/2iIhC8r.png" tvg-name="ONE 31 HD"  group-title="Digital TV",ONE 31 HD
+#EXTINF:-1, tvg-logo="https://i.imgur.com/2iIhC8r.png" tvg-name="ONE31 HD"  group-title="Digital TV",ONE31 HD
 https://edge6a.v2h-cdn.com/m2i1/OneHD.stream_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/q0oIZ8G.png" tvg-name="Thairath TV HD"  group-title="Digital TV",THAIRATH TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/q0oIZ8G.png" tvg-name="Thairath TV"  group-title="Digital TV",THAIRATH TV
 https://edge6a.v2h-cdn.com/m2i4/ThairathHD.stream_720p/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/y03ZBhX.png" tvg-name="CH3 HD"  group-title="Digital TV",CH3 HD
 https://edge6a.v2h-cdn.com/m2i1/3HD.stream_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/8dpAG47.png" tvg-name="AmarinTV HD"  group-title="Digital TV",AmarinTV HD
+#EXTINF:-1, tvg-logo="https://i.imgur.com/8dpAG47.png" tvg-name="Amarin TV"  group-title="Digital TV",Amarin TV
 https://edge6a.v2h-cdn.com/m2i1/AmarinHD.stream_720p/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/8d6KzSh.png" tvg-name="CH7 HD"  group-title="Digital TV",CH7 HD
@@ -68,14 +68,9 @@ http://160.119.77.116:8081/iptv/uk-nickjr.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.imgur.com/PzNRbK9.png",DISNEY CHANNEL
 https://doofootball.livestream-cdn.com/iptv/uk-disney.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.imgur.com/jXqpvy0.png",DISNEY XD
-http://160.119.77.116:8081/iptv/hd-disneyxd.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.imgur.com/b2SoZUz.png",Disney JUNIOR En
 https://doofootball.livestream-cdn.com/iptv/uk-nickjr.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.imgur.com/umtQjvY.png",EBS KIDS
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 
 
