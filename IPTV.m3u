@@ -36,13 +36,13 @@ http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7uvZbN0xOhznJ-Eb3oUcUhXfUq5RtPZIqg&usqp=CAU" tvg-name="Thairath​"  group-title="ดิจิตอลทีวี",Thairath​
 https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQowrnrVluavGPdBIA5CbwZ097ROqmtFe-3ug&usqp=CAU" tvg-name="CH3 HD"  group-title="ดิจิตอลทีวี",CH3 HD
+#EXTINF:-1, tvg-id="ch3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQowrnrVluavGPdBIA5CbwZ097ROqmtFe-3ug&usqp=CAU" tvg-name="CH3 HD"  group-title="ดิจิตอลทีวี",CH3 HD
 http://160.119.77.116:8081/iptv/hd-ch3.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSabXw_t7nOov-8jUePNbAi4SljD9AZtyYHQ&usqp=CAU" tvg-name="AMARIN​"  group-title="ดิจิตอลทีวี",AMARIN​
 http://160.119.77.116:8081/iptv/hd-amarin.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5qzu7jYFZy131ETGDE4xws6E24swu8AuoA&usqp=CAU" tvg-name="CH​ 7"  group-title="ดิจิตอลทีวี",CH​ 7
+#EXTINF:-1, tvg-id="ch7.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5qzu7jYFZy131ETGDE4xws6E24swu8AuoA&usqp=CAU" tvg-name="CH​ 7"  group-title="ดิจิตอลทีวี",CH​ 7
 http://160.119.77.116:8081/iptv/hd-ch7.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHspjHVNf9RDS1I3kkqUJ1Fj-DbO3LbQP4ug&usqp=CAU" tvg-name="PPTV"  group-title="ดิจิตอลทีวี",PPTV
