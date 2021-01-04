@@ -2511,9 +2511,6 @@
     <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
     <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
   </programme>
-  <programme start="20210104105000 +0700" stop="20210104114000 +0700" channel="discoveryasia">
-    <title><![CDATA[Taiwan Made (S2) : Episode 1]]></title>
-  </programme>
   <programme start="20210104114000 +0700" stop="20210104123000 +0700" channel="discoveryasia">
     <title><![CDATA[Operation Thai Cave Rescue : Operation Thai Cave Rescue]]></title>
   </programme>
@@ -4782,6 +4779,9 @@
   </programme>
   <programme start="20210107154500 -0000" stop="20210107164000 -0000" channel="mono29">
     <title><![CDATA[NCIS : New Orleans (Season 6) : ปฎิบัติการเดือด เมืองคนดุ ปี 6]]></title>
+  </programme>
+  <programme start="20210107164000 -0000" stop="20210107165959 -0000" channel="mono29">
+    <title><![CDATA[Midnight Cinema]]></title>
   </programme>
   <programme start="20210104000000 +0700" stop="20210104005500 +0700" channel="natgeo">
     <title><![CDATA[Wicked Tuna S9 Compilations]]></title>
@@ -7826,6 +7826,10 @@
   <programme start="20210105203000 +0700" stop="20210105234500 +0700" channel="true4u">
     <title><![CDATA[ภ.ตำนานสมเด็จพระนเรศวรมหาราช]]></title>
     <desc><![CDATA[<No description>]]></desc>
+  </programme>
+  <programme start="20210105234500 +0700" stop="20210106000000 +0700" channel="true4u">
+    <title><![CDATA[หัวใจนักสู้]]></title>
+    <desc><![CDATA[รายการเปี่ยมแรงบันดาลใจที่นำเสนอเรื่องราวของบรรดาน]]></desc>
   </programme>
   <programme start="20210104000000 +0700" stop="20210104000100 +0700" channel="truesport2">
     <title><![CDATA[เพลงสรรเสริญพระบารมี]]></title>
