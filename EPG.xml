@@ -67,17 +67,17 @@
   <channel id="hitsmovies">
     <display-name>hitsmovies</display-name>
   </channel>
-  <channel id="mcot">
-    <display-name>mcot</display-name>
-  </channel>
-  <channel id="mono29">
-    <display-name>mono29</display-name>
-  </channel>
   <channel id="natgeo">
     <display-name>natgeo</display-name>
   </channel>
   <channel id="nation">
     <display-name>nation</display-name>
+  </channel>
+  <channel id="mcot">
+    <display-name>mcot</display-name>
+  </channel>
+  <channel id="mono29">
+    <display-name>mono29</display-name>
   </channel>
   <channel id="nbt">
     <display-name>nbt</display-name>
@@ -124,27 +124,6 @@
   <channel id="workpoint">
     <display-name>workpoint</display-name>
   </channel>
-  <programme start="20210104113000 +0700" stop="20210104115800 +0700" channel="altv">
-    <title><![CDATA[กลางเมือง (Rerun)]]></title>
-  </programme>
-  <programme start="20210104115800 +0700" stop="20210104120000 +0700" channel="altv">
-    <title><![CDATA[คลิป ดูให้รู้]]></title>
-  </programme>
-  <programme start="20210104120000 +0700" stop="20210104121000 +0700" channel="altv">
-    <title><![CDATA[Have A Newsday]]></title>
-  </programme>
-  <programme start="20210104121000 +0700" stop="20210104124000 +0700" channel="altv">
-    <title><![CDATA[หนังวิทย์พลิกโลก]]></title>
-  </programme>
-  <programme start="20210104124000 +0700" stop="20210104125500 +0700" channel="altv">
-    <title><![CDATA[วินนี้กินอะไรดี (Rerun)]]></title>
-  </programme>
-  <programme start="20210104125500 +0700" stop="20210104131500 +0700" channel="altv">
-    <title><![CDATA[สังคม สนุกคิด (Rerun)]]></title>
-  </programme>
-  <programme start="20210104131500 +0700" stop="20210104134000 +0700" channel="altv">
-    <title><![CDATA[สนุกเรียน (Rerun)]]></title>
-  </programme>
   <programme start="20210104134000 +0700" stop="20210104141000 +0700" channel="altv">
     <title><![CDATA[ละครเด็ก You&Me เพื่อนซี้ปาฏิหาริย์ S.2]]></title>
   </programme>
@@ -351,15 +330,6 @@
   </programme>
   <programme start="20210105210000 +0700" stop="20210106060000 +0700" channel="altv">
     <title><![CDATA[ปิดสถานี]]></title>
-  </programme>
-  <programme start="20210104040000 -0000" stop="20210104053000 -0000" channel="amarin">
-    <title><![CDATA[ข่าวเที่ยงอมรินทร์]]></title>
-  </programme>
-  <programme start="20210104053000 -0000" stop="20210104063000 -0000" channel="amarin">
-    <title><![CDATA[ต้มยำอมรินทร์]]></title>
-  </programme>
-  <programme start="20210104063000 -0000" stop="20210104064000 -0000" channel="amarin">
-    <title><![CDATA[ชีวิตดีมีสุข]]></title>
   </programme>
   <programme start="20210104064000 -0000" stop="20210104074000 -0000" channel="amarin">
     <title><![CDATA[ทะเลแปร]]></title>
@@ -727,6 +697,15 @@
   <programme start="20210107163000 -0000" stop="20210107165959 -0000" channel="amarin">
     <title><![CDATA[TVD SHOP]]></title>
   </programme>
+  <programme start="20210107170000 -0000" stop="20210107173000 -0000" channel="amarin">
+    <title><![CDATA[TVD SHOP]]></title>
+  </programme>
+  <programme start="20210107173000 -0000" stop="20210107183000 -0000" channel="amarin">
+    <title><![CDATA[ทรูช้อปปิ้ง]]></title>
+  </programme>
+  <programme start="20210107183000 -0000" stop="20210107190000 -0000" channel="amarin">
+    <title><![CDATA[แปลก!ฅน]]></title>
+  </programme>
   <programme start="20210104005500 +0700" stop="20210104014500 +0700" channel="axn">
     <title><![CDATA[American Ninja Warrior   [ 10 ]]]></title>
     <sub-title><![CDATA[ENTERTAIN :: Entertainment, Reality]]></sub-title>
@@ -977,9 +956,6 @@
     <sub-title><![CDATA[SR-ENT-KN :: Wildlife]]></sub-title>
     <desc><![CDATA[สารคดีถ่ายทอดวิถีชีวิตที่น่าทึ่งของครอบครัวสิงโต เสือดาว และเสือชีต้าห์ ในอุทยานแห่งชาติ มาไซมารา ประเทศเคนย่า]]></desc>
   </programme>
-  <programme start="20210104113000 +0700" stop="20210104133000 +0700" channel="bein1">
-    <title><![CDATA[LaLiga 2020/21 : Alaves vs Atletico]]></title>
-  </programme>
   <programme start="20210104133000 +0700" stop="20210104152000 +0700" channel="bein1">
     <title><![CDATA[SPFL Championship 2020/21 : Dundee vs Hearts]]></title>
   </programme>
@@ -1064,8 +1040,11 @@
   <programme start="20210105230000 +0700" stop="20210106000000 +0700" channel="bein1">
     <title><![CDATA[A-League Highlights 2020/21 : RD 1]]></title>
   </programme>
-  <programme start="20210104101000 +0700" stop="20210104120000 +0700" channel="bein2">
-    <title><![CDATA[Serie A 2020/21 : Genoa vs Lazio]]></title>
+  <programme start="20210106000000 +0700" stop="20210106010000 +0700" channel="bein1">
+    <title><![CDATA[Ligue 1 Highlights 2020/21 : MD 17]]></title>
+  </programme>
+  <programme start="20210106010000 +0700" stop="20210106030000 +0700" channel="bein1">
+    <title><![CDATA[Serie A 2020/21 : Juventus vs Udinese]]></title>
   </programme>
   <programme start="20210104120000 +0700" stop="20210104135000 +0700" channel="bein2">
     <title><![CDATA[Serie A 2020/21 : Parma vs Torino]]></title>
@@ -1148,17 +1127,11 @@
   <programme start="20210105230000 +0700" stop="20210106000000 +0700" channel="bein2">
     <title><![CDATA[Football Funnies II (CC) : Football Funnies II]]></title>
   </programme>
-  <programme start="20210104113000 +0700" stop="20210104120000 +0700" channel="boomberang">
-    <title><![CDATA[Inspector Garget]]></title>
+  <programme start="20210106000000 +0700" stop="20210106015000 +0700" channel="bein2">
+    <title><![CDATA[A-League 2020/21 : Newcastle Jets vs Western Sydney]]></title>
   </programme>
-  <programme start="20210104120000 +0700" stop="20210104123000 +0700" channel="boomberang">
-    <title><![CDATA[Angelo Rules]]></title>
-  </programme>
-  <programme start="20210104123000 +0700" stop="20210104130000 +0700" channel="boomberang">
-    <title><![CDATA[The marvelous Adventures of Flapjack]]></title>
-  </programme>
-  <programme start="20210104130000 +0700" stop="20210104133000 +0700" channel="boomberang">
-    <title><![CDATA[The Grim Adventures of Billy&Mandy]]></title>
+  <programme start="20210106015000 +0700" stop="20210106034000 +0700" channel="bein2">
+    <title><![CDATA[LaLiga 2020/21 : Villarreal vs Levante]]></title>
   </programme>
   <programme start="20210104133000 +0700" stop="20210104140000 +0700" channel="boomberang">
     <title><![CDATA[Thomas and Friends S22]]></title>
@@ -1352,6 +1325,12 @@
   <programme start="20210105230000 +0700" stop="20210106000000 +0700" channel="boomberang">
     <title><![CDATA[Courage the Cowardiy Dog]]></title>
   </programme>
+  <programme start="20210106000000 +0700" stop="20210106010000 +0700" channel="boomberang">
+    <title><![CDATA[The Grim Adventures of Billy&Mandy]]></title>
+  </programme>
+  <programme start="20210106010000 +0700" stop="20210106020000 +0700" channel="boomberang">
+    <title><![CDATA[Dexter's Laboratory]]></title>
+  </programme>
   <programme start="20210104050000 +0700" stop="20210104160000 +0700" channel="cartoonnetwork">
     <title><![CDATA[Power Players]]></title>
   </programme>
@@ -1367,21 +1346,8 @@
   <programme start="20210105130000 +0700" stop="20210106000000 +0700" channel="cartoonnetwork">
     <title><![CDATA[Teen Titans Go!]]></title>
   </programme>
-  <programme start="20210104042000 -0000" stop="20210104053500 -0000" channel="ch3">
-    <title><![CDATA[เที่ยงวันทันเหตุการณ์]]></title>
-    <desc><![CDATA[เที่ยงวันทันเหตุการณ์ เป็นการรายงานข่าวประเภทต่างๆ คือ ข่าวการเมือง ข่าวในกระแสสังคม ข่าวเศรษฐกิจ ข่าวต่างประเทศ ข่าวกีฬา และข่าวบันเทิง]]></desc>
-  </programme>
-  <programme start="20210104053500 -0000" stop="20210104061000 -0000" channel="ch3">
-    <title><![CDATA[โหนกระเเส / จับข่าวลวง]]></title>
-    <desc><![CDATA[รายการที่นำกระแสของสังคมที่พูดคุยกัน ไม่ว่าจะเป็นเรื่องราวของวงการบันเทิง สังคม เศรษฐกิจ ฯลฯ เพราะ ทุกกระแสในสังคม เราพร้อมจะตีแผ่ให้คุณ]]></desc>
-  </programme>
-  <programme start="20210104061000 -0000" stop="20210104061500 -0000" channel="ch3">
-    <title><![CDATA[บางกอกกระซิบ โว้ว มายา]]></title>
-    <desc><![CDATA[รายการที่จะพาไปสัมภาษณ์ดารา เซเลบริตี้ คนดัง]]></desc>
-  </programme>
-  <programme start="20210104061500 -0000" stop="20210104064500 -0000" channel="ch3">
-    <title><![CDATA[ครัวคุณต๋อย / แฟลช นิวส์]]></title>
-    <desc><![CDATA[รายการวาไรตี้ที่นำเสนอสูตรลับความอร่อยบนความฮา รับประกันเรื่องรสชาติ ไม่อร่อยไม่ได้ ที่ครัวคุณต๋อยต้องอร่อยเท่านั้น]]></desc>
+  <programme start="20210106000000 +0700" stop="20210106040000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Teen Titans Go!]]></title>
   </programme>
   <programme start="20210104064500 -0000" stop="20210104071500 -0000" channel="ch3">
     <title><![CDATA[แซ่บ พาซ่าส์ / True Shopping]]></title>
@@ -1710,17 +1676,138 @@
   <programme start="20210106165300 -0000" stop="20210106165959 -0000" channel="ch3">
     <title><![CDATA[ชอท เด็ด คนดัง / ของฝากนักกอล์ฟ]]></title>
   </programme>
-  <programme start="20210104042000 -0000" stop="20210104060000 -0000" channel="ch7">
-    <title><![CDATA[ห้องข่าวภาคเที่ยง]]></title>
-    <desc><![CDATA[เกาะติดข่าว ทันเหตุการณ์ ทั้งในประเทศ และต่างประเทศ]]></desc>
+  <programme start="20210106170000 -0000" stop="20210106172000 -0000" channel="ch3">
+    <title><![CDATA[ชอท เด็ด คนดัง / ของฝากนักกอล์ฟ]]></title>
   </programme>
-  <programme start="20210104060000 -0000" stop="20210104064300 -0000" channel="ch7">
-    <title><![CDATA[ดวลเพลงดัง]]></title>
-    <desc><![CDATA[รายการที่เปิดรับสมัครให้ผู้ชมทางบ้านสมัครแข่งขันร้องเพลง ไม่ว่าจะเป็นเพลงเด็ด เพลงดัง ขอแค่เป็นเพลงที่เจ๋งในสไตล์ที่เป็นคุณ]]></desc>
+  <programme start="20210106172000 -0000" stop="20210106181500 -0000" channel="ch3">
+    <title><![CDATA[ข่าววันใหม่]]></title>
+    <desc><![CDATA[เป็นรายการโทรทัศน์ที่นำเสนอข่าว จับประเด็นของวันที่ผ่านมา มานำเสนอให้กับกลุ่มผู้ชม ที่รับชมข่าวในช่วงเวลาดึก ตลอดจนการนำเสนอข่าวจากเว็บไซต์ในอินเทอร์เน็ต และการแสดงข่าวหน้าหนึ่งของหนังสือพิมพ์ฉบับหลัก]]></desc>
   </programme>
-  <programme start="20210104064300 -0000" stop="20210104064500 -0000" channel="ch7">
-    <title><![CDATA[ข่าวเด็ด 7 สี]]></title>
-    <desc><![CDATA[เกาะติดข่าว ทันเหตุการณ์ ทั้งในและต่างประเทศ]]></desc>
+  <programme start="20210106181500 -0000" stop="20210106184500 -0000" channel="ch3">
+    <title><![CDATA[ภ.จีน ลิ่วซ่านเหมิน สำนักพิทักษ์คุณธรรม]]></title>
+    <desc><![CDATA[ซีรีส์แนวพีเรียดกับการสืบสวนสอบสวนคดีการแย่งชิงบัลลังก์ฮ่องเต้ในสมัยราชวงศ์หมิง การสถาปนาผู้สืบทอดบัลลังก์ที่ต้องต่อสู้ห้ำหั่นเพื่อแย่งชิงบังลังก์]]></desc>
+  </programme>
+  <programme start="20210106184500 -0000" stop="20210106190500 -0000" channel="ch3">
+    <title><![CDATA[รีวิวบันเทิง ทูไนท์]]></title>
+    <desc><![CDATA[รายการข่าวบันเทิงที่จะจับทุกประเด็นร้อนมารีวิวให้ผู้ชมฟัง]]></desc>
+  </programme>
+  <programme start="20210106190500 -0000" stop="20210106192500 -0000" channel="ch3">
+    <title><![CDATA[B Times Business Moment By Bancha]]></title>
+    <desc><![CDATA[เป็นรายการที่นำเสนอเรื่องราวของภาคธุรกิจและเอกชนเป็นหลัก โดยมี คุณบัญชา ชุมชัยเวทย์ เป็นผู้ดำเนินรายการ]]></desc>
+  </programme>
+  <programme start="20210106192500 -0000" stop="20210106202500 -0000" channel="ch3">
+    <title><![CDATA[(AD/CC) สารคดี ประสบการณ์โลก]]></title>
+    <desc><![CDATA[เปิดประสบการณ์ใหม่ๆ จากโลกใบเดิมของคุณด้วยเสียงที่ทำให้คุณเห็นภาพ และตัวอักษรที่ทำให้คุณได้ยิน พร้อมพบกับความมหัศจรรย์ที่คัดสรรเนื้อหามาทั่วทุกมุมโลกมาเพื่อคุณผู้ชมโดยเฉพาะ ไม่ว่าจะเป็นการผจญภัยไปกับความงดงามของธรรมชาติและสัตว์โลก ด้วยเทคโนโลยีการถ่ายทำที่ล้ำสมัย]]></desc>
+  </programme>
+  <programme start="20210106202500 -0000" stop="20210106204000 -0000" channel="ch3">
+    <title><![CDATA[Young @ Heart Show]]></title>
+    <desc><![CDATA[รายการที่จะนำเสนอเรื่องราวสุขภาพแบบองค์รวมที่จะทำให้คุณไม่แก่ก่อนวัย สดใสและแข็งแรง]]></desc>
+  </programme>
+  <programme start="20210106204000 -0000" stop="20210106212700 -0000" channel="ch3">
+    <title><![CDATA[ภ.จีน ทีมแพทย์หัวใจทระนง]]></title>
+    <desc><![CDATA[ซีรีส์ที่มาพร้อมความเข้มข้นชวนให้ลุ้นและเอาใจช่วย ไปกับทีมแพทย์ ให้พวกเขาเอาชนะในเรื่องที่ต้องเผชิญ ไม่ว่าจะเป็นปมทางด้านการเมือง ความเห็นต่างในวงการแพทย์ และปมดราม่าที่สอดแทรกเข้ามา ทำให้ซีรีส์เรื่องนี้มีความน่าสนใจอย่างยิ่ง]]></desc>
+  </programme>
+  <programme start="20210106212700 -0000" stop="20210106213000 -0000" channel="ch3">
+    <title><![CDATA[(AD/CC) ตะวันส่องธรรม]]></title>
+    <desc><![CDATA[เริ่มต้นวันใหม่ด้วยสิ่งดีๆ เช่นการฟัง, สวดมนต์ตาม และฟังคำสอนดีๆ เพื่อนำพระธรรมที่ได้รับไปปรับใช้กับชีวิตประจำวัน]]></desc>
+  </programme>
+  <programme start="20210106213000 -0000" stop="20210106223000 -0000" channel="ch3">
+    <title><![CDATA[ข่าว 3 ยามเช้า]]></title>
+    <desc><![CDATA[ปลุกคุณยามเช้า มารับชมข่าวที่ไม่ได้เป็นเพียงแค่การรายงานข่าว แต่พ่วงทั้งสาระ ความรู้ คู่ความสนุกสนานและปิดท้ายรายการด้วยช่วง “@ข่าวเช้า” ที่เจาะลึกทุกเหตุการณ์สำคัญระหว่างวันเพื่อไม่พลาดข่าวหลัก ข่าวใหญ่ และประเด็นข่าวสำคัญที่คุณควรต้องรู้]]></desc>
+  </programme>
+  <programme start="20210106223000 -0000" stop="20210106230000 -0000" channel="ch3">
+    <title><![CDATA[เรื่องเล่าหน้าหนึ่ง]]></title>
+    <desc><![CDATA[รายการข่าวเด่น ประเด็นสำคัญ สำหรับคนตื่นเช้า]]></desc>
+  </programme>
+  <programme start="20210106230000 -0000" stop="20210107010000 -0000" channel="ch3">
+    <title><![CDATA[เรื่องเล่าเช้านี้ / เพื่อนคู่คิด]]></title>
+    <desc><![CDATA[รายการข่าวที่มีหลากเรื่องราวเล่าขาน สาระพันข่าวสารข้อมูลใหม่รับอรุณ ดั่งมื้อเช้าที่คุณขาดไม่ได้ ในเรื่องเล่าเช้านี้]]></desc>
+  </programme>
+  <programme start="20210107010000 -0000" stop="20210107012000 -0000" channel="ch3">
+    <title><![CDATA[ผู้หญิงยกกำลังเเจ๋ว]]></title>
+    <desc><![CDATA[เมื่อรายการน้ำดีที่ได้รับความนิยมมากมายอย่าง “ผู้หญิงถึงผู้หญิง” กับรายการ “แจ๋วแฟมิลี่” มารวมกันจึงกลายเป็น “ผู้หญิงยกกำลังแจ๋ว” ซึ่งการรวมตัวกันครั้งนี้ แน่นอนว่าจะต้องสร้างความสนุกสนานเพิ่มขึ้นคูณ 2 ไปเลย]]></desc>
+  </programme>
+  <programme start="20210107012000 -0000" stop="20210107012500 -0000" channel="ch3">
+    <title><![CDATA[อร่อยเลิศกับคุณหรีด]]></title>
+    <desc><![CDATA[เรื่องอาหารการกิน ไม่ว่าจะอยู่ที่ไหน สถานที่คุ้นเคยหรือไม่ ทุกคนต่างก็มีคำถามเสมอว่าแถวนี้อะไร อร่อยแถวนี้อะไรน่าทาน หรือแม้กระทั่งร้านที่เห็นว่าลูกค้าเยอะจะเชื่อได้อย่างไรว่าทั้งรสชาติและความสะอาดได้มาตราฐาน จึงเป็นที่มาของรายการที่ว่า “เราจะเป็นตัวแทนและเครื่องหมายการันตีความอร่อยเลิศ แบบถูกสุขลักษณะ เท่านั้น”]]></desc>
+  </programme>
+  <programme start="20210107012500 -0000" stop="20210107030500 -0000" channel="ch3">
+    <title><![CDATA[ละครข้ามเวลา "แก้วตาพี่"]]></title>
+    <desc><![CDATA[เป็นการนำละครที่เคยประสบความสำเร็จในอดีตกลับมาออกอากาศอีกครั้ง]]></desc>
+  </programme>
+  <programme start="20210107030500 -0000" stop="20210107033000 -0000" channel="ch3">
+    <title><![CDATA[ทีเด็ดลูกหนี้]]></title>
+    <desc><![CDATA[รายการวาไรตี้แข่งเกมโชว์ปลดหนี้สุดมันส์ ที่จะนำเสนอเรื่องราวชีวิตลูกหนี้อันสุดแสนพิสดาร โดยเชิญผู้เชี่ยวชาญด้านต่างๆ]]></desc>
+  </programme>
+  <programme start="20210107033000 -0000" stop="20210107035500 -0000" channel="ch3">
+    <title><![CDATA[ใครเบอร์หนึ่ง / แฟลช นิวส์]]></title>
+    <desc><![CDATA[การแข่งขันระหว่างพ่อบ้านแม่บ้านรุ่นใหม่ ชิงความเป็นสุดยอดตัวจริงของบ้าน นำความสามารถของผู้ชายและผู้หญิงมาท้าทายกันโดยสอดแทรกความรู้ เทคนิคการดูแลบ้านจากผู้เชี่ยวชาญ ถือเป็นเกมส์โชว์ที่เหมาะสำหรับทุกครอบครัวอีกรายการหนึ่ง]]></desc>
+  </programme>
+  <programme start="20210107035500 -0000" stop="20210107042000 -0000" channel="ch3">
+    <title><![CDATA[โต๊ะข่าวบันเทิง]]></title>
+    <desc><![CDATA[รายการข่าวบันเทิงที่เจาะลึกในเรื่องราวที่น่ารู้และเป็นจริงของแวดวงบันเทิง ทั้งศิลปวัฒนธรรม ภาพยนตร์ ละคร คอนเสิร์ต ดนตรี ฯลฯ]]></desc>
+  </programme>
+  <programme start="20210107042000 -0000" stop="20210107053500 -0000" channel="ch3">
+    <title><![CDATA[เที่ยงวันทันเหตุการณ์]]></title>
+    <desc><![CDATA[เที่ยงวันทันเหตุการณ์ เป็นการรายงานข่าวประเภทต่างๆ คือ ข่าวการเมือง ข่าวในกระแสสังคม ข่าวเศรษฐกิจ ข่าวต่างประเทศ ข่าวกีฬา และข่าวบันเทิง]]></desc>
+  </programme>
+  <programme start="20210107053500 -0000" stop="20210107061000 -0000" channel="ch3">
+    <title><![CDATA[โหนกระเเส / จับข่าวลวง]]></title>
+    <desc><![CDATA[รายการที่นำกระแสของสังคมที่พูดคุยกัน ไม่ว่าจะเป็นเรื่องราวของวงการบันเทิง สังคม เศรษฐกิจ ฯลฯ เพราะ ทุกกระแสในสังคม เราพร้อมจะตีแผ่ให้คุณ]]></desc>
+  </programme>
+  <programme start="20210107061000 -0000" stop="20210107061500 -0000" channel="ch3">
+    <title><![CDATA[บางกอกกระซิบ โว้ว มายา]]></title>
+    <desc><![CDATA[รายการที่จะพาไปสัมภาษณ์ดารา เซเลบริตี้ คนดัง]]></desc>
+  </programme>
+  <programme start="20210107061500 -0000" stop="20210107064500 -0000" channel="ch3">
+    <title><![CDATA[ครัวคุณต๋อย / แฟลช นิวส์]]></title>
+    <desc><![CDATA[รายการวาไรตี้ที่นำเสนอสูตรลับความอร่อยบนความฮา รับประกันเรื่องรสชาติ ไม่อร่อยไม่ได้ ที่ครัวคุณต๋อยต้องอร่อยเท่านั้น]]></desc>
+  </programme>
+  <programme start="20210107064500 -0000" stop="20210107071500 -0000" channel="ch3">
+    <title><![CDATA[แซ่บ พาซ่าส์ / True Shopping]]></title>
+    <desc><![CDATA[รายการท่องเที่ยวที่จะพาไปพบกับอาหาร ร้านเด็ด ร้านดัง ร้านแปลก รวมถึงสถานที่ท่องเที่ยวทั่วไทยและทั่วโลก และในรายการยังกิจกรรม “แจกแซ่บ” ให้ผู้ชมทางบ้านได้ร่วมสนุกและลุ้นรับของรางวัลสุดพิเศษทุกวัน]]></desc>
+  </programme>
+  <programme start="20210107071500 -0000" stop="20210107084500 -0000" channel="ch3">
+    <title><![CDATA[ละคร บ่วงอธิฏฐาน]]></title>
+    <desc><![CDATA[บ่วงพันธการด้วยแรงรัก และแรงอาฆาต ที่สาปให้ทุกคนไม่มีวันหนีพ้น บ่วงอธิฏฐาน เป็นเรื่องราวของชีวิตและวิญญาณที่ข้ามภพชาติมาข้องเกี่ยวกันอีกครั้งหนึ่ง]]></desc>
+  </programme>
+  <programme start="20210107084500 -0000" stop="20210107094500 -0000" channel="ch3">
+    <title><![CDATA[เรื่องเด่นเย็นนี้ / เล่าเรื่องไทยๆ กับสายสวรรค์]]></title>
+    <desc><![CDATA[รายการข่าวที่นำข่าวประเภทต่างๆ คือ ข่าวการเมือง ข่าวในกระแสสังคม ข่าวเศรษฐกิจ ข่าวต่างประเทศ และ ข่าวกีฬา มาเล่าให้ผู้ชมฟังอย่างเป็นกันเอง และเข้าใจได้ง่าย]]></desc>
+  </programme>
+  <programme start="20210107094500 -0000" stop="20210107100000 -0000" channel="ch3">
+    <title><![CDATA[รีวิวบันเทิง]]></title>
+    <desc><![CDATA[รายการข่าวบันเทิงที่จะจับทุกประเด็นร้อนมารีวิวให้ผู้ชมฟัง]]></desc>
+  </programme>
+  <programme start="20210107100000 -0000" stop="20210107103000 -0000" channel="ch3">
+    <title><![CDATA[ดาวินชี เกมถอดรหัส]]></title>
+    <desc><![CDATA[เป็นรายการเกมโชว์แนวควิซโชว์ที่ทดสอบความรู้รอบตัวและไหวพริบของผู้เข้าแข่งขันผ่านคำถามที่มาในรูปแบบของรูปภาพที่นำมาร้อยเรียงกันเป็นคำปริศนา]]></desc>
+  </programme>
+  <programme start="20210107103000 -0000" stop="20210107110000 -0000" channel="ch3">
+    <title><![CDATA[เกมแจกรถ / อิงลิช ออน ทัวร์]]></title>
+    <desc><![CDATA[เกมส์โชว์รูปแบบใหม่ ที่ได้ น้าเน็ก-เกตุเสพย์สวัสดิ์ ปาลกะวงศ์ ณ อยุธยา รับหน้าที่พิธีกร พาผู้เข้าแข่งขันไปเลือกรถเลือกกุญแจที่ใช่ กับอีก 1คำถาม ที่ต้องตอบและสตาร์ทรถติดก็รับไปเลยทันที และยังมีคำถามพิเศษให้ได้ลุ้นรับรางวัลอีกมากมาย]]></desc>
+  </programme>
+  <programme start="20210107110000 -0000" stop="20210107130000 -0000" channel="ch3">
+    <title><![CDATA[ละคร รักจังเอย / แฟลช นิวส์]]></title>
+  </programme>
+  <programme start="20210107130000 -0000" stop="20210107130500 -0000" channel="ch3">
+    <title><![CDATA[ข่าวนอกลู่]]></title>
+    <desc><![CDATA[รายการข่าวสั้น ที่เอาเบื้องหลังของข่าว หรือคลิปข่าวสั้นๆ มารายงานเป็นข่าวน่ารัก สนุกสนาน]]></desc>
+  </programme>
+  <programme start="20210107130500 -0000" stop="20210107132000 -0000" channel="ch3">
+    <title><![CDATA[ข่าวในพระราชสำนัก / สีสันบันเทิง / แฟลช นิวส์]]></title>
+  </programme>
+  <programme start="20210107132000 -0000" stop="20210107152000 -0000" channel="ch3">
+    <title><![CDATA[ละคร อกเกือบหักแอบรักคุณสามี]]></title>
+    <desc><![CDATA[อกเกือบหักแอบรักคุณสามี เมื่อสถาปนิกหนุ่มสุดหล่อ ปากร้าย ไม่สนใจสาว ๆ คนไหน แม้จะเป็นที่หมายปองของสาวทั้งบริษัท กับน้องสาวต่างพ่อแม่ ที่มีความร่าเริง น่ารัก สดใส แต่มีเหตุจำเป็นต้องมาแต่งงานกันแบบหลอก ๆ และทั้งคู่ต่างไม่รู้เลยว่าการแต่งงานครั้งนี้จะนำพาทั้งคู่ไปเจอกับรักแท้ได้หรือไม่]]></desc>
+  </programme>
+  <programme start="20210107152000 -0000" stop="20210107155000 -0000" channel="ch3">
+    <title><![CDATA[ข่าว 3 มิติ โดย กิตติ สิงหาปัด]]></title>
+    <desc><![CDATA[รายการข่าว ที่ให้ความแตกต่าง ใน 3 มิติ คือ ลึก รวดเร็ว รอบด้าน]]></desc>
+  </programme>
+  <programme start="20210107155000 -0000" stop="20210107165959 -0000" channel="ch3">
+    <title><![CDATA[ชีวิตดี๊ดี / สารคดี รู้ค่าพลังงาน]]></title>
+    <desc><![CDATA[เป็นเรียลไลฟ์วาไรตี้เชิงบวก วาไรตี้ที่ค้นหาเคล็ดลับความสุขของคนดัง]]></desc>
   </programme>
   <programme start="20210104064500 -0000" stop="20210104084500 -0000" channel="ch7">
     <title><![CDATA[ผู้บ่าวอินดี้ ยาหยีอินเตอร์ (Rerun)]]></title>
@@ -2067,17 +2154,17 @@
     <title><![CDATA[เชฟนิก ซุป'ตาร์พาเข้าครัว ซีซัน 4 (CHEF NIC SEASON 4)]]></title>
     <desc><![CDATA[การออกเดินทางไปทั่วทุกมุมโลกและประชันฝีมือการทำอาหารกับเชฟระดับมิชลินสตาร์ สร้างสรรค์จานเด็ดที่เหล่านักชิม]]></desc>
   </programme>
-  <programme start="20210104040500 -0000" stop="20210104053500 -0000" channel="ch8">
-    <title><![CDATA[ข่าวเด่นช่อง 8]]></title>
-    <desc><![CDATA[รายการรายงานข่าวทั่วไปทั้งในและต่างประเทศให้ทันทุกเหตุการณ์]]></desc>
+  <programme start="20210107170000 -0000" stop="20210107174000 -0000" channel="ch7">
+    <title><![CDATA[เชฟนิก ซุป'ตาร์พาเข้าครัว ซีซัน 4 (CHEF NIC SEASON 4)]]></title>
+    <desc><![CDATA[การออกเดินทางไปทั่วทุกมุมโลกและประชันฝีมือการทำอาหารกับเชฟระดับมิชลินสตาร์ สร้างสรรค์จานเด็ดที่เหล่านักชิม]]></desc>
   </programme>
-  <programme start="20210104053500 -0000" stop="20210104054500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  <programme start="20210107174000 -0000" stop="20210107184000 -0000" channel="ch7">
+    <title><![CDATA[ปิ่นไพร (Rerun)]]></title>
+    <desc><![CDATA[เมื่อความใกล้ชิดทำให้เขาเผลอใจ การพิสูจน์ตัวเองจึงดำเนินไปพร้อมกับความรักสามเส้าที่ยากจะลงตัว]]></desc>
   </programme>
-  <programme start="20210104054500 -0000" stop="20210104061500 -0000" channel="ch8">
-    <title><![CDATA[เรื่องว้าวเล่าโลก]]></title>
-    <desc><![CDATA[รายการสารคดีที่จะพาไปดูเรื่องราวต่างๆจากทั่วทุกมุมโลก]]></desc>
+  <programme start="20210107184000 -0000" stop="20210107194000 -0000" channel="ch7">
+    <title><![CDATA[ข่าวดึก 7HD]]></title>
+    <desc><![CDATA[รวมรายงานข่าวสำคัญของวัน พร้อมมุมมองข่าวในวันรุ่งขึ้น]]></desc>
   </programme>
   <programme start="20210104061500 -0000" stop="20210104071500 -0000" channel="ch8">
     <title><![CDATA[ซีรี่ส์ พิฆเนศ มหาเทพไอยรา]]></title>
@@ -2086,436 +2173,6 @@
   <programme start="20210104071500 -0000" stop="20210104072500 -0000" channel="ch8">
     <title><![CDATA[ชีวิตดี สาระดี]]></title>
     <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210104072500 -0000" stop="20210104085500 -0000" channel="ch8">
-    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
-    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
-  </programme>
-  <programme start="20210104085500 -0000" stop="20210104090500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210104090500 -0000" stop="20210104095000 -0000" channel="ch8">
-    <title><![CDATA[ข่าวใหญ่ช่อง 8]]></title>
-    <desc><![CDATA[รายการที่นำเสนอข่าวสำคัญประเด็นดัง ทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210104095000 -0000" stop="20210104120000 -0000" channel="ch8">
-    <title><![CDATA[คุยข่าวเย็นช่อง 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210104120000 -0000" stop="20210104130000 -0000" channel="ch8">
-    <title><![CDATA[ละคร ขุมทรัพย์ลำโขง]]></title>
-    <desc><![CDATA[นำแสดงโดย พิ้งกี้-สาวิกา  อาร์ต-พศุตม์  เต๋า-สมชาย  ณฉัตร-วัลเณซ่า]]></desc>
-  </programme>
-  <programme start="20210104130000 -0000" stop="20210104131500 -0000" channel="ch8">
-    <title><![CDATA[ข่าวในพระราชสำนัก]]></title>
-  </programme>
-  <programme start="20210104131500 -0000" stop="20210104132000 -0000" channel="ch8">
-    <title><![CDATA[เผ็ดมันส์บันเทิง]]></title>
-    <desc><![CDATA[รายการข่าวที่ติดตามและอัพเดทข่าวสารในวงการบันเทิงล่าสุด]]></desc>
-  </programme>
-  <programme start="20210104132000 -0000" stop="20210104142000 -0000" channel="ch8">
-    <title><![CDATA[ละคร เพลิงภริยา]]></title>
-    <desc><![CDATA[นำแสดงโดย ศรราม เทพพิทักษ์ แคทรียา อิงลิช ไนกี้ นิธิดล ไอซ์ อามีนา]]></desc>
-  </programme>
-  <programme start="20210104142000 -0000" stop="20210104162000 -0000" channel="ch8">
-    <title><![CDATA[เกาะติดข่าว 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210104162000 -0000" stop="20210104163000 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210104163000 -0000" stop="20210104165959 -0000" channel="ch8">
-    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
-    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
-  </programme>
-  <programme start="20210104170000 -0000" stop="20210104175500 -0000" channel="ch8">
-    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
-    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
-  </programme>
-  <programme start="20210104175500 -0000" stop="20210104180500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210104180500 -0000" stop="20210104190000 -0000" channel="ch8">
-    <title><![CDATA[ละคร ขุมทรัพย์ลำโขง]]></title>
-    <desc><![CDATA[นำแสดงโดย พิ้งกี้-สาวิกา  อาร์ต-พศุตม์  เต๋า-สมชาย  ณฉัตร-วัลเณซ่า]]></desc>
-  </programme>
-  <programme start="20210104190000 -0000" stop="20210104195500 -0000" channel="ch8">
-    <title><![CDATA[ละคร เพลิงภริยา]]></title>
-    <desc><![CDATA[นำแสดงโดย ศรราม เทพพิทักษ์ แคทรียา อิงลิช ไนกี้ นิธิดล ไอซ์ อามีนา]]></desc>
-  </programme>
-  <programme start="20210104195500 -0000" stop="20210104200500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210104200500 -0000" stop="20210104210500 -0000" channel="ch8">
-    <title><![CDATA[เรื่องว้าวเล่าโลก]]></title>
-    <desc><![CDATA[รายการสารคดีที่จะพาไปดูเรื่องราวต่างๆจากทั่วทุกมุมโลก]]></desc>
-  </programme>
-  <programme start="20210104210500 -0000" stop="20210104211500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210104211500 -0000" stop="20210104220000 -0000" channel="ch8">
-    <title><![CDATA[คุยข่าวเช้ารุ่งอรุณช่อง 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210104220000 -0000" stop="20210104223000 -0000" channel="ch8">
-    <title><![CDATA[คุยข่าวเช้ารุ่งอรุณช่อง 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210104223000 -0000" stop="20210104224000 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210104224000 -0000" stop="20210104230000 -0000" channel="ch8">
-    <title><![CDATA[คุยข่าวเช้ารุ่งอรุณช่อง 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210104230000 -0000" stop="20210105020000 -0000" channel="ch8">
-    <title><![CDATA[คุยข่าวเช้าช่อง 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210105020000 -0000" stop="20210105021000 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210105021000 -0000" stop="20210105031000 -0000" channel="ch8">
-    <title><![CDATA[ปากท้องต้องรู้]]></title>
-    <desc><![CDATA[รายการข่าวกลไกราคาสินค้าเกษตร และสินค้าอุปโภคบริโภค]]></desc>
-  </programme>
-  <programme start="20210105031000 -0000" stop="20210105032000 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210105032000 -0000" stop="20210105040500 -0000" channel="ch8">
-    <title><![CDATA[แซ่บ 108]]></title>
-    <desc><![CDATA[รายการข่าวที่ติดตามและอัพเดทข่าวสารในวงการบันเทิงล่าสุด]]></desc>
-  </programme>
-  <programme start="20210105040500 -0000" stop="20210105053500 -0000" channel="ch8">
-    <title><![CDATA[ข่าวเด่นช่อง 8]]></title>
-    <desc><![CDATA[รายการรายงานข่าวทั่วไปทั้งในและต่างประเทศให้ทันทุกเหตุการณ์]]></desc>
-  </programme>
-  <programme start="20210105053500 -0000" stop="20210105054500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210105054500 -0000" stop="20210105061500 -0000" channel="ch8">
-    <title><![CDATA[เรื่องว้าวเล่าโลก]]></title>
-    <desc><![CDATA[รายการสารคดีที่จะพาไปดูเรื่องราวต่างๆจากทั่วทุกมุมโลก]]></desc>
-  </programme>
-  <programme start="20210105061500 -0000" stop="20210105071500 -0000" channel="ch8">
-    <title><![CDATA[ซีรี่ส์ พิฆเนศ มหาเทพไอยรา]]></title>
-    <desc><![CDATA[เรื่องราวแห่งทวยเทพที่เต็มเปี่ยมไปด้วยสติปัญญา ศรัทธา ความสำเร็จ องค์มหาเทพที่ผู้คนนับถือมากที่สุดของโลก]]></desc>
-  </programme>
-  <programme start="20210105071500 -0000" stop="20210105072500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210105072500 -0000" stop="20210105085500 -0000" channel="ch8">
-    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
-    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
-  </programme>
-  <programme start="20210105085500 -0000" stop="20210105090500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210105090500 -0000" stop="20210105095000 -0000" channel="ch8">
-    <title><![CDATA[ข่าวใหญ่ช่อง 8]]></title>
-    <desc><![CDATA[รายการที่นำเสนอข่าวสำคัญประเด็นดัง ทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210105095000 -0000" stop="20210105120000 -0000" channel="ch8">
-    <title><![CDATA[คุยข่าวเย็นช่อง 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210105120000 -0000" stop="20210105130000 -0000" channel="ch8">
-    <title><![CDATA[ละคร ขุมทรัพย์ลำโขง]]></title>
-    <desc><![CDATA[นำแสดงโดย พิ้งกี้-สาวิกา  อาร์ต-พศุตม์  เต๋า-สมชาย  ณฉัตร-วัลเณซ่า]]></desc>
-  </programme>
-  <programme start="20210105130000 -0000" stop="20210105131500 -0000" channel="ch8">
-    <title><![CDATA[ข่าวในพระราชสำนัก]]></title>
-  </programme>
-  <programme start="20210105131500 -0000" stop="20210105132000 -0000" channel="ch8">
-    <title><![CDATA[เผ็ดมันส์บันเทิง]]></title>
-    <desc><![CDATA[รายการข่าวที่ติดตามและอัพเดทข่าวสารในวงการบันเทิงล่าสุด]]></desc>
-  </programme>
-  <programme start="20210105132000 -0000" stop="20210105142000 -0000" channel="ch8">
-    <title><![CDATA[ละคร เพลิงภริยา]]></title>
-    <desc><![CDATA[นำแสดงโดย ศรราม เทพพิทักษ์ แคทรียา อิงลิช ไนกี้ นิธิดล ไอซ์ อามีนา]]></desc>
-  </programme>
-  <programme start="20210105142000 -0000" stop="20210105162000 -0000" channel="ch8">
-    <title><![CDATA[เกาะติดข่าว 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210105162000 -0000" stop="20210105163000 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210105163000 -0000" stop="20210105165959 -0000" channel="ch8">
-    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
-    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
-  </programme>
-  <programme start="20210105170000 -0000" stop="20210105175500 -0000" channel="ch8">
-    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
-    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
-  </programme>
-  <programme start="20210105175500 -0000" stop="20210105180500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210105180500 -0000" stop="20210105190000 -0000" channel="ch8">
-    <title><![CDATA[ละคร ขุมทรัพย์ลำโขง]]></title>
-    <desc><![CDATA[นำแสดงโดย พิ้งกี้-สาวิกา  อาร์ต-พศุตม์  เต๋า-สมชาย  ณฉัตร-วัลเณซ่า]]></desc>
-  </programme>
-  <programme start="20210105190000 -0000" stop="20210105195500 -0000" channel="ch8">
-    <title><![CDATA[ละคร เพลิงภริยา]]></title>
-    <desc><![CDATA[นำแสดงโดย ศรราม เทพพิทักษ์ แคทรียา อิงลิช ไนกี้ นิธิดล ไอซ์ อามีนา]]></desc>
-  </programme>
-  <programme start="20210105195500 -0000" stop="20210105200500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210105200500 -0000" stop="20210105210500 -0000" channel="ch8">
-    <title><![CDATA[เรื่องว้าวเล่าโลก]]></title>
-    <desc><![CDATA[รายการสารคดีที่จะพาไปดูเรื่องราวต่างๆจากทั่วทุกมุมโลก]]></desc>
-  </programme>
-  <programme start="20210105210500 -0000" stop="20210105211500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210105211500 -0000" stop="20210105220000 -0000" channel="ch8">
-    <title><![CDATA[คุยข่าวเช้ารุ่งอรุณช่อง 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210105220000 -0000" stop="20210105223000 -0000" channel="ch8">
-    <title><![CDATA[คุยข่าวเช้ารุ่งอรุณช่อง 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210105223000 -0000" stop="20210105224000 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210105224000 -0000" stop="20210105230000 -0000" channel="ch8">
-    <title><![CDATA[คุยข่าวเช้ารุ่งอรุณช่อง 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210105230000 -0000" stop="20210106020000 -0000" channel="ch8">
-    <title><![CDATA[คุยข่าวเช้าช่อง 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210106020000 -0000" stop="20210106021000 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106021000 -0000" stop="20210106031000 -0000" channel="ch8">
-    <title><![CDATA[ปากท้องต้องรู้]]></title>
-    <desc><![CDATA[รายการข่าวกลไกราคาสินค้าเกษตร และสินค้าอุปโภคบริโภค]]></desc>
-  </programme>
-  <programme start="20210106031000 -0000" stop="20210106032000 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106032000 -0000" stop="20210106040500 -0000" channel="ch8">
-    <title><![CDATA[แซ่บ 108]]></title>
-    <desc><![CDATA[รายการข่าวที่ติดตามและอัพเดทข่าวสารในวงการบันเทิงล่าสุด]]></desc>
-  </programme>
-  <programme start="20210106040500 -0000" stop="20210106053500 -0000" channel="ch8">
-    <title><![CDATA[ข่าวเด่นช่อง 8]]></title>
-    <desc><![CDATA[รายการรายงานข่าวทั่วไปทั้งในและต่างประเทศให้ทันทุกเหตุการณ์]]></desc>
-  </programme>
-  <programme start="20210106053500 -0000" stop="20210106054500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106054500 -0000" stop="20210106061500 -0000" channel="ch8">
-    <title><![CDATA[เรื่องว้าวเล่าโลก]]></title>
-    <desc><![CDATA[รายการสารคดีที่จะพาไปดูเรื่องราวต่างๆจากทั่วทุกมุมโลก]]></desc>
-  </programme>
-  <programme start="20210106061500 -0000" stop="20210106071500 -0000" channel="ch8">
-    <title><![CDATA[ซีรี่ส์ พิฆเนศ มหาเทพไอยรา]]></title>
-    <desc><![CDATA[เรื่องราวแห่งทวยเทพที่เต็มเปี่ยมไปด้วยสติปัญญา ศรัทธา ความสำเร็จ องค์มหาเทพที่ผู้คนนับถือมากที่สุดของโลก]]></desc>
-  </programme>
-  <programme start="20210106071500 -0000" stop="20210106072500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106072500 -0000" stop="20210106085500 -0000" channel="ch8">
-    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
-    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
-  </programme>
-  <programme start="20210106085500 -0000" stop="20210106090500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106090500 -0000" stop="20210106095000 -0000" channel="ch8">
-    <title><![CDATA[ข่าวใหญ่ช่อง 8]]></title>
-    <desc><![CDATA[รายการที่นำเสนอข่าวสำคัญประเด็นดัง ทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210106095000 -0000" stop="20210106120000 -0000" channel="ch8">
-    <title><![CDATA[คุยข่าวเย็นช่อง 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210106120000 -0000" stop="20210106130000 -0000" channel="ch8">
-    <title><![CDATA[ละคร ขุมทรัพย์ลำโขง]]></title>
-    <desc><![CDATA[นำแสดงโดย พิ้งกี้-สาวิกา  อาร์ต-พศุตม์  เต๋า-สมชาย  ณฉัตร-วัลเณซ่า]]></desc>
-  </programme>
-  <programme start="20210106130000 -0000" stop="20210106131500 -0000" channel="ch8">
-    <title><![CDATA[ข่าวในพระราชสำนัก]]></title>
-  </programme>
-  <programme start="20210106131500 -0000" stop="20210106132000 -0000" channel="ch8">
-    <title><![CDATA[เผ็ดมันส์บันเทิง]]></title>
-    <desc><![CDATA[รายการข่าวที่ติดตามและอัพเดทข่าวสารในวงการบันเทิงล่าสุด]]></desc>
-  </programme>
-  <programme start="20210106132000 -0000" stop="20210106142000 -0000" channel="ch8">
-    <title><![CDATA[ละคร เพลิงภริยา]]></title>
-    <desc><![CDATA[นำแสดงโดย ศรราม เทพพิทักษ์ แคทรียา อิงลิช ไนกี้ นิธิดล ไอซ์ อามีนา]]></desc>
-  </programme>
-  <programme start="20210106142000 -0000" stop="20210106162000 -0000" channel="ch8">
-    <title><![CDATA[เกาะติดข่าว 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210106162000 -0000" stop="20210106163000 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106163000 -0000" stop="20210106165959 -0000" channel="ch8">
-    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
-    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
-  </programme>
-  <programme start="20210106170000 -0000" stop="20210106175500 -0000" channel="ch8">
-    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
-    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
-  </programme>
-  <programme start="20210106175500 -0000" stop="20210106180500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106180500 -0000" stop="20210106190000 -0000" channel="ch8">
-    <title><![CDATA[ละคร ขุมทรัพย์ลำโขง]]></title>
-    <desc><![CDATA[นำแสดงโดย พิ้งกี้-สาวิกา  อาร์ต-พศุตม์  เต๋า-สมชาย  ณฉัตร-วัลเณซ่า]]></desc>
-  </programme>
-  <programme start="20210106190000 -0000" stop="20210106195500 -0000" channel="ch8">
-    <title><![CDATA[ละคร เพลิงภริยา]]></title>
-    <desc><![CDATA[นำแสดงโดย ศรราม เทพพิทักษ์ แคทรียา อิงลิช ไนกี้ นิธิดล ไอซ์ อามีนา]]></desc>
-  </programme>
-  <programme start="20210106195500 -0000" stop="20210106200500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106200500 -0000" stop="20210106210500 -0000" channel="ch8">
-    <title><![CDATA[เรื่องว้าวเล่าโลก]]></title>
-    <desc><![CDATA[รายการสารคดีที่จะพาไปดูเรื่องราวต่างๆจากทั่วทุกมุมโลก]]></desc>
-  </programme>
-  <programme start="20210106210500 -0000" stop="20210106211500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106211500 -0000" stop="20210106220000 -0000" channel="ch8">
-    <title><![CDATA[คุยข่าวเช้ารุ่งอรุณช่อง 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210106220000 -0000" stop="20210106223000 -0000" channel="ch8">
-    <title><![CDATA[คุยข่าวเช้ารุ่งอรุณช่อง 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210106223000 -0000" stop="20210106224000 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106224000 -0000" stop="20210106230000 -0000" channel="ch8">
-    <title><![CDATA[คุยข่าวเช้ารุ่งอรุณช่อง 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210106230000 -0000" stop="20210107020000 -0000" channel="ch8">
-    <title><![CDATA[คุยข่าวเช้าช่อง 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210107020000 -0000" stop="20210107021000 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210107021000 -0000" stop="20210107031000 -0000" channel="ch8">
-    <title><![CDATA[ปากท้องต้องรู้]]></title>
-    <desc><![CDATA[รายการข่าวกลไกราคาสินค้าเกษตร และสินค้าอุปโภคบริโภค]]></desc>
-  </programme>
-  <programme start="20210107031000 -0000" stop="20210107032000 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210107032000 -0000" stop="20210107040500 -0000" channel="ch8">
-    <title><![CDATA[แซ่บ 108]]></title>
-    <desc><![CDATA[รายการข่าวที่ติดตามและอัพเดทข่าวสารในวงการบันเทิงล่าสุด]]></desc>
-  </programme>
-  <programme start="20210107040500 -0000" stop="20210107053500 -0000" channel="ch8">
-    <title><![CDATA[ข่าวเด่นช่อง 8]]></title>
-    <desc><![CDATA[รายการรายงานข่าวทั่วไปทั้งในและต่างประเทศให้ทันทุกเหตุการณ์]]></desc>
-  </programme>
-  <programme start="20210107053500 -0000" stop="20210107054500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210107054500 -0000" stop="20210107061500 -0000" channel="ch8">
-    <title><![CDATA[เรื่องว้าวเล่าโลก]]></title>
-    <desc><![CDATA[รายการสารคดีที่จะพาไปดูเรื่องราวต่างๆจากทั่วทุกมุมโลก]]></desc>
-  </programme>
-  <programme start="20210107061500 -0000" stop="20210107071500 -0000" channel="ch8">
-    <title><![CDATA[ซีรี่ส์ พิฆเนศ มหาเทพไอยรา]]></title>
-    <desc><![CDATA[เรื่องราวแห่งทวยเทพที่เต็มเปี่ยมไปด้วยสติปัญญา ศรัทธา ความสำเร็จ องค์มหาเทพที่ผู้คนนับถือมากที่สุดของโลก]]></desc>
-  </programme>
-  <programme start="20210107071500 -0000" stop="20210107072500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210107072500 -0000" stop="20210107085500 -0000" channel="ch8">
-    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
-    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
-  </programme>
-  <programme start="20210107085500 -0000" stop="20210107090500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210107090500 -0000" stop="20210107095000 -0000" channel="ch8">
-    <title><![CDATA[ข่าวใหญ่ช่อง 8]]></title>
-    <desc><![CDATA[รายการที่นำเสนอข่าวสำคัญประเด็นดัง ทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210107095000 -0000" stop="20210107120000 -0000" channel="ch8">
-    <title><![CDATA[คุยข่าวเย็นช่อง 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210107120000 -0000" stop="20210107130000 -0000" channel="ch8">
-    <title><![CDATA[ละคร ขุมทรัพย์ลำโขง]]></title>
-    <desc><![CDATA[นำแสดงโดย พิ้งกี้-สาวิกา  อาร์ต-พศุตม์  เต๋า-สมชาย  ณฉัตร-วัลเณซ่า]]></desc>
-  </programme>
-  <programme start="20210107130000 -0000" stop="20210107131500 -0000" channel="ch8">
-    <title><![CDATA[ข่าวในพระราชสำนัก]]></title>
-  </programme>
-  <programme start="20210107131500 -0000" stop="20210107132000 -0000" channel="ch8">
-    <title><![CDATA[เผ็ดมันส์บันเทิง]]></title>
-    <desc><![CDATA[รายการข่าวที่ติดตามและอัพเดทข่าวสารในวงการบันเทิงล่าสุด]]></desc>
-  </programme>
-  <programme start="20210107132000 -0000" stop="20210107142000 -0000" channel="ch8">
-    <title><![CDATA[ละคร เพลิงภริยา]]></title>
-    <desc><![CDATA[นำแสดงโดย ศรราม เทพพิทักษ์ แคทรียา อิงลิช ไนกี้ นิธิดล ไอซ์ อามีนา]]></desc>
-  </programme>
-  <programme start="20210107142000 -0000" stop="20210107162000 -0000" channel="ch8">
-    <title><![CDATA[เกาะติดข่าว 8]]></title>
-    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
-  </programme>
-  <programme start="20210107162000 -0000" stop="20210107163000 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210107163000 -0000" stop="20210107165959 -0000" channel="ch8">
-    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
-    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
-  </programme>
-  <programme start="20210104114000 +0700" stop="20210104123000 +0700" channel="discoveryasia">
-    <title><![CDATA[Operation Thai Cave Rescue : Operation Thai Cave Rescue]]></title>
-  </programme>
-  <programme start="20210104123000 +0700" stop="20210104132000 +0700" channel="discoveryasia">
-    <title><![CDATA[The Mark Of Empire (S1) : Bagan]]></title>
   </programme>
   <programme start="20210104132000 +0700" stop="20210104141000 +0700" channel="discoveryasia">
     <title><![CDATA[India's Green Mission : India's Green Mission]]></title>
@@ -2642,6 +2299,15 @@
   </programme>
   <programme start="20210105232000 +0700" stop="20210106001000 +0700" channel="discoveryasia">
     <title><![CDATA[Aerial Mountains: Korea (S1) : Episode 1]]></title>
+  </programme>
+  <programme start="20210106001000 +0700" stop="20210106010000 +0700" channel="discoveryasia">
+    <title><![CDATA[The Indian Dream Hotel On Tour (S2) : Thailand]]></title>
+  </programme>
+  <programme start="20210106010000 +0700" stop="20210106015000 +0700" channel="discoveryasia">
+    <title><![CDATA[Lands Of The Earth (S1) : Burma - Pagodas And Mysteries]]></title>
+  </programme>
+  <programme start="20210106015000 +0700" stop="20210106024000 +0700" channel="discoveryasia">
+    <title><![CDATA[Singapore On Film (S1) : A Time Of Change]]></title>
   </programme>
   <programme start="20210104000000 +0700" stop="20210104010000 +0700" channel="disney">
     <title><![CDATA[Star vs The Forces of Evil]]></title>
@@ -2837,16 +2503,6 @@
     <title><![CDATA[Phineas and Ferb]]></title>
     <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
     <desc><![CDATA[ฟินเนียส และ เฟิร์บ พยายามที่จะทำให้ทุกๆวันในช่วงปิดภาคเรียนฤดูร้อนของพวกเขามีความหมายโดยการสร้างสรรค์สิ่งประดิษฐ์ต่างๆ]]></desc>
-  </programme>
-  <programme start="20210104113000 +0700" stop="20210104120000 +0700" channel="dltv1">
-    <title><![CDATA[ตามอำเภอจาน]]></title>
-  </programme>
-  <programme start="20210104120000 +0700" stop="20210104123000 +0700" channel="dltv1">
-    <title><![CDATA[ข่าวเที่ยง]]></title>
-  </programme>
-  <programme start="20210104123000 +0700" stop="20210104133000 +0700" channel="dltv1">
-    <title><![CDATA[กลุ่มบูรณาการ แกนหลักประวัติศาสตร์ 1]]></title>
-    <desc><![CDATA[เรื่อง เรียนรู้ประเทศเพื่อนบ้าน (1)]]></desc>
   </programme>
   <programme start="20210104133000 +0700" stop="20210104143000 +0700" channel="dltv1">
     <title><![CDATA[ว11101 วิทยาศาสตร์และเทคโนโลยี 1 (วิทยาการคำนวณ)]]></title>
@@ -3051,6 +2707,18 @@
   </programme>
   <programme start="20210105233000 +0700" stop="20210106000000 +0700" channel="dltv1">
     <title><![CDATA[แสงแห่งปณิธาน]]></title>
+  </programme>
+  <programme start="20210106000000 +0700" stop="20210106003000 +0700" channel="dltv1">
+    <title><![CDATA[รอบภูมิภาค]]></title>
+  </programme>
+  <programme start="20210106003000 +0700" stop="20210106010000 +0700" channel="dltv1">
+    <title><![CDATA[นับ ๑ ให้ถึงพ่อ]]></title>
+  </programme>
+  <programme start="20210106010000 +0700" stop="20210106013000 +0700" channel="dltv1">
+    <title><![CDATA[The Green Diary season 1]]></title>
+  </programme>
+  <programme start="20210106013000 +0700" stop="20210106020000 +0700" channel="dltv1">
+    <title><![CDATA[ตามอำเภอจาน]]></title>
   </programme>
   <programme start="20210104001500 +0700" stop="20210104021000 +0700" channel="foxactionmovies">
     <title><![CDATA[Insidious: Chapter 2]]></title>
@@ -3427,10 +3095,6 @@
     <sub-title><![CDATA[SR-ENT-KN :: Horror Series, Sci-Fi]]></sub-title>
     <desc><![CDATA[ภาพยนตร์ชุดทางโทรทัศน์เกี่ยวกับกลุ่มผู้รอดชีวิตที่ต้องเผชิญหน้ากับโลกอันเต็มไปด้วยเหล่าผีดิบกระหายเลือดทั่วทุกหนแห่ง -- นำแสดงโดย แอนดรูว์ ลินคอล์น]]></desc>
   </programme>
-  <programme start="20210104034500 -0000" stop="20210104053000 -0000" channel="gmm25">
-    <title><![CDATA[ซีรีส์ WHO ARE YOU เธอคนนั้นคือฉันอีกคน (ตอนแรก)]]></title>
-    <desc><![CDATA[รายการประเภท ละคร]]></desc>
-  </programme>
   <programme start="20210104053000 -0000" stop="20210104070000 -0000" channel="gmm25">
     <title><![CDATA[เกาะข่าวเที่ยง (สด)]]></title>
     <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
@@ -3438,350 +3102,6 @@
   <programme start="20210104070000 -0000" stop="20210104083000 -0000" channel="gmm25">
     <title><![CDATA[นานาน่า (สด)]]></title>
     <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210104083000 -0000" stop="20210104100000 -0000" channel="gmm25">
-    <title><![CDATA[ซีรีส์ Kiss THE SERIES รักต้องจูบ (ตอนแรก)]]></title>
-    <desc><![CDATA[รายการประเภท ละคร]]></desc>
-  </programme>
-  <programme start="20210104100000 -0000" stop="20210104110000 -0000" channel="gmm25">
-    <title><![CDATA[บุษบาจ๊ะจ๋า (สด)]]></title>
-    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
-  </programme>
-  <programme start="20210104110000 -0000" stop="20210104120000 -0000" channel="gmm25">
-    <title><![CDATA[เจาะข่าวค่ำ (สด)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210104120000 -0000" stop="20210104131500 -0000" channel="gmm25">
-    <title><![CDATA[ข่าวแหกโค้ง (สด)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210104131500 -0000" stop="20210104133000 -0000" channel="gmm25">
-    <title><![CDATA[ข่าว]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210104133000 -0000" stop="20210104143000 -0000" channel="gmm25">
-    <title><![CDATA[ซีรีส์ เจ้าหญิงเม็ดทราย (ตอนแรก)]]></title>
-    <desc><![CDATA[รายการประเภท ละคร]]></desc>
-  </programme>
-  <programme start="20210104143000 -0000" stop="20210104160000 -0000" channel="gmm25">
-    <title><![CDATA[แฉ (สด)]]></title>
-    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
-  </programme>
-  <programme start="20210104160000 -0000" stop="20210104165959 -0000" channel="gmm25">
-    <title><![CDATA[ดาราล้อกันเล่น (Rerun)]]></title>
-    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
-  </programme>
-  <programme start="20210104170000 -0000" stop="20210104172000 -0000" channel="gmm25">
-    <title><![CDATA[O SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210104172000 -0000" stop="20210104184000 -0000" channel="gmm25">
-    <title><![CDATA[เจาะข่าวค่ำ (Rerun)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210104184000 -0000" stop="20210104203000 -0000" channel="gmm25">
-    <title><![CDATA[ข่าวแหกโค้ง (Rerun)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210104203000 -0000" stop="20210104205000 -0000" channel="gmm25">
-    <title><![CDATA[TRUE SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210104205000 -0000" stop="20210104215000 -0000" channel="gmm25">
-    <title><![CDATA[ธรรมนำชีวิต]]></title>
-    <desc><![CDATA[รายการประเภท สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210104215000 -0000" stop="20210104221000 -0000" channel="gmm25">
-    <title><![CDATA[TRUE SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210104221000 -0000" stop="20210104222500 -0000" channel="gmm25">
-    <title><![CDATA[MV]]></title>
-    <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210104222500 -0000" stop="20210104223500 -0000" channel="gmm25">
-    <title><![CDATA[O SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210104223500 -0000" stop="20210104225500 -0000" channel="gmm25">
-    <title><![CDATA[MV]]></title>
-    <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210104225500 -0000" stop="20210104230500 -0000" channel="gmm25">
-    <title><![CDATA[O SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210104230500 -0000" stop="20210104232000 -0000" channel="gmm25">
-    <title><![CDATA[MV]]></title>
-    <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210104232000 -0000" stop="20210104233000 -0000" channel="gmm25">
-    <title><![CDATA[O SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210104233000 -0000" stop="20210105010000 -0000" channel="gmm25">
-    <title><![CDATA[แฉ (Rerun)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210105010000 -0000" stop="20210105030000 -0000" channel="gmm25">
-    <title><![CDATA[แฉข่าวเช้า (สด)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210105030000 -0000" stop="20210105034500 -0000" channel="gmm25">
-    <title><![CDATA[นานาน่า (สด)]]></title>
-    <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210105034500 -0000" stop="20210105053000 -0000" channel="gmm25">
-    <title><![CDATA[ซีรีส์ WHO ARE YOU เธอคนนั้นคือฉันอีกคน]]></title>
-    <desc><![CDATA[รายการประเภท ละคร]]></desc>
-  </programme>
-  <programme start="20210105053000 -0000" stop="20210105070000 -0000" channel="gmm25">
-    <title><![CDATA[เกาะข่าวเที่ยง (สด)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210105070000 -0000" stop="20210105083000 -0000" channel="gmm25">
-    <title><![CDATA[นานาน่า (สด)]]></title>
-    <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210105083000 -0000" stop="20210105100000 -0000" channel="gmm25">
-    <title><![CDATA[ซีรีส์ Kiss THE SERIES รักต้องจูบ]]></title>
-    <desc><![CDATA[รายการประเภท ละคร]]></desc>
-  </programme>
-  <programme start="20210105100000 -0000" stop="20210105110000 -0000" channel="gmm25">
-    <title><![CDATA[บุษบาจ๊ะจ๋า (สด)]]></title>
-    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
-  </programme>
-  <programme start="20210105110000 -0000" stop="20210105120000 -0000" channel="gmm25">
-    <title><![CDATA[เจาะข่าวค่ำ (สด)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210105120000 -0000" stop="20210105131500 -0000" channel="gmm25">
-    <title><![CDATA[ข่าวแหกโค้ง (สด)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210105131500 -0000" stop="20210105133000 -0000" channel="gmm25">
-    <title><![CDATA[ข่าว]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210105133000 -0000" stop="20210105143000 -0000" channel="gmm25">
-    <title><![CDATA[ซีรีส์ เจ้าหญิงเม็ดทราย]]></title>
-    <desc><![CDATA[รายการประเภท ละคร]]></desc>
-  </programme>
-  <programme start="20210105143000 -0000" stop="20210105160000 -0000" channel="gmm25">
-    <title><![CDATA[แฉ (สด)]]></title>
-    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
-  </programme>
-  <programme start="20210105160000 -0000" stop="20210105165959 -0000" channel="gmm25">
-    <title><![CDATA[ไทยทึ่ง Special (Rerun)]]></title>
-    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
-  </programme>
-  <programme start="20210105170000 -0000" stop="20210105172000 -0000" channel="gmm25">
-    <title><![CDATA[O SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210105172000 -0000" stop="20210105184000 -0000" channel="gmm25">
-    <title><![CDATA[เจาะข่าวค่ำ (Rerun)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210105184000 -0000" stop="20210105203000 -0000" channel="gmm25">
-    <title><![CDATA[ข่าวแหกโค้ง (Rerun)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210105203000 -0000" stop="20210105205000 -0000" channel="gmm25">
-    <title><![CDATA[TRUE SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210105205000 -0000" stop="20210105215000 -0000" channel="gmm25">
-    <title><![CDATA[ธรรมนำชีวิต]]></title>
-    <desc><![CDATA[รายการประเภท สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210105215000 -0000" stop="20210105221000 -0000" channel="gmm25">
-    <title><![CDATA[TRUE SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210105221000 -0000" stop="20210105222500 -0000" channel="gmm25">
-    <title><![CDATA[MV]]></title>
-    <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210105222500 -0000" stop="20210105223500 -0000" channel="gmm25">
-    <title><![CDATA[O SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210105223500 -0000" stop="20210105225500 -0000" channel="gmm25">
-    <title><![CDATA[MV]]></title>
-    <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210105225500 -0000" stop="20210105230500 -0000" channel="gmm25">
-    <title><![CDATA[O SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210105230500 -0000" stop="20210105232000 -0000" channel="gmm25">
-    <title><![CDATA[MV]]></title>
-    <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210105232000 -0000" stop="20210105233000 -0000" channel="gmm25">
-    <title><![CDATA[O SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210105233000 -0000" stop="20210106010000 -0000" channel="gmm25">
-    <title><![CDATA[แฉ (Rerun)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210106010000 -0000" stop="20210106030000 -0000" channel="gmm25">
-    <title><![CDATA[แฉข่าวเช้า (สด)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210106030000 -0000" stop="20210106034500 -0000" channel="gmm25">
-    <title><![CDATA[นานาน่า (สด)]]></title>
-    <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210106034500 -0000" stop="20210106053000 -0000" channel="gmm25">
-    <title><![CDATA[ซีรีส์ WHO ARE YOU เธอคนนั้นคือฉันอีกคน]]></title>
-    <desc><![CDATA[รายการประเภท ละคร]]></desc>
-  </programme>
-  <programme start="20210106053000 -0000" stop="20210106070000 -0000" channel="gmm25">
-    <title><![CDATA[เกาะข่าวเที่ยง (สด)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210106070000 -0000" stop="20210106083000 -0000" channel="gmm25">
-    <title><![CDATA[นานาน่า (สด)]]></title>
-    <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210106083000 -0000" stop="20210106100000 -0000" channel="gmm25">
-    <title><![CDATA[ซีรีส์ Kiss THE SERIES รักต้องจูบ]]></title>
-    <desc><![CDATA[รายการประเภท ละคร]]></desc>
-  </programme>
-  <programme start="20210106100000 -0000" stop="20210106110000 -0000" channel="gmm25">
-    <title><![CDATA[บุษบาจ๊ะจ๋า (สด)]]></title>
-    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
-  </programme>
-  <programme start="20210106110000 -0000" stop="20210106120000 -0000" channel="gmm25">
-    <title><![CDATA[เจาะข่าวค่ำ (สด)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210106120000 -0000" stop="20210106131500 -0000" channel="gmm25">
-    <title><![CDATA[ข่าวแหกโค้ง (สด)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210106131500 -0000" stop="20210106133000 -0000" channel="gmm25">
-    <title><![CDATA[ข่าว]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210106133000 -0000" stop="20210106143000 -0000" channel="gmm25">
-    <title><![CDATA[ซีรีส์ 30 กำลังแจ๋ว THE SERIES (ตอนแรก)]]></title>
-    <desc><![CDATA[รายการประเภท ละคร]]></desc>
-  </programme>
-  <programme start="20210106143000 -0000" stop="20210106160000 -0000" channel="gmm25">
-    <title><![CDATA[แฉ (สด)]]></title>
-    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
-  </programme>
-  <programme start="20210106160000 -0000" stop="20210106165959 -0000" channel="gmm25">
-    <title><![CDATA[รถโรงเรียน Special (Rerun)]]></title>
-    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
-  </programme>
-  <programme start="20210106170000 -0000" stop="20210106172000 -0000" channel="gmm25">
-    <title><![CDATA[O SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106172000 -0000" stop="20210106184000 -0000" channel="gmm25">
-    <title><![CDATA[เจาะข่าวค่ำ (Rerun)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210106184000 -0000" stop="20210106203000 -0000" channel="gmm25">
-    <title><![CDATA[ข่าวแหกโค้ง (Rerun)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210106203000 -0000" stop="20210106205000 -0000" channel="gmm25">
-    <title><![CDATA[TRUE SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106205000 -0000" stop="20210106215000 -0000" channel="gmm25">
-    <title><![CDATA[ธรรมนำชีวิต]]></title>
-    <desc><![CDATA[รายการประเภท สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210106215000 -0000" stop="20210106221000 -0000" channel="gmm25">
-    <title><![CDATA[TRUE SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106221000 -0000" stop="20210106222500 -0000" channel="gmm25">
-    <title><![CDATA[MV]]></title>
-    <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210106222500 -0000" stop="20210106223500 -0000" channel="gmm25">
-    <title><![CDATA[O SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106223500 -0000" stop="20210106225500 -0000" channel="gmm25">
-    <title><![CDATA[MV]]></title>
-    <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210106225500 -0000" stop="20210106230500 -0000" channel="gmm25">
-    <title><![CDATA[O SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106230500 -0000" stop="20210106232000 -0000" channel="gmm25">
-    <title><![CDATA[MV]]></title>
-    <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210106232000 -0000" stop="20210106233000 -0000" channel="gmm25">
-    <title><![CDATA[O SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106233000 -0000" stop="20210107010000 -0000" channel="gmm25">
-    <title><![CDATA[แฉ (Rerun)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210107010000 -0000" stop="20210107030000 -0000" channel="gmm25">
-    <title><![CDATA[แฉข่าวเช้า (สด)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210107030000 -0000" stop="20210107034500 -0000" channel="gmm25">
-    <title><![CDATA[นานาน่า (สด)]]></title>
-    <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210107034500 -0000" stop="20210107053000 -0000" channel="gmm25">
-    <title><![CDATA[ซีรีส์ WHO ARE YOU เธอคนนั้นคือฉันอีกคน]]></title>
-    <desc><![CDATA[รายการประเภท ละคร]]></desc>
-  </programme>
-  <programme start="20210107053000 -0000" stop="20210107070000 -0000" channel="gmm25">
-    <title><![CDATA[เกาะข่าวเที่ยง (สด)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210107070000 -0000" stop="20210107083000 -0000" channel="gmm25">
-    <title><![CDATA[นานาน่า (สด)]]></title>
-    <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210107083000 -0000" stop="20210107100000 -0000" channel="gmm25">
-    <title><![CDATA[ซีรีส์ Kiss THE SERIES รักต้องจูบ]]></title>
-    <desc><![CDATA[รายการประเภท ละคร]]></desc>
-  </programme>
-  <programme start="20210107100000 -0000" stop="20210107110000 -0000" channel="gmm25">
-    <title><![CDATA[บุษบาจ๊ะจ๋า (สด)]]></title>
-    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
-  </programme>
-  <programme start="20210107110000 -0000" stop="20210107120000 -0000" channel="gmm25">
-    <title><![CDATA[เจาะข่าวค่ำ (สด)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210107120000 -0000" stop="20210107131500 -0000" channel="gmm25">
-    <title><![CDATA[ข่าวแหกโค้ง (สด)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210107131500 -0000" stop="20210107133000 -0000" channel="gmm25">
-    <title><![CDATA[ข่าว]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210107133000 -0000" stop="20210107143000 -0000" channel="gmm25">
-    <title><![CDATA[ซีรีส์ 30 กำลังแจ๋ว THE SERIES]]></title>
-    <desc><![CDATA[รายการประเภท ละคร]]></desc>
-  </programme>
-  <programme start="20210107143000 -0000" stop="20210107160000 -0000" channel="gmm25">
-    <title><![CDATA[แฉ (สด)]]></title>
-    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
-  </programme>
-  <programme start="20210107160000 -0000" stop="20210107165959 -0000" channel="gmm25">
-    <title><![CDATA[Mantra Lady]]></title>
-    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
   </programme>
   <programme start="20210104013000 +0700" stop="20210104032000 +0700" channel="history">
     <title><![CDATA[The Food That Built America]]></title>
@@ -4018,9 +3338,6 @@
     <sub-title><![CDATA[SR-ENT-KN :: Humanity]]></sub-title>
     <desc><![CDATA[สาารคดีที่จะพาไปพบกับเรื่องราวและรายละเอียดแบบเจาะลึกของเหล่าบุคคลที่ต้องเสี่ยงชีวิตเพื่อเอาชนะศัตรูในศึกสงคราม]]></desc>
   </programme>
-  <programme start="20210104093000 +0700" stop="20210104120000 +0700" channel="hitsmovies">
-    <title><![CDATA[Rollerball]]></title>
-  </programme>
   <programme start="20210104120000 +0700" stop="20210104140000 +0700" channel="hitsmovies">
     <title><![CDATA[Fletch]]></title>
   </programme>
@@ -4078,14 +3395,1291 @@
   <programme start="20210105211500 +0700" stop="20210106000000 +0700" channel="hitsmovies">
     <title><![CDATA[Dirty Dancing]]></title>
   </programme>
-  <programme start="20210104042500 -0000" stop="20210104053000 -0000" channel="mcot">
-    <title><![CDATA[ข่าวเที่ยง]]></title>
+  <programme start="20210106000000 +0700" stop="20210106013000 +0700" channel="hitsmovies">
+    <title><![CDATA[See all]]></title>
   </programme>
-  <programme start="20210104053000 -0000" stop="20210104060000 -0000" channel="mcot">
-    <title><![CDATA[Her Day วันของเธอ]]></title>
+  <programme start="20210106013000 +0700" stop="20210106034500 +0700" channel="hitsmovies">
+    <title><![CDATA[Invasion of the Body Snatchers]]></title>
   </programme>
-  <programme start="20210104060000 -0000" stop="20210104063500 -0000" channel="mcot">
-    <title><![CDATA[คัมภีร์วิถีรวย]]></title>
+  <programme start="20210104000000 +0700" stop="20210104005500 +0700" channel="natgeo">
+    <title><![CDATA[Wicked Tuna S9 Compilations]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Fishing, Humanity]]></sub-title>
+    <desc><![CDATA[เรื่องราวของกลุ่มชาวประมงที่มุ่งหน้าไปยังเขตน้ำเย็นจัดทางตอนเหนือของมหาสมุทรแอตแลนติกด้วยความหวังในการจับปลาทูน่าครีบน้ำเงินซึ่งมีมูลค่ามหาศาล]]></desc>
+  </programme>
+  <programme start="20210104005500 +0700" stop="20210104014500 +0700" channel="natgeo">
+    <title><![CDATA[Story of Masters]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Culture]]></sub-title>
+    <desc><![CDATA[พิธีกร แดน ฟอกเลอร์  ออกเดินทางไปพบกับปรมาจารย์แห่งศิลปะทางด้านการต่อสู้เพื่อเรียนรู้ว่าการต่อสู้นั้นสามารถเสริมสร้างสมรรถนะทางร่างกายและจิตใจได้อย่างไร]]></desc>
+  </programme>
+  <programme start="20210104014500 +0700" stop="20210104023500 +0700" channel="natgeo">
+    <title><![CDATA[Exceptional Engineering   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
+    <desc><![CDATA[สารคดีถ่ายทอดเบื้องหลังกระบวนการผลิตน่าทึ่งของยานยนต์ล้ำสมัยและน่าตื่นเต้นที่สุดในโลก]]></desc>
+  </programme>
+  <programme start="20210104023500 +0700" stop="20210104032500 +0700" channel="natgeo">
+    <title><![CDATA[Airport Security: Peru & Brazil]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
+    <desc><![CDATA[สารคดีนำเสนอเบื้องหลังระบบการทำงานของพนักงานและเจ้าหน้าที่รักษาความปลอดภัยแห่งสนามบินนานาชาติในเปรูและบราซิล]]></desc>
+  </programme>
+  <programme start="20210104032500 +0700" stop="20210104041500 +0700" channel="natgeo">
+    <title><![CDATA[Atlas of Cursed Places]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Travel]]></sub-title>
+    <desc><![CDATA[พิธีกร แซม เชอริแดน ออกเดินทางทั่วโลกเพื่อสำรวจและค้นหาสถานที่โบราณอันเต็มไปด้วยเรื่องเล่าขานและคำสาปแช่งในตำนาน]]></desc>
+  </programme>
+  <programme start="20210104041500 +0700" stop="20210104050500 +0700" channel="natgeo">
+    <title><![CDATA[Wicked Tuna S9 Compilations]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Fishing, Humanity]]></sub-title>
+    <desc><![CDATA[เรื่องราวของกลุ่มชาวประมงที่มุ่งหน้าไปยังเขตน้ำเย็นจัดทางตอนเหนือของมหาสมุทรแอตแลนติกด้วยความหวังในการจับปลาทูน่าครีบน้ำเงินซึ่งมีมูลค่ามหาศาล]]></desc>
+  </programme>
+  <programme start="20210104050500 +0700" stop="20210104060000 +0700" channel="natgeo">
+    <title><![CDATA[Exceptional Engineering   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
+    <desc><![CDATA[สารคดีถ่ายทอดเบื้องหลังกระบวนการผลิตน่าทึ่งของยานยนต์ล้ำสมัยและน่าตื่นเต้นที่สุดในโลก]]></desc>
+  </programme>
+  <programme start="20210104060000 +0700" stop="20210104065500 +0700" channel="natgeo">
+    <title><![CDATA[Ultimate Movers]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Documentary]]></sub-title>
+    <desc><![CDATA[ไปติดตามภารกิจที่พวกเขาต้องเคลื่อนย้ายสิ่งของขนาดยักษ์ไม่ว่าจะเป็นถังผลิตเบียร์ขนาดใหญ่ หรือแม้กระท่ังรถไฟไอน้ำที่พวกเขาจะต้องพบกับความท้าทายตลอดเวลา]]></desc>
+  </programme>
+  <programme start="20210104065500 +0700" stop="20210104075000 +0700" channel="natgeo">
+    <title><![CDATA[Story of Masters]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Culture]]></sub-title>
+    <desc><![CDATA[พิธีกร แดน ฟอกเลอร์  ออกเดินทางไปพบกับปรมาจารย์แห่งศิลปะทางด้านการต่อสู้เพื่อเรียนรู้ว่าการต่อสู้นั้นสามารถเสริมสร้างสมรรถนะทางร่างกายและจิตใจได้อย่างไร]]></desc>
+  </programme>
+  <programme start="20210104075000 +0700" stop="20210104084500 +0700" channel="natgeo">
+    <title><![CDATA[Atlas of Cursed Places]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Travel]]></sub-title>
+    <desc><![CDATA[พิธีกร แซม เชอริแดน ออกเดินทางทั่วโลกเพื่อสำรวจและค้นหาสถานที่โบราณอันเต็มไปด้วยเรื่องเล่าขานและคำสาปแช่งในตำนาน]]></desc>
+  </programme>
+  <programme start="20210104084500 +0700" stop="20210104094000 +0700" channel="natgeo">
+    <title><![CDATA[Airport Security: Peru & Brazil]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
+    <desc><![CDATA[สารคดีนำเสนอเบื้องหลังระบบการทำงานของพนักงานและเจ้าหน้าที่รักษาความปลอดภัยแห่งสนามบินนานาชาติในเปรูและบราซิล]]></desc>
+  </programme>
+  <programme start="20210104094000 +0700" stop="20210104103500 +0700" channel="natgeo">
+    <title><![CDATA[Cesar to the Rescue Asia]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Animals]]></sub-title>
+    <desc><![CDATA[ผู้เชี่ยวชาญด้านการฝึกสุนัข ซีซาร์ มิลาน จะมาแนะแนวเทคนิคการฝึกสุนัขพร้อมกับชี้ให้เห็นถึงปัญหาส่วนใหญ่ที่เริ่มขึ้นจากตัวเจ้าของสัตว์เลี้ยงอีกด้วย]]></desc>
+  </programme>
+  <programme start="20210104103500 +0700" stop="20210104113000 +0700" channel="natgeo">
+    <title><![CDATA[Car SOS   [ 7 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Motoring]]></sub-title>
+    <desc><![CDATA[สองพิธีกร ฟัส ทาวน์เซ็นด์ และ ทิม ชอว์ พร้อมลูกทีมจะมาสาธิตการบูรณะและแปลงโฉมรถยนต์โบราณให้กลับมาไฉไลเอี่ยมอ่องเหมือนใหม่อีกครั้ง]]></desc>
+  </programme>
+  <programme start="20210104113000 +0700" stop="20210104115500 +0700" channel="natgeo">
+    <title><![CDATA[Food Factory   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
+    <desc><![CDATA[สารคดีนำเสนอเรื่องราวเบื้องหลังอุตสาหกรรมการผลิตอาหารและเครื่องดื่มนานาชนิดที่ทุกคนชื่นชอบ]]></desc>
+  </programme>
+  <programme start="20210104115500 +0700" stop="20210104122500 +0700" channel="natgeo">
+    <title><![CDATA[Food Factory   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
+    <desc><![CDATA[สารคดีนำเสนอเรื่องราวเบื้องหลังอุตสาหกรรมการผลิตอาหารและเครื่องดื่มนานาชนิดที่ทุกคนชื่นชอบ]]></desc>
+  </programme>
+  <programme start="20210104122500 +0700" stop="20210104125000 +0700" channel="natgeo">
+    <title><![CDATA[Peter Kuruvita's Mexican Fiesta]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Travel]]></sub-title>
+    <desc><![CDATA[ร่วมออกผจญภัยอันน่าตื่นเต้นไปกับพิธีกร ปีเตอร์ คูรูวิต้า ที่ชายแดนสหรัฐอเมริกาเพื่อลิ้มรสอาหารพื้นเมืองขนานแท้แบบฉบับเท็กซัส-เม็กซิกัน เป็นครั้งแรก]]></desc>
+  </programme>
+  <programme start="20210104125000 +0700" stop="20210104132000 +0700" channel="natgeo">
+    <title><![CDATA[Peter Kuruvita's Mexican Fiesta]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Travel]]></sub-title>
+    <desc><![CDATA[ร่วมออกผจญภัยอันน่าตื่นเต้นไปกับพิธีกร ปีเตอร์ คูรูวิต้า ที่ชายแดนสหรัฐอเมริกาเพื่อลิ้มรสอาหารพื้นเมืองขนานแท้แบบฉบับเท็กซัส-เม็กซิกัน เป็นครั้งแรก]]></desc>
+  </programme>
+  <programme start="20210104132000 +0700" stop="20210104141500 +0700" channel="natgeo">
+    <title><![CDATA[Cesar to the Rescue   [ 3 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Animals]]></sub-title>
+    <desc><![CDATA[ผู้เชี่ยวชาญด้านการฝึกสุนัข ซีซาร์ มิลาน จะมาแนะแนวเทคนิคการฝึกสุนัขพร้อมกับชี้ให้เห็นถึงปัญหาส่วนใหญ่ที่เริ่มขึ้นจากตัวเจ้าของสัตว์เลี้ยงอีกด้วย]]></desc>
+  </programme>
+  <programme start="20210104141500 +0700" stop="20210104151000 +0700" channel="natgeo">
+    <title><![CDATA[Seconds from Disaster Compilation]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Humanity, Disaster]]></sub-title>
+    <desc><![CDATA[สารคดีเกี่ยวกับบรรดาความหายนะต่างๆที่เกิดขึ้นทั้งจากฝีมือมนุษย์และธรรมชาติโดยนำเสนอผ่านการลำดับเหตุการณ์และการวิเคราะห์อย่างละเอียดจากผู้เชี่ยวชาญ]]></desc>
+  </programme>
+  <programme start="20210104151000 +0700" stop="20210104160500 +0700" channel="natgeo">
+    <title><![CDATA[Exceptional Engineering   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
+    <desc><![CDATA[สารคดีถ่ายทอดเบื้องหลังกระบวนการผลิตน่าทึ่งของยานยนต์ล้ำสมัยและน่าตื่นเต้นที่สุดในโลก]]></desc>
+  </programme>
+  <programme start="20210104160500 +0700" stop="20210104170000 +0700" channel="natgeo">
+    <title><![CDATA[Primal Survivor China]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Survival]]></sub-title>
+    <desc><![CDATA[พิธีกร เฮซเซ็น ออเดล ออกผจญภัยไปในป่าดงดิบซึ่งน้อยคนจะสามารถเข้าถึงได้โดยเขาอาศัยทักษะการดำรงชีพพร้อมวิธีการเอาตัวรอดของชาวพื้นเมืองในพงไพร]]></desc>
+  </programme>
+  <programme start="20210104170000 +0700" stop="20210104180000 +0700" channel="natgeo">
+    <title><![CDATA[Air Crash Investigation: Special Report]]></title>
+    <sub-title><![CDATA[KNOWLEDGE :: Disaster]]></sub-title>
+    <desc><![CDATA[สารคดีนำเสนอการวิเคราะห์สืบสวนบรรดาเหตุการณ์เครื่องบินตกจากทั่วทุกมุมโลกโดยรวบรวมข้อมูลจากรายงานการกู้ซากเครื่องบินและบทสัมภาษณ์ผู้เชี่ยวชาญและผู้เห็นเหตุการณ์]]></desc>
+  </programme>
+  <programme start="20210104180000 +0700" stop="20210104183000 +0700" channel="natgeo">
+    <title><![CDATA[Peter Kuruvita's Mexican Fiesta]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Travel]]></sub-title>
+    <desc><![CDATA[ร่วมออกผจญภัยอันน่าตื่นเต้นไปกับพิธีกร ปีเตอร์ คูรูวิต้า ที่ชายแดนสหรัฐอเมริกาเพื่อลิ้มรสอาหารพื้นเมืองขนานแท้แบบฉบับเท็กซัส-เม็กซิกัน เป็นครั้งแรก]]></desc>
+  </programme>
+  <programme start="20210104183000 +0700" stop="20210104190000 +0700" channel="natgeo">
+    <title><![CDATA[Peter Kuruvita's Mexican Fiesta]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Travel]]></sub-title>
+    <desc><![CDATA[ร่วมออกผจญภัยอันน่าตื่นเต้นไปกับพิธีกร ปีเตอร์ คูรูวิต้า ที่ชายแดนสหรัฐอเมริกาเพื่อลิ้มรสอาหารพื้นเมืองขนานแท้แบบฉบับเท็กซัส-เม็กซิกัน เป็นครั้งแรก]]></desc>
+  </programme>
+  <programme start="20210104190000 +0700" stop="20210104193000 +0700" channel="natgeo">
+    <title><![CDATA[Food Factory   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
+    <desc><![CDATA[สารคดีนำเสนอเรื่องราวเบื้องหลังอุตสาหกรรมการผลิตอาหารและเครื่องดื่มนานาชนิดที่ทุกคนชื่นชอบ]]></desc>
+  </programme>
+  <programme start="20210104193000 +0700" stop="20210104200000 +0700" channel="natgeo">
+    <title><![CDATA[Food Factory   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
+    <desc><![CDATA[สารคดีนำเสนอเรื่องราวเบื้องหลังอุตสาหกรรมการผลิตอาหารและเครื่องดื่มนานาชนิดที่ทุกคนชื่นชอบ]]></desc>
+  </programme>
+  <programme start="20210104200000 +0700" stop="20210104210000 +0700" channel="natgeo">
+    <title><![CDATA[Exceptional Engineering   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
+    <desc><![CDATA[สารคดีถ่ายทอดเบื้องหลังกระบวนการผลิตน่าทึ่งของยานยนต์ล้ำสมัยและน่าตื่นเต้นที่สุดในโลก]]></desc>
+  </programme>
+  <programme start="20210104210000 +0700" stop="20210104220000 +0700" channel="natgeo">
+    <title><![CDATA[Primal Survivor China]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Survival]]></sub-title>
+    <desc><![CDATA[พิธีกร เฮซเซ็น ออเดล ออกผจญภัยไปในป่าดงดิบซึ่งน้อยคนจะสามารถเข้าถึงได้โดยเขาอาศัยทักษะการดำรงชีพพร้อมวิธีการเอาตัวรอดของชาวพื้นเมืองในพงไพร]]></desc>
+  </programme>
+  <programme start="20210104220000 +0700" stop="20210104230000 +0700" channel="natgeo">
+    <title><![CDATA[Seconds from Disaster   [ 6 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Humanity, Disaster]]></sub-title>
+    <desc><![CDATA[สารคดีเกี่ยวกับบรรดาความหายนะต่างๆที่เกิดขึ้นทั้งจากฝีมือมนุษย์และธรรมชาติโดยนำเสนอผ่านการลำดับเหตุการณ์และการวิเคราะห์อย่างละเอียดจากผู้เชี่ยวชาญ]]></desc>
+  </programme>
+  <programme start="20210104230000 +0700" stop="20210104233000 +0700" channel="natgeo">
+    <title><![CDATA[Food Factory   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
+    <desc><![CDATA[สารคดีนำเสนอเรื่องราวเบื้องหลังอุตสาหกรรมการผลิตอาหารและเครื่องดื่มนานาชนิดที่ทุกคนชื่นชอบ]]></desc>
+  </programme>
+  <programme start="20210104233000 +0700" stop="20210104235959 +0700" channel="natgeo">
+    <title><![CDATA[Food Factory   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
+    <desc><![CDATA[สารคดีนำเสนอเรื่องราวเบื้องหลังอุตสาหกรรมการผลิตอาหารและเครื่องดื่มนานาชนิดที่ทุกคนชื่นชอบ]]></desc>
+  </programme>
+  <programme start="20210104065000 -0000" stop="20210104070000 -0000" channel="nation">
+    <title><![CDATA[ทันช้อป ทันใช้]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210104070000 -0000" stop="20210104074000 -0000" channel="nation">
+    <title><![CDATA[กรุงเทพธุรกิจ Biz Insight]]></title>
+    <desc><![CDATA[เจาะลึก เรื่องเศรษฐกิจ ธุรกิจ สร้างพลังและแรงบันดาลใจในการลงทุน]]></desc>
+  </programme>
+  <programme start="20210104072500 -0000" stop="20210104085500 -0000" channel="ch8">
+    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
+    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
+  </programme>
+  <programme start="20210104074000 -0000" stop="20210104082000 -0000" channel="nation">
+    <title><![CDATA[เรื่องลับมาก  (L)]]></title>
+    <desc><![CDATA[เรื่องลับ เรื่องร้อน เรื่องเด็ด เรื่องดัง ในสังคมโซเชียล ดร.เสรี วงษ์มณฑา จะนำมาเปิดเผยในห้องลับนี้]]></desc>
+  </programme>
+  <programme start="20210104085500 -0000" stop="20210104090500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210104090500 -0000" stop="20210104095000 -0000" channel="ch8">
+    <title><![CDATA[ข่าวใหญ่ช่อง 8]]></title>
+    <desc><![CDATA[รายการที่นำเสนอข่าวสำคัญประเด็นดัง ทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210104083000 -0000" stop="20210104100000 -0000" channel="gmm25">
+    <title><![CDATA[ซีรีส์ Kiss THE SERIES รักต้องจูบ (ตอนแรก)]]></title>
+    <desc><![CDATA[รายการประเภท ละคร]]></desc>
+  </programme>
+  <programme start="20210104082000 -0000" stop="20210104083000 -0000" channel="nation">
+    <title><![CDATA[สุข Society]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210104083000 -0000" stop="20210104090000 -0000" channel="nation">
+    <title><![CDATA[ราศีสุขภาพ]]></title>
+    <desc><![CDATA[โหราศาสตร์กับการดูแลสุขภาพ]]></desc>
+  </programme>
+  <programme start="20210104090000 -0000" stop="20210104090500 -0000" channel="nation">
+    <title><![CDATA[มีเรื่องมาคุย (CC)]]></title>
+    <desc><![CDATA[วาไรตี้ การจัดอันดับ เรื่องราวทั่วโลก ทั่วไทย เรื่องรอบตัว สไตล์ กฤษนะ ละไล]]></desc>
+  </programme>
+  <programme start="20210104090500 -0000" stop="20210104091500 -0000" channel="nation">
+    <title><![CDATA[สุข Society]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210104091500 -0000" stop="20210104095000 -0000" channel="nation">
+    <title><![CDATA[เนชั่น ระวังภัย (L)]]></title>
+    <desc><![CDATA[เป็นหู เป็นตา เรื่องราว อาชญากรรมสังคม ช่วยกันระวังภัย]]></desc>
+  </programme>
+  <programme start="20210104095000 -0000" stop="20210104100000 -0000" channel="nation">
+    <title><![CDATA[สุข Society]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้าต่างๆ สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210104095000 -0000" stop="20210104120000 -0000" channel="ch8">
+    <title><![CDATA[คุยข่าวเย็นช่อง 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210104100000 -0000" stop="20210104110000 -0000" channel="gmm25">
+    <title><![CDATA[บุษบาจ๊ะจ๋า (สด)]]></title>
+    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
+  </programme>
+  <programme start="20210104110000 -0000" stop="20210104120000 -0000" channel="gmm25">
+    <title><![CDATA[เจาะข่าวค่ำ (สด)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210104100000 -0000" stop="20210104110000 -0000" channel="nation">
+    <title><![CDATA[เนชั่นทันข่าว เย็น  (L)]]></title>
+    <desc><![CDATA[รู้ทันข่าวร้อน ขีดเส้นใต้ข่าวเด่น]]></desc>
+  </programme>
+  <programme start="20210104110000 -0000" stop="20210104111000 -0000" channel="nation">
+    <title><![CDATA[ที่นี่มีสุข]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้าต่างๆ สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210104111000 -0000" stop="20210104125000 -0000" channel="nation">
+    <title><![CDATA[เนชั่นทันข่าว ค่ำ (L)]]></title>
+    <desc><![CDATA[รู้ทันข่าวร้อน ขีดเส้นใต้ข่าวเด่น]]></desc>
+  </programme>
+  <programme start="20210104120000 -0000" stop="20210104130000 -0000" channel="ch8">
+    <title><![CDATA[ละคร ขุมทรัพย์ลำโขง]]></title>
+    <desc><![CDATA[นำแสดงโดย พิ้งกี้-สาวิกา  อาร์ต-พศุตม์  เต๋า-สมชาย  ณฉัตร-วัลเณซ่า]]></desc>
+  </programme>
+  <programme start="20210104120000 -0000" stop="20210104131500 -0000" channel="gmm25">
+    <title><![CDATA[ข่าวแหกโค้ง (สด)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210104125000 -0000" stop="20210104130000 -0000" channel="nation">
+    <title><![CDATA[สุข Society]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้าต่างๆ สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210104130000 -0000" stop="20210104131000 -0000" channel="nation">
+    <title><![CDATA[ข่าวพระราชสำนัก]]></title>
+  </programme>
+  <programme start="20210104130000 -0000" stop="20210104131500 -0000" channel="ch8">
+    <title><![CDATA[ข่าวในพระราชสำนัก]]></title>
+  </programme>
+  <programme start="20210104131500 -0000" stop="20210104132000 -0000" channel="ch8">
+    <title><![CDATA[เผ็ดมันส์บันเทิง]]></title>
+    <desc><![CDATA[รายการข่าวที่ติดตามและอัพเดทข่าวสารในวงการบันเทิงล่าสุด]]></desc>
+  </programme>
+  <programme start="20210104132000 -0000" stop="20210104142000 -0000" channel="ch8">
+    <title><![CDATA[ละคร เพลิงภริยา]]></title>
+    <desc><![CDATA[นำแสดงโดย ศรราม เทพพิทักษ์ แคทรียา อิงลิช ไนกี้ นิธิดล ไอซ์ อามีนา]]></desc>
+  </programme>
+  <programme start="20210104131500 -0000" stop="20210104133000 -0000" channel="gmm25">
+    <title><![CDATA[ข่าว]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210104131000 -0000" stop="20210104152000 -0000" channel="nation">
+    <title><![CDATA[ข่าวข้นคนข่าว (L)]]></title>
+    <desc><![CDATA[รายการ วิเคราะห์ข่าว กับ 3 คนข่าวเนชั่น]]></desc>
+  </programme>
+  <programme start="20210104142000 -0000" stop="20210104162000 -0000" channel="ch8">
+    <title><![CDATA[เกาะติดข่าว 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210104133000 -0000" stop="20210104143000 -0000" channel="gmm25">
+    <title><![CDATA[ซีรีส์ เจ้าหญิงเม็ดทราย (ตอนแรก)]]></title>
+    <desc><![CDATA[รายการประเภท ละคร]]></desc>
+  </programme>
+  <programme start="20210104143000 -0000" stop="20210104160000 -0000" channel="gmm25">
+    <title><![CDATA[แฉ (สด)]]></title>
+    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
+  </programme>
+  <programme start="20210104152000 -0000" stop="20210104162000 -0000" channel="nation">
+    <title><![CDATA[คิดต่าง ฟัง รอบด้าน  (L)]]></title>
+    <desc><![CDATA[สนทนากับบุคคลในกระแส สังคม การเมือง เศรษฐกิจ]]></desc>
+  </programme>
+  <programme start="20210104162000 -0000" stop="20210104163000 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210104163000 -0000" stop="20210104165959 -0000" channel="ch8">
+    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
+    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
+  </programme>
+  <programme start="20210104160000 -0000" stop="20210104165959 -0000" channel="gmm25">
+    <title><![CDATA[ดาราล้อกันเล่น (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
+  </programme>
+  <programme start="20210104162000 -0000" stop="20210104165959 -0000" channel="nation">
+    <title><![CDATA[จุดวัดดวงข่าว  (L)]]></title>
+    <desc><![CDATA[วิเคราะห์สถานการณ์ เหตุการณ์ และบุคคลโดยใช้โหราศาสตร์จีน พร้อมให้คำแนะนำการดูแลชีวิตและสุขภาพอย่างสมดุลครบทุกด้าน]]></desc>
+  </programme>
+  <programme start="20210104170000 -0000" stop="20210104173000 -0000" channel="nation">
+    <title><![CDATA[เนชั่นข่าวเด่นเที่ยงคืน]]></title>
+    <desc><![CDATA[ประมวลข่าวเด่นรอบวัน]]></desc>
+  </programme>
+  <programme start="20210104170000 -0000" stop="20210104175500 -0000" channel="ch8">
+    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
+    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
+  </programme>
+  <programme start="20210104170000 -0000" stop="20210104172000 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210104172000 -0000" stop="20210104184000 -0000" channel="gmm25">
+    <title><![CDATA[เจาะข่าวค่ำ (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210104173000 -0000" stop="20210104180000 -0000" channel="nation">
+    <title><![CDATA[TVD Shop]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210104175500 -0000" stop="20210104180500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210104180000 -0000" stop="20210104183000 -0000" channel="nation">
+    <title><![CDATA[เนชั่น ระวังภัย [R]]]></title>
+    <desc><![CDATA[เป็นหู เป็นตา ช่วยเหลือ เรื่องราว อาชญากรรมสังคม ช่วยกันระวังภัย]]></desc>
+  </programme>
+  <programme start="20210104180500 -0000" stop="20210104190000 -0000" channel="ch8">
+    <title><![CDATA[ละคร ขุมทรัพย์ลำโขง]]></title>
+    <desc><![CDATA[นำแสดงโดย พิ้งกี้-สาวิกา  อาร์ต-พศุตม์  เต๋า-สมชาย  ณฉัตร-วัลเณซ่า]]></desc>
+  </programme>
+  <programme start="20210104184000 -0000" stop="20210104203000 -0000" channel="gmm25">
+    <title><![CDATA[ข่าวแหกโค้ง (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210104183000 -0000" stop="20210104183500 -0000" channel="nation">
+    <title><![CDATA[มีเรื่องมาคุย (CC)]]></title>
+    <desc><![CDATA[วาไรตี้ การจัดอันดับ เรื่องราวทั่วโลก ทั่วไทย เรื่องรอบตัว สไตล์ กฤษนะ ละไล]]></desc>
+  </programme>
+  <programme start="20210104183500 -0000" stop="20210104200000 -0000" channel="nation">
+    <title><![CDATA[เนชั่นทันข่าว ค่ำ  [R]]]></title>
+    <desc><![CDATA[รู้ทันข่าวร้อน ขีดเส้นใต้ข่าวเด่น ในรอบวัน]]></desc>
+  </programme>
+  <programme start="20210104190000 -0000" stop="20210104195500 -0000" channel="ch8">
+    <title><![CDATA[ละคร เพลิงภริยา]]></title>
+    <desc><![CDATA[นำแสดงโดย ศรราม เทพพิทักษ์ แคทรียา อิงลิช ไนกี้ นิธิดล ไอซ์ อามีนา]]></desc>
+  </programme>
+  <programme start="20210104195500 -0000" stop="20210104200500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210104200500 -0000" stop="20210104210500 -0000" channel="ch8">
+    <title><![CDATA[เรื่องว้าวเล่าโลก]]></title>
+    <desc><![CDATA[รายการสารคดีที่จะพาไปดูเรื่องราวต่างๆจากทั่วทุกมุมโลก]]></desc>
+  </programme>
+  <programme start="20210104210500 -0000" stop="20210104211500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210104211500 -0000" stop="20210104220000 -0000" channel="ch8">
+    <title><![CDATA[คุยข่าวเช้ารุ่งอรุณช่อง 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210104220000 -0000" stop="20210104223000 -0000" channel="ch8">
+    <title><![CDATA[คุยข่าวเช้ารุ่งอรุณช่อง 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210104223000 -0000" stop="20210104224000 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210104224000 -0000" stop="20210104230000 -0000" channel="ch8">
+    <title><![CDATA[คุยข่าวเช้ารุ่งอรุณช่อง 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210104230000 -0000" stop="20210105020000 -0000" channel="ch8">
+    <title><![CDATA[คุยข่าวเช้าช่อง 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210104203000 -0000" stop="20210104205000 -0000" channel="gmm25">
+    <title><![CDATA[TRUE SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210104205000 -0000" stop="20210104215000 -0000" channel="gmm25">
+    <title><![CDATA[ธรรมนำชีวิต]]></title>
+    <desc><![CDATA[รายการประเภท สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210104200000 -0000" stop="20210104204500 -0000" channel="nation">
+    <title><![CDATA[คิดต่าง ฟัง รอบด้าน  [R]]]></title>
+    <desc><![CDATA[สนทนากับบุคคลในกระแส สังคม การเมือง เศรษฐกิจ]]></desc>
+  </programme>
+  <programme start="20210104204500 -0000" stop="20210104223500 -0000" channel="nation">
+    <title><![CDATA[ข่าวข้นคนข่าว [R]]]></title>
+    <desc><![CDATA[รายการ วิเคราะห์ข่าว กับ 3 คนข่าวเนชั่น]]></desc>
+  </programme>
+  <programme start="20210104215000 -0000" stop="20210104221000 -0000" channel="gmm25">
+    <title><![CDATA[TRUE SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210104221000 -0000" stop="20210104222500 -0000" channel="gmm25">
+    <title><![CDATA[MV]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210104222500 -0000" stop="20210104223500 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210104223500 -0000" stop="20210104225500 -0000" channel="gmm25">
+    <title><![CDATA[MV]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210104225500 -0000" stop="20210104230500 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210104223500 -0000" stop="20210104230000 -0000" channel="nation">
+    <title><![CDATA[Show Time]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า  สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210104230000 -0000" stop="20210105010000 -0000" channel="nation">
+    <title><![CDATA[ขยี้ข่าวเช้า(L)]]></title>
+    <desc><![CDATA[เปิดประเด็นข่าวเช้า ขยี้ข่าวให้ลึก กระจ่างชัด]]></desc>
+  </programme>
+  <programme start="20210104230500 -0000" stop="20210104232000 -0000" channel="gmm25">
+    <title><![CDATA[MV]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210104232000 -0000" stop="20210104233000 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210104233000 -0000" stop="20210105010000 -0000" channel="gmm25">
+    <title><![CDATA[แฉ (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210105010000 -0000" stop="20210105012000 -0000" channel="nation">
+    <title><![CDATA[เนชั่น ข่าวข้นกีฬาเข้ม (L)]]></title>
+    <desc><![CDATA[ข่าวแวดวงกีฬา]]></desc>
+  </programme>
+  <programme start="20210105010000 -0000" stop="20210105030000 -0000" channel="gmm25">
+    <title><![CDATA[แฉข่าวเช้า (สด)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210105012000 -0000" stop="20210105013000 -0000" channel="nation">
+    <title><![CDATA[สุข Society]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า  สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210105013000 -0000" stop="20210105030000 -0000" channel="nation">
+    <title><![CDATA[เนชั่น คนข่าวเข้ม  (L)]]></title>
+    <desc><![CDATA[ขยี้ข่าวเข้มข้น จากตัวตนคนข่าวเนชั่น]]></desc>
+  </programme>
+  <programme start="20210105020000 -0000" stop="20210105021000 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210105021000 -0000" stop="20210105031000 -0000" channel="ch8">
+    <title><![CDATA[ปากท้องต้องรู้]]></title>
+    <desc><![CDATA[รายการข่าวกลไกราคาสินค้าเกษตร และสินค้าอุปโภคบริโภค]]></desc>
+  </programme>
+  <programme start="20210105031000 -0000" stop="20210105032000 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210105032000 -0000" stop="20210105040500 -0000" channel="ch8">
+    <title><![CDATA[แซ่บ 108]]></title>
+    <desc><![CDATA[รายการข่าวที่ติดตามและอัพเดทข่าวสารในวงการบันเทิงล่าสุด]]></desc>
+  </programme>
+  <programme start="20210105030000 -0000" stop="20210105034500 -0000" channel="gmm25">
+    <title><![CDATA[นานาน่า (สด)]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210105030000 -0000" stop="20210105031000 -0000" channel="nation">
+    <title><![CDATA[สุข Society]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210105031000 -0000" stop="20210105040000 -0000" channel="nation">
+    <title><![CDATA[ถามสุดซอย  (L)]]></title>
+    <desc><![CDATA[รายการสนทนาถามตรง ข่าวเด่นกระแสดังในสังคม กับ พรหมพร & ธัญญาเรศ]]></desc>
+  </programme>
+  <programme start="20210105034500 -0000" stop="20210105053000 -0000" channel="gmm25">
+    <title><![CDATA[ซีรีส์ WHO ARE YOU เธอคนนั้นคือฉันอีกคน]]></title>
+    <desc><![CDATA[รายการประเภท ละคร]]></desc>
+  </programme>
+  <programme start="20210105040000 -0000" stop="20210105045000 -0000" channel="nation">
+    <title><![CDATA[ฐานทอล์ค (L)]]></title>
+    <desc><![CDATA[รู้เรืองราวข่าวสาร เศรษฐกิจ หุ้น การค้า การลงทุน นโยบายรัฐ รอบด้าน รอบโลก]]></desc>
+  </programme>
+  <programme start="20210105040500 -0000" stop="20210105053500 -0000" channel="ch8">
+    <title><![CDATA[ข่าวเด่นช่อง 8]]></title>
+    <desc><![CDATA[รายการรายงานข่าวทั่วไปทั้งในและต่างประเทศให้ทันทุกเหตุการณ์]]></desc>
+  </programme>
+  <programme start="20210105045000 -0000" stop="20210105050000 -0000" channel="nation">
+    <title><![CDATA[สุข Society]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210105050000 -0000" stop="20210105065000 -0000" channel="nation">
+    <title><![CDATA[เนชั่น ทันข่าวเที่ยง (L)]]></title>
+    <desc><![CDATA[ข่าว]]></desc>
+  </programme>
+  <programme start="20210105053500 -0000" stop="20210105054500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210105054500 -0000" stop="20210105061500 -0000" channel="ch8">
+    <title><![CDATA[เรื่องว้าวเล่าโลก]]></title>
+    <desc><![CDATA[รายการสารคดีที่จะพาไปดูเรื่องราวต่างๆจากทั่วทุกมุมโลก]]></desc>
+  </programme>
+  <programme start="20210105061500 -0000" stop="20210105071500 -0000" channel="ch8">
+    <title><![CDATA[ซีรี่ส์ พิฆเนศ มหาเทพไอยรา]]></title>
+    <desc><![CDATA[เรื่องราวแห่งทวยเทพที่เต็มเปี่ยมไปด้วยสติปัญญา ศรัทธา ความสำเร็จ องค์มหาเทพที่ผู้คนนับถือมากที่สุดของโลก]]></desc>
+  </programme>
+  <programme start="20210105071500 -0000" stop="20210105072500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210105053000 -0000" stop="20210105070000 -0000" channel="gmm25">
+    <title><![CDATA[เกาะข่าวเที่ยง (สด)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210105070000 -0000" stop="20210105083000 -0000" channel="gmm25">
+    <title><![CDATA[นานาน่า (สด)]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210105065000 -0000" stop="20210105070000 -0000" channel="nation">
+    <title><![CDATA[ทันช้อป ทันใช้]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210105070000 -0000" stop="20210105074000 -0000" channel="nation">
+    <title><![CDATA[กรุงเทพธุรกิจ Biz Insight]]></title>
+    <desc><![CDATA[เจาะลึก เรื่องเศรษฐกิจ ธุรกิจ สร้างพลังและแรงบันดาลใจในการลงทุน]]></desc>
+  </programme>
+  <programme start="20210105072500 -0000" stop="20210105085500 -0000" channel="ch8">
+    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
+    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
+  </programme>
+  <programme start="20210105074000 -0000" stop="20210105082000 -0000" channel="nation">
+    <title><![CDATA[เรื่องลับมาก  (L)]]></title>
+    <desc><![CDATA[เรื่องลับ เรื่องร้อน เรื่องเด็ด เรื่องดัง ในสังคมโซเชียล ดร.เสรี วงษ์มณฑา จะนำมาเปิดเผยในห้องลับนี้]]></desc>
+  </programme>
+  <programme start="20210105085500 -0000" stop="20210105090500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210105090500 -0000" stop="20210105095000 -0000" channel="ch8">
+    <title><![CDATA[ข่าวใหญ่ช่อง 8]]></title>
+    <desc><![CDATA[รายการที่นำเสนอข่าวสำคัญประเด็นดัง ทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210105083000 -0000" stop="20210105100000 -0000" channel="gmm25">
+    <title><![CDATA[ซีรีส์ Kiss THE SERIES รักต้องจูบ]]></title>
+    <desc><![CDATA[รายการประเภท ละคร]]></desc>
+  </programme>
+  <programme start="20210105082000 -0000" stop="20210105083000 -0000" channel="nation">
+    <title><![CDATA[สุข Society]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210105083000 -0000" stop="20210105090000 -0000" channel="nation">
+    <title><![CDATA[ราศีสุขภาพ]]></title>
+    <desc><![CDATA[โหราศาสตร์กับการดูแลสุขภาพ]]></desc>
+  </programme>
+  <programme start="20210105090000 -0000" stop="20210105090500 -0000" channel="nation">
+    <title><![CDATA[มีเรื่องมาคุย (CC)]]></title>
+    <desc><![CDATA[วาไรตี้ การจัดอันดับ เรื่องราวทั่วโลก ทั่วไทย เรื่องรอบตัว สไตล์ กฤษนะ ละไล]]></desc>
+  </programme>
+  <programme start="20210105090500 -0000" stop="20210105091500 -0000" channel="nation">
+    <title><![CDATA[สุข Society]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210105091500 -0000" stop="20210105095000 -0000" channel="nation">
+    <title><![CDATA[เนชั่น ระวังภัย (L)]]></title>
+    <desc><![CDATA[เป็นหู เป็นตา ช่วยเหลือ เรื่องราว อาชญากรรมสังคม ช่วยกันระวังภัย]]></desc>
+  </programme>
+  <programme start="20210105095000 -0000" stop="20210105100000 -0000" channel="nation">
+    <title><![CDATA[สุข Society]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้าต่างๆ สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210105095000 -0000" stop="20210105120000 -0000" channel="ch8">
+    <title><![CDATA[คุยข่าวเย็นช่อง 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210105100000 -0000" stop="20210105110000 -0000" channel="gmm25">
+    <title><![CDATA[บุษบาจ๊ะจ๋า (สด)]]></title>
+    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
+  </programme>
+  <programme start="20210105110000 -0000" stop="20210105120000 -0000" channel="gmm25">
+    <title><![CDATA[เจาะข่าวค่ำ (สด)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210105100000 -0000" stop="20210105110000 -0000" channel="nation">
+    <title><![CDATA[เนชั่นทันข่าว เย็น  (L)]]></title>
+    <desc><![CDATA[รู้ทันข่าวร้อน ขีดเส้นใต้ข่าวเด่น]]></desc>
+  </programme>
+  <programme start="20210105110000 -0000" stop="20210105111000 -0000" channel="nation">
+    <title><![CDATA[ที่นี่มีสุข]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้าต่างๆ สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210105111000 -0000" stop="20210105125000 -0000" channel="nation">
+    <title><![CDATA[เนชั่นทันข่าว ค่ำ (L)]]></title>
+    <desc><![CDATA[รู้ทันข่าวร้อน ขีดเส้นใต้ข่าวเด่น]]></desc>
+  </programme>
+  <programme start="20210105120000 -0000" stop="20210105130000 -0000" channel="ch8">
+    <title><![CDATA[ละคร ขุมทรัพย์ลำโขง]]></title>
+    <desc><![CDATA[นำแสดงโดย พิ้งกี้-สาวิกา  อาร์ต-พศุตม์  เต๋า-สมชาย  ณฉัตร-วัลเณซ่า]]></desc>
+  </programme>
+  <programme start="20210105120000 -0000" stop="20210105131500 -0000" channel="gmm25">
+    <title><![CDATA[ข่าวแหกโค้ง (สด)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210105125000 -0000" stop="20210105130000 -0000" channel="nation">
+    <title><![CDATA[สุข Society]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้าต่างๆ สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210105130000 -0000" stop="20210105131000 -0000" channel="nation">
+    <title><![CDATA[ข่าวพระราชสำนัก]]></title>
+  </programme>
+  <programme start="20210105130000 -0000" stop="20210105131500 -0000" channel="ch8">
+    <title><![CDATA[ข่าวในพระราชสำนัก]]></title>
+  </programme>
+  <programme start="20210105131500 -0000" stop="20210105132000 -0000" channel="ch8">
+    <title><![CDATA[เผ็ดมันส์บันเทิง]]></title>
+    <desc><![CDATA[รายการข่าวที่ติดตามและอัพเดทข่าวสารในวงการบันเทิงล่าสุด]]></desc>
+  </programme>
+  <programme start="20210105132000 -0000" stop="20210105142000 -0000" channel="ch8">
+    <title><![CDATA[ละคร เพลิงภริยา]]></title>
+    <desc><![CDATA[นำแสดงโดย ศรราม เทพพิทักษ์ แคทรียา อิงลิช ไนกี้ นิธิดล ไอซ์ อามีนา]]></desc>
+  </programme>
+  <programme start="20210105131500 -0000" stop="20210105133000 -0000" channel="gmm25">
+    <title><![CDATA[ข่าว]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210105131000 -0000" stop="20210105152000 -0000" channel="nation">
+    <title><![CDATA[ข่าวข้นคนข่าว (L)]]></title>
+    <desc><![CDATA[รายการ วิเคราะห์ข่าว กับ 3 คนข่าวเนชั่น]]></desc>
+  </programme>
+  <programme start="20210105142000 -0000" stop="20210105162000 -0000" channel="ch8">
+    <title><![CDATA[เกาะติดข่าว 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210105133000 -0000" stop="20210105143000 -0000" channel="gmm25">
+    <title><![CDATA[ซีรีส์ เจ้าหญิงเม็ดทราย]]></title>
+    <desc><![CDATA[รายการประเภท ละคร]]></desc>
+  </programme>
+  <programme start="20210105143000 -0000" stop="20210105160000 -0000" channel="gmm25">
+    <title><![CDATA[แฉ (สด)]]></title>
+    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
+  </programme>
+  <programme start="20210105152000 -0000" stop="20210105162000 -0000" channel="nation">
+    <title><![CDATA[คิดต่าง ฟัง รอบด้าน  (L)]]></title>
+    <desc><![CDATA[สนทนากับบุคคลในกระแส สังคม การเมือง เศรษฐกิจ]]></desc>
+  </programme>
+  <programme start="20210105162000 -0000" stop="20210105163000 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210105163000 -0000" stop="20210105165959 -0000" channel="ch8">
+    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
+    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
+  </programme>
+  <programme start="20210105160000 -0000" stop="20210105165959 -0000" channel="gmm25">
+    <title><![CDATA[ไทยทึ่ง Special (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
+  </programme>
+  <programme start="20210105162000 -0000" stop="20210105165959 -0000" channel="nation">
+    <title><![CDATA[จุดวัดดวงข่าว  (L)]]></title>
+    <desc><![CDATA[วิเคราะห์สถานการณ์ เหตุการณ์ และบุคคลโดยใช้โหราศาสตร์จีน พร้อมให้คำแนะนำการดูแลชีวิตและสุขภาพอย่างสมดุลครบทุกด้าน]]></desc>
+  </programme>
+  <programme start="20210105170000 -0000" stop="20210105173000 -0000" channel="nation">
+    <title><![CDATA[เนชั่นข่าวเด่นเที่ยงคืน]]></title>
+    <desc><![CDATA[ประมวลข่าวเด่นรอบวัน]]></desc>
+  </programme>
+  <programme start="20210105170000 -0000" stop="20210105175500 -0000" channel="ch8">
+    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
+    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
+  </programme>
+  <programme start="20210105170000 -0000" stop="20210105172000 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210105172000 -0000" stop="20210105184000 -0000" channel="gmm25">
+    <title><![CDATA[เจาะข่าวค่ำ (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210105173000 -0000" stop="20210105180000 -0000" channel="nation">
+    <title><![CDATA[TVD Shop]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210105175500 -0000" stop="20210105180500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210105180000 -0000" stop="20210105183000 -0000" channel="nation">
+    <title><![CDATA[เนชั่น ระวังภัย [R]]]></title>
+    <desc><![CDATA[เป็นหู เป็นตา ช่วยเหลือ เรื่องราว อาชญากรรมสังคม ช่วยกันระวังภัย]]></desc>
+  </programme>
+  <programme start="20210105180500 -0000" stop="20210105190000 -0000" channel="ch8">
+    <title><![CDATA[ละคร ขุมทรัพย์ลำโขง]]></title>
+    <desc><![CDATA[นำแสดงโดย พิ้งกี้-สาวิกา  อาร์ต-พศุตม์  เต๋า-สมชาย  ณฉัตร-วัลเณซ่า]]></desc>
+  </programme>
+  <programme start="20210105184000 -0000" stop="20210105203000 -0000" channel="gmm25">
+    <title><![CDATA[ข่าวแหกโค้ง (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210105183000 -0000" stop="20210105183500 -0000" channel="nation">
+    <title><![CDATA[มีเรื่องมาคุย (CC)]]></title>
+    <desc><![CDATA[วาไรตี้ การจัดอันดับ เรื่องราวทั่วโลก ทั่วไทย เรื่องรอบตัว สไตล์ กฤษนะ ละไล]]></desc>
+  </programme>
+  <programme start="20210105183500 -0000" stop="20210105200000 -0000" channel="nation">
+    <title><![CDATA[เนชั่นทันข่าว ค่ำ  [R]]]></title>
+    <desc><![CDATA[รู้ทันข่าวร้อน ขีดเส้นใต้ข่าวเด่น ในรอบวัน]]></desc>
+  </programme>
+  <programme start="20210105190000 -0000" stop="20210105195500 -0000" channel="ch8">
+    <title><![CDATA[ละคร เพลิงภริยา]]></title>
+    <desc><![CDATA[นำแสดงโดย ศรราม เทพพิทักษ์ แคทรียา อิงลิช ไนกี้ นิธิดล ไอซ์ อามีนา]]></desc>
+  </programme>
+  <programme start="20210105195500 -0000" stop="20210105200500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210105200500 -0000" stop="20210105210500 -0000" channel="ch8">
+    <title><![CDATA[เรื่องว้าวเล่าโลก]]></title>
+    <desc><![CDATA[รายการสารคดีที่จะพาไปดูเรื่องราวต่างๆจากทั่วทุกมุมโลก]]></desc>
+  </programme>
+  <programme start="20210105210500 -0000" stop="20210105211500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210105211500 -0000" stop="20210105220000 -0000" channel="ch8">
+    <title><![CDATA[คุยข่าวเช้ารุ่งอรุณช่อง 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210105220000 -0000" stop="20210105223000 -0000" channel="ch8">
+    <title><![CDATA[คุยข่าวเช้ารุ่งอรุณช่อง 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210105223000 -0000" stop="20210105224000 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210105224000 -0000" stop="20210105230000 -0000" channel="ch8">
+    <title><![CDATA[คุยข่าวเช้ารุ่งอรุณช่อง 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210105230000 -0000" stop="20210106020000 -0000" channel="ch8">
+    <title><![CDATA[คุยข่าวเช้าช่อง 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210105203000 -0000" stop="20210105205000 -0000" channel="gmm25">
+    <title><![CDATA[TRUE SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210105205000 -0000" stop="20210105215000 -0000" channel="gmm25">
+    <title><![CDATA[ธรรมนำชีวิต]]></title>
+    <desc><![CDATA[รายการประเภท สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210105200000 -0000" stop="20210105204500 -0000" channel="nation">
+    <title><![CDATA[คิดต่าง ฟัง รอบด้าน  [R]]]></title>
+    <desc><![CDATA[สนทนากับบุคคลในกระแส สังคม การเมือง เศรษฐกิจ]]></desc>
+  </programme>
+  <programme start="20210105204500 -0000" stop="20210105223500 -0000" channel="nation">
+    <title><![CDATA[ข่าวข้นคนข่าว [R]]]></title>
+    <desc><![CDATA[รายการ วิเคราะห์ข่าว กับ 3 คนข่าวเนชั่น]]></desc>
+  </programme>
+  <programme start="20210105215000 -0000" stop="20210105221000 -0000" channel="gmm25">
+    <title><![CDATA[TRUE SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210105221000 -0000" stop="20210105222500 -0000" channel="gmm25">
+    <title><![CDATA[MV]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210105222500 -0000" stop="20210105223500 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210105223500 -0000" stop="20210105225500 -0000" channel="gmm25">
+    <title><![CDATA[MV]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210105225500 -0000" stop="20210105230500 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210105223500 -0000" stop="20210105230000 -0000" channel="nation">
+    <title><![CDATA[Show Time]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า  สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210105230000 -0000" stop="20210106010000 -0000" channel="nation">
+    <title><![CDATA[ขยี้ข่าวเช้า(L)]]></title>
+    <desc><![CDATA[เปิดประเด็นข่าวเช้า ขยี้ข่าวให้ลึก กระจ่างชัด]]></desc>
+  </programme>
+  <programme start="20210105230500 -0000" stop="20210105232000 -0000" channel="gmm25">
+    <title><![CDATA[MV]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210105232000 -0000" stop="20210105233000 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210105233000 -0000" stop="20210106010000 -0000" channel="gmm25">
+    <title><![CDATA[แฉ (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210106010000 -0000" stop="20210106012000 -0000" channel="nation">
+    <title><![CDATA[เนชั่น ข่าวข้นกีฬาเข้ม (L)]]></title>
+    <desc><![CDATA[ข่าวแวดวงกีฬา]]></desc>
+  </programme>
+  <programme start="20210106010000 -0000" stop="20210106030000 -0000" channel="gmm25">
+    <title><![CDATA[แฉข่าวเช้า (สด)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210106012000 -0000" stop="20210106013000 -0000" channel="nation">
+    <title><![CDATA[สุข Society]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า  สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210106013000 -0000" stop="20210106030000 -0000" channel="nation">
+    <title><![CDATA[เนชั่น คนข่าวเข้ม  (L)]]></title>
+    <desc><![CDATA[ขยี้ข่าวเข้มข้น จากตัวตนคนข่าวเนชั่น]]></desc>
+  </programme>
+  <programme start="20210106020000 -0000" stop="20210106021000 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106021000 -0000" stop="20210106031000 -0000" channel="ch8">
+    <title><![CDATA[ปากท้องต้องรู้]]></title>
+    <desc><![CDATA[รายการข่าวกลไกราคาสินค้าเกษตร และสินค้าอุปโภคบริโภค]]></desc>
+  </programme>
+  <programme start="20210106031000 -0000" stop="20210106032000 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106032000 -0000" stop="20210106040500 -0000" channel="ch8">
+    <title><![CDATA[แซ่บ 108]]></title>
+    <desc><![CDATA[รายการข่าวที่ติดตามและอัพเดทข่าวสารในวงการบันเทิงล่าสุด]]></desc>
+  </programme>
+  <programme start="20210106030000 -0000" stop="20210106034500 -0000" channel="gmm25">
+    <title><![CDATA[นานาน่า (สด)]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210106030000 -0000" stop="20210106031000 -0000" channel="nation">
+    <title><![CDATA[สุข Society]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210106031000 -0000" stop="20210106040000 -0000" channel="nation">
+    <title><![CDATA[ถามสุดซอย  (L)]]></title>
+    <desc><![CDATA[รายการสนทนาถามตรง ข่าวเด่นกระแสดังในสังคม กับ พรหมพร & ธัญญาเรศ]]></desc>
+  </programme>
+  <programme start="20210106034500 -0000" stop="20210106053000 -0000" channel="gmm25">
+    <title><![CDATA[ซีรีส์ WHO ARE YOU เธอคนนั้นคือฉันอีกคน]]></title>
+    <desc><![CDATA[รายการประเภท ละคร]]></desc>
+  </programme>
+  <programme start="20210106040000 -0000" stop="20210106045000 -0000" channel="nation">
+    <title><![CDATA[ฐานทอล์ค (L)]]></title>
+    <desc><![CDATA[รู้เรืองราวข่าวสาร เศรษฐกิจ หุ้น การค้า การลงทุน นโยบายรัฐ รอบด้าน รอบโลก]]></desc>
+  </programme>
+  <programme start="20210106040500 -0000" stop="20210106053500 -0000" channel="ch8">
+    <title><![CDATA[ข่าวเด่นช่อง 8]]></title>
+    <desc><![CDATA[รายการรายงานข่าวทั่วไปทั้งในและต่างประเทศให้ทันทุกเหตุการณ์]]></desc>
+  </programme>
+  <programme start="20210106045000 -0000" stop="20210106050000 -0000" channel="nation">
+    <title><![CDATA[สุข Society]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210106050000 -0000" stop="20210106065000 -0000" channel="nation">
+    <title><![CDATA[เนชั่น ทันข่าวเที่ยง (L)]]></title>
+    <desc><![CDATA[ข่าว]]></desc>
+  </programme>
+  <programme start="20210106053500 -0000" stop="20210106054500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106054500 -0000" stop="20210106061500 -0000" channel="ch8">
+    <title><![CDATA[เรื่องว้าวเล่าโลก]]></title>
+    <desc><![CDATA[รายการสารคดีที่จะพาไปดูเรื่องราวต่างๆจากทั่วทุกมุมโลก]]></desc>
+  </programme>
+  <programme start="20210106061500 -0000" stop="20210106071500 -0000" channel="ch8">
+    <title><![CDATA[ซีรี่ส์ พิฆเนศ มหาเทพไอยรา]]></title>
+    <desc><![CDATA[เรื่องราวแห่งทวยเทพที่เต็มเปี่ยมไปด้วยสติปัญญา ศรัทธา ความสำเร็จ องค์มหาเทพที่ผู้คนนับถือมากที่สุดของโลก]]></desc>
+  </programme>
+  <programme start="20210106071500 -0000" stop="20210106072500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106053000 -0000" stop="20210106070000 -0000" channel="gmm25">
+    <title><![CDATA[เกาะข่าวเที่ยง (สด)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210106070000 -0000" stop="20210106083000 -0000" channel="gmm25">
+    <title><![CDATA[นานาน่า (สด)]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210106065000 -0000" stop="20210106070000 -0000" channel="nation">
+    <title><![CDATA[ทันช้อป ทันใช้]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210106070000 -0000" stop="20210106074000 -0000" channel="nation">
+    <title><![CDATA[กรุงเทพธุรกิจ Biz Insight]]></title>
+    <desc><![CDATA[เจาะลึก เรื่องเศรษฐกิจ ธุรกิจ สร้างพลังและแรงบันดาลใจในการลงทุน]]></desc>
+  </programme>
+  <programme start="20210106072500 -0000" stop="20210106085500 -0000" channel="ch8">
+    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
+    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
+  </programme>
+  <programme start="20210106074000 -0000" stop="20210106082000 -0000" channel="nation">
+    <title><![CDATA[เรื่องลับมาก  (L)]]></title>
+    <desc><![CDATA[เรื่องลับ เรื่องร้อน เรื่องเด็ด เรื่องดัง ในสังคมโซเชียล ดร.เสรี วงษ์มณฑา จะนำมาเปิดเผยในห้องลับนี้]]></desc>
+  </programme>
+  <programme start="20210106085500 -0000" stop="20210106090500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106090500 -0000" stop="20210106095000 -0000" channel="ch8">
+    <title><![CDATA[ข่าวใหญ่ช่อง 8]]></title>
+    <desc><![CDATA[รายการที่นำเสนอข่าวสำคัญประเด็นดัง ทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210106083000 -0000" stop="20210106100000 -0000" channel="gmm25">
+    <title><![CDATA[ซีรีส์ Kiss THE SERIES รักต้องจูบ]]></title>
+    <desc><![CDATA[รายการประเภท ละคร]]></desc>
+  </programme>
+  <programme start="20210106082000 -0000" stop="20210106083000 -0000" channel="nation">
+    <title><![CDATA[สุข Society]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210106083000 -0000" stop="20210106090000 -0000" channel="nation">
+    <title><![CDATA[ราศีสุขภาพ]]></title>
+    <desc><![CDATA[โหราศาสตร์กับการดูแลสุขภาพ]]></desc>
+  </programme>
+  <programme start="20210106090000 -0000" stop="20210106090500 -0000" channel="nation">
+    <title><![CDATA[มีเรื่องมาคุย (CC)]]></title>
+    <desc><![CDATA[วาไรตี้ การจัดอันดับ เรื่องราวทั่วโลก ทั่วไทย เรื่องรอบตัว สไตล์ กฤษนะ ละไล]]></desc>
+  </programme>
+  <programme start="20210106090500 -0000" stop="20210106091500 -0000" channel="nation">
+    <title><![CDATA[สุข Society]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210106091500 -0000" stop="20210106095000 -0000" channel="nation">
+    <title><![CDATA[เนชั่น ระวังภัย (L)]]></title>
+    <desc><![CDATA[เป็นหู เป็นตา ช่วยเหลือ เรื่องราว อาชญากรรมสังคม ช่วยกันระวังภัย]]></desc>
+  </programme>
+  <programme start="20210106095000 -0000" stop="20210106100000 -0000" channel="nation">
+    <title><![CDATA[สุข Society]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้าต่างๆ สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210106095000 -0000" stop="20210106120000 -0000" channel="ch8">
+    <title><![CDATA[คุยข่าวเย็นช่อง 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210106100000 -0000" stop="20210106110000 -0000" channel="gmm25">
+    <title><![CDATA[บุษบาจ๊ะจ๋า (สด)]]></title>
+    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
+  </programme>
+  <programme start="20210106110000 -0000" stop="20210106120000 -0000" channel="gmm25">
+    <title><![CDATA[เจาะข่าวค่ำ (สด)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210106100000 -0000" stop="20210106110000 -0000" channel="nation">
+    <title><![CDATA[เนชั่นทันข่าว เย็น  (L)]]></title>
+    <desc><![CDATA[รู้ทันข่าวร้อน ขีดเส้นใต้ข่าวเด่น]]></desc>
+  </programme>
+  <programme start="20210106110000 -0000" stop="20210106111000 -0000" channel="nation">
+    <title><![CDATA[ที่นี่มีสุข]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้าต่างๆ สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210106111000 -0000" stop="20210106125000 -0000" channel="nation">
+    <title><![CDATA[เนชั่นทันข่าว ค่ำ (L)]]></title>
+    <desc><![CDATA[รู้ทันข่าวร้อน ขีดเส้นใต้ข่าวเด่น]]></desc>
+  </programme>
+  <programme start="20210106120000 -0000" stop="20210106130000 -0000" channel="ch8">
+    <title><![CDATA[ละคร ขุมทรัพย์ลำโขง]]></title>
+    <desc><![CDATA[นำแสดงโดย พิ้งกี้-สาวิกา  อาร์ต-พศุตม์  เต๋า-สมชาย  ณฉัตร-วัลเณซ่า]]></desc>
+  </programme>
+  <programme start="20210106120000 -0000" stop="20210106131500 -0000" channel="gmm25">
+    <title><![CDATA[ข่าวแหกโค้ง (สด)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210106125000 -0000" stop="20210106130000 -0000" channel="nation">
+    <title><![CDATA[สุข Society]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้าต่างๆ สุขภาพ ความงาม]]></desc>
+  </programme>
+  <programme start="20210106130000 -0000" stop="20210106131000 -0000" channel="nation">
+    <title><![CDATA[ข่าวพระราชสำนัก]]></title>
+  </programme>
+  <programme start="20210106130000 -0000" stop="20210106131500 -0000" channel="ch8">
+    <title><![CDATA[ข่าวในพระราชสำนัก]]></title>
+  </programme>
+  <programme start="20210106131500 -0000" stop="20210106132000 -0000" channel="ch8">
+    <title><![CDATA[เผ็ดมันส์บันเทิง]]></title>
+    <desc><![CDATA[รายการข่าวที่ติดตามและอัพเดทข่าวสารในวงการบันเทิงล่าสุด]]></desc>
+  </programme>
+  <programme start="20210106132000 -0000" stop="20210106142000 -0000" channel="ch8">
+    <title><![CDATA[ละคร เพลิงภริยา]]></title>
+    <desc><![CDATA[นำแสดงโดย ศรราม เทพพิทักษ์ แคทรียา อิงลิช ไนกี้ นิธิดล ไอซ์ อามีนา]]></desc>
+  </programme>
+  <programme start="20210106131500 -0000" stop="20210106133000 -0000" channel="gmm25">
+    <title><![CDATA[ข่าว]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210106131000 -0000" stop="20210106152000 -0000" channel="nation">
+    <title><![CDATA[ข่าวข้นคนข่าว (L)]]></title>
+    <desc><![CDATA[รายการ วิเคราะห์ข่าว กับ 3 คนข่าวเนชั่น]]></desc>
+  </programme>
+  <programme start="20210106142000 -0000" stop="20210106162000 -0000" channel="ch8">
+    <title><![CDATA[เกาะติดข่าว 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210106162000 -0000" stop="20210106163000 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106163000 -0000" stop="20210106165959 -0000" channel="ch8">
+    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
+    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
+  </programme>
+  <programme start="20210106170000 -0000" stop="20210106175500 -0000" channel="ch8">
+    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
+    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
+  </programme>
+  <programme start="20210106175500 -0000" stop="20210106180500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106180500 -0000" stop="20210106190000 -0000" channel="ch8">
+    <title><![CDATA[ละคร ขุมทรัพย์ลำโขง]]></title>
+    <desc><![CDATA[นำแสดงโดย พิ้งกี้-สาวิกา  อาร์ต-พศุตม์  เต๋า-สมชาย  ณฉัตร-วัลเณซ่า]]></desc>
+  </programme>
+  <programme start="20210106190000 -0000" stop="20210106195500 -0000" channel="ch8">
+    <title><![CDATA[ละคร เพลิงภริยา]]></title>
+    <desc><![CDATA[นำแสดงโดย ศรราม เทพพิทักษ์ แคทรียา อิงลิช ไนกี้ นิธิดล ไอซ์ อามีนา]]></desc>
+  </programme>
+  <programme start="20210106195500 -0000" stop="20210106200500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106200500 -0000" stop="20210106210500 -0000" channel="ch8">
+    <title><![CDATA[เรื่องว้าวเล่าโลก]]></title>
+    <desc><![CDATA[รายการสารคดีที่จะพาไปดูเรื่องราวต่างๆจากทั่วทุกมุมโลก]]></desc>
+  </programme>
+  <programme start="20210106210500 -0000" stop="20210106211500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106211500 -0000" stop="20210106220000 -0000" channel="ch8">
+    <title><![CDATA[คุยข่าวเช้ารุ่งอรุณช่อง 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210106220000 -0000" stop="20210106223000 -0000" channel="ch8">
+    <title><![CDATA[คุยข่าวเช้ารุ่งอรุณช่อง 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210106223000 -0000" stop="20210106224000 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106224000 -0000" stop="20210106230000 -0000" channel="ch8">
+    <title><![CDATA[คุยข่าวเช้ารุ่งอรุณช่อง 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210106230000 -0000" stop="20210107020000 -0000" channel="ch8">
+    <title><![CDATA[คุยข่าวเช้าช่อง 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210107020000 -0000" stop="20210107021000 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210107021000 -0000" stop="20210107031000 -0000" channel="ch8">
+    <title><![CDATA[ปากท้องต้องรู้]]></title>
+    <desc><![CDATA[รายการข่าวกลไกราคาสินค้าเกษตร และสินค้าอุปโภคบริโภค]]></desc>
+  </programme>
+  <programme start="20210107031000 -0000" stop="20210107032000 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210107032000 -0000" stop="20210107040500 -0000" channel="ch8">
+    <title><![CDATA[แซ่บ 108]]></title>
+    <desc><![CDATA[รายการข่าวที่ติดตามและอัพเดทข่าวสารในวงการบันเทิงล่าสุด]]></desc>
+  </programme>
+  <programme start="20210107040500 -0000" stop="20210107053500 -0000" channel="ch8">
+    <title><![CDATA[ข่าวเด่นช่อง 8]]></title>
+    <desc><![CDATA[รายการรายงานข่าวทั่วไปทั้งในและต่างประเทศให้ทันทุกเหตุการณ์]]></desc>
+  </programme>
+  <programme start="20210107053500 -0000" stop="20210107054500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210107054500 -0000" stop="20210107061500 -0000" channel="ch8">
+    <title><![CDATA[เรื่องว้าวเล่าโลก]]></title>
+    <desc><![CDATA[รายการสารคดีที่จะพาไปดูเรื่องราวต่างๆจากทั่วทุกมุมโลก]]></desc>
+  </programme>
+  <programme start="20210107061500 -0000" stop="20210107071500 -0000" channel="ch8">
+    <title><![CDATA[ซีรี่ส์ พิฆเนศ มหาเทพไอยรา]]></title>
+    <desc><![CDATA[เรื่องราวแห่งทวยเทพที่เต็มเปี่ยมไปด้วยสติปัญญา ศรัทธา ความสำเร็จ องค์มหาเทพที่ผู้คนนับถือมากที่สุดของโลก]]></desc>
+  </programme>
+  <programme start="20210107071500 -0000" stop="20210107072500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210107072500 -0000" stop="20210107085500 -0000" channel="ch8">
+    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
+    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
+  </programme>
+  <programme start="20210107085500 -0000" stop="20210107090500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210107090500 -0000" stop="20210107095000 -0000" channel="ch8">
+    <title><![CDATA[ข่าวใหญ่ช่อง 8]]></title>
+    <desc><![CDATA[รายการที่นำเสนอข่าวสำคัญประเด็นดัง ทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210107095000 -0000" stop="20210107120000 -0000" channel="ch8">
+    <title><![CDATA[คุยข่าวเย็นช่อง 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210107120000 -0000" stop="20210107130000 -0000" channel="ch8">
+    <title><![CDATA[ละคร ขุมทรัพย์ลำโขง]]></title>
+    <desc><![CDATA[นำแสดงโดย พิ้งกี้-สาวิกา  อาร์ต-พศุตม์  เต๋า-สมชาย  ณฉัตร-วัลเณซ่า]]></desc>
+  </programme>
+  <programme start="20210107130000 -0000" stop="20210107131500 -0000" channel="ch8">
+    <title><![CDATA[ข่าวในพระราชสำนัก]]></title>
+  </programme>
+  <programme start="20210107131500 -0000" stop="20210107132000 -0000" channel="ch8">
+    <title><![CDATA[เผ็ดมันส์บันเทิง]]></title>
+    <desc><![CDATA[รายการข่าวที่ติดตามและอัพเดทข่าวสารในวงการบันเทิงล่าสุด]]></desc>
+  </programme>
+  <programme start="20210107132000 -0000" stop="20210107142000 -0000" channel="ch8">
+    <title><![CDATA[ละคร เพลิงภริยา]]></title>
+    <desc><![CDATA[นำแสดงโดย ศรราม เทพพิทักษ์ แคทรียา อิงลิช ไนกี้ นิธิดล ไอซ์ อามีนา]]></desc>
+  </programme>
+  <programme start="20210107142000 -0000" stop="20210107162000 -0000" channel="ch8">
+    <title><![CDATA[เกาะติดข่าว 8]]></title>
+    <desc><![CDATA[รายการข่าวที่นำเสนอข่าวสาร อัพเดทข่าวเด่นและเหตุการณ์ต่างๆทั้งในประเทศและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210107162000 -0000" stop="20210107163000 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210107163000 -0000" stop="20210107165959 -0000" channel="ch8">
+    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
+    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
+  </programme>
+  <programme start="20210107170000 -0000" stop="20210107175500 -0000" channel="ch8">
+    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
+    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
+  </programme>
+  <programme start="20210107175500 -0000" stop="20210107180500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210107180500 -0000" stop="20210107190000 -0000" channel="ch8">
+    <title><![CDATA[มวยมันส์ช่อง 8]]></title>
+    <desc><![CDATA[รายการแข่งขันมวยที่รวบรวมทุกความระทึกใจ ของทุกการต่อสู้ทางช่องช่อง 8 บนสังเวียนที่ไม่มีใครยอมใคร]]></desc>
+  </programme>
+  <programme start="20210106133000 -0000" stop="20210106143000 -0000" channel="gmm25">
+    <title><![CDATA[ซีรีส์ 30 กำลังแจ๋ว THE SERIES (ตอนแรก)]]></title>
+    <desc><![CDATA[รายการประเภท ละคร]]></desc>
+  </programme>
+  <programme start="20210106143000 -0000" stop="20210106160000 -0000" channel="gmm25">
+    <title><![CDATA[แฉ (สด)]]></title>
+    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
+  </programme>
+  <programme start="20210106152000 -0000" stop="20210106162000 -0000" channel="nation">
+    <title><![CDATA[คิดต่าง ฟัง รอบด้าน  (L)]]></title>
+    <desc><![CDATA[สนทนากับบุคคลในกระแส สังคม การเมือง เศรษฐกิจ]]></desc>
+  </programme>
+  <programme start="20210106160000 -0000" stop="20210106165959 -0000" channel="gmm25">
+    <title><![CDATA[รถโรงเรียน Special (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
+  </programme>
+  <programme start="20210106170000 -0000" stop="20210106172000 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106172000 -0000" stop="20210106184000 -0000" channel="gmm25">
+    <title><![CDATA[เจาะข่าวค่ำ (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210106184000 -0000" stop="20210106203000 -0000" channel="gmm25">
+    <title><![CDATA[ข่าวแหกโค้ง (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210106203000 -0000" stop="20210106205000 -0000" channel="gmm25">
+    <title><![CDATA[TRUE SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106205000 -0000" stop="20210106215000 -0000" channel="gmm25">
+    <title><![CDATA[ธรรมนำชีวิต]]></title>
+    <desc><![CDATA[รายการประเภท สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210106215000 -0000" stop="20210106221000 -0000" channel="gmm25">
+    <title><![CDATA[TRUE SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106221000 -0000" stop="20210106222500 -0000" channel="gmm25">
+    <title><![CDATA[MV]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210106222500 -0000" stop="20210106223500 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106223500 -0000" stop="20210106225500 -0000" channel="gmm25">
+    <title><![CDATA[MV]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210106225500 -0000" stop="20210106230500 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106230500 -0000" stop="20210106232000 -0000" channel="gmm25">
+    <title><![CDATA[MV]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210106232000 -0000" stop="20210106233000 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106233000 -0000" stop="20210107010000 -0000" channel="gmm25">
+    <title><![CDATA[แฉ (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210107010000 -0000" stop="20210107030000 -0000" channel="gmm25">
+    <title><![CDATA[แฉข่าวเช้า (สด)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210107030000 -0000" stop="20210107034500 -0000" channel="gmm25">
+    <title><![CDATA[นานาน่า (สด)]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210107034500 -0000" stop="20210107053000 -0000" channel="gmm25">
+    <title><![CDATA[ซีรีส์ WHO ARE YOU เธอคนนั้นคือฉันอีกคน]]></title>
+    <desc><![CDATA[รายการประเภท ละคร]]></desc>
+  </programme>
+  <programme start="20210107053000 -0000" stop="20210107070000 -0000" channel="gmm25">
+    <title><![CDATA[เกาะข่าวเที่ยง (สด)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210107070000 -0000" stop="20210107083000 -0000" channel="gmm25">
+    <title><![CDATA[นานาน่า (สด)]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210107083000 -0000" stop="20210107100000 -0000" channel="gmm25">
+    <title><![CDATA[ซีรีส์ Kiss THE SERIES รักต้องจูบ]]></title>
+    <desc><![CDATA[รายการประเภท ละคร]]></desc>
+  </programme>
+  <programme start="20210107100000 -0000" stop="20210107110000 -0000" channel="gmm25">
+    <title><![CDATA[บุษบาจ๊ะจ๋า (สด)]]></title>
+    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
+  </programme>
+  <programme start="20210107110000 -0000" stop="20210107120000 -0000" channel="gmm25">
+    <title><![CDATA[เจาะข่าวค่ำ (สด)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210107120000 -0000" stop="20210107131500 -0000" channel="gmm25">
+    <title><![CDATA[ข่าวแหกโค้ง (สด)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210107131500 -0000" stop="20210107133000 -0000" channel="gmm25">
+    <title><![CDATA[ข่าว]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210107133000 -0000" stop="20210107143000 -0000" channel="gmm25">
+    <title><![CDATA[ซีรีส์ 30 กำลังแจ๋ว THE SERIES]]></title>
+    <desc><![CDATA[รายการประเภท ละคร]]></desc>
+  </programme>
+  <programme start="20210107143000 -0000" stop="20210107160000 -0000" channel="gmm25">
+    <title><![CDATA[แฉ (สด)]]></title>
+    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
+  </programme>
+  <programme start="20210107160000 -0000" stop="20210107165959 -0000" channel="gmm25">
+    <title><![CDATA[Mantra Lady]]></title>
+    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
+  </programme>
+  <programme start="20210107170000 -0000" stop="20210107172000 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210107172000 -0000" stop="20210107184000 -0000" channel="gmm25">
+    <title><![CDATA[เจาะข่าวค่ำ (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210107184000 -0000" stop="20210107203000 -0000" channel="gmm25">
+    <title><![CDATA[ข่าวแหกโค้ง (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
   </programme>
   <programme start="20210104063500 -0000" stop="20210104070000 -0000" channel="mcot">
     <title><![CDATA[ASIAN SERIES]]></title>
@@ -4540,6 +5134,18 @@
     <title><![CDATA[PREMIUM SERIES]]></title>
     <desc><![CDATA[ภาพยนตร์จีน ชุด ศึกวัดใจนายฉลาม]]></desc>
   </programme>
+  <programme start="20210107170000 -0000" stop="20210107170500 -0000" channel="mcot">
+    <title><![CDATA[ข่าวต้นชั่วโมง]]></title>
+  </programme>
+  <programme start="20210107170500 -0000" stop="20210107173000 -0000" channel="mcot">
+    <title><![CDATA[SPORTS NIGHT]]></title>
+  </programme>
+  <programme start="20210107173000 -0000" stop="20210107180000 -0000" channel="mcot">
+    <title><![CDATA[แปลกแต่จริง]]></title>
+  </programme>
+  <programme start="20210107180000 -0000" stop="20210107200000 -0000" channel="mcot">
+    <title><![CDATA[TVD SHOP]]></title>
+  </programme>
   <programme start="20210104043000 -0000" stop="20210104071000 -0000" channel="mono29">
     <title><![CDATA[Hit Movies]]></title>
   </programme>
@@ -4783,517 +5389,15 @@
   <programme start="20210107164000 -0000" stop="20210107165959 -0000" channel="mono29">
     <title><![CDATA[Midnight Cinema]]></title>
   </programme>
-  <programme start="20210104000000 +0700" stop="20210104005500 +0700" channel="natgeo">
-    <title><![CDATA[Wicked Tuna S9 Compilations]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Fishing, Humanity]]></sub-title>
-    <desc><![CDATA[เรื่องราวของกลุ่มชาวประมงที่มุ่งหน้าไปยังเขตน้ำเย็นจัดทางตอนเหนือของมหาสมุทรแอตแลนติกด้วยความหวังในการจับปลาทูน่าครีบน้ำเงินซึ่งมีมูลค่ามหาศาล]]></desc>
-  </programme>
-  <programme start="20210104005500 +0700" stop="20210104014500 +0700" channel="natgeo">
-    <title><![CDATA[Story of Masters]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Culture]]></sub-title>
-    <desc><![CDATA[พิธีกร แดน ฟอกเลอร์  ออกเดินทางไปพบกับปรมาจารย์แห่งศิลปะทางด้านการต่อสู้เพื่อเรียนรู้ว่าการต่อสู้นั้นสามารถเสริมสร้างสมรรถนะทางร่างกายและจิตใจได้อย่างไร]]></desc>
-  </programme>
-  <programme start="20210104014500 +0700" stop="20210104023500 +0700" channel="natgeo">
-    <title><![CDATA[Exceptional Engineering   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
-    <desc><![CDATA[สารคดีถ่ายทอดเบื้องหลังกระบวนการผลิตน่าทึ่งของยานยนต์ล้ำสมัยและน่าตื่นเต้นที่สุดในโลก]]></desc>
-  </programme>
-  <programme start="20210104023500 +0700" stop="20210104032500 +0700" channel="natgeo">
-    <title><![CDATA[Airport Security: Peru & Brazil]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
-    <desc><![CDATA[สารคดีนำเสนอเบื้องหลังระบบการทำงานของพนักงานและเจ้าหน้าที่รักษาความปลอดภัยแห่งสนามบินนานาชาติในเปรูและบราซิล]]></desc>
-  </programme>
-  <programme start="20210104032500 +0700" stop="20210104041500 +0700" channel="natgeo">
-    <title><![CDATA[Atlas of Cursed Places]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Travel]]></sub-title>
-    <desc><![CDATA[พิธีกร แซม เชอริแดน ออกเดินทางทั่วโลกเพื่อสำรวจและค้นหาสถานที่โบราณอันเต็มไปด้วยเรื่องเล่าขานและคำสาปแช่งในตำนาน]]></desc>
-  </programme>
-  <programme start="20210104041500 +0700" stop="20210104050500 +0700" channel="natgeo">
-    <title><![CDATA[Wicked Tuna S9 Compilations]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Fishing, Humanity]]></sub-title>
-    <desc><![CDATA[เรื่องราวของกลุ่มชาวประมงที่มุ่งหน้าไปยังเขตน้ำเย็นจัดทางตอนเหนือของมหาสมุทรแอตแลนติกด้วยความหวังในการจับปลาทูน่าครีบน้ำเงินซึ่งมีมูลค่ามหาศาล]]></desc>
-  </programme>
-  <programme start="20210104050500 +0700" stop="20210104060000 +0700" channel="natgeo">
-    <title><![CDATA[Exceptional Engineering   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
-    <desc><![CDATA[สารคดีถ่ายทอดเบื้องหลังกระบวนการผลิตน่าทึ่งของยานยนต์ล้ำสมัยและน่าตื่นเต้นที่สุดในโลก]]></desc>
-  </programme>
-  <programme start="20210104060000 +0700" stop="20210104065500 +0700" channel="natgeo">
-    <title><![CDATA[Ultimate Movers]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Documentary]]></sub-title>
-    <desc><![CDATA[ไปติดตามภารกิจที่พวกเขาต้องเคลื่อนย้ายสิ่งของขนาดยักษ์ไม่ว่าจะเป็นถังผลิตเบียร์ขนาดใหญ่ หรือแม้กระท่ังรถไฟไอน้ำที่พวกเขาจะต้องพบกับความท้าทายตลอดเวลา]]></desc>
-  </programme>
-  <programme start="20210104065500 +0700" stop="20210104075000 +0700" channel="natgeo">
-    <title><![CDATA[Story of Masters]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Culture]]></sub-title>
-    <desc><![CDATA[พิธีกร แดน ฟอกเลอร์  ออกเดินทางไปพบกับปรมาจารย์แห่งศิลปะทางด้านการต่อสู้เพื่อเรียนรู้ว่าการต่อสู้นั้นสามารถเสริมสร้างสมรรถนะทางร่างกายและจิตใจได้อย่างไร]]></desc>
-  </programme>
-  <programme start="20210104075000 +0700" stop="20210104084500 +0700" channel="natgeo">
-    <title><![CDATA[Atlas of Cursed Places]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Travel]]></sub-title>
-    <desc><![CDATA[พิธีกร แซม เชอริแดน ออกเดินทางทั่วโลกเพื่อสำรวจและค้นหาสถานที่โบราณอันเต็มไปด้วยเรื่องเล่าขานและคำสาปแช่งในตำนาน]]></desc>
-  </programme>
-  <programme start="20210104084500 +0700" stop="20210104094000 +0700" channel="natgeo">
-    <title><![CDATA[Airport Security: Peru & Brazil]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
-    <desc><![CDATA[สารคดีนำเสนอเบื้องหลังระบบการทำงานของพนักงานและเจ้าหน้าที่รักษาความปลอดภัยแห่งสนามบินนานาชาติในเปรูและบราซิล]]></desc>
-  </programme>
-  <programme start="20210104094000 +0700" stop="20210104103500 +0700" channel="natgeo">
-    <title><![CDATA[Cesar to the Rescue Asia]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Animals]]></sub-title>
-    <desc><![CDATA[ผู้เชี่ยวชาญด้านการฝึกสุนัข ซีซาร์ มิลาน จะมาแนะแนวเทคนิคการฝึกสุนัขพร้อมกับชี้ให้เห็นถึงปัญหาส่วนใหญ่ที่เริ่มขึ้นจากตัวเจ้าของสัตว์เลี้ยงอีกด้วย]]></desc>
-  </programme>
-  <programme start="20210104103500 +0700" stop="20210104113000 +0700" channel="natgeo">
-    <title><![CDATA[Car SOS   [ 7 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Motoring]]></sub-title>
-    <desc><![CDATA[สองพิธีกร ฟัส ทาวน์เซ็นด์ และ ทิม ชอว์ พร้อมลูกทีมจะมาสาธิตการบูรณะและแปลงโฉมรถยนต์โบราณให้กลับมาไฉไลเอี่ยมอ่องเหมือนใหม่อีกครั้ง]]></desc>
-  </programme>
-  <programme start="20210104113000 +0700" stop="20210104115500 +0700" channel="natgeo">
-    <title><![CDATA[Food Factory   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
-    <desc><![CDATA[สารคดีนำเสนอเรื่องราวเบื้องหลังอุตสาหกรรมการผลิตอาหารและเครื่องดื่มนานาชนิดที่ทุกคนชื่นชอบ]]></desc>
-  </programme>
-  <programme start="20210104115500 +0700" stop="20210104122500 +0700" channel="natgeo">
-    <title><![CDATA[Food Factory   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
-    <desc><![CDATA[สารคดีนำเสนอเรื่องราวเบื้องหลังอุตสาหกรรมการผลิตอาหารและเครื่องดื่มนานาชนิดที่ทุกคนชื่นชอบ]]></desc>
-  </programme>
-  <programme start="20210104122500 +0700" stop="20210104125000 +0700" channel="natgeo">
-    <title><![CDATA[Peter Kuruvita's Mexican Fiesta]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Travel]]></sub-title>
-    <desc><![CDATA[ร่วมออกผจญภัยอันน่าตื่นเต้นไปกับพิธีกร ปีเตอร์ คูรูวิต้า ที่ชายแดนสหรัฐอเมริกาเพื่อลิ้มรสอาหารพื้นเมืองขนานแท้แบบฉบับเท็กซัส-เม็กซิกัน เป็นครั้งแรก]]></desc>
-  </programme>
-  <programme start="20210104125000 +0700" stop="20210104132000 +0700" channel="natgeo">
-    <title><![CDATA[Peter Kuruvita's Mexican Fiesta]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Travel]]></sub-title>
-    <desc><![CDATA[ร่วมออกผจญภัยอันน่าตื่นเต้นไปกับพิธีกร ปีเตอร์ คูรูวิต้า ที่ชายแดนสหรัฐอเมริกาเพื่อลิ้มรสอาหารพื้นเมืองขนานแท้แบบฉบับเท็กซัส-เม็กซิกัน เป็นครั้งแรก]]></desc>
-  </programme>
-  <programme start="20210104132000 +0700" stop="20210104141500 +0700" channel="natgeo">
-    <title><![CDATA[Cesar to the Rescue   [ 3 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Animals]]></sub-title>
-    <desc><![CDATA[ผู้เชี่ยวชาญด้านการฝึกสุนัข ซีซาร์ มิลาน จะมาแนะแนวเทคนิคการฝึกสุนัขพร้อมกับชี้ให้เห็นถึงปัญหาส่วนใหญ่ที่เริ่มขึ้นจากตัวเจ้าของสัตว์เลี้ยงอีกด้วย]]></desc>
-  </programme>
-  <programme start="20210104141500 +0700" stop="20210104151000 +0700" channel="natgeo">
-    <title><![CDATA[Seconds from Disaster Compilation]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Humanity, Disaster]]></sub-title>
-    <desc><![CDATA[สารคดีเกี่ยวกับบรรดาความหายนะต่างๆที่เกิดขึ้นทั้งจากฝีมือมนุษย์และธรรมชาติโดยนำเสนอผ่านการลำดับเหตุการณ์และการวิเคราะห์อย่างละเอียดจากผู้เชี่ยวชาญ]]></desc>
-  </programme>
-  <programme start="20210104151000 +0700" stop="20210104160500 +0700" channel="natgeo">
-    <title><![CDATA[Exceptional Engineering   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
-    <desc><![CDATA[สารคดีถ่ายทอดเบื้องหลังกระบวนการผลิตน่าทึ่งของยานยนต์ล้ำสมัยและน่าตื่นเต้นที่สุดในโลก]]></desc>
-  </programme>
-  <programme start="20210104160500 +0700" stop="20210104170000 +0700" channel="natgeo">
-    <title><![CDATA[Primal Survivor China]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Survival]]></sub-title>
-    <desc><![CDATA[พิธีกร เฮซเซ็น ออเดล ออกผจญภัยไปในป่าดงดิบซึ่งน้อยคนจะสามารถเข้าถึงได้โดยเขาอาศัยทักษะการดำรงชีพพร้อมวิธีการเอาตัวรอดของชาวพื้นเมืองในพงไพร]]></desc>
-  </programme>
-  <programme start="20210104170000 +0700" stop="20210104180000 +0700" channel="natgeo">
-    <title><![CDATA[Air Crash Investigation: Special Report]]></title>
-    <sub-title><![CDATA[KNOWLEDGE :: Disaster]]></sub-title>
-    <desc><![CDATA[สารคดีนำเสนอการวิเคราะห์สืบสวนบรรดาเหตุการณ์เครื่องบินตกจากทั่วทุกมุมโลกโดยรวบรวมข้อมูลจากรายงานการกู้ซากเครื่องบินและบทสัมภาษณ์ผู้เชี่ยวชาญและผู้เห็นเหตุการณ์]]></desc>
-  </programme>
-  <programme start="20210104180000 +0700" stop="20210104183000 +0700" channel="natgeo">
-    <title><![CDATA[Peter Kuruvita's Mexican Fiesta]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Travel]]></sub-title>
-    <desc><![CDATA[ร่วมออกผจญภัยอันน่าตื่นเต้นไปกับพิธีกร ปีเตอร์ คูรูวิต้า ที่ชายแดนสหรัฐอเมริกาเพื่อลิ้มรสอาหารพื้นเมืองขนานแท้แบบฉบับเท็กซัส-เม็กซิกัน เป็นครั้งแรก]]></desc>
-  </programme>
-  <programme start="20210104183000 +0700" stop="20210104190000 +0700" channel="natgeo">
-    <title><![CDATA[Peter Kuruvita's Mexican Fiesta]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Travel]]></sub-title>
-    <desc><![CDATA[ร่วมออกผจญภัยอันน่าตื่นเต้นไปกับพิธีกร ปีเตอร์ คูรูวิต้า ที่ชายแดนสหรัฐอเมริกาเพื่อลิ้มรสอาหารพื้นเมืองขนานแท้แบบฉบับเท็กซัส-เม็กซิกัน เป็นครั้งแรก]]></desc>
-  </programme>
-  <programme start="20210104190000 +0700" stop="20210104193000 +0700" channel="natgeo">
-    <title><![CDATA[Food Factory   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
-    <desc><![CDATA[สารคดีนำเสนอเรื่องราวเบื้องหลังอุตสาหกรรมการผลิตอาหารและเครื่องดื่มนานาชนิดที่ทุกคนชื่นชอบ]]></desc>
-  </programme>
-  <programme start="20210104193000 +0700" stop="20210104200000 +0700" channel="natgeo">
-    <title><![CDATA[Food Factory   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
-    <desc><![CDATA[สารคดีนำเสนอเรื่องราวเบื้องหลังอุตสาหกรรมการผลิตอาหารและเครื่องดื่มนานาชนิดที่ทุกคนชื่นชอบ]]></desc>
-  </programme>
-  <programme start="20210104200000 +0700" stop="20210104210000 +0700" channel="natgeo">
-    <title><![CDATA[Exceptional Engineering   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
-    <desc><![CDATA[สารคดีถ่ายทอดเบื้องหลังกระบวนการผลิตน่าทึ่งของยานยนต์ล้ำสมัยและน่าตื่นเต้นที่สุดในโลก]]></desc>
-  </programme>
-  <programme start="20210104210000 +0700" stop="20210104220000 +0700" channel="natgeo">
-    <title><![CDATA[Primal Survivor China]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Survival]]></sub-title>
-    <desc><![CDATA[พิธีกร เฮซเซ็น ออเดล ออกผจญภัยไปในป่าดงดิบซึ่งน้อยคนจะสามารถเข้าถึงได้โดยเขาอาศัยทักษะการดำรงชีพพร้อมวิธีการเอาตัวรอดของชาวพื้นเมืองในพงไพร]]></desc>
-  </programme>
-  <programme start="20210104220000 +0700" stop="20210104230000 +0700" channel="natgeo">
-    <title><![CDATA[Seconds from Disaster   [ 6 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Humanity, Disaster]]></sub-title>
-    <desc><![CDATA[สารคดีเกี่ยวกับบรรดาความหายนะต่างๆที่เกิดขึ้นทั้งจากฝีมือมนุษย์และธรรมชาติโดยนำเสนอผ่านการลำดับเหตุการณ์และการวิเคราะห์อย่างละเอียดจากผู้เชี่ยวชาญ]]></desc>
-  </programme>
-  <programme start="20210104230000 +0700" stop="20210104233000 +0700" channel="natgeo">
-    <title><![CDATA[Food Factory   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
-    <desc><![CDATA[สารคดีนำเสนอเรื่องราวเบื้องหลังอุตสาหกรรมการผลิตอาหารและเครื่องดื่มนานาชนิดที่ทุกคนชื่นชอบ]]></desc>
-  </programme>
-  <programme start="20210104233000 +0700" stop="20210104235959 +0700" channel="natgeo">
-    <title><![CDATA[Food Factory   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
-    <desc><![CDATA[สารคดีนำเสนอเรื่องราวเบื้องหลังอุตสาหกรรมการผลิตอาหารและเครื่องดื่มนานาชนิดที่ทุกคนชื่นชอบ]]></desc>
-  </programme>
-  <programme start="20210104040000 -0000" stop="20210104045000 -0000" channel="nation">
-    <title><![CDATA[ฐานทอล์ค (L)]]></title>
-    <desc><![CDATA[รู้เรืองราวข่าวสาร เศรษฐกิจ หุ้น การค้า การลงทุน นโยบายรัฐ รอบด้าน รอบโลก]]></desc>
-  </programme>
-  <programme start="20210104045000 -0000" stop="20210104050000 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210104050000 -0000" stop="20210104065000 -0000" channel="nation">
-    <title><![CDATA[เนชั่น ทันข่าวเที่ยง (L)]]></title>
-    <desc><![CDATA[ข่าว]]></desc>
-  </programme>
-  <programme start="20210104065000 -0000" stop="20210104070000 -0000" channel="nation">
-    <title><![CDATA[ทันช้อป ทันใช้]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210104070000 -0000" stop="20210104074000 -0000" channel="nation">
-    <title><![CDATA[กรุงเทพธุรกิจ Biz Insight]]></title>
-    <desc><![CDATA[เจาะลึก เรื่องเศรษฐกิจ ธุรกิจ สร้างพลังและแรงบันดาลใจในการลงทุน]]></desc>
-  </programme>
-  <programme start="20210104074000 -0000" stop="20210104082000 -0000" channel="nation">
-    <title><![CDATA[เรื่องลับมาก  (L)]]></title>
-    <desc><![CDATA[เรื่องลับ เรื่องร้อน เรื่องเด็ด เรื่องดัง ในสังคมโซเชียล ดร.เสรี วงษ์มณฑา จะนำมาเปิดเผยในห้องลับนี้]]></desc>
-  </programme>
-  <programme start="20210104082000 -0000" stop="20210104083000 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210104083000 -0000" stop="20210104090000 -0000" channel="nation">
-    <title><![CDATA[ราศีสุขภาพ]]></title>
-    <desc><![CDATA[โหราศาสตร์กับการดูแลสุขภาพ]]></desc>
-  </programme>
-  <programme start="20210104090000 -0000" stop="20210104090500 -0000" channel="nation">
-    <title><![CDATA[มีเรื่องมาคุย (CC)]]></title>
-    <desc><![CDATA[วาไรตี้ การจัดอันดับ เรื่องราวทั่วโลก ทั่วไทย เรื่องรอบตัว สไตล์ กฤษนะ ละไล]]></desc>
-  </programme>
-  <programme start="20210104090500 -0000" stop="20210104091500 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210104091500 -0000" stop="20210104095000 -0000" channel="nation">
-    <title><![CDATA[เนชั่น ระวังภัย (L)]]></title>
-    <desc><![CDATA[เป็นหู เป็นตา เรื่องราว อาชญากรรมสังคม ช่วยกันระวังภัย]]></desc>
-  </programme>
-  <programme start="20210104095000 -0000" stop="20210104100000 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้าต่างๆ สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210104100000 -0000" stop="20210104110000 -0000" channel="nation">
-    <title><![CDATA[เนชั่นทันข่าว เย็น  (L)]]></title>
-    <desc><![CDATA[รู้ทันข่าวร้อน ขีดเส้นใต้ข่าวเด่น]]></desc>
-  </programme>
-  <programme start="20210104110000 -0000" stop="20210104111000 -0000" channel="nation">
-    <title><![CDATA[ที่นี่มีสุข]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้าต่างๆ สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210104111000 -0000" stop="20210104125000 -0000" channel="nation">
-    <title><![CDATA[เนชั่นทันข่าว ค่ำ (L)]]></title>
-    <desc><![CDATA[รู้ทันข่าวร้อน ขีดเส้นใต้ข่าวเด่น]]></desc>
-  </programme>
-  <programme start="20210104125000 -0000" stop="20210104130000 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้าต่างๆ สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210104130000 -0000" stop="20210104131000 -0000" channel="nation">
-    <title><![CDATA[ข่าวพระราชสำนัก]]></title>
-  </programme>
-  <programme start="20210104131000 -0000" stop="20210104152000 -0000" channel="nation">
-    <title><![CDATA[ข่าวข้นคนข่าว (L)]]></title>
-    <desc><![CDATA[รายการ วิเคราะห์ข่าว กับ 3 คนข่าวเนชั่น]]></desc>
-  </programme>
-  <programme start="20210104152000 -0000" stop="20210104162000 -0000" channel="nation">
-    <title><![CDATA[คิดต่าง ฟัง รอบด้าน  (L)]]></title>
-    <desc><![CDATA[สนทนากับบุคคลในกระแส สังคม การเมือง เศรษฐกิจ]]></desc>
-  </programme>
-  <programme start="20210104162000 -0000" stop="20210104165959 -0000" channel="nation">
-    <title><![CDATA[จุดวัดดวงข่าว  (L)]]></title>
-    <desc><![CDATA[วิเคราะห์สถานการณ์ เหตุการณ์ และบุคคลโดยใช้โหราศาสตร์จีน พร้อมให้คำแนะนำการดูแลชีวิตและสุขภาพอย่างสมดุลครบทุกด้าน]]></desc>
-  </programme>
-  <programme start="20210104170000 -0000" stop="20210104173000 -0000" channel="nation">
-    <title><![CDATA[เนชั่นข่าวเด่นเที่ยงคืน]]></title>
-    <desc><![CDATA[ประมวลข่าวเด่นรอบวัน]]></desc>
-  </programme>
-  <programme start="20210104173000 -0000" stop="20210104180000 -0000" channel="nation">
-    <title><![CDATA[TVD Shop]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210104180000 -0000" stop="20210104183000 -0000" channel="nation">
-    <title><![CDATA[เนชั่น ระวังภัย [R]]]></title>
-    <desc><![CDATA[เป็นหู เป็นตา ช่วยเหลือ เรื่องราว อาชญากรรมสังคม ช่วยกันระวังภัย]]></desc>
-  </programme>
-  <programme start="20210104183000 -0000" stop="20210104183500 -0000" channel="nation">
-    <title><![CDATA[มีเรื่องมาคุย (CC)]]></title>
-    <desc><![CDATA[วาไรตี้ การจัดอันดับ เรื่องราวทั่วโลก ทั่วไทย เรื่องรอบตัว สไตล์ กฤษนะ ละไล]]></desc>
-  </programme>
-  <programme start="20210104183500 -0000" stop="20210104200000 -0000" channel="nation">
-    <title><![CDATA[เนชั่นทันข่าว ค่ำ  [R]]]></title>
-    <desc><![CDATA[รู้ทันข่าวร้อน ขีดเส้นใต้ข่าวเด่น ในรอบวัน]]></desc>
-  </programme>
-  <programme start="20210104200000 -0000" stop="20210104204500 -0000" channel="nation">
-    <title><![CDATA[คิดต่าง ฟัง รอบด้าน  [R]]]></title>
-    <desc><![CDATA[สนทนากับบุคคลในกระแส สังคม การเมือง เศรษฐกิจ]]></desc>
-  </programme>
-  <programme start="20210104204500 -0000" stop="20210104223500 -0000" channel="nation">
-    <title><![CDATA[ข่าวข้นคนข่าว [R]]]></title>
-    <desc><![CDATA[รายการ วิเคราะห์ข่าว กับ 3 คนข่าวเนชั่น]]></desc>
-  </programme>
-  <programme start="20210104223500 -0000" stop="20210104230000 -0000" channel="nation">
-    <title><![CDATA[Show Time]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า  สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210104230000 -0000" stop="20210105010000 -0000" channel="nation">
-    <title><![CDATA[ขยี้ข่าวเช้า(L)]]></title>
-    <desc><![CDATA[เปิดประเด็นข่าวเช้า ขยี้ข่าวให้ลึก กระจ่างชัด]]></desc>
-  </programme>
-  <programme start="20210105010000 -0000" stop="20210105012000 -0000" channel="nation">
-    <title><![CDATA[เนชั่น ข่าวข้นกีฬาเข้ม (L)]]></title>
-    <desc><![CDATA[ข่าวแวดวงกีฬา]]></desc>
-  </programme>
-  <programme start="20210105012000 -0000" stop="20210105013000 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า  สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210105013000 -0000" stop="20210105030000 -0000" channel="nation">
-    <title><![CDATA[เนชั่น คนข่าวเข้ม  (L)]]></title>
-    <desc><![CDATA[ขยี้ข่าวเข้มข้น จากตัวตนคนข่าวเนชั่น]]></desc>
-  </programme>
-  <programme start="20210105030000 -0000" stop="20210105031000 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210105031000 -0000" stop="20210105040000 -0000" channel="nation">
-    <title><![CDATA[ถามสุดซอย  (L)]]></title>
-    <desc><![CDATA[รายการสนทนาถามตรง ข่าวเด่นกระแสดังในสังคม กับ พรหมพร & ธัญญาเรศ]]></desc>
-  </programme>
-  <programme start="20210105040000 -0000" stop="20210105045000 -0000" channel="nation">
-    <title><![CDATA[ฐานทอล์ค (L)]]></title>
-    <desc><![CDATA[รู้เรืองราวข่าวสาร เศรษฐกิจ หุ้น การค้า การลงทุน นโยบายรัฐ รอบด้าน รอบโลก]]></desc>
-  </programme>
-  <programme start="20210105045000 -0000" stop="20210105050000 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210105050000 -0000" stop="20210105065000 -0000" channel="nation">
-    <title><![CDATA[เนชั่น ทันข่าวเที่ยง (L)]]></title>
-    <desc><![CDATA[ข่าว]]></desc>
-  </programme>
-  <programme start="20210105065000 -0000" stop="20210105070000 -0000" channel="nation">
-    <title><![CDATA[ทันช้อป ทันใช้]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210105070000 -0000" stop="20210105074000 -0000" channel="nation">
-    <title><![CDATA[กรุงเทพธุรกิจ Biz Insight]]></title>
-    <desc><![CDATA[เจาะลึก เรื่องเศรษฐกิจ ธุรกิจ สร้างพลังและแรงบันดาลใจในการลงทุน]]></desc>
-  </programme>
-  <programme start="20210105074000 -0000" stop="20210105082000 -0000" channel="nation">
-    <title><![CDATA[เรื่องลับมาก  (L)]]></title>
-    <desc><![CDATA[เรื่องลับ เรื่องร้อน เรื่องเด็ด เรื่องดัง ในสังคมโซเชียล ดร.เสรี วงษ์มณฑา จะนำมาเปิดเผยในห้องลับนี้]]></desc>
-  </programme>
-  <programme start="20210105082000 -0000" stop="20210105083000 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210105083000 -0000" stop="20210105090000 -0000" channel="nation">
-    <title><![CDATA[ราศีสุขภาพ]]></title>
-    <desc><![CDATA[โหราศาสตร์กับการดูแลสุขภาพ]]></desc>
-  </programme>
-  <programme start="20210105090000 -0000" stop="20210105090500 -0000" channel="nation">
-    <title><![CDATA[มีเรื่องมาคุย (CC)]]></title>
-    <desc><![CDATA[วาไรตี้ การจัดอันดับ เรื่องราวทั่วโลก ทั่วไทย เรื่องรอบตัว สไตล์ กฤษนะ ละไล]]></desc>
-  </programme>
-  <programme start="20210105090500 -0000" stop="20210105091500 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210105091500 -0000" stop="20210105095000 -0000" channel="nation">
-    <title><![CDATA[เนชั่น ระวังภัย (L)]]></title>
-    <desc><![CDATA[เป็นหู เป็นตา ช่วยเหลือ เรื่องราว อาชญากรรมสังคม ช่วยกันระวังภัย]]></desc>
-  </programme>
-  <programme start="20210105095000 -0000" stop="20210105100000 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้าต่างๆ สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210105100000 -0000" stop="20210105110000 -0000" channel="nation">
-    <title><![CDATA[เนชั่นทันข่าว เย็น  (L)]]></title>
-    <desc><![CDATA[รู้ทันข่าวร้อน ขีดเส้นใต้ข่าวเด่น]]></desc>
-  </programme>
-  <programme start="20210105110000 -0000" stop="20210105111000 -0000" channel="nation">
-    <title><![CDATA[ที่นี่มีสุข]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้าต่างๆ สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210105111000 -0000" stop="20210105125000 -0000" channel="nation">
-    <title><![CDATA[เนชั่นทันข่าว ค่ำ (L)]]></title>
-    <desc><![CDATA[รู้ทันข่าวร้อน ขีดเส้นใต้ข่าวเด่น]]></desc>
-  </programme>
-  <programme start="20210105125000 -0000" stop="20210105130000 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้าต่างๆ สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210105130000 -0000" stop="20210105131000 -0000" channel="nation">
-    <title><![CDATA[ข่าวพระราชสำนัก]]></title>
-  </programme>
-  <programme start="20210105131000 -0000" stop="20210105152000 -0000" channel="nation">
-    <title><![CDATA[ข่าวข้นคนข่าว (L)]]></title>
-    <desc><![CDATA[รายการ วิเคราะห์ข่าว กับ 3 คนข่าวเนชั่น]]></desc>
-  </programme>
-  <programme start="20210105152000 -0000" stop="20210105162000 -0000" channel="nation">
-    <title><![CDATA[คิดต่าง ฟัง รอบด้าน  (L)]]></title>
-    <desc><![CDATA[สนทนากับบุคคลในกระแส สังคม การเมือง เศรษฐกิจ]]></desc>
-  </programme>
-  <programme start="20210105162000 -0000" stop="20210105165959 -0000" channel="nation">
-    <title><![CDATA[จุดวัดดวงข่าว  (L)]]></title>
-    <desc><![CDATA[วิเคราะห์สถานการณ์ เหตุการณ์ และบุคคลโดยใช้โหราศาสตร์จีน พร้อมให้คำแนะนำการดูแลชีวิตและสุขภาพอย่างสมดุลครบทุกด้าน]]></desc>
-  </programme>
-  <programme start="20210105170000 -0000" stop="20210105173000 -0000" channel="nation">
-    <title><![CDATA[เนชั่นข่าวเด่นเที่ยงคืน]]></title>
-    <desc><![CDATA[ประมวลข่าวเด่นรอบวัน]]></desc>
-  </programme>
-  <programme start="20210105173000 -0000" stop="20210105180000 -0000" channel="nation">
-    <title><![CDATA[TVD Shop]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210105180000 -0000" stop="20210105183000 -0000" channel="nation">
-    <title><![CDATA[เนชั่น ระวังภัย [R]]]></title>
-    <desc><![CDATA[เป็นหู เป็นตา ช่วยเหลือ เรื่องราว อาชญากรรมสังคม ช่วยกันระวังภัย]]></desc>
-  </programme>
-  <programme start="20210105183000 -0000" stop="20210105183500 -0000" channel="nation">
-    <title><![CDATA[มีเรื่องมาคุย (CC)]]></title>
-    <desc><![CDATA[วาไรตี้ การจัดอันดับ เรื่องราวทั่วโลก ทั่วไทย เรื่องรอบตัว สไตล์ กฤษนะ ละไล]]></desc>
-  </programme>
-  <programme start="20210105183500 -0000" stop="20210105200000 -0000" channel="nation">
-    <title><![CDATA[เนชั่นทันข่าว ค่ำ  [R]]]></title>
-    <desc><![CDATA[รู้ทันข่าวร้อน ขีดเส้นใต้ข่าวเด่น ในรอบวัน]]></desc>
-  </programme>
-  <programme start="20210105200000 -0000" stop="20210105204500 -0000" channel="nation">
-    <title><![CDATA[คิดต่าง ฟัง รอบด้าน  [R]]]></title>
-    <desc><![CDATA[สนทนากับบุคคลในกระแส สังคม การเมือง เศรษฐกิจ]]></desc>
-  </programme>
-  <programme start="20210105204500 -0000" stop="20210105223500 -0000" channel="nation">
-    <title><![CDATA[ข่าวข้นคนข่าว [R]]]></title>
-    <desc><![CDATA[รายการ วิเคราะห์ข่าว กับ 3 คนข่าวเนชั่น]]></desc>
-  </programme>
-  <programme start="20210105223500 -0000" stop="20210105230000 -0000" channel="nation">
-    <title><![CDATA[Show Time]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า  สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210105230000 -0000" stop="20210106010000 -0000" channel="nation">
-    <title><![CDATA[ขยี้ข่าวเช้า(L)]]></title>
-    <desc><![CDATA[เปิดประเด็นข่าวเช้า ขยี้ข่าวให้ลึก กระจ่างชัด]]></desc>
-  </programme>
-  <programme start="20210106010000 -0000" stop="20210106012000 -0000" channel="nation">
-    <title><![CDATA[เนชั่น ข่าวข้นกีฬาเข้ม (L)]]></title>
-    <desc><![CDATA[ข่าวแวดวงกีฬา]]></desc>
-  </programme>
-  <programme start="20210106012000 -0000" stop="20210106013000 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า  สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210106013000 -0000" stop="20210106030000 -0000" channel="nation">
-    <title><![CDATA[เนชั่น คนข่าวเข้ม  (L)]]></title>
-    <desc><![CDATA[ขยี้ข่าวเข้มข้น จากตัวตนคนข่าวเนชั่น]]></desc>
-  </programme>
-  <programme start="20210106030000 -0000" stop="20210106031000 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210106031000 -0000" stop="20210106040000 -0000" channel="nation">
-    <title><![CDATA[ถามสุดซอย  (L)]]></title>
-    <desc><![CDATA[รายการสนทนาถามตรง ข่าวเด่นกระแสดังในสังคม กับ พรหมพร & ธัญญาเรศ]]></desc>
-  </programme>
-  <programme start="20210106040000 -0000" stop="20210106045000 -0000" channel="nation">
-    <title><![CDATA[ฐานทอล์ค (L)]]></title>
-    <desc><![CDATA[รู้เรืองราวข่าวสาร เศรษฐกิจ หุ้น การค้า การลงทุน นโยบายรัฐ รอบด้าน รอบโลก]]></desc>
-  </programme>
-  <programme start="20210106045000 -0000" stop="20210106050000 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210106050000 -0000" stop="20210106065000 -0000" channel="nation">
-    <title><![CDATA[เนชั่น ทันข่าวเที่ยง (L)]]></title>
-    <desc><![CDATA[ข่าว]]></desc>
-  </programme>
-  <programme start="20210106065000 -0000" stop="20210106070000 -0000" channel="nation">
-    <title><![CDATA[ทันช้อป ทันใช้]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210106070000 -0000" stop="20210106074000 -0000" channel="nation">
-    <title><![CDATA[กรุงเทพธุรกิจ Biz Insight]]></title>
-    <desc><![CDATA[เจาะลึก เรื่องเศรษฐกิจ ธุรกิจ สร้างพลังและแรงบันดาลใจในการลงทุน]]></desc>
-  </programme>
-  <programme start="20210106074000 -0000" stop="20210106082000 -0000" channel="nation">
-    <title><![CDATA[เรื่องลับมาก  (L)]]></title>
-    <desc><![CDATA[เรื่องลับ เรื่องร้อน เรื่องเด็ด เรื่องดัง ในสังคมโซเชียล ดร.เสรี วงษ์มณฑา จะนำมาเปิดเผยในห้องลับนี้]]></desc>
-  </programme>
-  <programme start="20210106082000 -0000" stop="20210106083000 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210106083000 -0000" stop="20210106090000 -0000" channel="nation">
-    <title><![CDATA[ราศีสุขภาพ]]></title>
-    <desc><![CDATA[โหราศาสตร์กับการดูแลสุขภาพ]]></desc>
-  </programme>
-  <programme start="20210106090000 -0000" stop="20210106090500 -0000" channel="nation">
-    <title><![CDATA[มีเรื่องมาคุย (CC)]]></title>
-    <desc><![CDATA[วาไรตี้ การจัดอันดับ เรื่องราวทั่วโลก ทั่วไทย เรื่องรอบตัว สไตล์ กฤษนะ ละไล]]></desc>
-  </programme>
-  <programme start="20210106090500 -0000" stop="20210106091500 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210106091500 -0000" stop="20210106095000 -0000" channel="nation">
-    <title><![CDATA[เนชั่น ระวังภัย (L)]]></title>
-    <desc><![CDATA[เป็นหู เป็นตา ช่วยเหลือ เรื่องราว อาชญากรรมสังคม ช่วยกันระวังภัย]]></desc>
-  </programme>
-  <programme start="20210106095000 -0000" stop="20210106100000 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้าต่างๆ สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210106100000 -0000" stop="20210106110000 -0000" channel="nation">
-    <title><![CDATA[เนชั่นทันข่าว เย็น  (L)]]></title>
-    <desc><![CDATA[รู้ทันข่าวร้อน ขีดเส้นใต้ข่าวเด่น]]></desc>
-  </programme>
-  <programme start="20210106110000 -0000" stop="20210106111000 -0000" channel="nation">
-    <title><![CDATA[ที่นี่มีสุข]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้าต่างๆ สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210106111000 -0000" stop="20210106125000 -0000" channel="nation">
-    <title><![CDATA[เนชั่นทันข่าว ค่ำ (L)]]></title>
-    <desc><![CDATA[รู้ทันข่าวร้อน ขีดเส้นใต้ข่าวเด่น]]></desc>
-  </programme>
-  <programme start="20210106125000 -0000" stop="20210106130000 -0000" channel="nation">
-    <title><![CDATA[สุข Society]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้าต่างๆ สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210106130000 -0000" stop="20210106131000 -0000" channel="nation">
-    <title><![CDATA[ข่าวพระราชสำนัก]]></title>
-  </programme>
-  <programme start="20210106131000 -0000" stop="20210106152000 -0000" channel="nation">
-    <title><![CDATA[ข่าวข้นคนข่าว (L)]]></title>
-    <desc><![CDATA[รายการ วิเคราะห์ข่าว กับ 3 คนข่าวเนชั่น]]></desc>
-  </programme>
-  <programme start="20210106152000 -0000" stop="20210106162000 -0000" channel="nation">
-    <title><![CDATA[คิดต่าง ฟัง รอบด้าน  (L)]]></title>
-    <desc><![CDATA[สนทนากับบุคคลในกระแส สังคม การเมือง เศรษฐกิจ]]></desc>
+  <programme start="20210107170000 -0000" stop="20210107182500 -0000" channel="mono29">
+    <title><![CDATA[Midnight Cinema]]></title>
+  </programme>
+  <programme start="20210107182500 -0000" stop="20210107192000 -0000" channel="mono29">
+    <title><![CDATA[Junior Paramedics : หน่วยแพทย์ฉุกเฉินรุ่นเล็ก]]></title>
   </programme>
   <programme start="20210106162000 -0000" stop="20210106165959 -0000" channel="nation">
     <title><![CDATA[จุดวัดดวงข่าว  (L)]]></title>
     <desc><![CDATA[วิเคราะห์สถานการณ์ เหตุการณ์ และบุคคลโดยใช้โหราศาสตร์จีน พร้อมให้คำแนะนำการดูแลชีวิตและสุขภาพอย่างสมดุลครบทุกด้าน]]></desc>
-  </programme>
-  <programme start="20210104043000 -0000" stop="20210104060000 -0000" channel="nbt">
-    <title><![CDATA[ข่าวเที่ยง NBT]]></title>
-    <desc><![CDATA[ข่าว เหตุการณ์ประจำวัน]]></desc>
-  </programme>
-  <programme start="20210104060000 -0000" stop="20210104063000 -0000" channel="nbt">
-    <title><![CDATA[เมืองไทยดี๊ ดี]]></title>
-    <desc><![CDATA[ประชาชนทั่วไป]]></desc>
   </programme>
   <programme start="20210104063000 -0000" stop="20210104070000 -0000" channel="nbt">
     <title><![CDATA[แสงแห่งปณิธาน]]></title>
@@ -5338,15 +5442,6 @@
   <programme start="20210104163000 -0000" stop="20210104165959 -0000" channel="nbt">
     <title><![CDATA[Newsline]]></title>
     <desc><![CDATA[ข่าว เหตุการณ์ประจำวัน]]></desc>
-  </programme>
-  <programme start="20210104040000 -0000" stop="20210104050000 -0000" channel="new18">
-    <title><![CDATA[ข่าวเที่ยง]]></title>
-  </programme>
-  <programme start="20210104050000 -0000" stop="20210104053000 -0000" channel="new18">
-    <title><![CDATA[World 360]]></title>
-  </programme>
-  <programme start="20210104053000 -0000" stop="20210104063000 -0000" channel="new18">
-    <title><![CDATA[NEW Documentary สำรวจโลก : ปาฏิหาริย์การเอาตัวรอด - หายนะกลางทะเล]]></title>
   </programme>
   <programme start="20210104063000 -0000" stop="20210104070000 -0000" channel="new18">
     <title><![CDATA[True Shopping]]></title>
@@ -5654,17 +5749,8 @@
   <programme start="20210107163000 -0000" stop="20210107165959 -0000" channel="new18">
     <title><![CDATA[Global Connect]]></title>
   </programme>
-  <programme start="20210104034500 -0000" stop="20210104051500 -0000" channel="one">
-    <title><![CDATA[ข่าวเที่ยงช่องวัน]]></title>
-    <desc><![CDATA[ข่าวเที่ยงรายวัน เกาะประเด็น  สดจากจุดเกิดเหตุ เนื้อหาเที่ยงตรงในเวลาเที่ยงวัน]]></desc>
-  </programme>
-  <programme start="20210104051500 -0000" stop="20210104060500 -0000" channel="one">
-    <title><![CDATA[ONE บันเทิง]]></title>
-    <desc><![CDATA[ข่าวบันเทิงเชิงสร้างสรรค์ ที่มาพร้อมความสนุกสนาน]]></desc>
-  </programme>
-  <programme start="20210104060500 -0000" stop="20210104064000 -0000" channel="one">
-    <title><![CDATA[ผู้หญิง..ทำมาหากิน]]></title>
-    <desc><![CDATA[รายการเพื่อความหวัง ให้เห็นว่าชีวิตย่อมมีทางไปเสมอ ทุกอาชีพ ทุกการทำมาหากินเคล็ดลับในการสร้างเงิน]]></desc>
+  <programme start="20210107170000 -0000" stop="20210107230000 -0000" channel="new18">
+    <title><![CDATA[TVD SHOP]]></title>
   </programme>
   <programme start="20210104064000 -0000" stop="20210104074500 -0000" channel="one">
     <title><![CDATA[คุยแซ่บ SHOW]]></title>
@@ -6058,13 +6144,17 @@
     <title><![CDATA[รักวุ่นวายเจ้าชายกบ]]></title>
     <desc><![CDATA[เรื่องราวของสาวสวยขาลุยแห่งหมู่บ้านชื่นชีวาที่ทนไม่ไหวเมื่อถูกนักท่องเที่ยวดูถูกบ้านเกิดของเธอ จึงทำให้เธอสร้างตำนานแห่งความรักหากคู่ไหนเจอกับบนสะพานแสดงว่าเป็นรักแท้]]></desc>
   </programme>
-  <programme start="20210104040000 -0000" stop="20210104060000 -0000" channel="pptv">
-    <title><![CDATA[เที่ยงทันข่าว]]></title>
-    <desc><![CDATA[เที่ยงทันข่าว ข่าวเป็นกลางถูกต้องและแตกประเด็นข่าวใหม่ที่จะทำให้คุณไม่พลาดทุกข่าวสำคัญด้วยผู้ประกาศมืออาชีพ]]></desc>
+  <programme start="20210107170000 -0000" stop="20210107175000 -0000" channel="one">
+    <title><![CDATA[รักวุ่นวายเจ้าชายกบ]]></title>
+    <desc><![CDATA[เรื่องราวของสาวสวยขาลุยแห่งหมู่บ้านชื่นชีวาที่ทนไม่ไหวเมื่อถูกนักท่องเที่ยวดูถูกบ้านเกิดของเธอ จึงทำให้เธอสร้างตำนานแห่งความรักหากคู่ไหนเจอกับบนสะพานแสดงว่าเป็นรักแท้]]></desc>
   </programme>
-  <programme start="20210104060000 -0000" stop="20210104063000 -0000" channel="pptv">
-    <title><![CDATA[Sport Corner]]></title>
-    <desc><![CDATA[อัพเดททุกความเคลื่อนไหวในวงการกีฬาไทย และวงการกีฬาต่างประเทศ]]></desc>
+  <programme start="20210107175000 -0000" stop="20210107181000 -0000" channel="one">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[วาไรตี้แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210107181000 -0000" stop="20210107185500 -0000" channel="one">
+    <title><![CDATA[นางสาวไม่จำกัดนามสกุล]]></title>
+    <desc><![CDATA[หญิงสาวที่ตัดสินใจขอเป็นโสดตลอดชีวิต จนกระทั่งเธอตรวจเจอช็อคโกแลตซีสต์ในมดลูก วิธีทำให้หายคือต้องมีลูก เธอจึงต้องออกตามหาชายหนุ่มเพื่อมาแต่งงานให้เร็วที่สุด]]></desc>
   </programme>
   <programme start="20210104063000 -0000" stop="20210104070000 -0000" channel="pptv">
     <title><![CDATA[เป็นเรื่องเป็นข่าว]]></title>
@@ -6470,6 +6560,26 @@
     <title><![CDATA[พาซ่า Bazaar]]></title>
     <desc><![CDATA[รายการเดินทางท่องเที่ยวสำรวจสถานที่และตลาดทั่วโลก ที่เน้นอารมณ์ความรู้สึกของนักเดินทางมากกว่าจุดหมายปลายทาง เรียนรู้เรื่องราวชีวิต ศรัทธา วัฒนธรรม]]></desc>
   </programme>
+  <programme start="20210107170000 -0000" stop="20210107172000 -0000" channel="pptv">
+    <title><![CDATA[True Shopping]]></title>
+    <desc><![CDATA[คัดสรรสินค้าและบริการต่างๆที่มีคุณภาพ นำเสนอต่อผู้ชมรายการทั่วประเทศเพื่อให้สามารถเลือกซื้อสินค้าด้วยความสะดวกสบาย]]></desc>
+  </programme>
+  <programme start="20210107172000 -0000" stop="20210107173000 -0000" channel="pptv">
+    <title><![CDATA[Pop news daily]]></title>
+    <desc><![CDATA[รายการข่าวบันเทิงของช่องที่จะพาผุ้ชมไปพบกับเบื้องหลังละครและนักแสดงมากมาย]]></desc>
+  </programme>
+  <programme start="20210107173000 -0000" stop="20210107180000 -0000" channel="pptv">
+    <title><![CDATA[TV Direct]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้าช้อปปิ้งโดยใช้นวัตกรรมที่หลากหลายตั้งแต่แบรด์สินค้าระดับโลกและของไทยในราคาสุดพิเศษ]]></desc>
+  </programme>
+  <programme start="20210107180000 -0000" stop="20210107183000 -0000" channel="pptv">
+    <title><![CDATA[Home of Sport Weekday]]></title>
+    <desc><![CDATA[รายการกีฬา]]></desc>
+  </programme>
+  <programme start="20210107183000 -0000" stop="20210107213000 -0000" channel="pptv">
+    <title><![CDATA[True Shopping]]></title>
+    <desc><![CDATA[คัดสรรสินค้าและบริการต่างๆที่มีคุณภาพ นำเสนอต่อผู้ชมรายการทั่วประเทศเพื่อให้สามารถเลือกซื้อสินค้าด้วยความสะดวกสบาย]]></desc>
+  </programme>
   <programme start="20210104013000 +0700" stop="20210104020000 +0700" channel="premier1">
     <title><![CDATA[Match Round up 2020/21]]></title>
   </programme>
@@ -6574,14 +6684,6 @@
   </programme>
   <programme start="20210104230000 +0700" stop="20210104235959 +0700" channel="premier2">
     <title><![CDATA[Fanzone]]></title>
-  </programme>
-  <programme start="20210104033000 -0000" stop="20210104060000 -0000" channel="thaipbs">
-    <title><![CDATA[จับตาสถานการณ์]]></title>
-    <desc><![CDATA[รายงานข่าวตามสถานการณ์]]></desc>
-  </programme>
-  <programme start="20210104060000 -0000" stop="20210104063000 -0000" channel="thaipbs">
-    <title><![CDATA[บ่ายโมงตรงประเด็น]]></title>
-    <desc><![CDATA[ข่าวและสถานการณ์ในการขับเคลื่อนประเด็นทางสังคม]]></desc>
   </programme>
   <programme start="20210104063000 -0000" stop="20210104070000 -0000" channel="thaipbs">
     <title><![CDATA[นักข่าวพลเมือง C-site]]></title>
@@ -6986,11 +7088,15 @@
     <title><![CDATA[ข่าวดึก]]></title>
     <desc><![CDATA[สรุปข่าวรอบวัน]]></desc>
   </programme>
-  <programme start="20210104040000 -0000" stop="20210104062800 -0000" channel="thairath">
-    <title><![CDATA[ข่าวเที่ยงไทยรัฐ]]></title>
+  <programme start="20210107170000 -0000" stop="20210107175500 -0000" channel="thaipbs">
+    <title><![CDATA[สามัญชนคนไทย]]></title>
+    <desc><![CDATA[นำเสนอเรื่องราวที่สร้างแรงบันดาลให้คนในสังคม]]></desc>
   </programme>
-  <programme start="20210104062800 -0000" stop="20210104063000 -0000" channel="thairath">
-    <title><![CDATA[Express News]]></title>
+  <programme start="20210107175500 -0000" stop="20210107180000 -0000" channel="thaipbs">
+    <title><![CDATA[ฝนจากฟ้า]]></title>
+  </programme>
+  <programme start="20210107180000 -0000" stop="20210107213000 -0000" channel="thaipbs">
+    <title><![CDATA[ปิดสถานี]]></title>
   </programme>
   <programme start="20210104063000 -0000" stop="20210104072800 -0000" channel="thairath">
     <title><![CDATA[บันเทิงไทยรัฐ]]></title>
@@ -7298,17 +7404,17 @@
   <programme start="20210107161000 -0000" stop="20210107165959 -0000" channel="thairath">
     <title><![CDATA[ไทยรัฐเจาะประเด็น]]></title>
   </programme>
-  <programme start="20210104043000 -0000" stop="20210104060000 -0000" channel="tnn16">
-    <title><![CDATA[TNN ข่าวเที่ยง]]></title>
-    <desc><![CDATA[สรุปเหตุการณ์ข่าวตลอดทั้งวันที่มีความหลากหลายจากในและต่างประเทศพร้อมทั้งการรายงานสภาพอากาศจากทุกมุมโลก]]></desc>
+  <programme start="20210107170000 -0000" stop="20210107180000 -0000" channel="thairath">
+    <title><![CDATA[ข่าวใส่ไข่ (Rerun)]]></title>
   </programme>
-  <programme start="20210104060000 -0000" stop="20210104063000 -0000" channel="tnn16">
-    <title><![CDATA[TNN สปอร์ต]]></title>
-    <desc><![CDATA[สรุปความเคลื่อนไหวกีฬาทั่วโลก]]></desc>
+  <programme start="20210107180000 -0000" stop="20210107183000 -0000" channel="thairath">
+    <title><![CDATA[TVD Shop]]></title>
   </programme>
-  <programme start="20210104063000 -0000" stop="20210104063200 -0000" channel="tnn16">
-    <title><![CDATA[TNN Biz News]]></title>
-    <desc><![CDATA[สรุปเหตุการณ์ข่าวตลอดทั้งวันที่มีความหลากหลายจากในและต่างประเทศ พร้อมทั้งการรายงานสภาพอากาศจากทุกมุมโลก]]></desc>
+  <programme start="20210107183000 -0000" stop="20210107184000 -0000" channel="thairath">
+    <title><![CDATA[รู้แล้วบอกต่อ]]></title>
+  </programme>
+  <programme start="20210107184000 -0000" stop="20210107194000 -0000" channel="thairath">
+    <title><![CDATA[วุ่นรักนักออกแบบ]]></title>
   </programme>
   <programme start="20210104063200 -0000" stop="20210104070000 -0000" channel="tnn16">
     <title><![CDATA[คนชนข่าว]]></title>
@@ -7651,14 +7757,6 @@
     <title><![CDATA[TNN ข่าวดึก]]></title>
     <desc><![CDATA[สรุปเหตุการณ์ข่าวตลอดทั้งวันที่มีความหลากหลายจากในและต่างประเทศพร้อมทั้งการรายงานสภาพอากาศจากทุกมุมโลก]]></desc>
   </programme>
-  <programme start="20210104113000 +0700" stop="20210104123000 +0700" channel="true4u">
-    <title><![CDATA[TNN ข่าวเที่ยง]]></title>
-    <desc><![CDATA[ทันโลก ทันเศรษฐกิจ ทันทุกความจริง กับรายการ TNN ข่าวเที่ยง]]></desc>
-  </programme>
-  <programme start="20210104123000 +0700" stop="20210104130000 +0700" channel="true4u">
-    <title><![CDATA[ทรูช้อปปิ้ง]]></title>
-    <desc><![CDATA[พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ]]></desc>
-  </programme>
   <programme start="20210104130000 +0700" stop="20210104140000 +0700" channel="true4u">
     <title><![CDATA[ทีวีแชมเปียน คิวามิ]]></title>
     <desc><![CDATA[รายการแข่งขันระดับตำนานจากประเทศญี่ปุ่นเพื่อเฟ้นหาสุดยอดแห่งการเป็นที่สุด]]></desc>
@@ -7830,6 +7928,22 @@
   <programme start="20210105234500 +0700" stop="20210106000000 +0700" channel="true4u">
     <title><![CDATA[หัวใจนักสู้]]></title>
     <desc><![CDATA[รายการเปี่ยมแรงบันดาลใจที่นำเสนอเรื่องราวของบรรดาน]]></desc>
+  </programme>
+  <programme start="20210106000000 +0700" stop="20210106003000 +0700" channel="true4u">
+    <title><![CDATA[ทรูช้อปปิ้ง]]></title>
+    <desc><![CDATA[พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ]]></desc>
+  </programme>
+  <programme start="20210106003000 +0700" stop="20210106010000 +0700" channel="true4u">
+    <title><![CDATA[ทรูช้อปปิ้ง]]></title>
+    <desc><![CDATA[พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ]]></desc>
+  </programme>
+  <programme start="20210106010000 +0700" stop="20210106013000 +0700" channel="true4u">
+    <title><![CDATA[ทรูช้อปปิ้ง]]></title>
+    <desc><![CDATA[พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ]]></desc>
+  </programme>
+  <programme start="20210106013000 +0700" stop="20210106020000 +0700" channel="true4u">
+    <title><![CDATA[ทรูช้อปปิ้ง]]></title>
+    <desc><![CDATA[พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ]]></desc>
   </programme>
   <programme start="20210104000000 +0700" stop="20210104000100 +0700" channel="truesport2">
     <title><![CDATA[เพลงสรรเสริญพระบารมี]]></title>
@@ -8046,12 +8160,6 @@
     <title><![CDATA[รันนิ่งแมน   [ 8 ]]]></title>
     <sub-title><![CDATA[SR-ENT-KN :: Gameshow]]></sub-title>
     <desc><![CDATA[รายการวาไรตี้ของเกาหลีใต้เกี่ยวกับกิจกรรมคนเมืองโดยที่เหล่าพิธีกรและแขกรับเชิญจะร่วมแข่งขันกันตามสถานที่สำคัญๆต่างๆ]]></desc>
-  </programme>
-  <programme start="20210104043000 -0000" stop="20210104050000 -0000" channel="tv5">
-    <title><![CDATA[ถ่ายทอดสด ศบค.]]></title>
-  </programme>
-  <programme start="20210104050000 -0000" stop="20210104063000 -0000" channel="tv5">
-    <title><![CDATA[ช่อง 5 ข่าวเที่ยง 1200 - 1330]]></title>
   </programme>
   <programme start="20210104063000 -0000" stop="20210104070000 -0000" channel="tv5">
     <title><![CDATA[ปันฝันปันยิ้ม]]></title>
@@ -8425,14 +8533,14 @@
   <programme start="20210107163000 -0000" stop="20210107165959 -0000" channel="tv5">
     <title><![CDATA[หมุนตามโลก]]></title>
   </programme>
-  <programme start="20210104113500 +0700" stop="20210104123500 +0700" channel="warnertv">
-    <title><![CDATA[Pennyworth S2 EP.4]]></title>
+  <programme start="20210107170000 -0000" stop="20210107173000 -0000" channel="tv5">
+    <title><![CDATA[ตระเวนข่าว]]></title>
   </programme>
-  <programme start="20210104123500 +0700" stop="20210104130000 +0700" channel="warnertv">
-    <title><![CDATA[Friends S9 EP.15]]></title>
+  <programme start="20210107173000 -0000" stop="20210107180000 -0000" channel="tv5">
+    <title><![CDATA[รายการสารคดี]]></title>
   </programme>
-  <programme start="20210104130000 +0700" stop="20210104132500 +0700" channel="warnertv">
-    <title><![CDATA[Friends S9 EP.16]]></title>
+  <programme start="20210107180000 -0000" stop="20210107200000 -0000" channel="tv5">
+    <title><![CDATA[รายการสารคดี]]></title>
   </programme>
   <programme start="20210104132500 +0700" stop="20210104141000 +0700" channel="warnertv">
     <title><![CDATA[World's Dumbest S13 EP.2]]></title>
@@ -8584,25 +8692,14 @@
   <programme start="20210105232000 +0700" stop="20210106001000 +0700" channel="warnertv">
     <title><![CDATA[Major Crimes S5 EP.07]]></title>
   </programme>
-  <programme start="20210104035000 -0000" stop="20210104050500 -0000" channel="workpoint">
-    <title><![CDATA[ด่วน ข่าวเวิร์คพอยท์เที่ยง (Workpoint News)]]></title>
-    <desc><![CDATA[รายการข่าวที่ทันต่อเหตุการณ์ในช่วงเที่ยง]]></desc>
+  <programme start="20210106001000 +0700" stop="20210106010000 +0700" channel="warnertv">
+    <title><![CDATA[World's Dumbest S13 EP.3]]></title>
   </programme>
-  <programme start="20210104050500 -0000" stop="20210104051500 -0000" channel="workpoint">
-    <title><![CDATA[Wellness Shop]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  <programme start="20210106010000 +0700" stop="20210106015000 +0700" channel="warnertv">
+    <title><![CDATA[Izombie S5 EP.10]]></title>
   </programme>
-  <programme start="20210104051500 -0000" stop="20210104055500 -0000" channel="workpoint">
-    <title><![CDATA[ชิงร้อยชิงล้าน ว้าวว้าวว้าว รีรัน]]></title>
-    <desc><![CDATA[รายการตลก]]></desc>
-  </programme>
-  <programme start="20210104055500 -0000" stop="20210104060000 -0000" channel="workpoint">
-    <title><![CDATA[2 ข่าวใหญ่ เวิร์คพอยท์]]></title>
-    <desc><![CDATA[รายงานข่าว]]></desc>
-  </programme>
-  <programme start="20210104060000 -0000" stop="20210104065000 -0000" channel="workpoint">
-    <title><![CDATA[ปัญญาปันสุข]]></title>
-    <desc><![CDATA[รายการที่จะทำให้ทั้งผู้เข้าร่วมรายการทุกอาชีพรวมถึงผู้ชมรายการได้รับกำลังใจและพลังของการปันสุขไปอย่างเต็มเปี่ยม]]></desc>
+  <programme start="20210106015000 +0700" stop="20210106021500 +0700" channel="warnertv">
+    <title><![CDATA[Storage Hunters S2 EP.2]]></title>
   </programme>
   <programme start="20210104065000 -0000" stop="20210104070000 -0000" channel="workpoint">
     <title><![CDATA[Wellness Shop]]></title>
