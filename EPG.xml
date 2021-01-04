@@ -49,9 +49,6 @@
   <channel id="foxfamilymovies">
     <display-name>foxfamilymovies</display-name>
   </channel>
-  <channel id="foxmovies">
-    <display-name>foxmovies</display-name>
-  </channel>
   <channel id="foxthai">
     <display-name>foxthai</display-name>
   </channel>
@@ -124,15 +121,6 @@
   <channel id="workpoint">
     <display-name>workpoint</display-name>
   </channel>
-  <programme start="20210104134000 +0700" stop="20210104141000 +0700" channel="altv">
-    <title><![CDATA[ละครเด็ก You&Me เพื่อนซี้ปาฏิหาริย์ S.2]]></title>
-  </programme>
-  <programme start="20210104141000 +0700" stop="20210104141500 +0700" channel="altv">
-    <title><![CDATA[คลิป สวัสดีชาวโซเซียล 35 คลิป / ความรู้รอบตัว]]></title>
-  </programme>
-  <programme start="20210104141500 +0700" stop="20210104150500 +0700" channel="altv">
-    <title><![CDATA[ละคร ฝันให้สุด]]></title>
-  </programme>
   <programme start="20210104150500 +0700" stop="20210104153500 +0700" channel="altv">
     <title><![CDATA[ห้องเรียน On Air]]></title>
   </programme>
@@ -330,12 +318,6 @@
   </programme>
   <programme start="20210105210000 +0700" stop="20210106060000 +0700" channel="altv">
     <title><![CDATA[ปิดสถานี]]></title>
-  </programme>
-  <programme start="20210104064000 -0000" stop="20210104074000 -0000" channel="amarin">
-    <title><![CDATA[ทะเลแปร]]></title>
-  </programme>
-  <programme start="20210104074000 -0000" stop="20210104075000 -0000" channel="amarin">
-    <title><![CDATA[ชีวิตดีมีสุข]]></title>
   </programme>
   <programme start="20210104075000 -0000" stop="20210104083500 -0000" channel="amarin">
     <title><![CDATA[Z Story]]></title>
@@ -706,6 +688,12 @@
   <programme start="20210107183000 -0000" stop="20210107190000 -0000" channel="amarin">
     <title><![CDATA[แปลก!ฅน]]></title>
   </programme>
+  <programme start="20210107190000 -0000" stop="20210107200000 -0000" channel="amarin">
+    <title><![CDATA[สภากาแฟ 4.0 ยกล้อ]]></title>
+  </programme>
+  <programme start="20210107200000 -0000" stop="20210107213000 -0000" channel="amarin">
+    <title><![CDATA[TVD SHOP]]></title>
+  </programme>
   <programme start="20210104005500 +0700" stop="20210104014500 +0700" channel="axn">
     <title><![CDATA[American Ninja Warrior   [ 10 ]]]></title>
     <sub-title><![CDATA[ENTERTAIN :: Entertainment, Reality]]></sub-title>
@@ -1046,8 +1034,8 @@
   <programme start="20210106010000 +0700" stop="20210106030000 +0700" channel="bein1">
     <title><![CDATA[Serie A 2020/21 : Juventus vs Udinese]]></title>
   </programme>
-  <programme start="20210104120000 +0700" stop="20210104135000 +0700" channel="bein2">
-    <title><![CDATA[Serie A 2020/21 : Parma vs Torino]]></title>
+  <programme start="20210106030000 +0700" stop="20210106050000 +0700" channel="bein1">
+    <title><![CDATA[Ligue 1 2020/21 : Angers vs Marseille]]></title>
   </programme>
   <programme start="20210104135000 +0700" stop="20210104154000 +0700" channel="bein2">
     <title><![CDATA[Serie A 2020/21 : Roma vs Sampdoria]]></title>
@@ -1132,15 +1120,6 @@
   </programme>
   <programme start="20210106015000 +0700" stop="20210106034000 +0700" channel="bein2">
     <title><![CDATA[LaLiga 2020/21 : Villarreal vs Levante]]></title>
-  </programme>
-  <programme start="20210104133000 +0700" stop="20210104140000 +0700" channel="boomberang">
-    <title><![CDATA[Thomas and Friends S22]]></title>
-  </programme>
-  <programme start="20210104140000 +0700" stop="20210104143000 +0700" channel="boomberang">
-    <title><![CDATA[Adventure Time]]></title>
-  </programme>
-  <programme start="20210104143000 +0700" stop="20210104150000 +0700" channel="boomberang">
-    <title><![CDATA[Chowder]]></title>
   </programme>
   <programme start="20210104150000 +0700" stop="20210104153000 +0700" channel="boomberang">
     <title><![CDATA[Courage the Cowardiy Dog]]></title>
@@ -1331,6 +1310,12 @@
   <programme start="20210106010000 +0700" stop="20210106020000 +0700" channel="boomberang">
     <title><![CDATA[Dexter's Laboratory]]></title>
   </programme>
+  <programme start="20210106020000 +0700" stop="20210106030000 +0700" channel="boomberang">
+    <title><![CDATA[Chowder]]></title>
+  </programme>
+  <programme start="20210106030000 +0700" stop="20210106040000 +0700" channel="boomberang">
+    <title><![CDATA[The Powerpuff Girls]]></title>
+  </programme>
   <programme start="20210104050000 +0700" stop="20210104160000 +0700" channel="cartoonnetwork">
     <title><![CDATA[Power Players]]></title>
   </programme>
@@ -1348,10 +1333,6 @@
   </programme>
   <programme start="20210106000000 +0700" stop="20210106040000 +0700" channel="cartoonnetwork">
     <title><![CDATA[Teen Titans Go!]]></title>
-  </programme>
-  <programme start="20210104064500 -0000" stop="20210104071500 -0000" channel="ch3">
-    <title><![CDATA[แซ่บ พาซ่าส์ / True Shopping]]></title>
-    <desc><![CDATA[รายการท่องเที่ยวที่จะพาไปพบกับอาหาร ร้านเด็ด ร้านดัง ร้านแปลก รวมถึงสถานที่ท่องเที่ยวทั่วไทยและทั่วโลก และในรายการยังกิจกรรม “แจกแซ่บ” ให้ผู้ชมทางบ้านได้ร่วมสนุกและลุ้นรับของรางวัลสุดพิเศษทุกวัน]]></desc>
   </programme>
   <programme start="20210104071500 -0000" stop="20210104084500 -0000" channel="ch3">
     <title><![CDATA[ละคร แรงตะวัน]]></title>
@@ -2166,19 +2147,13 @@
     <title><![CDATA[ข่าวดึก 7HD]]></title>
     <desc><![CDATA[รวมรายงานข่าวสำคัญของวัน พร้อมมุมมองข่าวในวันรุ่งขึ้น]]></desc>
   </programme>
-  <programme start="20210104061500 -0000" stop="20210104071500 -0000" channel="ch8">
-    <title><![CDATA[ซีรี่ส์ พิฆเนศ มหาเทพไอยรา]]></title>
-    <desc><![CDATA[เรื่องราวแห่งทวยเทพที่เต็มเปี่ยมไปด้วยสติปัญญา ศรัทธา ความสำเร็จ องค์มหาเทพที่ผู้คนนับถือมากที่สุดของโลก]]></desc>
+  <programme start="20210107194000 -0000" stop="20210107204000 -0000" channel="ch7">
+    <title><![CDATA[กล้าลองกล้าลุย]]></title>
+    <desc><![CDATA[รายการที่จะพาคุณไปพิสูจน์ความท้าทายแบบเจาะลึกในทุกอาชีพ]]></desc>
   </programme>
-  <programme start="20210104071500 -0000" stop="20210104072500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210104132000 +0700" stop="20210104141000 +0700" channel="discoveryasia">
-    <title><![CDATA[India's Green Mission : India's Green Mission]]></title>
-  </programme>
-  <programme start="20210104141000 +0700" stop="20210104150000 +0700" channel="discoveryasia">
-    <title><![CDATA[Orangutan Jungle School (S1) : Episode 10]]></title>
+  <programme start="20210104072500 -0000" stop="20210104085500 -0000" channel="ch8">
+    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
+    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
   </programme>
   <programme start="20210104150000 +0700" stop="20210104155000 +0700" channel="discoveryasia">
     <title><![CDATA[Revealed: World's Biggest Election : Revealed: World's Biggest Election]]></title>
@@ -2308,6 +2283,9 @@
   </programme>
   <programme start="20210106015000 +0700" stop="20210106024000 +0700" channel="discoveryasia">
     <title><![CDATA[Singapore On Film (S1) : A Time Of Change]]></title>
+  </programme>
+  <programme start="20210106024000 +0700" stop="20210106033000 +0700" channel="discoveryasia">
+    <title><![CDATA[The Indian Dream Hotel On Tour (S2) : China]]></title>
   </programme>
   <programme start="20210104000000 +0700" stop="20210104010000 +0700" channel="disney">
     <title><![CDATA[Star vs The Forces of Evil]]></title>
@@ -2503,13 +2481,6 @@
     <title><![CDATA[Phineas and Ferb]]></title>
     <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
     <desc><![CDATA[ฟินเนียส และ เฟิร์บ พยายามที่จะทำให้ทุกๆวันในช่วงปิดภาคเรียนฤดูร้อนของพวกเขามีความหมายโดยการสร้างสรรค์สิ่งประดิษฐ์ต่างๆ]]></desc>
-  </programme>
-  <programme start="20210104133000 +0700" stop="20210104143000 +0700" channel="dltv1">
-    <title><![CDATA[ว11101 วิทยาศาสตร์และเทคโนโลยี 1 (วิทยาการคำนวณ)]]></title>
-    <desc><![CDATA[เรื่อง สนุกกับแป้นพิมพ์]]></desc>
-  </programme>
-  <programme start="20210104143000 +0700" stop="20210104150000 +0700" channel="dltv1">
-    <title><![CDATA[พุทธธรรมนำปัญญา]]></title>
   </programme>
   <programme start="20210104150000 +0700" stop="20210104153000 +0700" channel="dltv1">
     <title><![CDATA[เพื่อชีวิตและสุขภาพ ปี 1-2]]></title>
@@ -2720,6 +2691,15 @@
   <programme start="20210106013000 +0700" stop="20210106020000 +0700" channel="dltv1">
     <title><![CDATA[ตามอำเภอจาน]]></title>
   </programme>
+  <programme start="20210106020000 +0700" stop="20210106023000 +0700" channel="dltv1">
+    <title><![CDATA[พุทธธรรมนำปัญญา]]></title>
+  </programme>
+  <programme start="20210106023000 +0700" stop="20210106030000 +0700" channel="dltv1">
+    <title><![CDATA[เพื่อชีวิตและสุขภาพ ปี 1-2]]></title>
+  </programme>
+  <programme start="20210106030000 +0700" stop="20210106033000 +0700" channel="dltv1">
+    <title><![CDATA[๑ ในพระราชดำริ]]></title>
+  </programme>
   <programme start="20210104001500 +0700" stop="20210104021000 +0700" channel="foxactionmovies">
     <title><![CDATA[Insidious: Chapter 2]]></title>
     <sub-title><![CDATA[2013 - MOVIE :: Horror]]></sub-title>
@@ -2859,66 +2839,6 @@
     <title><![CDATA[The Bromley Boys]]></title>
     <sub-title><![CDATA[2018 - MOVIE :: Comedy]]></sub-title>
     <desc><![CDATA[เรื่องราวสุดอลเวงของหนุ่มน้อยผู้คลั่งไคล้กีฬาฟุตบอลจนกระทั่งวันหนึ่งได้มีโอกาสเข้าไปร่วมพัฒนาทีมไม่เอาไหนให้สามารถหวนกลับมาชนะได้อีกครั้ง -- นำแสดงโดย เบรนน็อก โอคอนเนอร์]]></desc>
-  </programme>
-  <programme start="20210104002500 +0700" stop="20210104022000 +0700" channel="foxmovies">
-    <title><![CDATA[X-Men Origins: Wolverine]]></title>
-    <sub-title><![CDATA[2009 - MOVIE :: Action, Fantasy]]></sub-title>
-    <desc><![CDATA[ภาพยนตร์ภาคต่อซึ่งในคราวนี้มนุษย์กลายพันธุ์ วูล์ฟเวอรีน พยายามค้นหาตัวตนผ่านเรื่องราวการไล่ล่าชำระแค้นจอมวายร้ายที่สังหารแฟนสาวของเขา -- นำแสดงโดย ฮิว แจ็คแมน และ ไรอัน เรย์โนลส์]]></desc>
-  </programme>
-  <programme start="20210104022000 +0700" stop="20210104040000 +0700" channel="foxmovies">
-    <title><![CDATA[Wake Up]]></title>
-    <sub-title><![CDATA[2019 - MOVIE :: Action]]></sub-title>
-    <desc><![CDATA[เรื่องราวสุดระทึกของชายหนุ่มคนหนึ่งที่ตื่นขึ้นมาพร้อมกับการสูญเสียความทรงจำและค้นพบว่าเขากำลังถูกตามล่าโดยตำรวจในฐานะฆาตกรต่อเนื่อง -- นำแสดงโดย โจนาธาน รีส เมเยอร์ส]]></desc>
-  </programme>
-  <programme start="20210104040000 +0700" stop="20210104055000 +0700" channel="foxmovies">
-    <title><![CDATA[X-Men]]></title>
-    <sub-title><![CDATA[2000 - MOVIE :: Action, Fantasy]]></sub-title>
-    <desc><![CDATA[เรื่องราวของมนุษย์กลายพันธุ์ที่มีพลังวิเศษมาแต่กำเนิดและศาสตราจารย์ผู้ก่อตั้งสถาบันให้พวกเขาได้ใช้ความสามารถเหนือคนธรรมดาไปในทางสร้างสรรค์ -- นำแสดงโดย ฮิว แจ็คแมน]]></desc>
-  </programme>
-  <programme start="20210104055000 +0700" stop="20210104075000 +0700" channel="foxmovies">
-    <title><![CDATA[Ghostbusters]]></title>
-    <sub-title><![CDATA[2016 - MOVIE :: Fantasy]]></sub-title>
-    <desc><![CDATA[เรื่องราวเกี่ยวกับกลุ่มหญิงสาวใจแกร่งที่รวมตัวกันเป็นมือปราบผีเมื่อเหล่าอสูรปีศาจสารพันรูปแบบได้ออกอาละวาดทั่วมหานครใหญ่ -- นำแสดงโดย เมลิสสา แม็คคาร์ธี่ และ คริสเต็น วิกก์]]></desc>
-  </programme>
-  <programme start="20210104075000 +0700" stop="20210104093500 +0700" channel="foxmovies">
-    <title><![CDATA[Booksmart]]></title>
-    <sub-title><![CDATA[2019 - MOVIE :: Comedy]]></sub-title>
-    <desc><![CDATA[เรื่องราวสุดอลเวงของสองสาววัยรุ่นกับแผนฉลองปาร์ตี้ส่งท้ายวัยนักเรียนมัธยมก่อนวันพิธีสำเร็จการศึกษา -- นำแสดงโดย แคทลิน เดเวอร์, บีนนี่ เฟลสไตน์, และ บิลลี่ แคทเธอรีน ลอร์ด]]></desc>
-  </programme>
-  <programme start="20210104093500 +0700" stop="20210104114500 +0700" channel="foxmovies">
-    <title><![CDATA[Iron Man 2]]></title>
-    <sub-title><![CDATA[2010 - MOVIE :: Action]]></sub-title>
-    <desc><![CDATA[ภาพยนตร์ภาคต่อซึ่งในคราวนี้ยอดมนุษย์ไอรอนแมนต้องออกประมือกับจอมวายร้ายจากรัสเซีย -- นำแสดงโดย โรเบิร์ต ดาวนี่ย์ จูเนียร์ และ เกวนเน็ธ พาลโทรว]]></desc>
-  </programme>
-  <programme start="20210104114500 +0700" stop="20210104135000 +0700" channel="foxmovies">
-    <title><![CDATA[Guardians of the Galaxy]]></title>
-    <sub-title><![CDATA[2014 - MOVIE :: Fantasy, Action]]></sub-title>
-    <desc><![CDATA[เรื่องราวเกี่ยวกับบรรดาอาชญากรแห่งห้วงเอกภพที่จำต้องร่วมมือกันเพื่อกำจัดจอมมารร้ายที่กำลังจะยึดครองจักรวาลทั้งระบบ -- นำแสดงโดย คริส แพร็ท และ แบรดลี่ย์ คูเปอร์]]></desc>
-  </programme>
-  <programme start="20210104135000 +0700" stop="20210104155500 +0700" channel="foxmovies">
-    <title><![CDATA[Alita: Battle Angel]]></title>
-    <sub-title><![CDATA[2019 - MOVIE :: Action]]></sub-title>
-    <desc><![CDATA[เรื่องราวการต่อสู้ของหุ่นยนต์ไซบอร์กหญิงในโลกยุคศตวรรษที่ยี่สิบหกกับภารกิจตามหาตัวตนและเศษเสี้ยวความทรงจำที่เลือนหายไป -- นำแสดงโดย โรซา ซาลาซาร์, คริสตอล์ฟ วอลซ์]]></desc>
-  </programme>
-  <programme start="20210104155500 +0700" stop="20210104174500 +0700" channel="foxmovies">
-    <title><![CDATA[The Gentlemen]]></title>
-    <sub-title><![CDATA[2020 - MOVIE :: Action]]></sub-title>
-    <desc><![CDATA[เรื่องราวการติดสินบนและการแบล็กเมล์ของชายชาวอเมริกันที่พยายามจะขายกัญชาในสหราชอาณาจักร -- นำแสดงโดย แมทธิว แม็คคอนาเฮย์ และ ชาร์ลี ฮันแนม]]></desc>
-  </programme>
-  <programme start="20210104174500 +0700" stop="20210104200000 +0700" channel="foxmovies">
-    <title><![CDATA[X-Men: Days of Future Past]]></title>
-    <sub-title><![CDATA[2014 - MOVIE :: Action, Fantasy]]></sub-title>
-    <desc><![CDATA[ภาพยนตร์ภาคต่อซึ่งคราวนี้วูล์ฟเวอรีนอาสาย้อนเวลาไปยังอดีตเพื่อภารกิจแก้ไขประวัติศาสตร์เพื่อหยุดยั้งหายนะที่จะอุบัติขึ้นกับมวลมนุษยชาติในอนาคต -- นำแสดงโดย ฮิว แจ็กแมน]]></desc>
-  </programme>
-  <programme start="20210104200000 +0700" stop="20210104213500 +0700" channel="foxmovies">
-    <title><![CDATA[The Assistant]]></title>
-    <sub-title><![CDATA[2019 - MOVIE :: Drama]]></sub-title>
-    <desc><![CDATA[เรื่องราวของหญิงสาวในฐานะผู้ช่วยผู้บริหารและการเผชิญหน้ากับเหตุคุกคามในสถานที่ทำงาน -- นำแสดงโดย จูเลีย การ์เนอร์ และ โอเวน ฮอลแลนด์]]></desc>
-  </programme>
-  <programme start="20210104213500 +0700" stop="20210104235959 +0700" channel="foxmovies">
-    <title><![CDATA[The Karate Kid]]></title>
-    <sub-title><![CDATA[2010 - MOVIE :: Action]]></sub-title>
-    <desc><![CDATA[เรื่องราวของปรมาจารย์คาราเต้ผู้ถ่ายทอดวิทยายุทธและศีลธรรมจรรยาให้กับเด็กชายคนหนึ่ง -- นำแสดงโดย เฉิน หลง และ เจเด็น สมิธ]]></desc>
   </programme>
   <programme start="20210104001000 +0700" stop="20210104010000 +0700" channel="foxthai">
     <title><![CDATA[Marvel's Agents of S.H.I.E.L.D. [6]]]></title>
@@ -3094,10 +3014,6 @@
     <title><![CDATA[The Walking Dead   [ 3 ]]]></title>
     <sub-title><![CDATA[SR-ENT-KN :: Horror Series, Sci-Fi]]></sub-title>
     <desc><![CDATA[ภาพยนตร์ชุดทางโทรทัศน์เกี่ยวกับกลุ่มผู้รอดชีวิตที่ต้องเผชิญหน้ากับโลกอันเต็มไปด้วยเหล่าผีดิบกระหายเลือดทั่วทุกหนแห่ง -- นำแสดงโดย แอนดรูว์ ลินคอล์น]]></desc>
-  </programme>
-  <programme start="20210104053000 -0000" stop="20210104070000 -0000" channel="gmm25">
-    <title><![CDATA[เกาะข่าวเที่ยง (สด)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
   </programme>
   <programme start="20210104070000 -0000" stop="20210104083000 -0000" channel="gmm25">
     <title><![CDATA[นานาน่า (สด)]]></title>
@@ -3338,12 +3254,6 @@
     <sub-title><![CDATA[SR-ENT-KN :: Humanity]]></sub-title>
     <desc><![CDATA[สาารคดีที่จะพาไปพบกับเรื่องราวและรายละเอียดแบบเจาะลึกของเหล่าบุคคลที่ต้องเสี่ยงชีวิตเพื่อเอาชนะศัตรูในศึกสงคราม]]></desc>
   </programme>
-  <programme start="20210104120000 +0700" stop="20210104140000 +0700" channel="hitsmovies">
-    <title><![CDATA[Fletch]]></title>
-  </programme>
-  <programme start="20210104140000 +0700" stop="20210104143000 +0700" channel="hitsmovies">
-    <title><![CDATA[Frosty the Snoeman]]></title>
-  </programme>
   <programme start="20210104143000 +0700" stop="20210104163000 +0700" channel="hitsmovies">
     <title><![CDATA[Edward Scissor Hand]]></title>
   </programme>
@@ -3555,18 +3465,6 @@
     <title><![CDATA[Food Factory   [ 2 ]]]></title>
     <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
     <desc><![CDATA[สารคดีนำเสนอเรื่องราวเบื้องหลังอุตสาหกรรมการผลิตอาหารและเครื่องดื่มนานาชนิดที่ทุกคนชื่นชอบ]]></desc>
-  </programme>
-  <programme start="20210104065000 -0000" stop="20210104070000 -0000" channel="nation">
-    <title><![CDATA[ทันช้อป ทันใช้]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
-  </programme>
-  <programme start="20210104070000 -0000" stop="20210104074000 -0000" channel="nation">
-    <title><![CDATA[กรุงเทพธุรกิจ Biz Insight]]></title>
-    <desc><![CDATA[เจาะลึก เรื่องเศรษฐกิจ ธุรกิจ สร้างพลังและแรงบันดาลใจในการลงทุน]]></desc>
-  </programme>
-  <programme start="20210104072500 -0000" stop="20210104085500 -0000" channel="ch8">
-    <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
-    <desc><![CDATA[นำแสดงโดย เทจัสวี ปรากาซ - โรหิต สุชานติ]]></desc>
   </programme>
   <programme start="20210104074000 -0000" stop="20210104082000 -0000" channel="nation">
     <title><![CDATA[เรื่องลับมาก  (L)]]></title>
@@ -4549,6 +4447,18 @@
     <title><![CDATA[มวยมันส์ช่อง 8]]></title>
     <desc><![CDATA[รายการแข่งขันมวยที่รวบรวมทุกความระทึกใจ ของทุกการต่อสู้ทางช่องช่อง 8 บนสังเวียนที่ไม่มีใครยอมใคร]]></desc>
   </programme>
+  <programme start="20210107190000 -0000" stop="20210107195500 -0000" channel="ch8">
+    <title><![CDATA[อึ้งทึ่งเสียว]]></title>
+    <desc><![CDATA[รายการที่จะพาไปพบกับสิ่งแปลกประหลาดที่จะทำให้คุณ อึ้ง ทึ่ง เสียว]]></desc>
+  </programme>
+  <programme start="20210107195500 -0000" stop="20210107200500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210107200500 -0000" stop="20210107210500 -0000" channel="ch8">
+    <title><![CDATA[เรื่องว้าวเล่าโลก]]></title>
+    <desc><![CDATA[รายการสารคดีที่จะพาไปดูเรื่องราวต่างๆจากทั่วทุกมุมโลก]]></desc>
+  </programme>
   <programme start="20210106133000 -0000" stop="20210106143000 -0000" channel="gmm25">
     <title><![CDATA[ซีรีส์ 30 กำลังแจ๋ว THE SERIES (ตอนแรก)]]></title>
     <desc><![CDATA[รายการประเภท ละคร]]></desc>
@@ -4556,10 +4466,6 @@
   <programme start="20210106143000 -0000" stop="20210106160000 -0000" channel="gmm25">
     <title><![CDATA[แฉ (สด)]]></title>
     <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
-  </programme>
-  <programme start="20210106152000 -0000" stop="20210106162000 -0000" channel="nation">
-    <title><![CDATA[คิดต่าง ฟัง รอบด้าน  (L)]]></title>
-    <desc><![CDATA[สนทนากับบุคคลในกระแส สังคม การเมือง เศรษฐกิจ]]></desc>
   </programme>
   <programme start="20210106160000 -0000" stop="20210106165959 -0000" channel="gmm25">
     <title><![CDATA[รถโรงเรียน Special (Rerun)]]></title>
@@ -4680,26 +4586,6 @@
   <programme start="20210107184000 -0000" stop="20210107203000 -0000" channel="gmm25">
     <title><![CDATA[ข่าวแหกโค้ง (Rerun)]]></title>
     <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210104063500 -0000" stop="20210104070000 -0000" channel="mcot">
-    <title><![CDATA[ASIAN SERIES]]></title>
-    <desc><![CDATA[ภาพยนตร์จีน ชุด ฝูเหยา จอมนางเหนือบัลลังค์]]></desc>
-  </programme>
-  <programme start="20210104070000 -0000" stop="20210104070500 -0000" channel="mcot">
-    <title><![CDATA[ข่าวต้นชั่วโมง]]></title>
-  </programme>
-  <programme start="20210104070500 -0000" stop="20210104072000 -0000" channel="mcot">
-    <title><![CDATA[ASIAN SERIES]]></title>
-    <desc><![CDATA[ภาพยนตร์จีน ชุด ฝูเหยา จอมนางเหนือบัลลังค์]]></desc>
-  </programme>
-  <programme start="20210104072000 -0000" stop="20210104073000 -0000" channel="mcot">
-    <title><![CDATA[๙ ไกล-ได้สาระ]]></title>
-  </programme>
-  <programme start="20210104073000 -0000" stop="20210104080000 -0000" channel="mcot">
-    <title><![CDATA[ก๊วนกวนแซ่บ]]></title>
-  </programme>
-  <programme start="20210104080000 -0000" stop="20210104080500 -0000" channel="mcot">
-    <title><![CDATA[ข่าวต้นชั่วโมง]]></title>
   </programme>
   <programme start="20210104080500 -0000" stop="20210104090000 -0000" channel="mcot">
     <title><![CDATA[คุยโขมง บ่าย 3 โมง]]></title>
@@ -5146,11 +5032,8 @@
   <programme start="20210107180000 -0000" stop="20210107200000 -0000" channel="mcot">
     <title><![CDATA[TVD SHOP]]></title>
   </programme>
-  <programme start="20210104043000 -0000" stop="20210104071000 -0000" channel="mono29">
-    <title><![CDATA[Hit Movies]]></title>
-  </programme>
-  <programme start="20210104071000 -0000" stop="20210104071500 -0000" channel="mono29">
-    <title><![CDATA[Entertainment Now]]></title>
+  <programme start="20210107200000 -0000" stop="20210107203000 -0000" channel="mcot">
+    <title><![CDATA[ชีวิตสัตว์มหัศจรรย์ The Wonderful Animals]]></title>
   </programme>
   <programme start="20210104071500 -0000" stop="20210104082000 -0000" channel="mono29">
     <title><![CDATA[Heroic Journey of Nezha : นาจา ตำนานเทพพิชิตมาร]]></title>
@@ -5395,17 +5278,16 @@
   <programme start="20210107182500 -0000" stop="20210107192000 -0000" channel="mono29">
     <title><![CDATA[Junior Paramedics : หน่วยแพทย์ฉุกเฉินรุ่นเล็ก]]></title>
   </programme>
+  <programme start="20210107192000 -0000" stop="20210107202000 -0000" channel="mono29">
+    <title><![CDATA[The World's Most Extraordinary People : มนุษย์สุดมหัศจรรย์ (ตอน A Design for Life)]]></title>
+  </programme>
+  <programme start="20210106152000 -0000" stop="20210106162000 -0000" channel="nation">
+    <title><![CDATA[คิดต่าง ฟัง รอบด้าน  (L)]]></title>
+    <desc><![CDATA[สนทนากับบุคคลในกระแส สังคม การเมือง เศรษฐกิจ]]></desc>
+  </programme>
   <programme start="20210106162000 -0000" stop="20210106165959 -0000" channel="nation">
     <title><![CDATA[จุดวัดดวงข่าว  (L)]]></title>
     <desc><![CDATA[วิเคราะห์สถานการณ์ เหตุการณ์ และบุคคลโดยใช้โหราศาสตร์จีน พร้อมให้คำแนะนำการดูแลชีวิตและสุขภาพอย่างสมดุลครบทุกด้าน]]></desc>
-  </programme>
-  <programme start="20210104063000 -0000" stop="20210104070000 -0000" channel="nbt">
-    <title><![CDATA[แสงแห่งปณิธาน]]></title>
-    <desc><![CDATA[ประชาชนทั่วไป]]></desc>
-  </programme>
-  <programme start="20210104070000 -0000" stop="20210104080000 -0000" channel="nbt">
-    <title><![CDATA[NBT รวมใจ คนไทยไม่ทิ้งกัน]]></title>
-    <desc><![CDATA[ประชาชนทั่วไป]]></desc>
   </programme>
   <programme start="20210104080000 -0000" stop="20210104083000 -0000" channel="nbt">
     <title><![CDATA[รอบภูมิภาค]]></title>
@@ -5442,15 +5324,6 @@
   <programme start="20210104163000 -0000" stop="20210104165959 -0000" channel="nbt">
     <title><![CDATA[Newsline]]></title>
     <desc><![CDATA[ข่าว เหตุการณ์ประจำวัน]]></desc>
-  </programme>
-  <programme start="20210104063000 -0000" stop="20210104070000 -0000" channel="new18">
-    <title><![CDATA[True Shopping]]></title>
-  </programme>
-  <programme start="20210104070000 -0000" stop="20210104075000 -0000" channel="new18">
-    <title><![CDATA[NEW Documentary สำรวจโลก : สวรรค์บนโลก]]></title>
-  </programme>
-  <programme start="20210104075000 -0000" stop="20210104080000 -0000" channel="new18">
-    <title><![CDATA[S channel]]></title>
   </programme>
   <programme start="20210104080000 -0000" stop="20210104085000 -0000" channel="new18">
     <title><![CDATA[NEW Documentary สำรวจโลก : ปาฎิหาริย์บนเทือกเขาเอเวอเรสต์]]></title>
@@ -5751,10 +5624,6 @@
   </programme>
   <programme start="20210107170000 -0000" stop="20210107230000 -0000" channel="new18">
     <title><![CDATA[TVD SHOP]]></title>
-  </programme>
-  <programme start="20210104064000 -0000" stop="20210104074500 -0000" channel="one">
-    <title><![CDATA[คุยแซ่บ SHOW]]></title>
-    <desc><![CDATA[เป็นรายการวาไรตี้ทอล์คโชว์ยามบ่ายที่เน้นความฮอต แซ่บ สนุก สร้างแรงบันดาลใจ ให้พลังบวกแก่สังคม]]></desc>
   </programme>
   <programme start="20210104074500 -0000" stop="20210104091500 -0000" channel="one">
     <title><![CDATA[แผนรักแผนร้าย]]></title>
@@ -6156,21 +6025,21 @@
     <title><![CDATA[นางสาวไม่จำกัดนามสกุล]]></title>
     <desc><![CDATA[หญิงสาวที่ตัดสินใจขอเป็นโสดตลอดชีวิต จนกระทั่งเธอตรวจเจอช็อคโกแลตซีสต์ในมดลูก วิธีทำให้หายคือต้องมีลูก เธอจึงต้องออกตามหาชายหนุ่มเพื่อมาแต่งงานให้เร็วที่สุด]]></desc>
   </programme>
-  <programme start="20210104063000 -0000" stop="20210104070000 -0000" channel="pptv">
-    <title><![CDATA[เป็นเรื่องเป็นข่าว]]></title>
-    <desc><![CDATA[ถกประเด็นข่าวร้อน อยู่ในกระแสของสังคม คมทุกคำถาม]]></desc>
+  <programme start="20210107185500 -0000" stop="20210107190500 -0000" channel="one">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[วาไรตี้แนะนำสินค้า]]></desc>
   </programme>
-  <programme start="20210104070000 -0000" stop="20210104072500 -0000" channel="pptv">
-    <title><![CDATA[The Lighthouse Family]]></title>
-    <desc><![CDATA[วาไรตี้ครบทุกรสชาติเต็มไปด้วยสาระและบันเทิง เทคโนโลยีรอบตัว สุขภาพให้กับคนในครอบครัว ได้ตามกระแสแบบไม่ตกเทรนด์]]></desc>
+  <programme start="20210107190500 -0000" stop="20210107192000 -0000" channel="one">
+    <title><![CDATA[MV]]></title>
+    <desc><![CDATA[เพลิดเพลินกับมิวสิควิดีโอเพลงของเหล่าศิลปินที่คุณชื่นชอบ]]></desc>
   </programme>
-  <programme start="20210104072500 -0000" stop="20210104075200 -0000" channel="pptv">
-    <title><![CDATA[เที่ยวกินกับหมึกแดง]]></title>
-    <desc><![CDATA[เชฟหมึกแดงจะพาไปพบเจอสิ่งใหม่ๆ ที่มาเที่ยว ชิม กิน และทำอาหารแบบใหม่ในสไตล์เชฟหมึกแดง]]></desc>
+  <programme start="20210107192000 -0000" stop="20210107200000 -0000" channel="one">
+    <title><![CDATA[รักล้นๆคนเต็มบ้าน]]></title>
+    <desc><![CDATA[เรื่องราวคู่รักที่เพิ่งแต่งงานกันแค่ 7 วัน แล้วบ้านญาติฝ่ายหญิงที่สุพรรณบุรีเกิดไฟไหม้ จึงต้องย้ายมาอยู่กรุงเทพ แค่ย้ายมาวันแรกก็เกิดเรื่องวุ่นซะแล้ว]]></desc>
   </programme>
-  <programme start="20210104075200 -0000" stop="20210104075500 -0000" channel="pptv">
-    <title><![CDATA[นาทีข่าว]]></title>
-    <desc><![CDATA[ข่าวด่วน ข่าวเด่นทันต่อสถานการณ์]]></desc>
+  <programme start="20210107200000 -0000" stop="20210107210000 -0000" channel="one">
+    <title><![CDATA[วันนี้มีธรรม]]></title>
+    <desc><![CDATA[รับบุญ ฟังเทศน์ ฟังธรรม แต่เช้าตรู่ ร่วมคิดวิเคราะห์และนำคำสอนทางพระพุทธศาสนาไปใช้ในชีวิต]]></desc>
   </programme>
   <programme start="20210104075500 -0000" stop="20210104100000 -0000" channel="pptv">
     <title><![CDATA[หนังดังยามบ่าย]]></title>
@@ -6685,22 +6554,6 @@
   <programme start="20210104230000 +0700" stop="20210104235959 +0700" channel="premier2">
     <title><![CDATA[Fanzone]]></title>
   </programme>
-  <programme start="20210104063000 -0000" stop="20210104070000 -0000" channel="thaipbs">
-    <title><![CDATA[นักข่าวพลเมือง C-site]]></title>
-    <desc><![CDATA[ปักหมุด จุดประเด็น เห็นความเชื่อมโยง สร้างพลังพลเมือง ขับเน้นเนื้อหามุมที่แตกต่าง โดยร่วมสื่อสารจากภาคพลเมือง]]></desc>
-  </programme>
-  <programme start="20210104070000 -0000" stop="20210104070500 -0000" channel="thaipbs">
-    <title><![CDATA[ทันข่าว 14.00 น.]]></title>
-    <desc><![CDATA[รายงานข่าวตามสถานการณ์ต้นชั่วโมง]]></desc>
-  </programme>
-  <programme start="20210104070500 -0000" stop="20210104080000 -0000" channel="thaipbs">
-    <title><![CDATA[สถานีประชาชน]]></title>
-    <desc><![CDATA[เป็นสื่อกลางเพื่อนำเสนอปัญหาและหาทางออกของปัญหา เป็นที่พึ่งของประชาชนที่หาทางออกให้คุณได้]]></desc>
-  </programme>
-  <programme start="20210104080000 -0000" stop="20210104080500 -0000" channel="thaipbs">
-    <title><![CDATA[ทันข่าว 15.00 น.]]></title>
-    <desc><![CDATA[รายงานข่าวตามสถานการณ์ต้นชั่วโมง]]></desc>
-  </programme>
   <programme start="20210104080500 -0000" stop="20210104083000 -0000" channel="thaipbs">
     <title><![CDATA[คนสู้โรค]]></title>
     <desc><![CDATA[ให้ข้อมูลทางการแพทย์ การดูแลรักษาสุขภาพ การป้องกันและการรักษาโรค]]></desc>
@@ -7098,12 +6951,6 @@
   <programme start="20210107180000 -0000" stop="20210107213000 -0000" channel="thaipbs">
     <title><![CDATA[ปิดสถานี]]></title>
   </programme>
-  <programme start="20210104063000 -0000" stop="20210104072800 -0000" channel="thairath">
-    <title><![CDATA[บันเทิงไทยรัฐ]]></title>
-  </programme>
-  <programme start="20210104072800 -0000" stop="20210104073000 -0000" channel="thairath">
-    <title><![CDATA[Express News]]></title>
-  </programme>
   <programme start="20210104073000 -0000" stop="20210104082800 -0000" channel="thairath">
     <title><![CDATA[ร้องได้ให้ล้าน (Rerun)]]></title>
   </programme>
@@ -7416,21 +7263,11 @@
   <programme start="20210107184000 -0000" stop="20210107194000 -0000" channel="thairath">
     <title><![CDATA[วุ่นรักนักออกแบบ]]></title>
   </programme>
-  <programme start="20210104063200 -0000" stop="20210104070000 -0000" channel="tnn16">
-    <title><![CDATA[คนชนข่าว]]></title>
-    <desc><![CDATA[สรุปเหตุการณ์ข่าวตลอดทั้งวันที่มีความหลากหลายจากในและต่างประเทศ พร้อมทั้งการรายงานสภาพอากาศจากทุกมุมโลก]]></desc>
+  <programme start="20210107194000 -0000" stop="20210107201000 -0000" channel="thairath">
+    <title><![CDATA[วิถีสัตว์โลก AD CC]]></title>
   </programme>
-  <programme start="20210104070000 -0000" stop="20210104070500 -0000" channel="tnn16">
-    <title><![CDATA[TNN ข่าวต้นชั่วโมง]]></title>
-    <desc><![CDATA[เกาะติดทุกวินาทีความเคลื่อนไหว กับการรายงานข่าวสั้นในแต่ละช่วงของวัน]]></desc>
-  </programme>
-  <programme start="20210104070500 -0000" stop="20210104073000 -0000" channel="tnn16">
-    <title><![CDATA[เศรษฐกิจอินไซต์]]></title>
-    <desc><![CDATA[นำเสนอความเคลื่อนไหวในแวดวงเศรษฐกิจ การเงิน ทั้งในและต่างประเทศ รวมไปถึงเทคโนโลยีและนวัตกรรมที่ส่งเสริมการพัฒนาเศรษฐกิจ Startup]]></desc>
-  </programme>
-  <programme start="20210104073000 -0000" stop="20210104080000 -0000" channel="tnn16">
-    <title><![CDATA[อาเซียน PLUS]]></title>
-    <desc><![CDATA[รายการวิเคราะห์เศรษฐกิจในอาเซียนในยุคปัจจุบัน]]></desc>
+  <programme start="20210107201000 -0000" stop="20210107202500 -0000" channel="thairath">
+    <title><![CDATA[โอ้โห Thailand AD CC]]></title>
   </programme>
   <programme start="20210104080000 -0000" stop="20210104083000 -0000" channel="tnn16">
     <title><![CDATA[เรื่องดีดีทั่วไทย]]></title>
@@ -7757,14 +7594,6 @@
     <title><![CDATA[TNN ข่าวดึก]]></title>
     <desc><![CDATA[สรุปเหตุการณ์ข่าวตลอดทั้งวันที่มีความหลากหลายจากในและต่างประเทศพร้อมทั้งการรายงานสภาพอากาศจากทุกมุมโลก]]></desc>
   </programme>
-  <programme start="20210104130000 +0700" stop="20210104140000 +0700" channel="true4u">
-    <title><![CDATA[ทีวีแชมเปียน คิวามิ]]></title>
-    <desc><![CDATA[รายการแข่งขันระดับตำนานจากประเทศญี่ปุ่นเพื่อเฟ้นหาสุดยอดแห่งการเป็นที่สุด]]></desc>
-  </programme>
-  <programme start="20210104140000 +0700" stop="20210104143000 +0700" channel="true4u">
-    <title><![CDATA[ทรูช้อปปิ้ง]]></title>
-    <desc><![CDATA[พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ]]></desc>
-  </programme>
   <programme start="20210104143000 +0700" stop="20210104153000 +0700" channel="true4u">
     <title><![CDATA[สปอร์ต เวิลด์ คลาส]]></title>
     <desc><![CDATA[รายการนำเสนอช่วงสำคัญๆของกีฬาระดับโลกในรอบสัปดาห์ทุกการแข่งขันไม่ว่าจะเป็นศึกโตโยต้าไทยพรีเมียร์ลีก]]></desc>
@@ -7942,6 +7771,14 @@
     <desc><![CDATA[พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ]]></desc>
   </programme>
   <programme start="20210106013000 +0700" stop="20210106020000 +0700" channel="true4u">
+    <title><![CDATA[ทรูช้อปปิ้ง]]></title>
+    <desc><![CDATA[พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ]]></desc>
+  </programme>
+  <programme start="20210106020000 +0700" stop="20210106030000 +0700" channel="true4u">
+    <title><![CDATA[TNN ประเด็นใหญ่]]></title>
+    <desc><![CDATA[คุยข่าวใหญ่ ขยายข่าวดัง กับ เคนโด้ เกรียงไกรมาศ และ เก๋ กมลพรวรกุล]]></desc>
+  </programme>
+  <programme start="20210106030000 +0700" stop="20210106033000 +0700" channel="true4u">
     <title><![CDATA[ทรูช้อปปิ้ง]]></title>
     <desc><![CDATA[พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ]]></desc>
   </programme>
@@ -8160,21 +7997,6 @@
     <title><![CDATA[รันนิ่งแมน   [ 8 ]]]></title>
     <sub-title><![CDATA[SR-ENT-KN :: Gameshow]]></sub-title>
     <desc><![CDATA[รายการวาไรตี้ของเกาหลีใต้เกี่ยวกับกิจกรรมคนเมืองโดยที่เหล่าพิธีกรและแขกรับเชิญจะร่วมแข่งขันกันตามสถานที่สำคัญๆต่างๆ]]></desc>
-  </programme>
-  <programme start="20210104063000 -0000" stop="20210104070000 -0000" channel="tv5">
-    <title><![CDATA[ปันฝันปันยิ้ม]]></title>
-  </programme>
-  <programme start="20210104070000 -0000" stop="20210104070500 -0000" channel="tv5">
-    <title><![CDATA[ช่อง 5 ทันข่าว 1400 - 1405]]></title>
-  </programme>
-  <programme start="20210104070500 -0000" stop="20210104073500 -0000" channel="tv5">
-    <title><![CDATA[รายการสารคดี]]></title>
-  </programme>
-  <programme start="20210104073500 -0000" stop="20210104080000 -0000" channel="tv5">
-    <title><![CDATA[เปิดฟ้า]]></title>
-  </programme>
-  <programme start="20210104080000 -0000" stop="20210104080500 -0000" channel="tv5">
-    <title><![CDATA[ช่อง 5 ทันข่าว 1500 - 1505]]></title>
   </programme>
   <programme start="20210104080500 -0000" stop="20210104090000 -0000" channel="tv5">
     <title><![CDATA[5 อาสา เพื่อประชาชน]]></title>
@@ -8542,14 +8364,8 @@
   <programme start="20210107180000 -0000" stop="20210107200000 -0000" channel="tv5">
     <title><![CDATA[รายการสารคดี]]></title>
   </programme>
-  <programme start="20210104132500 +0700" stop="20210104141000 +0700" channel="warnertv">
-    <title><![CDATA[World's Dumbest S13 EP.2]]></title>
-  </programme>
-  <programme start="20210104141000 +0700" stop="20210104143500 +0700" channel="warnertv">
-    <title><![CDATA[Storage Hunters S1 EP.9]]></title>
-  </programme>
-  <programme start="20210104143500 +0700" stop="20210104150000 +0700" channel="warnertv">
-    <title><![CDATA[Storage Hunters S2 EP.1]]></title>
+  <programme start="20210107200000 -0000" stop="20210107203000 -0000" channel="tv5">
+    <title><![CDATA[AD สร้างฝันเพื่อสันติสุข]]></title>
   </programme>
   <programme start="20210104150000 +0700" stop="20210104155000 +0700" channel="warnertv">
     <title><![CDATA[Major Crimes S5 EP.06]]></title>
@@ -8701,17 +8517,11 @@
   <programme start="20210106015000 +0700" stop="20210106021500 +0700" channel="warnertv">
     <title><![CDATA[Storage Hunters S2 EP.2]]></title>
   </programme>
-  <programme start="20210104065000 -0000" stop="20210104070000 -0000" channel="workpoint">
-    <title><![CDATA[Wellness Shop]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  <programme start="20210106021500 +0700" stop="20210106030500 +0700" channel="warnertv">
+    <title><![CDATA[Supergirl S4 EP.07]]></title>
   </programme>
-  <programme start="20210104070000 -0000" stop="20210104075500 -0000" channel="workpoint">
-    <title><![CDATA[ซูเปอร์ 10 รีรัน]]></title>
-    <desc><![CDATA[รายการแข่งขัน]]></desc>
-  </programme>
-  <programme start="20210104075500 -0000" stop="20210104080000 -0000" channel="workpoint">
-    <title><![CDATA[2 ข่าวใหญ่ เวิร์คพอยท์]]></title>
-    <desc><![CDATA[รายงานข่าว]]></desc>
+  <programme start="20210106030500 +0700" stop="20210106040000 +0700" channel="warnertv">
+    <title><![CDATA[Blindspot S4 EP.20]]></title>
   </programme>
   <programme start="20210104080000 -0000" stop="20210104083000 -0000" channel="workpoint">
     <title><![CDATA[ฟาดข่าวบันเทิง]]></title>
