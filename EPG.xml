@@ -37,9 +37,6 @@
   <channel id="discoveryasia">
     <display-name>discoveryasia</display-name>
   </channel>
-  <channel id="disney">
-    <display-name>disney</display-name>
-  </channel>
   <channel id="dltv1">
     <display-name>dltv1</display-name>
   </channel>
@@ -55,18 +52,6 @@
   <channel id="gmm25">
     <display-name>gmm25</display-name>
   </channel>
-  <channel id="mcot">
-    <display-name>mcot</display-name>
-  </channel>
-  <channel id="mono29">
-    <display-name>mono29</display-name>
-  </channel>
-  <channel id="nation">
-    <display-name>nation</display-name>
-  </channel>
-  <channel id="one">
-    <display-name>one</display-name>
-  </channel>
   <channel id="history">
     <display-name>history</display-name>
   </channel>
@@ -76,14 +61,29 @@
   <channel id="hitsmovies">
     <display-name>hitsmovies</display-name>
   </channel>
+  <channel id="m">
+    <display-name>m</display-name>
+  </channel>
+  <channel id="mcot">
+    <display-name>mcot</display-name>
+  </channel>
+  <channel id="mono29">
+    <display-name>mono29</display-name>
+  </channel>
   <channel id="natgeo">
     <display-name>natgeo</display-name>
+  </channel>
+  <channel id="nation">
+    <display-name>nation</display-name>
   </channel>
   <channel id="nbt">
     <display-name>nbt</display-name>
   </channel>
   <channel id="new18">
     <display-name>new18</display-name>
+  </channel>
+  <channel id="one">
+    <display-name>one</display-name>
   </channel>
   <channel id="pptv">
     <display-name>pptv</display-name>
@@ -121,12 +121,9 @@
   <channel id="workpoint">
     <display-name>workpoint</display-name>
   </channel>
-  <programme start="20210106134000 +0700" stop="20210106141000 +0700" channel="altv">
-    <title><![CDATA[ละครเด็ก You&Me เพื่อนซี้ปาฏิหาริย์ S.2]]></title>
-  </programme>
-  <programme start="20210106141000 +0700" stop="20210106141500 +0700" channel="altv">
-    <title><![CDATA[คลิป สวัสดีชาวโซเซียล 35 คลิป / ความรู้รอบตัว]]></title>
-  </programme>
+  <channel id="zeenung">
+    <display-name>zeenung</display-name>
+  </channel>
   <programme start="20210106141500 +0700" stop="20210106150500 +0700" channel="altv">
     <title><![CDATA[ละคร ฝันให้สุด]]></title>
   </programme>
@@ -703,6 +700,9 @@
   <programme start="20210109183000 -0000" stop="20210109190000 -0000" channel="amarin">
     <title><![CDATA[แปลก!ฅน]]></title>
   </programme>
+  <programme start="20210109190000 -0000" stop="20210109200000 -0000" channel="amarin">
+    <title><![CDATA[สภากาแฟ 4.0 ยกล้อ]]></title>
+  </programme>
   <programme start="20210106002500 +0700" stop="20210106012000 +0700" channel="axn">
     <title><![CDATA[Chicago PD   [ 7 ]]]></title>
     <sub-title><![CDATA[SERIES :: Crime Series]]></sub-title>
@@ -1144,9 +1144,6 @@
   <programme start="20210108010000 +0700" stop="20210108025000 +0700" channel="bein2">
     <title><![CDATA[Serie A 2020/21 : Bologna vs Udinese]]></title>
   </programme>
-  <programme start="20210106133000 +0700" stop="20210106140000 +0700" channel="boomberang">
-    <title><![CDATA[Thomas and Friends S22]]></title>
-  </programme>
   <programme start="20210106140000 +0700" stop="20210106143000 +0700" channel="boomberang">
     <title><![CDATA[Adventure Time]]></title>
   </programme>
@@ -1345,8 +1342,8 @@
   <programme start="20210108010000 +0700" stop="20210108020000 +0700" channel="boomberang">
     <title><![CDATA[Dexter's Laboratory]]></title>
   </programme>
-  <programme start="20210106133000 +0700" stop="20210106140000 +0700" channel="cartoonnetwork">
-    <title><![CDATA[Running Man Animation]]></title>
+  <programme start="20210108020000 +0700" stop="20210108030000 +0700" channel="boomberang">
+    <title><![CDATA[Chowder]]></title>
   </programme>
   <programme start="20210106140000 +0700" stop="20210106150000 +0700" channel="cartoonnetwork">
     <title><![CDATA[Teen Titans Go!]]></title>
@@ -1483,13 +1480,8 @@
   <programme start="20210108010000 +0700" stop="20210108020000 +0700" channel="cartoonnetwork">
     <title><![CDATA[Mighty Magiswords]]></title>
   </programme>
-  <programme start="20210106061500 -0000" stop="20210106064500 -0000" channel="ch3">
-    <title><![CDATA[ครัวคุณต๋อย / แฟลช นิวส์]]></title>
-    <desc><![CDATA[รายการวาไรตี้ที่นำเสนอสูตรลับความอร่อยบนความฮา รับประกันเรื่องรสชาติ ไม่อร่อยไม่ได้ ที่ครัวคุณต๋อยต้องอร่อยเท่านั้น]]></desc>
-  </programme>
-  <programme start="20210106064500 -0000" stop="20210106071500 -0000" channel="ch3">
-    <title><![CDATA[แซ่บ พาซ่าส์ / True Shopping]]></title>
-    <desc><![CDATA[รายการท่องเที่ยวที่จะพาไปพบกับอาหาร ร้านเด็ด ร้านดัง ร้านแปลก รวมถึงสถานที่ท่องเที่ยวทั่วไทยและทั่วโลก และในรายการยังกิจกรรม “แจกแซ่บ” ให้ผู้ชมทางบ้านได้ร่วมสนุกและลุ้นรับของรางวัลสุดพิเศษทุกวัน]]></desc>
+  <programme start="20210108020000 +0700" stop="20210108030000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Chowder]]></title>
   </programme>
   <programme start="20210106071500 -0000" stop="20210106084500 -0000" channel="ch3">
     <title><![CDATA[ละคร แรงตะวัน]]></title>
@@ -1958,9 +1950,9 @@
     <title><![CDATA[ข่าววันใหม่]]></title>
     <desc><![CDATA[เป็นรายการโทรทัศน์ที่นำเสนอข่าว จับประเด็นของวันที่ผ่านมา มานำเสนอให้กับกลุ่มผู้ชม ที่รับชมข่าวในช่วงเวลาดึก ตลอดจนการนำเสนอข่าวจากเว็บไซต์ในอินเทอร์เน็ต และการแสดงข่าวหน้าหนึ่งของหนังสือพิมพ์ฉบับหลัก]]></desc>
   </programme>
-  <programme start="20210106064300 -0000" stop="20210106064500 -0000" channel="ch7">
-    <title><![CDATA[ข่าวเด็ด 7 สี]]></title>
-    <desc><![CDATA[เกาะติดข่าว ทันเหตุการณ์ ทั้งในและต่างประเทศ]]></desc>
+  <programme start="20210109184500 -0000" stop="20210109194500 -0000" channel="ch3">
+    <title><![CDATA[(AD/CC) สารคดี ประสบการณ์โลก]]></title>
+    <desc><![CDATA[เปิดประสบการณ์ใหม่ๆ จากโลกใบเดิมของคุณด้วยเสียงที่ทำให้คุณเห็นภาพ และตัวอักษรที่ทำให้คุณได้ยิน พร้อมพบกับความมหัศจรรย์ที่คัดสรรเนื้อหามาทั่วทุกมุมโลกมาเพื่อคุณผู้ชมโดยเฉพาะ ไม่ว่าจะเป็นการผจญภัยไปกับความงดงามของธรรมชาติและสัตว์โลก ด้วยเทคโนโลยีการถ่ายทำที่ล้ำสมัย]]></desc>
   </programme>
   <programme start="20210106064500 -0000" stop="20210106084500 -0000" channel="ch7">
     <title><![CDATA[ผู้บ่าวอินดี้ ยาหยีอินเตอร์ (Rerun)]]></title>
@@ -2339,10 +2331,6 @@
   <programme start="20210109182000 -0000" stop="20210109200000 -0000" channel="ch7">
     <title><![CDATA[ENCOUNTER หัวใจพบรัก (ENCOUNTER)]]></title>
     <desc><![CDATA[การเดินทางพบรักของชายหนุ่มที่มีชีวิตธรรมดาและหญิงสาวต่างสถานะ ต้องฝ่าฟันอุปสรรคไปตามเสียงเรียกร้องของหัวใจ]]></desc>
-  </programme>
-  <programme start="20210106061500 -0000" stop="20210106071500 -0000" channel="ch8">
-    <title><![CDATA[ซีรี่ส์ พิฆเนศ มหาเทพไอยรา]]></title>
-    <desc><![CDATA[เรื่องราวแห่งทวยเทพที่เต็มเปี่ยมไปด้วยสติปัญญา ศรัทธา ความสำเร็จ องค์มหาเทพที่ผู้คนนับถือมากที่สุดของโลก]]></desc>
   </programme>
   <programme start="20210106071500 -0000" stop="20210106072500 -0000" channel="ch8">
     <title><![CDATA[ชีวิตดี สาระดี]]></title>
@@ -2780,8 +2768,13 @@
     <title><![CDATA[ละคร สาปกระสือ]]></title>
     <desc><![CDATA[นำแสดงโดย กฤษฎา พรเวโรจน์  ชลิตา ส่วนเสน่ห์  นภัสกร มิตรธีรโรจน์  อธิชนัน ศรีเสวก]]></desc>
   </programme>
-  <programme start="20210106132000 +0700" stop="20210106141000 +0700" channel="discoveryasia">
-    <title><![CDATA[Lands Of The Earth (S1) : China - The Mermaids Of The Yangtze River]]></title>
+  <programme start="20210109190000 -0000" stop="20210109191000 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210109191000 -0000" stop="20210109200500 -0000" channel="ch8">
+    <title><![CDATA[ละคร สาปกระสือ]]></title>
+    <desc><![CDATA[นำแสดงโดย กฤษฎา พรเวโรจน์  ชลิตา ส่วนเสน่ห์  นภัสกร มิตรธีรโรจน์  อธิชนัน ศรีเสวก]]></desc>
   </programme>
   <programme start="20210106141000 +0700" stop="20210106150000 +0700" channel="discoveryasia">
     <title><![CDATA[Singapore On Film (S1) : A Time Of Change]]></title>
@@ -2933,200 +2926,8 @@
   <programme start="20210108012500 +0700" stop="20210108015000 +0700" channel="discoveryasia">
     <title><![CDATA[Destination Flavour: China (S1) : Episode 4]]></title>
   </programme>
-  <programme start="20210106000000 +0700" stop="20210106010000 +0700" channel="disney">
-    <title><![CDATA[Star vs The Forces of Evil]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[สตาร์ บัตเตอร์ฟลาย เป็นเจ้าหญิงจากต่างมิติ เธอต้องต่อสู้กับเหล่าร้ายในจักรวาลต่างๆเพื่อปกป้องคฑาวิเศษที่เธอเองก็ยังไม่รู้ว่าใช้อย่างไร]]></desc>
-  </programme>
-  <programme start="20210106010000 +0700" stop="20210106014500 +0700" channel="disney">
-    <title><![CDATA[Gravity Falls]]></title>
-    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
-    <desc><![CDATA[เรื่องราวของเด็กน้อยสองคนที่อาศัยอยู่กับลุงของพวกเขาในเมือง กราวิตี้ ฟอลส์ ซึ่งเต็มไปด้วยพลังปริศนาและความลึกลับ]]></desc>
-  </programme>
-  <programme start="20210106014500 +0700" stop="20210106020000 +0700" channel="disney">
-    <title><![CDATA[Banzi's Secret Diary]]></title>
-    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
-    <desc><![CDATA[เรื่องราวการผจญภัยแสนสนุกของเด็กสาวผู้น่ารักและสดใสที่ฝันอยากจะเป็นนักเขียนการ์ตูน]]></desc>
-  </programme>
-  <programme start="20210106020000 +0700" stop="20210106030000 +0700" channel="disney">
-    <title><![CDATA[Hotel Transylvania]]></title>
-    <sub-title><![CDATA[2012 - MOVIE :: Animation]]></sub-title>
-    <desc><![CDATA[ผีดูดเลือดแดร็กคูล่ากลายเป็นเจ้าของโรงแรมตากอากาศสุดหรูสำหรับพวกอสูรกายแต่ปัญหากลับอุบัติขึ้นเมื่อมีมนุษย์มาเยือนและตกหลุมรักกับลูกสาวของเขา -- ให้เสียงพากย์นำโดย อดัม แซนด์เลอร์]]></desc>
-  </programme>
-  <programme start="20210106030000 +0700" stop="20210106034500 +0700" channel="disney">
-    <title><![CDATA[Tangled: The Series]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[เจ้าหญิงราพันเซลซึ่งมี ยูจีน และคาสซานดรา คอยอยู่เคียงข้าง ได้เรียนรู้ว่าเธอยังต้องค้นหาอีกหลายสิ่งหลายอย่างก่อนที่จะรับบทบาทการเป็นเจ้าหญิงแห่งอาณาจักรโคโรน่า]]></desc>
-  </programme>
-  <programme start="20210106034500 +0700" stop="20210106040000 +0700" channel="disney">
-    <title><![CDATA[Phineas and Ferb]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[ฟินเนียส และ เฟิร์บ พยายามที่จะทำให้ทุกๆวันในช่วงปิดภาคเรียนฤดูร้อนของพวกเขามีความหมายโดยการสร้างสรรค์สิ่งประดิษฐ์ต่างๆ]]></desc>
-  </programme>
-  <programme start="20210106040000 +0700" stop="20210106043000 +0700" channel="disney">
-    <title><![CDATA[The Oddbods Show]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[สนุกกับการผจญภัยของ ออดบอดส์ เหล่าคนตัวเล็กแสนตลกที่สร้างเสียงหัวเราะได้ในทุกสถานการณ์]]></desc>
-  </programme>
-  <programme start="20210106043000 +0700" stop="20210106050000 +0700" channel="disney">
-    <title><![CDATA[Oswaldo]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[พบกับการผจญภัยที่ยากจะลืมเลือนไปกับนกเพนกวินจอมแก่นกับเหล่าผองเพื่อน -- ให้เสียงพากย์นำโดย มาเบล ซีซาร์]]></desc>
-  </programme>
-  <programme start="20210106050000 +0700" stop="20210106060000 +0700" channel="disney">
-    <title><![CDATA[Phineas and Ferb]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[ฟินเนียส และ เฟิร์บ พยายามที่จะทำให้ทุกๆวันในช่วงปิดภาคเรียนฤดูร้อนของพวกเขามีความหมายโดยการสร้างสรรค์สิ่งประดิษฐ์ต่างๆ]]></desc>
-  </programme>
-  <programme start="20210106060000 +0700" stop="20210106070000 +0700" channel="disney">
-    <title><![CDATA[Star vs The Forces of Evil]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[สตาร์ บัตเตอร์ฟลาย เป็นเจ้าหญิงจากต่างมิติ เธอต้องต่อสู้กับเหล่าร้ายในจักรวาลต่างๆเพื่อปกป้องคฑาวิเศษที่เธอเองก็ยังไม่รู้ว่าใช้อย่างไร]]></desc>
-  </programme>
-  <programme start="20210106070000 +0700" stop="20210106075000 +0700" channel="disney">
-    <title><![CDATA[Ducktales]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[ชานซ์, ดัสตี้, ไบลีย์, เฮอร์แมน และคุณลุงวิล กลับมาอีกครั้งกับแผนการแกล้งคนสุดพิเรน]]></desc>
-  </programme>
-  <programme start="20210106075000 +0700" stop="20210106080000 +0700" channel="disney">
-    <title><![CDATA[Big City Greens]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[เรื่องราวความน่ารักของเด็กหนุ่มชนบท กับการเริ่มต้นชีวิตใหม่ในเมืองใหญ่]]></desc>
-  </programme>
-  <programme start="20210106080000 +0700" stop="20210106083000 +0700" channel="disney">
-    <title><![CDATA[Upin & Ipin]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[ยูปิน และ ยีปิน คือฝาแฝดวัย 5 ขวบที่ทั้งซุกซนและอยากรู้อยากเห็น ทั้งคู่ได้เรียนรู้สิ่งใหม่ๆในชีวิตโดยมีครอบครัวและเพื่อนๆคอยให้คำแนะนำและเป็นกำลังใจ]]></desc>
-  </programme>
-  <programme start="20210106083000 +0700" stop="20210106090000 +0700" channel="disney">
-    <title><![CDATA[Kaitou Joker]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[หัวขโมยนามว่า โจ๊กเกอร์ ตระเวนขโมยสมบัติล้ำค่าทั่วโลกพร้อมด้วยลูกศิษย์ที่ชื่อว่า ฮาชิ และขณะเดียวกันก็ต้องคอยหลบเลี่ยงกับดักของตำรวจ]]></desc>
-  </programme>
-  <programme start="20210106090000 +0700" stop="20210106092500 +0700" channel="disney">
-    <title><![CDATA[Miraculous: Tales of Ladybug & Cat Noir]]></title>
-    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
-    <desc><![CDATA[เรื่องราวสุดมหัศจรรย์ของหญิงสาวที่ดูธรรมดาๆ แต่ใครจะรู้ว่าเธอมีความลับซ่อนเร้นอยู่]]></desc>
-  </programme>
-  <programme start="20210106092500 +0700" stop="20210106095000 +0700" channel="disney">
-    <title><![CDATA[Miraculous: Tales of Ladybug & Cat Noir]]></title>
-    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
-    <desc><![CDATA[เรื่องราวสุดมหัศจรรย์ของหญิงสาวที่ดูธรรมดาๆ แต่ใครจะรู้ว่าเธอมีความลับซ่อนเร้นอยู่]]></desc>
-  </programme>
-  <programme start="20210106095000 +0700" stop="20210106100000 +0700" channel="disney">
-    <title><![CDATA[Cupcake & Dino: General Services]]></title>
-    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
-    <desc><![CDATA[เรื่องราวสุดสนุกของคู่หูพี่น้องคัพเค้กและไดโนเสาร์ กลับมาผจญภัยมากขึ้นในโลกที่ไร้ขีดจำกัด กับการออกทำงานทั่วไปที่ไม่มีงานใดใหญ่เกินไปหรือไร้สาระสำหรับคู่หูที่มีพลังนี้]]></desc>
-  </programme>
-  <programme start="20210106100000 +0700" stop="20210106104500 +0700" channel="disney">
-    <title><![CDATA[Upin & Ipin]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[ยูปิน และ ยีปิน คือฝาแฝดวัย 5 ขวบที่ทั้งซุกซนและอยากรู้อยากเห็น ทั้งคู่ได้เรียนรู้สิ่งใหม่ๆในชีวิตโดยมีครอบครัวและเพื่อนๆคอยให้คำแนะนำและเป็นกำลังใจ]]></desc>
-  </programme>
-  <programme start="20210106104500 +0700" stop="20210106110000 +0700" channel="disney">
-    <title><![CDATA[Rabbids Invasion]]></title>
-    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
-    <desc><![CDATA[พบกับกระต่ายต่างดาวแสนตลกที่จะบุกมาสร้างเสียงหัวเราะและความสนุกสนานให้ทุกคน]]></desc>
-  </programme>
-  <programme start="20210106110000 +0700" stop="20210106123500 +0700" channel="disney">
-    <title><![CDATA[The Wild]]></title>
-    <sub-title><![CDATA[2006 - MOVIE :: Animation]]></sub-title>
-    <desc><![CDATA[ภาพยนตร์การ์ตูนเกี่ยวกับสิงโตหนุ่มจากสวนสัตว์นิวยอร์คที่ถูกส่งตัวไปยังอาฟริกาโดยอุบัติเหตุจนกระทั่งบรรดาผองเพื่อนต้องหาทางกู้ภัยและนำเขากลับมาให้ได้]]></desc>
-  </programme>
-  <programme start="20210106123500 +0700" stop="20210106130000 +0700" channel="disney">
-    <title><![CDATA[Pucca: Love Recipe]]></title>
-    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
-    <desc><![CDATA[พบกับเรื่องราวชุลมุนของสาวสุดน่ารักที่ต้องเผชิญภัยคุกคามต่อร้านอาหารและความรักเธอจึงต้องต่อสู้เพื่อฝ่าฟันไปให้ได้]]></desc>
-  </programme>
-  <programme start="20210106130000 +0700" stop="20210106132500 +0700" channel="disney">
-    <title><![CDATA[Miraculous: Tales of Ladybug & Cat Noir]]></title>
-    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
-    <desc><![CDATA[เรื่องราวสุดมหัศจรรย์ของหญิงสาวที่ดูธรรมดาๆ แต่ใครจะรู้ว่าเธอมีความลับซ่อนเร้นอยู่]]></desc>
-  </programme>
-  <programme start="20210106132500 +0700" stop="20210106135000 +0700" channel="disney">
-    <title><![CDATA[Miraculous: Tales of Ladybug & Cat Noir]]></title>
-    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
-    <desc><![CDATA[เรื่องราวสุดมหัศจรรย์ของหญิงสาวที่ดูธรรมดาๆ แต่ใครจะรู้ว่าเธอมีความลับซ่อนเร้นอยู่]]></desc>
-  </programme>
-  <programme start="20210106135000 +0700" stop="20210106140000 +0700" channel="disney">
-    <title><![CDATA[Cupcake & Dino: General Services]]></title>
-    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
-    <desc><![CDATA[เรื่องราวสุดสนุกของคู่หูพี่น้องคัพเค้กและไดโนเสาร์ กลับมาผจญภัยมากขึ้นในโลกที่ไร้ขีดจำกัด กับการออกทำงานทั่วไปที่ไม่มีงานใดใหญ่เกินไปหรือไร้สาระสำหรับคู่หูที่มีพลังนี้]]></desc>
-  </programme>
-  <programme start="20210106140000 +0700" stop="20210106143000 +0700" channel="disney">
-    <title><![CDATA[Amphibia]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[เรื่องราวการผจญภัยสุดอัศจรรย์ของสาวน้อยวัยรุ่นที่ถูกส่งไปยังโลกแห่งจินตนาการซึ่งเต็มไปด้วยกบตัวน้อยๆ]]></desc>
-  </programme>
-  <programme start="20210106143000 +0700" stop="20210106150000 +0700" channel="disney">
-    <title><![CDATA[The Owl House]]></title>
-    <sub-title><![CDATA[KIDS :: Animation, Kids]]></sub-title>
-    <desc><![CDATA[เรื่องราวการผจญภัยของสาววัยรุ่นที่ติดอยู่ในอาณาจักรแห่งอสูรจึงร่วมมือกับแม่มดกบฏและเหล่านักรบตัวจิ๋วเพื่อต่อสู้กองกำลังทมิฬไปให้ได้]]></desc>
-  </programme>
-  <programme start="20210106150000 +0700" stop="20210106153000 +0700" channel="disney">
-    <title><![CDATA[Big Hero 6 The Series]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[หนุ่มน้อยนักประดิษฐ์และผองเพื่อนได้รังสรรค์ หุ่นยนต์เบย์แม็กซ์ และรวมพลังกันเป็นทีม บิ๊กฮีโร่ซิกส์ เพื่อปกป้องปฐพีจากเหล่าวายร้าย]]></desc>
-  </programme>
-  <programme start="20210106153000 +0700" stop="20210106160000 +0700" channel="disney">
-    <title><![CDATA[Pucca: Love Recipe]]></title>
-    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
-    <desc><![CDATA[พบกับเรื่องราวชุลมุนของสาวสุดน่ารักที่ต้องเผชิญภัยคุกคามต่อร้านอาหารและความรักเธอจึงต้องต่อสู้เพื่อฝ่าฟันไปให้ได้]]></desc>
-  </programme>
-  <programme start="20210106160000 +0700" stop="20210106163000 +0700" channel="disney">
-    <title><![CDATA[Miraculous: Tales of Ladybug & Cat Noir]]></title>
-    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
-    <desc><![CDATA[เรื่องราวสุดมหัศจรรย์ของหญิงสาวที่ดูธรรมดาๆ แต่ใครจะรู้ว่าเธอมีความลับซ่อนเร้นอยู่]]></desc>
-  </programme>
-  <programme start="20210106163000 +0700" stop="20210106165500 +0700" channel="disney">
-    <title><![CDATA[Boboiboy]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[ร่วมผจญภัยไปกับยอดมนุษย์ตัวน้อย โบบอบอย ที่มาพร้อมกับผองเพื่อนเหล่ามนุษย์ต่างดาวรูปร่างหน้าตาประหลาดแสนตลกขบขันซึ่งยกพวกมาเยือนโลกเพื่อหวังกวาดกินเมล็ดโกโก้]]></desc>
-  </programme>
-  <programme start="20210106165500 +0700" stop="20210106171500 +0700" channel="disney">
-    <title><![CDATA[Ejen Ali]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[หนุ่มน้อย อีเจน อาลี เข้ารับการฝึกสุดหฤโหดเพื่อฝึกปรือทักษะการเป็นสายลับมือหนึ่งโดยมีสุดยอดอุปกรณ์พิเศษเป็นเครื่องมือประจำตัว]]></desc>
-  </programme>
-  <programme start="20210106171500 +0700" stop="20210106173500 +0700" channel="disney">
-    <title><![CDATA[Upin & Ipin]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[ยูปิน และ ยีปิน คือฝาแฝดวัย 5 ขวบที่ทั้งซุกซนและอยากรู้อยากเห็น ทั้งคู่ได้เรียนรู้สิ่งใหม่ๆในชีวิตโดยมีครอบครัวและเพื่อนๆคอยให้คำแนะนำและเป็นกำลังใจ]]></desc>
-  </programme>
-  <programme start="20210106173500 +0700" stop="20210106183000 +0700" channel="disney">
-    <title><![CDATA[Pokemon the Series: Sun Moon:Ultra Advt.]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[หลังจากที่ได้รับ Z-Ring จากผู้พิทักษ์แห่งเกาะ Tapu Koko แอชและปิกาจูก็ได้เริ่มต้นสิ่งที่ได้สัญญาไว้ถึงการผจญภัยอันน่าตื่นเต้น]]></desc>
-  </programme>
-  <programme start="20210106183000 +0700" stop="20210106190000 +0700" channel="disney">
-    <title><![CDATA[Kaitou Joker]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[หัวขโมยนามว่า โจ๊กเกอร์ ตระเวนขโมยสมบัติล้ำค่าทั่วโลกพร้อมด้วยลูกศิษย์ที่ชื่อว่า ฮาชิ และขณะเดียวกันก็ต้องคอยหลบเลี่ยงกับดักของตำรวจ]]></desc>
-  </programme>
-  <programme start="20210106190000 +0700" stop="20210106204500 +0700" channel="disney">
-    <title><![CDATA[Inside Out]]></title>
-    <sub-title><![CDATA[2015 - MOVIE :: Animation]]></sub-title>
-    <desc><![CDATA[ภาพยนตร์การ์ตูนรางวัลออสการ์จากค่ายพิกซาร์เกี่ยวกับโลกอันผันผวนแห่งห้วงอารมณ์ในจิตใจของเด็กหญิงคนหนึ่ง -- ให้เสียงพากย์นำโดย เอมี่ โพห์เลอร์ และ บิล เฮเดอร์]]></desc>
-  </programme>
-  <programme start="20210106204500 +0700" stop="20210106210000 +0700" channel="disney">
-    <title><![CDATA[Pucca: Love Recipe]]></title>
-    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
-    <desc><![CDATA[พบกับเรื่องราวชุลมุนของสาวสุดน่ารักที่ต้องเผชิญภัยคุกคามต่อร้านอาหารและความรักเธอจึงต้องต่อสู้เพื่อฝ่าฟันไปให้ได้]]></desc>
-  </programme>
-  <programme start="20210106210000 +0700" stop="20210106223500 +0700" channel="disney">
-    <title><![CDATA[The Wild]]></title>
-    <sub-title><![CDATA[2006 - MOVIE :: Animation]]></sub-title>
-    <desc><![CDATA[ภาพยนตร์การ์ตูนเกี่ยวกับสิงโตหนุ่มจากสวนสัตว์นิวยอร์คที่ถูกส่งตัวไปยังอาฟริกาโดยอุบัติเหตุจนกระทั่งบรรดาผองเพื่อนต้องหาทางกู้ภัยและนำเขากลับมาให้ได้]]></desc>
-  </programme>
-  <programme start="20210106223500 +0700" stop="20210106230000 +0700" channel="disney">
-    <title><![CDATA[Pucca]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[ติดตามการผจญภัยของสาวน้อยจอมพลังผู้แสนซุกซนซึ่งมุ่งมั่นจะชนะใจนินจาหนุ่มน้อย]]></desc>
-  </programme>
-  <programme start="20210106230000 +0700" stop="20210106235959 +0700" channel="disney">
-    <title><![CDATA[Phineas and Ferb]]></title>
-    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
-    <desc><![CDATA[ฟินเนียส และ เฟิร์บ พยายามที่จะทำให้ทุกๆวันในช่วงปิดภาคเรียนฤดูร้อนของพวกเขามีความหมายโดยการสร้างสรรค์สิ่งประดิษฐ์ต่างๆ]]></desc>
+  <programme start="20210108015000 +0700" stop="20210108024000 +0700" channel="discoveryasia">
+    <title><![CDATA[Build It Bigger (S5) : Turkey's Mammoth Hydropowered Deriner Dam]]></title>
   </programme>
   <programme start="20210106133000 +0700" stop="20210106143000 +0700" channel="dltv1">
     <title><![CDATA[อ11101 ภาษาอังกฤษ 1]]></title>
@@ -3344,6 +3145,9 @@
   <programme start="20210108013000 +0700" stop="20210108020000 +0700" channel="dltv1">
     <title><![CDATA[เพื่อชีวิตและสุขภาพ ปี 1-2]]></title>
   </programme>
+  <programme start="20210108020000 +0700" stop="20210108023000 +0700" channel="dltv1">
+    <title><![CDATA[๑ ในพระราชดำริ]]></title>
+  </programme>
   <programme start="20210106003000 +0700" stop="20210106021500 +0700" channel="foxactionmovies">
     <title><![CDATA[The Crime Boss]]></title>
     <sub-title><![CDATA[2020 - MOVIE :: Action]]></sub-title>
@@ -3559,6 +3363,10 @@
     <sub-title><![CDATA[SR-ENT-KN :: Crime Series]]></sub-title>
     <desc><![CDATA[พบกับปฏิบัติการของทีมเจ้าหน้าที่พิเศษซึ่งมีภารกิจในการสืบสวนคดีอาชญากรรมที่เชื่อมโยงกับบุคลากรในกองทัพเรือของสหรัฐโดยไม่หวั่นเกรงว่าผู้นั้นจะเป็นใคร -- นำแสดงโดย ลูคัส แบล็ค]]></desc>
   </programme>
+  <programme start="20210106070000 -0000" stop="20210106083000 -0000" channel="gmm25">
+    <title><![CDATA[นานาน่า (สด)]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
   <programme start="20210106075000 +0700" stop="20210106084500 +0700" channel="foxthai">
     <title><![CDATA[NCIS: New Orleans   [ 6 ]]]></title>
     <sub-title><![CDATA[SR-ENT-KN :: Crime Series]]></sub-title>
@@ -3573,6 +3381,10 @@
     <title><![CDATA[American Dad   [ 15 ]]]></title>
     <sub-title><![CDATA[SR-ENT-KN :: Comedy Series, Animation]]></sub-title>
     <desc><![CDATA[การ์ตูนแนวเสียดสีสังคมเกี่ยวกับสายลับซีไอเอหัวอนุรักษ์นิยมที่ต้องปวดหัวกับทั้งเรื่องงานและความวุ่นวายในชีวิตครอบครัว -- ให้เสียงพากย์นำโดย เซ็ธ แม็คฟาร์เลน และ เว็นดี้ ชาล]]></desc>
+  </programme>
+  <programme start="20210106083000 -0000" stop="20210106100000 -0000" channel="gmm25">
+    <title><![CDATA[ซีรีส์ Kiss THE SERIES รักต้องจูบ]]></title>
+    <desc><![CDATA[รายการประเภท ละคร]]></desc>
   </programme>
   <programme start="20210106100500 +0700" stop="20210106103000 +0700" channel="foxthai">
     <title><![CDATA[American Dad   [ 15 ]]]></title>
@@ -3589,15 +3401,31 @@
     <sub-title><![CDATA[SR-ENT-KN :: Crime Series]]></sub-title>
     <desc><![CDATA[พบกับปฏิบัติการของทีมเจ้าหน้าที่พิเศษซึ่งมีภารกิจในการสืบสวนคดีอาชญากรรมที่เชื่อมโยงกับบุคลากรในกองทัพเรือของสหรัฐโดยไม่หวั่นเกรงว่าผู้นั้นจะเป็นใคร -- นำแสดงโดย ลูคัส แบล็ค]]></desc>
   </programme>
+  <programme start="20210106100000 -0000" stop="20210106110000 -0000" channel="gmm25">
+    <title><![CDATA[บุษบาจ๊ะจ๋า (สด)]]></title>
+    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
+  </programme>
+  <programme start="20210106110000 -0000" stop="20210106120000 -0000" channel="gmm25">
+    <title><![CDATA[เจาะข่าวค่ำ (สด)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
   <programme start="20210106121000 +0700" stop="20210106130500 +0700" channel="foxthai">
     <title><![CDATA[NCIS: New Orleans   [ 6 ]]]></title>
     <sub-title><![CDATA[SR-ENT-KN :: Crime Series]]></sub-title>
     <desc><![CDATA[พบกับปฏิบัติการของทีมเจ้าหน้าที่พิเศษซึ่งมีภารกิจในการสืบสวนคดีอาชญากรรมที่เชื่อมโยงกับบุคลากรในกองทัพเรือของสหรัฐโดยไม่หวั่นเกรงว่าผู้นั้นจะเป็นใคร -- นำแสดงโดย ลูคัส แบล็ค]]></desc>
   </programme>
+  <programme start="20210106120000 -0000" stop="20210106131500 -0000" channel="gmm25">
+    <title><![CDATA[ข่าวแหกโค้ง (สด)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
   <programme start="20210106130500 +0700" stop="20210106135500 +0700" channel="foxthai">
     <title><![CDATA[Marvel's Agents of S.H.I.E.L.D. [6]]]></title>
     <sub-title><![CDATA[SR-ENT-KN :: Sci-fi Series]]></sub-title>
     <desc><![CDATA[ภาพยนตร์ชุดทางโทรทัศน์เกี่ยวกับปฏิบัติการพิทักษ์โลกของเหล่ายอดมนุษย์ระดับพระกาฬที่รวมตัวกันเป็นหน่วย S.H.I.E.L.D.  -- นำแสดงโดย คลาร์ก เกร็กก์ และ โคลอี้ เบนเน็ต]]></desc>
+  </programme>
+  <programme start="20210106131500 -0000" stop="20210106133000 -0000" channel="gmm25">
+    <title><![CDATA[ข่าว]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
   </programme>
   <programme start="20210106135500 +0700" stop="20210106144500 +0700" channel="foxthai">
     <title><![CDATA[Marvel's Agents of S.H.I.E.L.D. [6]]]></title>
@@ -3608,6 +3436,109 @@
     <title><![CDATA[The Walking Dead   [ 3 ]]]></title>
     <sub-title><![CDATA[SR-ENT-KN :: Horror Series, Sci-Fi]]></sub-title>
     <desc><![CDATA[ภาพยนตร์ชุดทางโทรทัศน์เกี่ยวกับกลุ่มผู้รอดชีวิตที่ต้องเผชิญหน้ากับโลกอันเต็มไปด้วยเหล่าผีดิบกระหายเลือดทั่วทุกหนแห่ง -- นำแสดงโดย แอนดรูว์ ลินคอล์น]]></desc>
+  </programme>
+  <programme start="20210106133000 -0000" stop="20210106143000 -0000" channel="gmm25">
+    <title><![CDATA[ซีรีส์ 30 กำลังแจ๋ว THE SERIES (ตอนแรก)]]></title>
+    <desc><![CDATA[รายการประเภท ละคร]]></desc>
+  </programme>
+  <programme start="20210106143000 -0000" stop="20210106160000 -0000" channel="gmm25">
+    <title><![CDATA[แฉ (สด)]]></title>
+    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
+  </programme>
+  <programme start="20210106153500 +0700" stop="20210106163000 +0700" channel="foxthai">
+    <title><![CDATA[The Walking Dead   [ 3 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Horror Series, Sci-Fi]]></sub-title>
+    <desc><![CDATA[ภาพยนตร์ชุดทางโทรทัศน์เกี่ยวกับกลุ่มผู้รอดชีวิตที่ต้องเผชิญหน้ากับโลกอันเต็มไปด้วยเหล่าผีดิบกระหายเลือดทั่วทุกหนแห่ง -- นำแสดงโดย แอนดรูว์ ลินคอล์น]]></desc>
+  </programme>
+  <programme start="20210106163000 +0700" stop="20210106170000 +0700" channel="foxthai">
+    <title><![CDATA[American Dad   [ 15 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Comedy Series, Animation]]></sub-title>
+    <desc><![CDATA[การ์ตูนแนวเสียดสีสังคมเกี่ยวกับสายลับซีไอเอหัวอนุรักษ์นิยมที่ต้องปวดหัวกับทั้งเรื่องงานและความวุ่นวายในชีวิตครอบครัว -- ให้เสียงพากย์นำโดย เซ็ธ แม็คฟาร์เลน และ เว็นดี้ ชาล]]></desc>
+  </programme>
+  <programme start="20210106170000 +0700" stop="20210106173000 +0700" channel="foxthai">
+    <title><![CDATA[American Dad   [ 15 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Comedy Series, Animation]]></sub-title>
+    <desc><![CDATA[การ์ตูนแนวเสียดสีสังคมเกี่ยวกับสายลับซีไอเอหัวอนุรักษ์นิยมที่ต้องปวดหัวกับทั้งเรื่องงานและความวุ่นวายในชีวิตครอบครัว -- ให้เสียงพากย์นำโดย เซ็ธ แม็คฟาร์เลน และ เว็นดี้ ชาล]]></desc>
+  </programme>
+  <programme start="20210106160000 -0000" stop="20210106165959 -0000" channel="gmm25">
+    <title><![CDATA[รถโรงเรียน Special (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
+  </programme>
+  <programme start="20210106173000 +0700" stop="20210106182000 +0700" channel="foxthai">
+    <title><![CDATA[The Titan Games   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
+    <desc><![CDATA[พบกับรายการการแข่งขันกีฬารูปแบบใหม่ภายใต้ความเชื่อที่ว่าทุกๆคนมีศักยภาพอันน่าทึ่ง]]></desc>
+  </programme>
+  <programme start="20210106170000 -0000" stop="20210106172000 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106172000 -0000" stop="20210106184000 -0000" channel="gmm25">
+    <title><![CDATA[เจาะข่าวค่ำ (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210106182000 +0700" stop="20210106191000 +0700" channel="foxthai">
+    <title><![CDATA[The Titan Games   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
+    <desc><![CDATA[พบกับรายการการแข่งขันกีฬารูปแบบใหม่ภายใต้ความเชื่อที่ว่าทุกๆคนมีศักยภาพอันน่าทึ่ง]]></desc>
+  </programme>
+  <programme start="20210106184000 -0000" stop="20210106203000 -0000" channel="gmm25">
+    <title><![CDATA[ข่าวแหกโค้ง (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210106191000 +0700" stop="20210106200000 +0700" channel="foxthai">
+    <title><![CDATA[NCIS   [ 17 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Crime Series]]></sub-title>
+    <desc><![CDATA[พบกับปฏิบัติการของทีมเจ้าหน้าที่พิเศษซึ่งมีภารกิจในการสืบสวนคดีอาชญากรรมที่เชื่อมโยงกับบุคลากรในกองทัพเรือของสหรัฐโดยไม่หวั่นเกรงว่าผู้นั้นจะเป็นใคร -- นำแสดงโดย มาร์ค ฮาร์มอน]]></desc>
+  </programme>
+  <programme start="20210106200000 +0700" stop="20210106205000 +0700" channel="foxthai">
+    <title><![CDATA[NCIS   [ 17 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Crime Series]]></sub-title>
+    <desc><![CDATA[พบกับปฏิบัติการของทีมเจ้าหน้าที่พิเศษซึ่งมีภารกิจในการสืบสวนคดีอาชญากรรมที่เชื่อมโยงกับบุคลากรในกองทัพเรือของสหรัฐโดยไม่หวั่นเกรงว่าผู้นั้นจะเป็นใคร -- นำแสดงโดย มาร์ค ฮาร์มอน]]></desc>
+  </programme>
+  <programme start="20210106205000 +0700" stop="20210106214000 +0700" channel="foxthai">
+    <title><![CDATA[FBI: Most Wanted]]></title>
+  </programme>
+  <programme start="20210106214000 +0700" stop="20210106223000 +0700" channel="foxthai">
+    <title><![CDATA[S.W.A.T.   [ 4 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Action Series]]></sub-title>
+    <desc><![CDATA[ภาพยนตร์ชุดทางโทรทัศน์เกี่ยวกับนายทหารหนุ่มที่ต้องเลือกระหว่างความจงรักภักดีต่อพวกพ้องกับภาระซึ่งมีต่อเพื่อนทหารเมื่อเขาได้เข้าร่วมหน่วยสวาท -- นำแสดงโดย เชมาร์ มัวร์]]></desc>
+  </programme>
+  <programme start="20210106223000 +0700" stop="20210106232000 +0700" channel="foxthai">
+    <title><![CDATA[The Titan Games   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
+    <desc><![CDATA[พบกับรายการการแข่งขันกีฬารูปแบบใหม่ภายใต้ความเชื่อที่ว่าทุกๆคนมีศักยภาพอันน่าทึ่ง]]></desc>
+  </programme>
+  <programme start="20210106203000 -0000" stop="20210106205000 -0000" channel="gmm25">
+    <title><![CDATA[TRUE SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106205000 -0000" stop="20210106215000 -0000" channel="gmm25">
+    <title><![CDATA[ธรรมนำชีวิต]]></title>
+    <desc><![CDATA[รายการประเภท สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210106215000 -0000" stop="20210106221000 -0000" channel="gmm25">
+    <title><![CDATA[TRUE SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106221000 -0000" stop="20210106222500 -0000" channel="gmm25">
+    <title><![CDATA[MV]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210106222500 -0000" stop="20210106223500 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106232000 +0700" stop="20210106235959 +0700" channel="foxthai">
+    <title><![CDATA[FBI: Most Wanted]]></title>
+  </programme>
+  <programme start="20210106223500 -0000" stop="20210106225500 -0000" channel="gmm25">
+    <title><![CDATA[MV]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210106225500 -0000" stop="20210106230500 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
   </programme>
   <programme start="20210106230500 -0000" stop="20210106232000 -0000" channel="gmm25">
     <title><![CDATA[MV]]></title>
@@ -3917,16 +3848,387 @@
     <title><![CDATA[ข่าวแหกโค้ง (Rerun)]]></title>
     <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
   </programme>
-  <programme start="20210106063500 -0000" stop="20210106070000 -0000" channel="mcot">
-    <title><![CDATA[ASIAN SERIES]]></title>
-    <desc><![CDATA[ภาพยนตร์จีน ชุด ฝูเหยา จอมนางเหนือบัลลังค์]]></desc>
+  <programme start="20210106003500 +0700" stop="20210106013000 +0700" channel="history">
+    <title><![CDATA[The Secret of Skinwalker Ranch]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Paranormal]]></sub-title>
+    <desc><![CDATA[สารคดีนำเสนอเรื่องราวแปลกประหลาดในฟาร์มปศุสัตว์รัฐยูทาห์ที่อาจจะเกี่ยวข้องกับ ยูเอฟโอ ซึ่งเหล่านักวิทยาศาสตร์และผู้เชี่ยวชาญต้องการจะไขปริศนานี้]]></desc>
   </programme>
-  <programme start="20210106070000 -0000" stop="20210106070500 -0000" channel="mcot">
-    <title><![CDATA[ข่าวต้นชั่วโมง]]></title>
+  <programme start="20210106013000 +0700" stop="20210106022500 +0700" channel="history">
+    <title><![CDATA[Unidentified:America's UFO Investigation]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Paranormal]]></sub-title>
+    <desc><![CDATA[ร่วมเปิดเผยความลับของยูเอฟโอไปด้วยกันกับเหล่าบุคคลที่เป็นวงในของสหรัฐอเมริกา]]></desc>
   </programme>
-  <programme start="20210106070500 -0000" stop="20210106072000 -0000" channel="mcot">
-    <title><![CDATA[ASIAN SERIES]]></title>
-    <desc><![CDATA[ภาพยนตร์จีน ชุด ฝูเหยา จอมนางเหนือบัลลังค์]]></desc>
+  <programme start="20210106022500 +0700" stop="20210106032000 +0700" channel="history">
+    <title><![CDATA[The Curse of Oak Island   [ 7 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Fortunes, Humanity]]></sub-title>
+    <desc><![CDATA[พิธีกร ริค และ มาร์ตี้ ลาไจน่า จะมาสำรวจขุดหาขุมทรัพย์บนที่ดินของพวกเขาเองเพื่อหาคำตอบว่ามันมีสิ่งมีค่าใดซ่อนเร้นอยู่ใต้ดินบ้าง]]></desc>
+  </programme>
+  <programme start="20210106032000 +0700" stop="20210106041500 +0700" channel="history">
+    <title><![CDATA[The Curse of Oak Island   [ 7 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Fortunes, Humanity]]></sub-title>
+    <desc><![CDATA[พิธีกร ริค และ มาร์ตี้ ลาไจน่า จะมาสำรวจขุดหาขุมทรัพย์บนที่ดินของพวกเขาเองเพื่อหาคำตอบว่ามันมีสิ่งมีค่าใดซ่อนเร้นอยู่ใต้ดินบ้าง]]></desc>
+  </programme>
+  <programme start="20210106041500 +0700" stop="20210106051000 +0700" channel="history">
+    <title><![CDATA[The Unxplained with William Shatner]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Paranormal]]></sub-title>
+    <desc><![CDATA[สารคดีออกสำรวจบรรดาเรื่องราวน่าทึ่งสุดพิศวงต่างๆบนโลกใบนี้ที่มีทั้งความลึกลับแปลกประหลาดและน่าหลงใหล --  ดำเนินรายการโดย วิลเลียม แช็ตเนอร์]]></desc>
+  </programme>
+  <programme start="20210106051000 +0700" stop="20210106060500 +0700" channel="history">
+    <title><![CDATA[The Pickers   [ 15 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Fortunes, Reality]]></sub-title>
+    <desc><![CDATA[สารคดีนำเสนอสองคู่หูนักสะสมวัตถุโบราณที่ออกตระเวนไปทั่วสหรัฐอเมริกาเพื่อเสาะหาบรรดาของเก่าเก็บซึ่งล้วนถูกมองข้ามแต่อาจมีค่ามากกว่าใครจะคาดคิด]]></desc>
+  </programme>
+  <programme start="20210106060500 +0700" stop="20210106070000 +0700" channel="history">
+    <title><![CDATA[The Curse of Oak Island   [ 7 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Fortunes, Humanity]]></sub-title>
+    <desc><![CDATA[พิธีกร ริค และ มาร์ตี้ ลาไจน่า จะมาสำรวจขุดหาขุมทรัพย์บนที่ดินของพวกเขาเองเพื่อหาคำตอบว่ามันมีสิ่งมีค่าใดซ่อนเร้นอยู่ใต้ดินบ้าง]]></desc>
+  </programme>
+  <programme start="20210106070000 +0700" stop="20210106075500 +0700" channel="history">
+    <title><![CDATA[The Curse of Oak Island   [ 7 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Fortunes, Humanity]]></sub-title>
+    <desc><![CDATA[พิธีกร ริค และ มาร์ตี้ ลาไจน่า จะมาสำรวจขุดหาขุมทรัพย์บนที่ดินของพวกเขาเองเพื่อหาคำตอบว่ามันมีสิ่งมีค่าใดซ่อนเร้นอยู่ใต้ดินบ้าง]]></desc>
+  </programme>
+  <programme start="20210106075500 +0700" stop="20210106085500 +0700" channel="history">
+    <title><![CDATA[Lost Gold of World War II   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: History, Documentary]]></sub-title>
+    <desc><![CDATA[สารคดีถ่ายทอดเรื่องราวของทีมนักโบราณคดีชาวอเมริกันที่มาออกสำรวจภูเขาในประเทศฟิลิปปินส์ซึ่งชาวบ้านเชื่อว่าชาวญี่ปุ่นได้มาฝังสมบัติไว้เมื่อช่วงยุคสงครามโลกครั้งที่สอง]]></desc>
+  </programme>
+  <programme start="20210106085500 +0700" stop="20210106095000 +0700" channel="history">
+    <title><![CDATA[The Unxplained with William Shatner]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Paranormal]]></sub-title>
+    <desc><![CDATA[สารคดีออกสำรวจบรรดาเรื่องราวน่าทึ่งสุดพิศวงต่างๆบนโลกใบนี้ที่มีทั้งความลึกลับแปลกประหลาดและน่าหลงใหล --  ดำเนินรายการโดย วิลเลียม แช็ตเนอร์]]></desc>
+  </programme>
+  <programme start="20210106095000 +0700" stop="20210106104500 +0700" channel="history">
+    <title><![CDATA[The Secret of Skinwalker Ranch]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Paranormal]]></sub-title>
+    <desc><![CDATA[สารคดีนำเสนอเรื่องราวแปลกประหลาดในฟาร์มปศุสัตว์รัฐยูทาห์ที่อาจจะเกี่ยวข้องกับ ยูเอฟโอ ซึ่งเหล่านักวิทยาศาสตร์และผู้เชี่ยวชาญต้องการจะไขปริศนานี้]]></desc>
+  </programme>
+  <programme start="20210106104500 +0700" stop="20210106114000 +0700" channel="history">
+    <title><![CDATA[Unidentified:America's UFO Investigation]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Paranormal]]></sub-title>
+    <desc><![CDATA[ร่วมเปิดเผยความลับของยูเอฟโอไปด้วยกันกับเหล่าบุคคลที่เป็นวงในของสหรัฐอเมริกา]]></desc>
+  </programme>
+  <programme start="20210106114000 +0700" stop="20210106123500 +0700" channel="history">
+    <title><![CDATA[The Pickers   [ 15 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Fortunes, Reality]]></sub-title>
+    <desc><![CDATA[สารคดีนำเสนอสองคู่หูนักสะสมวัตถุโบราณที่ออกตระเวนไปทั่วสหรัฐอเมริกาเพื่อเสาะหาบรรดาของเก่าเก็บซึ่งล้วนถูกมองข้ามแต่อาจมีค่ามากกว่าใครจะคาดคิด]]></desc>
+  </programme>
+  <programme start="20210106123500 +0700" stop="20210106133000 +0700" channel="history">
+    <title><![CDATA[The Curse of Oak Island   [ 7 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Fortunes, Humanity]]></sub-title>
+    <desc><![CDATA[พิธีกร ริค และ มาร์ตี้ ลาไจน่า จะมาสำรวจขุดหาขุมทรัพย์บนที่ดินของพวกเขาเองเพื่อหาคำตอบว่ามันมีสิ่งมีค่าใดซ่อนเร้นอยู่ใต้ดินบ้าง]]></desc>
+  </programme>
+  <programme start="20210106133000 +0700" stop="20210106143000 +0700" channel="history">
+    <title><![CDATA[The Curse of Oak Island   [ 7 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Fortunes, Humanity]]></sub-title>
+    <desc><![CDATA[พิธีกร ริค และ มาร์ตี้ ลาไจน่า จะมาสำรวจขุดหาขุมทรัพย์บนที่ดินของพวกเขาเองเพื่อหาคำตอบว่ามันมีสิ่งมีค่าใดซ่อนเร้นอยู่ใต้ดินบ้าง]]></desc>
+  </programme>
+  <programme start="20210106143000 +0700" stop="20210106152500 +0700" channel="history">
+    <title><![CDATA[The Unxplained with William Shatner]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Paranormal]]></sub-title>
+    <desc><![CDATA[สารคดีออกสำรวจบรรดาเรื่องราวน่าทึ่งสุดพิศวงต่างๆบนโลกใบนี้ที่มีทั้งความลึกลับแปลกประหลาดและน่าหลงใหล --  ดำเนินรายการโดย วิลเลียม แช็ตเนอร์]]></desc>
+  </programme>
+  <programme start="20210106152500 +0700" stop="20210106162000 +0700" channel="history">
+    <title><![CDATA[Unidentified:America's UFO Investigation]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Paranormal]]></sub-title>
+    <desc><![CDATA[ร่วมเปิดเผยความลับของยูเอฟโอไปด้วยกันกับเหล่าบุคคลที่เป็นวงในของสหรัฐอเมริกา]]></desc>
+  </programme>
+  <programme start="20210106162000 +0700" stop="20210106171500 +0700" channel="history">
+    <title><![CDATA[Lost Gold of World War II   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: History, Documentary]]></sub-title>
+    <desc><![CDATA[สารคดีถ่ายทอดเรื่องราวของทีมนักโบราณคดีชาวอเมริกันที่มาออกสำรวจภูเขาในประเทศฟิลิปปินส์ซึ่งชาวบ้านเชื่อว่าชาวญี่ปุ่นได้มาฝังสมบัติไว้เมื่อช่วงยุคสงครามโลกครั้งที่สอง]]></desc>
+  </programme>
+  <programme start="20210106171500 +0700" stop="20210106181000 +0700" channel="history">
+    <title><![CDATA[Football's Greatest Moments]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Sport, History]]></sub-title>
+    <desc><![CDATA[นำเสนอการเรื่องราวของทีมฟุตบอลและผู้เล่นในประวัติศาสตร์ฟุตบอลโลกที่ผ่านมาที่ต้องอาศัยทั้งทักษะ และความสามารถที่จะนำทีมให้ก้าวไปสู่ผู้เล่นระดับโลก]]></desc>
+  </programme>
+  <programme start="20210106181000 +0700" stop="20210106190500 +0700" channel="history">
+    <title><![CDATA[Forged in Fire: Knife or Death]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Humanity]]></sub-title>
+    <desc><![CDATA[พบกับสารคดีที่รวบรวมเอาช่างฝีมือผู้เชี่ยวชาญในการทำมีดมาประชันกันเพื่อค้นหาผู้ที่สามารถผลิตอาวุธมีคมแบบยุคโบราณออกมาได้ดีที่สุด]]></desc>
+  </programme>
+  <programme start="20210106190500 +0700" stop="20210106200000 +0700" channel="history">
+    <title><![CDATA[Mountain Men   [ 8 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Humanity]]></sub-title>
+    <desc><![CDATA[ร่วมผจญภัยในหุบเขากับกลุ่มบุคคลที่ออกผจญภัยใช้ชีวิตแบบคนภูเขาและต้องฝ่าฟันอุปสรรคทางธรรมชาติต่างๆมากมายหลายประการ]]></desc>
+  </programme>
+  <programme start="20210106200000 +0700" stop="20210106205500 +0700" channel="history">
+    <title><![CDATA[Mountain Men   [ 9 ]]]></title>
+    <sub-title><![CDATA[KNOWLEDGE :: Survival]]></sub-title>
+    <desc><![CDATA[ร่วมผจญภัยในหุบเขากับกลุ่มบุคคลที่ออกผจญภัยใช้ชีวิตแบบคนภูเขาและต้องฝ่าฟันอุปสรรคทางธรรมชาติต่างๆมากมายหลายประการ]]></desc>
+  </programme>
+  <programme start="20210106205500 +0700" stop="20210106215000 +0700" channel="history">
+    <title><![CDATA[Swamp People   [ 10 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Humanity, Wildlife]]></sub-title>
+    <desc><![CDATA[สารคดีนำเสนอการปฏิบัติการเสี่ยงชีวิตของเหล่านักล่าจระเข้ชาวอเมริกันซึ่งสืบทอดทักษะและวัฒนธรรมของชนเผ่าพื้นเมืองที่อาศัยอยู่ตามลุ่มแม่น้ำทางตอนใต้ของรัฐหลุยเซียน่า]]></desc>
+  </programme>
+  <programme start="20210106215000 +0700" stop="20210106234000 +0700" channel="history">
+    <title><![CDATA[Presidents at War]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Military, Humanity]]></sub-title>
+    <desc><![CDATA[รายการสารคดีที่จะพาคุณไปพบกับเหตุการณ์สำคัญที่น่าสนใจกับเรื่องราวที่ไม่เคยถูกเปิดเผยมาก่อนในการตัดสินใจทางทหารของประธานาธิบดีสหรัฐอเมริกาชื่อดังหลายคน]]></desc>
+  </programme>
+  <programme start="20210106234000 +0700" stop="20210106235959 +0700" channel="history">
+    <title><![CDATA[Mountain Men   [ 8 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Humanity]]></sub-title>
+    <desc><![CDATA[ร่วมผจญภัยในหุบเขากับกลุ่มบุคคลที่ออกผจญภัยใช้ชีวิตแบบคนภูเขาและต้องฝ่าฟันอุปสรรคทางธรรมชาติต่างๆมากมายหลายประการ]]></desc>
+  </programme>
+  <programme start="20210106010000 +0700" stop="20210106015500 +0700" channel="history2">
+    <title><![CDATA[Top Shot   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
+    <desc><![CDATA[พบกับรายการแข่งขันอันน่าตื่นเต้นที่รวบรวมเหล่านักแม่นปืนสิบหกชีวิตจากทั่วประเทศเพื่อมาประชันทักษะเฉพาะตัวและชิงเงินรางวัลกว่าหนึ่งแสนดอลลาร์]]></desc>
+  </programme>
+  <programme start="20210106015500 +0700" stop="20210106025000 +0700" channel="history2">
+    <title><![CDATA[Top Shot   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
+    <desc><![CDATA[พบกับรายการแข่งขันอันน่าตื่นเต้นที่รวบรวมเหล่านักแม่นปืนสิบหกชีวิตจากทั่วประเทศเพื่อมาประชันทักษะเฉพาะตัวและชิงเงินรางวัลกว่าหนึ่งแสนดอลลาร์]]></desc>
+  </programme>
+  <programme start="20210106025000 +0700" stop="20210106034500 +0700" channel="history2">
+    <title><![CDATA[Stan Lee's Superhumans   [ 3 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Humanity]]></sub-title>
+    <desc><![CDATA[สแตน ลี ผู้ร่วมรังสรรค์การ์ตูนยอดมนุษย์ของบริษัทมาร์เวลคอมิกส์จะมารับหน้าพิธีกรพาคุณผู้ชมออกเสาะหาบรรดายอดมนุษย์มากพรสวรรค์ตัวจริง]]></desc>
+  </programme>
+  <programme start="20210106034500 +0700" stop="20210106044000 +0700" channel="history2">
+    <title><![CDATA[Warriors]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: History]]></sub-title>
+    <desc><![CDATA[สารคดีถ่ายทอดประสบการณ์การล่องทะเลสุดหฤโหดด้วยเรือโบราณพร้อมเรียนรู้เกี่ยวกับอาวุธของนักรบแห่งมหาสมทรในยุคอดีต -- ดำเนินรายการโดยพิธีกร เทอร์รี่ แชพเพิร์ต]]></desc>
+  </programme>
+  <programme start="20210106044000 +0700" stop="20210106053500 +0700" channel="history2">
+    <title><![CDATA[Dogfights]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Military]]></sub-title>
+    <desc><![CDATA[พบกับเรื่องราวของยุทธการบนเวหาซึ่งอดีตนักบินรบจะมาบอกเล่าถึงการต่อสู้ด้วยเครื่องบินรบประจัญบานในสงครามต่างๆที่พวกเขาเคยผ่านมา]]></desc>
+  </programme>
+  <programme start="20210106053500 +0700" stop="20210106072000 +0700" channel="history2">
+    <title><![CDATA[Sniper: Bulletproof]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Military]]></sub-title>
+    <desc><![CDATA[รายการที่จะพาไปติดตามการปฏิบัติภารกิจของเหล่าสไนเปอร์รวมทั้งวิเคราะห์ถึงเหตุการณ์และเทคนิคสำคัญในการทำงานของพวกเขาแบบเจาะลึก]]></desc>
+  </programme>
+  <programme start="20210106072000 +0700" stop="20210106081000 +0700" channel="history2">
+    <title><![CDATA[Top Shot   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
+    <desc><![CDATA[พบกับรายการแข่งขันอันน่าตื่นเต้นที่รวบรวมเหล่านักแม่นปืนสิบหกชีวิตจากทั่วประเทศเพื่อมาประชันทักษะเฉพาะตัวและชิงเงินรางวัลกว่าหนึ่งแสนดอลลาร์]]></desc>
+  </programme>
+  <programme start="20210106081000 +0700" stop="20210106090000 +0700" channel="history2">
+    <title><![CDATA[Top Shot   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
+    <desc><![CDATA[พบกับรายการแข่งขันอันน่าตื่นเต้นที่รวบรวมเหล่านักแม่นปืนสิบหกชีวิตจากทั่วประเทศเพื่อมาประชันทักษะเฉพาะตัวและชิงเงินรางวัลกว่าหนึ่งแสนดอลลาร์]]></desc>
+  </programme>
+  <programme start="20210106090000 +0700" stop="20210106095000 +0700" channel="history2">
+    <title><![CDATA[Stan Lee's Superhumans   [ 3 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Humanity]]></sub-title>
+    <desc><![CDATA[สแตน ลี ผู้ร่วมรังสรรค์การ์ตูนยอดมนุษย์ของบริษัทมาร์เวลคอมิกส์จะมารับหน้าพิธีกรพาคุณผู้ชมออกเสาะหาบรรดายอดมนุษย์มากพรสวรรค์ตัวจริง]]></desc>
+  </programme>
+  <programme start="20210106095000 +0700" stop="20210106104000 +0700" channel="history2">
+    <title><![CDATA[Warriors]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: History]]></sub-title>
+    <desc><![CDATA[สารคดีถ่ายทอดประสบการณ์การล่องทะเลสุดหฤโหดด้วยเรือโบราณพร้อมเรียนรู้เกี่ยวกับอาวุธของนักรบแห่งมหาสมทรในยุคอดีต -- ดำเนินรายการโดยพิธีกร เทอร์รี่ แชพเพิร์ต]]></desc>
+  </programme>
+  <programme start="20210106104000 +0700" stop="20210106113000 +0700" channel="history2">
+    <title><![CDATA[Dogfights]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Military]]></sub-title>
+    <desc><![CDATA[พบกับเรื่องราวของยุทธการบนเวหาซึ่งอดีตนักบินรบจะมาบอกเล่าถึงการต่อสู้ด้วยเครื่องบินรบประจัญบานในสงครามต่างๆที่พวกเขาเคยผ่านมา]]></desc>
+  </programme>
+  <programme start="20210106113000 +0700" stop="20210106131000 +0700" channel="history2">
+    <title><![CDATA[Sniper: Bulletproof]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Military]]></sub-title>
+    <desc><![CDATA[รายการที่จะพาไปติดตามการปฏิบัติภารกิจของเหล่าสไนเปอร์รวมทั้งวิเคราะห์ถึงเหตุการณ์และเทคนิคสำคัญในการทำงานของพวกเขาแบบเจาะลึก]]></desc>
+  </programme>
+  <programme start="20210106131000 +0700" stop="20210106140000 +0700" channel="history2">
+    <title><![CDATA[Top Shot   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
+    <desc><![CDATA[พบกับรายการแข่งขันอันน่าตื่นเต้นที่รวบรวมเหล่านักแม่นปืนสิบหกชีวิตจากทั่วประเทศเพื่อมาประชันทักษะเฉพาะตัวและชิงเงินรางวัลกว่าหนึ่งแสนดอลลาร์]]></desc>
+  </programme>
+  <programme start="20210106140000 +0700" stop="20210106145000 +0700" channel="history2">
+    <title><![CDATA[Top Shot   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
+    <desc><![CDATA[พบกับรายการแข่งขันอันน่าตื่นเต้นที่รวบรวมเหล่านักแม่นปืนสิบหกชีวิตจากทั่วประเทศเพื่อมาประชันทักษะเฉพาะตัวและชิงเงินรางวัลกว่าหนึ่งแสนดอลลาร์]]></desc>
+  </programme>
+  <programme start="20210106145000 +0700" stop="20210106154000 +0700" channel="history2">
+    <title><![CDATA[Stan Lee's Superhumans   [ 3 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Humanity]]></sub-title>
+    <desc><![CDATA[สแตน ลี ผู้ร่วมรังสรรค์การ์ตูนยอดมนุษย์ของบริษัทมาร์เวลคอมิกส์จะมารับหน้าพิธีกรพาคุณผู้ชมออกเสาะหาบรรดายอดมนุษย์มากพรสวรรค์ตัวจริง]]></desc>
+  </programme>
+  <programme start="20210106154000 +0700" stop="20210106163000 +0700" channel="history2">
+    <title><![CDATA[Warriors]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: History]]></sub-title>
+    <desc><![CDATA[สารคดีถ่ายทอดประสบการณ์การล่องทะเลสุดหฤโหดด้วยเรือโบราณพร้อมเรียนรู้เกี่ยวกับอาวุธของนักรบแห่งมหาสมทรในยุคอดีต -- ดำเนินรายการโดยพิธีกร เทอร์รี่ แชพเพิร์ต]]></desc>
+  </programme>
+  <programme start="20210106163000 +0700" stop="20210106172000 +0700" channel="history2">
+    <title><![CDATA[Dogfights]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Military]]></sub-title>
+    <desc><![CDATA[พบกับเรื่องราวของยุทธการบนเวหาซึ่งอดีตนักบินรบจะมาบอกเล่าถึงการต่อสู้ด้วยเครื่องบินรบประจัญบานในสงครามต่างๆที่พวกเขาเคยผ่านมา]]></desc>
+  </programme>
+  <programme start="20210106172000 +0700" stop="20210106181000 +0700" channel="history2">
+    <title><![CDATA[Face the Beast]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Documentary]]></sub-title>
+    <desc><![CDATA[สารคดีถ่ายทอดเรื่องราวการเผชิญหน้ากับสถานการณ์จากสัตว์ดุร้ายไปกับผู้เชี่ยวชาญด้านพฤติกรรมสัตว์และนักประวัติศาสตร์ชื่อดัง]]></desc>
+  </programme>
+  <programme start="20210106181000 +0700" stop="20210106190000 +0700" channel="history2">
+    <title><![CDATA[Jurassic Fight Club]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Wildlife]]></sub-title>
+    <desc><![CDATA[สารคดีถ่ายทอดเรื่องราวทางประวัติศาสตร์ยุคดึกดำบรรพ์เมื่อเหล่าไดโนเสาร์ครองโลกและสถานที่ต่อสู้เพื่อความอยู่รอดของพวกมัน]]></desc>
+  </programme>
+  <programme start="20210106190000 +0700" stop="20210106195000 +0700" channel="history2">
+    <title><![CDATA[Monsterquest   [ 5 ]]]></title>
+    <sub-title><![CDATA[KNOWLEDGE :: Humanity]]></sub-title>
+    <desc><![CDATA[ติดตามชมเรื่องราวการสืบสวนสอบสวนทางวิทยาศาสตร์เพื่อพิสูจน์ว่าสิ่งมีชีวิตในตำนานที่น่าเหลือเชื่อต่างๆนั้นมีตัวตนอยู่จริง]]></desc>
+  </programme>
+  <programme start="20210106195000 +0700" stop="20210106204000 +0700" channel="history2">
+    <title><![CDATA[Serial Killer Earth]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Earth]]></sub-title>
+    <desc><![CDATA[ร่วมค้นหาสาเหตุของสิ่งที่ทำให้เกิดภัยพิบัติทางธรรมชาติ รวมทั้งศึกษาวิธีการรับมือกับมันจากประสบการณ์ในครั้งก่อนๆที่เคยเกิดขึ้น]]></desc>
+  </programme>
+  <programme start="20210106204000 +0700" stop="20210106213000 +0700" channel="history2">
+    <title><![CDATA[The Universe   [ 5 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Space, Humanity]]></sub-title>
+    <desc><![CDATA[พบกับประวัติศาสตร์อันยาวนานของจักรวาลแห่งนี้และร่วมค้นหาความเป็นไปได้ที่จะมีสิ่งมีชีวิตอยู่บนดาวดวงอื่น]]></desc>
+  </programme>
+  <programme start="20210106213000 +0700" stop="20210106222000 +0700" channel="history2">
+    <title><![CDATA[Brad Meltzer's Decoded   [ 2 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: History, Humanity]]></sub-title>
+    <desc><![CDATA[พบกับนักเขียนยอดนิยม แบรด เมลต์เซอร์ ศึกษาแกะรอยความหมายและความลับร่องรอยสัญลักษณ์โดยใช้ทฤษฎีการสมรู้ร่วมคิดเพื่อไขปริศนาที่ค้างคาใจในประวัติศาสตร์ของเรา]]></desc>
+  </programme>
+  <programme start="20210106222000 +0700" stop="20210106231000 +0700" channel="history2">
+    <title><![CDATA[Monsterquest   [ 3 ]]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Humanity]]></sub-title>
+    <desc><![CDATA[ติดตามชมเรื่องราวการสืบสวนสอบสวนทางวิทยาศาสตร์เพื่อพิสูจน์ว่าสิ่งมีชีวิตในตำนานที่น่าเหลือเชื่อต่างๆนั้นมีตัวตนอยู่จริง]]></desc>
+  </programme>
+  <programme start="20210106231000 +0700" stop="20210106235959 +0700" channel="history2">
+    <title><![CDATA[Face the Beast]]></title>
+    <sub-title><![CDATA[SR-ENT-KN :: Documentary]]></sub-title>
+    <desc><![CDATA[สารคดีถ่ายทอดเรื่องราวการเผชิญหน้ากับสถานการณ์จากสัตว์ดุร้ายไปกับผู้เชี่ยวชาญด้านพฤติกรรมสัตว์และนักประวัติศาสตร์ชื่อดัง]]></desc>
+  </programme>
+  <programme start="20210106124500 +0700" stop="20210106144500 +0700" channel="hitsmovies">
+    <title><![CDATA[Dirty Dancing]]></title>
+    <desc><![CDATA[<No description>]]></desc>
+  </programme>
+  <programme start="20210106144500 +0700" stop="20210106180000 +0700" channel="hitsmovies">
+    <title><![CDATA[The Guns of Navarone]]></title>
+    <desc><![CDATA[<No description>]]></desc>
+  </programme>
+  <programme start="20210106180000 +0700" stop="20210106211500 +0700" channel="hitsmovies">
+    <title><![CDATA[Rudolph the Red-Nosed Reindeer]]></title>
+    <desc><![CDATA[<No description>]]></desc>
+  </programme>
+  <programme start="20210106211500 +0700" stop="20210106230000 +0700" channel="hitsmovies">
+    <title><![CDATA[See all]]></title>
+  </programme>
+  <programme start="20210106230000 +0700" stop="20210107010000 +0700" channel="hitsmovies">
+    <title><![CDATA[Reservoir Dogs]]></title>
+  </programme>
+  <programme start="20210107010000 +0700" stop="20210107033000 +0700" channel="hitsmovies">
+    <title><![CDATA[Raging Bull]]></title>
+  </programme>
+  <programme start="20210107033000 +0700" stop="20210107053000 +0700" channel="hitsmovies">
+    <title><![CDATA[Addams Family Values!]]></title>
+  </programme>
+  <programme start="20210107053000 +0700" stop="20210107073000 +0700" channel="hitsmovies">
+    <title><![CDATA[Harry and the Hendersons]]></title>
+  </programme>
+  <programme start="20210107073000 +0700" stop="20210107093000 +0700" channel="hitsmovies">
+    <title><![CDATA[The Flinstones]]></title>
+  </programme>
+  <programme start="20210107093000 +0700" stop="20210107113000 +0700" channel="hitsmovies">
+    <title><![CDATA[Reservoir Dogs]]></title>
+  </programme>
+  <programme start="20210107113000 +0700" stop="20210107140000 +0700" channel="hitsmovies">
+    <title><![CDATA[Raging Bull]]></title>
+  </programme>
+  <programme start="20210107140000 +0700" stop="20210107160000 +0700" channel="hitsmovies">
+    <title><![CDATA[Addams Family Values!]]></title>
+  </programme>
+  <programme start="20210107160000 +0700" stop="20210107180000 +0700" channel="hitsmovies">
+    <title><![CDATA[Reservoir Dogs]]></title>
+  </programme>
+  <programme start="20210107180000 +0700" stop="20210107190000 +0700" channel="hitsmovies">
+    <title><![CDATA[Rudolph the Red-Nosed Reindeer]]></title>
+  </programme>
+  <programme start="20210107190000 +0700" stop="20210107210000 +0700" channel="hitsmovies">
+    <title><![CDATA[Matilda]]></title>
+  </programme>
+  <programme start="20210107210000 +0700" stop="20210107231500 +0700" channel="hitsmovies">
+    <title><![CDATA[Universal Solider]]></title>
+  </programme>
+  <programme start="20210107231500 +0700" stop="20210108000000 +0700" channel="hitsmovies">
+    <title><![CDATA[Another 48 Hours]]></title>
+  </programme>
+  <programme start="20210108000000 +0700" stop="20210108011500 +0700" channel="hitsmovies">
+    <title><![CDATA[See all]]></title>
+  </programme>
+  <programme start="20210108011500 +0700" stop="20210108031500 +0700" channel="hitsmovies">
+    <title><![CDATA[The Flinstones]]></title>
+  </programme>
+  <programme start="20210106134500 +0700" stop="20210106164000 +0700" channel="m">
+    <title><![CDATA[Asura Girl อาสุระ เกิร์ล]]></title>
+  </programme>
+  <programme start="20210106164000 +0700" stop="20210106184500 +0700" channel="m">
+    <title><![CDATA[Convict 762 นักโทษหมายเลข 762]]></title>
+  </programme>
+  <programme start="20210106184500 +0700" stop="20210106185000 +0700" channel="m">
+    <title><![CDATA[M News]]></title>
+  </programme>
+  <programme start="20210106185000 +0700" stop="20210106190000 +0700" channel="m">
+    <title><![CDATA[M Comedy]]></title>
+  </programme>
+  <programme start="20210106190000 +0700" stop="20210106225000 +0700" channel="m">
+    <title><![CDATA[Tinker Tailor Soldier Spy ถอดรหัสสายลับพันหน้า]]></title>
+  </programme>
+  <programme start="20210106225000 +0700" stop="20210106230000 +0700" channel="m">
+    <title><![CDATA[วลีหนังเด็ด]]></title>
+  </programme>
+  <programme start="20210106230000 +0700" stop="20210107000000 +0700" channel="m">
+    <title><![CDATA[Dorian อมตะอำมหิต]]></title>
+  </programme>
+  <programme start="20210107000000 +0700" stop="20210107011500 +0700" channel="m">
+    <title><![CDATA[Dorian อมตะอำมหิต]]></title>
+  </programme>
+  <programme start="20210107011500 +0700" stop="20210107030500 +0700" channel="m">
+    <title><![CDATA[Cypress Creek ไซเปรส ครีก ปิดเทอมสยอง]]></title>
+  </programme>
+  <programme start="20210107030500 +0700" stop="20210107050000 +0700" channel="m">
+    <title><![CDATA[Silence เสียงกระชากวิญญาณ]]></title>
+  </programme>
+  <programme start="20210107050000 +0700" stop="20210107064000 +0700" channel="m">
+    <title><![CDATA[All roads lead to rome รักยุ่งยุ่ง พุ่งไปโรม]]></title>
+  </programme>
+  <programme start="20210107064000 +0700" stop="20210107082000 +0700" channel="m">
+    <title><![CDATA[Alternate Realities ฝ่ามิติ ทะลุจักรวาล]]></title>
+  </programme>
+  <programme start="20210107082000 +0700" stop="20210107103000 +0700" channel="m">
+    <title><![CDATA[ผีไม้จิ้มฟัน]]></title>
+  </programme>
+  <programme start="20210107103000 +0700" stop="20210107133500 +0700" channel="m">
+    <title><![CDATA[High Voltage ปล้นแบบนี้ ก็ได้เหรอ]]></title>
+  </programme>
+  <programme start="20210107133500 +0700" stop="20210107134500 +0700" channel="m">
+    <title><![CDATA[M Comedy]]></title>
+  </programme>
+  <programme start="20210107134500 +0700" stop="20210107164000 +0700" channel="m">
+    <title><![CDATA[RUN THE TIDE ทางเลือกและชีวิตที่พลิกผัน]]></title>
+  </programme>
+  <programme start="20210107164000 +0700" stop="20210107184500 +0700" channel="m">
+    <title><![CDATA[Takien the haunted tree นางตะเคียน]]></title>
+  </programme>
+  <programme start="20210107184500 +0700" stop="20210107185000 +0700" channel="m">
+    <title><![CDATA[M News]]></title>
+  </programme>
+  <programme start="20210107185000 +0700" stop="20210107190000 +0700" channel="m">
+    <title><![CDATA[M Comedy]]></title>
+  </programme>
+  <programme start="20210107190000 +0700" stop="20210107225000 +0700" channel="m">
+    <title><![CDATA[Century of the Dragon ทะลุเหลี่ยมมังกร]]></title>
+  </programme>
+  <programme start="20210107225000 +0700" stop="20210107230000 +0700" channel="m">
+    <title><![CDATA[วลีหนังเด็ด]]></title>
+  </programme>
+  <programme start="20210107230000 +0700" stop="20210108000000 +0700" channel="m">
+    <title><![CDATA[เมมโมรี่ รักหลอน]]></title>
+  </programme>
+  <programme start="20210108000000 +0700" stop="20210108011500 +0700" channel="m">
+    <title><![CDATA[เมมโมรี่ รักหลอน]]></title>
+  </programme>
+  <programme start="20210108011500 +0700" stop="20210108030500 +0700" channel="m">
+    <title><![CDATA[Last Ride on the Midwest Pacific มิดเวสต์ เปิดสัมพันธ์รัก]]></title>
   </programme>
   <programme start="20210106072000 -0000" stop="20210106073000 -0000" channel="mcot">
     <title><![CDATA[อุ่นใจใกล้หมอ]]></title>
@@ -4368,9 +4670,6 @@
   <programme start="20210109180000 -0000" stop="20210109200000 -0000" channel="mcot">
     <title><![CDATA[TVD SHOP]]></title>
   </programme>
-  <programme start="20210106045000 -0000" stop="20210106072000 -0000" channel="mono29">
-    <title><![CDATA[Hit Movies]]></title>
-  </programme>
   <programme start="20210106072000 -0000" stop="20210106072500 -0000" channel="mono29">
     <title><![CDATA[Entertainment Now]]></title>
   </programme>
@@ -4617,466 +4916,6 @@
   <programme start="20210109184000 -0000" stop="20210109193000 -0000" channel="mono29">
     <title><![CDATA[Lost in China : ปริศนาลับแดนมังกร (ตอน เมืองน้ำแข็ง ฮาร์บิน)]]></title>
   </programme>
-  <programme start="20210106050000 -0000" stop="20210106065000 -0000" channel="nation">
-    <title><![CDATA[เนชั่น ทันข่าวเที่ยง (L)]]></title>
-    <desc><![CDATA[ข่าว]]></desc>
-  </programme>
-  <programme start="20210106053000 -0000" stop="20210106070000 -0000" channel="gmm25">
-    <title><![CDATA[เกาะข่าวเที่ยง (สด)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210106070000 -0000" stop="20210106083000 -0000" channel="gmm25">
-    <title><![CDATA[นานาน่า (สด)]]></title>
-    <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210106064000 -0000" stop="20210106074500 -0000" channel="one">
-    <title><![CDATA[คุยแซ่บ SHOW]]></title>
-    <desc><![CDATA[เป็นรายการวาไรตี้ทอล์คโชว์ยามบ่ายที่เน้นความฮอต แซ่บ สนุก สร้างแรงบันดาลใจ ให้พลังบวกแก่สังคม]]></desc>
-  </programme>
-  <programme start="20210106074500 -0000" stop="20210106091500 -0000" channel="one">
-    <title><![CDATA[แผนรักแผนร้าย]]></title>
-    <desc><![CDATA[ชิษณุพงษ์สืบจนรู้ว่ากอหญ้าความจำเสื่อมและพเยียแอบอ้างเป็นทายาท นภัสรพีเสนอให้เงินพเยียให้เรื่องสงบ]]></desc>
-  </programme>
-  <programme start="20210106083000 -0000" stop="20210106100000 -0000" channel="gmm25">
-    <title><![CDATA[ซีรีส์ Kiss THE SERIES รักต้องจูบ]]></title>
-    <desc><![CDATA[รายการประเภท ละคร]]></desc>
-  </programme>
-  <programme start="20210106091500 -0000" stop="20210106093000 -0000" channel="one">
-    <title><![CDATA[แม่บ้าน มือหนึ่ง]]></title>
-    <desc><![CDATA[รายการที่จะเชิญคู่ซี้แม่บ้าน หรือเพื่อนกัน มาตอบคำถามความรู้เกี่ยวกับงานบ้าน]]></desc>
-  </programme>
-  <programme start="20210106093000 -0000" stop="20210106110000 -0000" channel="one">
-    <title><![CDATA[ข่าวเย็นช่องวัน]]></title>
-    <desc><![CDATA[รายการ ข่าวเย็นช่องวัน  เล่าเรื่องจริง ตรงไปตรงมา เข้าใจง่าย แง่มุมสร้างสรรค์ เพื่อสังคมน่าอยู่]]></desc>
-  </programme>
-  <programme start="20210106100000 -0000" stop="20210106110000 -0000" channel="gmm25">
-    <title><![CDATA[บุษบาจ๊ะจ๋า (สด)]]></title>
-    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
-  </programme>
-  <programme start="20210106110000 -0000" stop="20210106120000 -0000" channel="gmm25">
-    <title><![CDATA[เจาะข่าวค่ำ (สด)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210106110000 -0000" stop="20210106120000 -0000" channel="one">
-    <title><![CDATA[ดวลเพลงชิงทุน]]></title>
-    <desc><![CDATA[ศึกสังเวียนแห่งการฟาดฟันเสียงร้อง เพื่อชิงทุนการศึกษา]]></desc>
-  </programme>
-  <programme start="20210106120000 -0000" stop="20210106131500 -0000" channel="gmm25">
-    <title><![CDATA[ข่าวแหกโค้ง (สด)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210106120000 -0000" stop="20210106125500 -0000" channel="one">
-    <title><![CDATA[สูตรรักแซ่บอีหลี]]></title>
-    <desc><![CDATA[สูตรลับของการฝ่าวิกฤติ คือความรัก ละครที่รวมซุปตาร์ลูกทุ่งที่มียอดวิว รวมกันมากกว่า 5000 ล้านวิว]]></desc>
-  </programme>
-  <programme start="20210106125500 -0000" stop="20210106130000 -0000" channel="one">
-    <title><![CDATA[ข่าวค่ำช่องวัน]]></title>
-    <desc><![CDATA[เล่าเรื่องจริง ตรงไปตรงมา เข้าใจง่าย แง่มุมสร้างสรรค์ เพื่อสังคมน่าอยู่]]></desc>
-  </programme>
-  <programme start="20210106131500 -0000" stop="20210106133000 -0000" channel="gmm25">
-    <title><![CDATA[ข่าว]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210106130000 -0000" stop="20210106133000 -0000" channel="one">
-    <title><![CDATA[ข่าว / เนตรมหรรณพ]]></title>
-  </programme>
-  <programme start="20210106133000 -0000" stop="20210106143000 -0000" channel="gmm25">
-    <title><![CDATA[ซีรีส์ 30 กำลังแจ๋ว THE SERIES (ตอนแรก)]]></title>
-    <desc><![CDATA[รายการประเภท ละคร]]></desc>
-  </programme>
-  <programme start="20210106143000 -0000" stop="20210106160000 -0000" channel="gmm25">
-    <title><![CDATA[แฉ (สด)]]></title>
-    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
-  </programme>
-  <programme start="20210106133000 -0000" stop="20210106152500 -0000" channel="one">
-    <title><![CDATA[เนตรมหรรณพ]]></title>
-    <desc><![CDATA[เพชรต้องคำสาปถูกโจรกรรม เหตุการณ์นี้มีผู้ต้องสงสัยนับ 10 คนที่หวังครอบครองเพชรมูลค่ามหาศาล ใครคือหัวขโมยตัวจริง]]></desc>
-  </programme>
-  <programme start="20210106152500 -0000" stop="20210106160000 -0000" channel="one">
-    <title><![CDATA[เอาให้ชัด]]></title>
-    <desc><![CDATA[รายการที่จะถามคำถามที่คนไทยทั้งประเทศสงสัย ตรงทุกประเด็น กล้าถามทุกความจริง กับ เอาให้ชัด]]></desc>
-  </programme>
-  <programme start="20210106153500 +0700" stop="20210106163000 +0700" channel="foxthai">
-    <title><![CDATA[The Walking Dead   [ 3 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Horror Series, Sci-Fi]]></sub-title>
-    <desc><![CDATA[ภาพยนตร์ชุดทางโทรทัศน์เกี่ยวกับกลุ่มผู้รอดชีวิตที่ต้องเผชิญหน้ากับโลกอันเต็มไปด้วยเหล่าผีดิบกระหายเลือดทั่วทุกหนแห่ง -- นำแสดงโดย แอนดรูว์ ลินคอล์น]]></desc>
-  </programme>
-  <programme start="20210106163000 +0700" stop="20210106170000 +0700" channel="foxthai">
-    <title><![CDATA[American Dad   [ 15 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Comedy Series, Animation]]></sub-title>
-    <desc><![CDATA[การ์ตูนแนวเสียดสีสังคมเกี่ยวกับสายลับซีไอเอหัวอนุรักษ์นิยมที่ต้องปวดหัวกับทั้งเรื่องงานและความวุ่นวายในชีวิตครอบครัว -- ให้เสียงพากย์นำโดย เซ็ธ แม็คฟาร์เลน และ เว็นดี้ ชาล]]></desc>
-  </programme>
-  <programme start="20210106170000 +0700" stop="20210106173000 +0700" channel="foxthai">
-    <title><![CDATA[American Dad   [ 15 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Comedy Series, Animation]]></sub-title>
-    <desc><![CDATA[การ์ตูนแนวเสียดสีสังคมเกี่ยวกับสายลับซีไอเอหัวอนุรักษ์นิยมที่ต้องปวดหัวกับทั้งเรื่องงานและความวุ่นวายในชีวิตครอบครัว -- ให้เสียงพากย์นำโดย เซ็ธ แม็คฟาร์เลน และ เว็นดี้ ชาล]]></desc>
-  </programme>
-  <programme start="20210106160000 -0000" stop="20210106165959 -0000" channel="gmm25">
-    <title><![CDATA[รถโรงเรียน Special (Rerun)]]></title>
-    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
-  </programme>
-  <programme start="20210106160000 -0000" stop="20210106163000 -0000" channel="one">
-    <title><![CDATA[SOUND CHECK]]></title>
-    <desc><![CDATA[เพลงฮิตติดกระแส มอบความสุขให้คอเพลงได้ผ่อนคลายก่อนเข้านอน]]></desc>
-  </programme>
-  <programme start="20210106163000 -0000" stop="20210106165959 -0000" channel="one">
-    <title><![CDATA[รักวุ่นวายเจ้าชายกบ]]></title>
-    <desc><![CDATA[เรื่องราวของสาวสวยขาลุยแห่งหมู่บ้านชื่นชีวาที่ทนไม่ไหวเมื่อถูกนักท่องเที่ยวดูถูกบ้านเกิดของเธอ จึงทำให้เธอสร้างตำนานแห่งความรักหากคู่ไหนเจอกับบนสะพานแสดงว่าเป็นรักแท้]]></desc>
-  </programme>
-  <programme start="20210106173000 +0700" stop="20210106182000 +0700" channel="foxthai">
-    <title><![CDATA[The Titan Games   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
-    <desc><![CDATA[พบกับรายการการแข่งขันกีฬารูปแบบใหม่ภายใต้ความเชื่อที่ว่าทุกๆคนมีศักยภาพอันน่าทึ่ง]]></desc>
-  </programme>
-  <programme start="20210106182000 +0700" stop="20210106191000 +0700" channel="foxthai">
-    <title><![CDATA[The Titan Games   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
-    <desc><![CDATA[พบกับรายการการแข่งขันกีฬารูปแบบใหม่ภายใต้ความเชื่อที่ว่าทุกๆคนมีศักยภาพอันน่าทึ่ง]]></desc>
-  </programme>
-  <programme start="20210106191000 +0700" stop="20210106200000 +0700" channel="foxthai">
-    <title><![CDATA[NCIS   [ 17 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Crime Series]]></sub-title>
-    <desc><![CDATA[พบกับปฏิบัติการของทีมเจ้าหน้าที่พิเศษซึ่งมีภารกิจในการสืบสวนคดีอาชญากรรมที่เชื่อมโยงกับบุคลากรในกองทัพเรือของสหรัฐโดยไม่หวั่นเกรงว่าผู้นั้นจะเป็นใคร -- นำแสดงโดย มาร์ค ฮาร์มอน]]></desc>
-  </programme>
-  <programme start="20210106200000 +0700" stop="20210106205000 +0700" channel="foxthai">
-    <title><![CDATA[NCIS   [ 17 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Crime Series]]></sub-title>
-    <desc><![CDATA[พบกับปฏิบัติการของทีมเจ้าหน้าที่พิเศษซึ่งมีภารกิจในการสืบสวนคดีอาชญากรรมที่เชื่อมโยงกับบุคลากรในกองทัพเรือของสหรัฐโดยไม่หวั่นเกรงว่าผู้นั้นจะเป็นใคร -- นำแสดงโดย มาร์ค ฮาร์มอน]]></desc>
-  </programme>
-  <programme start="20210106205000 +0700" stop="20210106214000 +0700" channel="foxthai">
-    <title><![CDATA[FBI: Most Wanted]]></title>
-  </programme>
-  <programme start="20210106214000 +0700" stop="20210106223000 +0700" channel="foxthai">
-    <title><![CDATA[S.W.A.T.   [ 4 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Action Series]]></sub-title>
-    <desc><![CDATA[ภาพยนตร์ชุดทางโทรทัศน์เกี่ยวกับนายทหารหนุ่มที่ต้องเลือกระหว่างความจงรักภักดีต่อพวกพ้องกับภาระซึ่งมีต่อเพื่อนทหารเมื่อเขาได้เข้าร่วมหน่วยสวาท -- นำแสดงโดย เชมาร์ มัวร์]]></desc>
-  </programme>
-  <programme start="20210106223000 +0700" stop="20210106232000 +0700" channel="foxthai">
-    <title><![CDATA[The Titan Games   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
-    <desc><![CDATA[พบกับรายการการแข่งขันกีฬารูปแบบใหม่ภายใต้ความเชื่อที่ว่าทุกๆคนมีศักยภาพอันน่าทึ่ง]]></desc>
-  </programme>
-  <programme start="20210106232000 +0700" stop="20210106235959 +0700" channel="foxthai">
-    <title><![CDATA[FBI: Most Wanted]]></title>
-  </programme>
-  <programme start="20210106170000 -0000" stop="20210106172000 -0000" channel="gmm25">
-    <title><![CDATA[O SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106172000 -0000" stop="20210106184000 -0000" channel="gmm25">
-    <title><![CDATA[เจาะข่าวค่ำ (Rerun)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210106003500 +0700" stop="20210106013000 +0700" channel="history">
-    <title><![CDATA[The Secret of Skinwalker Ranch]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Paranormal]]></sub-title>
-    <desc><![CDATA[สารคดีนำเสนอเรื่องราวแปลกประหลาดในฟาร์มปศุสัตว์รัฐยูทาห์ที่อาจจะเกี่ยวข้องกับ ยูเอฟโอ ซึ่งเหล่านักวิทยาศาสตร์และผู้เชี่ยวชาญต้องการจะไขปริศนานี้]]></desc>
-  </programme>
-  <programme start="20210106013000 +0700" stop="20210106022500 +0700" channel="history">
-    <title><![CDATA[Unidentified:America's UFO Investigation]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Paranormal]]></sub-title>
-    <desc><![CDATA[ร่วมเปิดเผยความลับของยูเอฟโอไปด้วยกันกับเหล่าบุคคลที่เป็นวงในของสหรัฐอเมริกา]]></desc>
-  </programme>
-  <programme start="20210106022500 +0700" stop="20210106032000 +0700" channel="history">
-    <title><![CDATA[The Curse of Oak Island   [ 7 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Fortunes, Humanity]]></sub-title>
-    <desc><![CDATA[พิธีกร ริค และ มาร์ตี้ ลาไจน่า จะมาสำรวจขุดหาขุมทรัพย์บนที่ดินของพวกเขาเองเพื่อหาคำตอบว่ามันมีสิ่งมีค่าใดซ่อนเร้นอยู่ใต้ดินบ้าง]]></desc>
-  </programme>
-  <programme start="20210106032000 +0700" stop="20210106041500 +0700" channel="history">
-    <title><![CDATA[The Curse of Oak Island   [ 7 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Fortunes, Humanity]]></sub-title>
-    <desc><![CDATA[พิธีกร ริค และ มาร์ตี้ ลาไจน่า จะมาสำรวจขุดหาขุมทรัพย์บนที่ดินของพวกเขาเองเพื่อหาคำตอบว่ามันมีสิ่งมีค่าใดซ่อนเร้นอยู่ใต้ดินบ้าง]]></desc>
-  </programme>
-  <programme start="20210106041500 +0700" stop="20210106051000 +0700" channel="history">
-    <title><![CDATA[The Unxplained with William Shatner]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Paranormal]]></sub-title>
-    <desc><![CDATA[สารคดีออกสำรวจบรรดาเรื่องราวน่าทึ่งสุดพิศวงต่างๆบนโลกใบนี้ที่มีทั้งความลึกลับแปลกประหลาดและน่าหลงใหล --  ดำเนินรายการโดย วิลเลียม แช็ตเนอร์]]></desc>
-  </programme>
-  <programme start="20210106051000 +0700" stop="20210106060500 +0700" channel="history">
-    <title><![CDATA[The Pickers   [ 15 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Fortunes, Reality]]></sub-title>
-    <desc><![CDATA[สารคดีนำเสนอสองคู่หูนักสะสมวัตถุโบราณที่ออกตระเวนไปทั่วสหรัฐอเมริกาเพื่อเสาะหาบรรดาของเก่าเก็บซึ่งล้วนถูกมองข้ามแต่อาจมีค่ามากกว่าใครจะคาดคิด]]></desc>
-  </programme>
-  <programme start="20210106060500 +0700" stop="20210106070000 +0700" channel="history">
-    <title><![CDATA[The Curse of Oak Island   [ 7 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Fortunes, Humanity]]></sub-title>
-    <desc><![CDATA[พิธีกร ริค และ มาร์ตี้ ลาไจน่า จะมาสำรวจขุดหาขุมทรัพย์บนที่ดินของพวกเขาเองเพื่อหาคำตอบว่ามันมีสิ่งมีค่าใดซ่อนเร้นอยู่ใต้ดินบ้าง]]></desc>
-  </programme>
-  <programme start="20210106070000 +0700" stop="20210106075500 +0700" channel="history">
-    <title><![CDATA[The Curse of Oak Island   [ 7 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Fortunes, Humanity]]></sub-title>
-    <desc><![CDATA[พิธีกร ริค และ มาร์ตี้ ลาไจน่า จะมาสำรวจขุดหาขุมทรัพย์บนที่ดินของพวกเขาเองเพื่อหาคำตอบว่ามันมีสิ่งมีค่าใดซ่อนเร้นอยู่ใต้ดินบ้าง]]></desc>
-  </programme>
-  <programme start="20210106075500 +0700" stop="20210106085500 +0700" channel="history">
-    <title><![CDATA[Lost Gold of World War II   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: History, Documentary]]></sub-title>
-    <desc><![CDATA[สารคดีถ่ายทอดเรื่องราวของทีมนักโบราณคดีชาวอเมริกันที่มาออกสำรวจภูเขาในประเทศฟิลิปปินส์ซึ่งชาวบ้านเชื่อว่าชาวญี่ปุ่นได้มาฝังสมบัติไว้เมื่อช่วงยุคสงครามโลกครั้งที่สอง]]></desc>
-  </programme>
-  <programme start="20210106085500 +0700" stop="20210106095000 +0700" channel="history">
-    <title><![CDATA[The Unxplained with William Shatner]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Paranormal]]></sub-title>
-    <desc><![CDATA[สารคดีออกสำรวจบรรดาเรื่องราวน่าทึ่งสุดพิศวงต่างๆบนโลกใบนี้ที่มีทั้งความลึกลับแปลกประหลาดและน่าหลงใหล --  ดำเนินรายการโดย วิลเลียม แช็ตเนอร์]]></desc>
-  </programme>
-  <programme start="20210106095000 +0700" stop="20210106104500 +0700" channel="history">
-    <title><![CDATA[The Secret of Skinwalker Ranch]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Paranormal]]></sub-title>
-    <desc><![CDATA[สารคดีนำเสนอเรื่องราวแปลกประหลาดในฟาร์มปศุสัตว์รัฐยูทาห์ที่อาจจะเกี่ยวข้องกับ ยูเอฟโอ ซึ่งเหล่านักวิทยาศาสตร์และผู้เชี่ยวชาญต้องการจะไขปริศนานี้]]></desc>
-  </programme>
-  <programme start="20210106104500 +0700" stop="20210106114000 +0700" channel="history">
-    <title><![CDATA[Unidentified:America's UFO Investigation]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Paranormal]]></sub-title>
-    <desc><![CDATA[ร่วมเปิดเผยความลับของยูเอฟโอไปด้วยกันกับเหล่าบุคคลที่เป็นวงในของสหรัฐอเมริกา]]></desc>
-  </programme>
-  <programme start="20210106114000 +0700" stop="20210106123500 +0700" channel="history">
-    <title><![CDATA[The Pickers   [ 15 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Fortunes, Reality]]></sub-title>
-    <desc><![CDATA[สารคดีนำเสนอสองคู่หูนักสะสมวัตถุโบราณที่ออกตระเวนไปทั่วสหรัฐอเมริกาเพื่อเสาะหาบรรดาของเก่าเก็บซึ่งล้วนถูกมองข้ามแต่อาจมีค่ามากกว่าใครจะคาดคิด]]></desc>
-  </programme>
-  <programme start="20210106123500 +0700" stop="20210106133000 +0700" channel="history">
-    <title><![CDATA[The Curse of Oak Island   [ 7 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Fortunes, Humanity]]></sub-title>
-    <desc><![CDATA[พิธีกร ริค และ มาร์ตี้ ลาไจน่า จะมาสำรวจขุดหาขุมทรัพย์บนที่ดินของพวกเขาเองเพื่อหาคำตอบว่ามันมีสิ่งมีค่าใดซ่อนเร้นอยู่ใต้ดินบ้าง]]></desc>
-  </programme>
-  <programme start="20210106133000 +0700" stop="20210106143000 +0700" channel="history">
-    <title><![CDATA[The Curse of Oak Island   [ 7 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Fortunes, Humanity]]></sub-title>
-    <desc><![CDATA[พิธีกร ริค และ มาร์ตี้ ลาไจน่า จะมาสำรวจขุดหาขุมทรัพย์บนที่ดินของพวกเขาเองเพื่อหาคำตอบว่ามันมีสิ่งมีค่าใดซ่อนเร้นอยู่ใต้ดินบ้าง]]></desc>
-  </programme>
-  <programme start="20210106143000 +0700" stop="20210106152500 +0700" channel="history">
-    <title><![CDATA[The Unxplained with William Shatner]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Paranormal]]></sub-title>
-    <desc><![CDATA[สารคดีออกสำรวจบรรดาเรื่องราวน่าทึ่งสุดพิศวงต่างๆบนโลกใบนี้ที่มีทั้งความลึกลับแปลกประหลาดและน่าหลงใหล --  ดำเนินรายการโดย วิลเลียม แช็ตเนอร์]]></desc>
-  </programme>
-  <programme start="20210106152500 +0700" stop="20210106162000 +0700" channel="history">
-    <title><![CDATA[Unidentified:America's UFO Investigation]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Paranormal]]></sub-title>
-    <desc><![CDATA[ร่วมเปิดเผยความลับของยูเอฟโอไปด้วยกันกับเหล่าบุคคลที่เป็นวงในของสหรัฐอเมริกา]]></desc>
-  </programme>
-  <programme start="20210106162000 +0700" stop="20210106171500 +0700" channel="history">
-    <title><![CDATA[Lost Gold of World War II   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: History, Documentary]]></sub-title>
-    <desc><![CDATA[สารคดีถ่ายทอดเรื่องราวของทีมนักโบราณคดีชาวอเมริกันที่มาออกสำรวจภูเขาในประเทศฟิลิปปินส์ซึ่งชาวบ้านเชื่อว่าชาวญี่ปุ่นได้มาฝังสมบัติไว้เมื่อช่วงยุคสงครามโลกครั้งที่สอง]]></desc>
-  </programme>
-  <programme start="20210106171500 +0700" stop="20210106181000 +0700" channel="history">
-    <title><![CDATA[Football's Greatest Moments]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Sport, History]]></sub-title>
-    <desc><![CDATA[นำเสนอการเรื่องราวของทีมฟุตบอลและผู้เล่นในประวัติศาสตร์ฟุตบอลโลกที่ผ่านมาที่ต้องอาศัยทั้งทักษะ และความสามารถที่จะนำทีมให้ก้าวไปสู่ผู้เล่นระดับโลก]]></desc>
-  </programme>
-  <programme start="20210106181000 +0700" stop="20210106190500 +0700" channel="history">
-    <title><![CDATA[Forged in Fire: Knife or Death]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Humanity]]></sub-title>
-    <desc><![CDATA[พบกับสารคดีที่รวบรวมเอาช่างฝีมือผู้เชี่ยวชาญในการทำมีดมาประชันกันเพื่อค้นหาผู้ที่สามารถผลิตอาวุธมีคมแบบยุคโบราณออกมาได้ดีที่สุด]]></desc>
-  </programme>
-  <programme start="20210106190500 +0700" stop="20210106200000 +0700" channel="history">
-    <title><![CDATA[Mountain Men   [ 8 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Humanity]]></sub-title>
-    <desc><![CDATA[ร่วมผจญภัยในหุบเขากับกลุ่มบุคคลที่ออกผจญภัยใช้ชีวิตแบบคนภูเขาและต้องฝ่าฟันอุปสรรคทางธรรมชาติต่างๆมากมายหลายประการ]]></desc>
-  </programme>
-  <programme start="20210106200000 +0700" stop="20210106205500 +0700" channel="history">
-    <title><![CDATA[Mountain Men   [ 9 ]]]></title>
-    <sub-title><![CDATA[KNOWLEDGE :: Survival]]></sub-title>
-    <desc><![CDATA[ร่วมผจญภัยในหุบเขากับกลุ่มบุคคลที่ออกผจญภัยใช้ชีวิตแบบคนภูเขาและต้องฝ่าฟันอุปสรรคทางธรรมชาติต่างๆมากมายหลายประการ]]></desc>
-  </programme>
-  <programme start="20210106205500 +0700" stop="20210106215000 +0700" channel="history">
-    <title><![CDATA[Swamp People   [ 10 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Humanity, Wildlife]]></sub-title>
-    <desc><![CDATA[สารคดีนำเสนอการปฏิบัติการเสี่ยงชีวิตของเหล่านักล่าจระเข้ชาวอเมริกันซึ่งสืบทอดทักษะและวัฒนธรรมของชนเผ่าพื้นเมืองที่อาศัยอยู่ตามลุ่มแม่น้ำทางตอนใต้ของรัฐหลุยเซียน่า]]></desc>
-  </programme>
-  <programme start="20210106215000 +0700" stop="20210106234000 +0700" channel="history">
-    <title><![CDATA[Presidents at War]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Military, Humanity]]></sub-title>
-    <desc><![CDATA[รายการสารคดีที่จะพาคุณไปพบกับเหตุการณ์สำคัญที่น่าสนใจกับเรื่องราวที่ไม่เคยถูกเปิดเผยมาก่อนในการตัดสินใจทางทหารของประธานาธิบดีสหรัฐอเมริกาชื่อดังหลายคน]]></desc>
-  </programme>
-  <programme start="20210106234000 +0700" stop="20210106235959 +0700" channel="history">
-    <title><![CDATA[Mountain Men   [ 8 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Humanity]]></sub-title>
-    <desc><![CDATA[ร่วมผจญภัยในหุบเขากับกลุ่มบุคคลที่ออกผจญภัยใช้ชีวิตแบบคนภูเขาและต้องฝ่าฟันอุปสรรคทางธรรมชาติต่างๆมากมายหลายประการ]]></desc>
-  </programme>
-  <programme start="20210106010000 +0700" stop="20210106015500 +0700" channel="history2">
-    <title><![CDATA[Top Shot   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
-    <desc><![CDATA[พบกับรายการแข่งขันอันน่าตื่นเต้นที่รวบรวมเหล่านักแม่นปืนสิบหกชีวิตจากทั่วประเทศเพื่อมาประชันทักษะเฉพาะตัวและชิงเงินรางวัลกว่าหนึ่งแสนดอลลาร์]]></desc>
-  </programme>
-  <programme start="20210106015500 +0700" stop="20210106025000 +0700" channel="history2">
-    <title><![CDATA[Top Shot   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
-    <desc><![CDATA[พบกับรายการแข่งขันอันน่าตื่นเต้นที่รวบรวมเหล่านักแม่นปืนสิบหกชีวิตจากทั่วประเทศเพื่อมาประชันทักษะเฉพาะตัวและชิงเงินรางวัลกว่าหนึ่งแสนดอลลาร์]]></desc>
-  </programme>
-  <programme start="20210106025000 +0700" stop="20210106034500 +0700" channel="history2">
-    <title><![CDATA[Stan Lee's Superhumans   [ 3 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Humanity]]></sub-title>
-    <desc><![CDATA[สแตน ลี ผู้ร่วมรังสรรค์การ์ตูนยอดมนุษย์ของบริษัทมาร์เวลคอมิกส์จะมารับหน้าพิธีกรพาคุณผู้ชมออกเสาะหาบรรดายอดมนุษย์มากพรสวรรค์ตัวจริง]]></desc>
-  </programme>
-  <programme start="20210106034500 +0700" stop="20210106044000 +0700" channel="history2">
-    <title><![CDATA[Warriors]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: History]]></sub-title>
-    <desc><![CDATA[สารคดีถ่ายทอดประสบการณ์การล่องทะเลสุดหฤโหดด้วยเรือโบราณพร้อมเรียนรู้เกี่ยวกับอาวุธของนักรบแห่งมหาสมทรในยุคอดีต -- ดำเนินรายการโดยพิธีกร เทอร์รี่ แชพเพิร์ต]]></desc>
-  </programme>
-  <programme start="20210106044000 +0700" stop="20210106053500 +0700" channel="history2">
-    <title><![CDATA[Dogfights]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Military]]></sub-title>
-    <desc><![CDATA[พบกับเรื่องราวของยุทธการบนเวหาซึ่งอดีตนักบินรบจะมาบอกเล่าถึงการต่อสู้ด้วยเครื่องบินรบประจัญบานในสงครามต่างๆที่พวกเขาเคยผ่านมา]]></desc>
-  </programme>
-  <programme start="20210106053500 +0700" stop="20210106072000 +0700" channel="history2">
-    <title><![CDATA[Sniper: Bulletproof]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Military]]></sub-title>
-    <desc><![CDATA[รายการที่จะพาไปติดตามการปฏิบัติภารกิจของเหล่าสไนเปอร์รวมทั้งวิเคราะห์ถึงเหตุการณ์และเทคนิคสำคัญในการทำงานของพวกเขาแบบเจาะลึก]]></desc>
-  </programme>
-  <programme start="20210106072000 +0700" stop="20210106081000 +0700" channel="history2">
-    <title><![CDATA[Top Shot   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
-    <desc><![CDATA[พบกับรายการแข่งขันอันน่าตื่นเต้นที่รวบรวมเหล่านักแม่นปืนสิบหกชีวิตจากทั่วประเทศเพื่อมาประชันทักษะเฉพาะตัวและชิงเงินรางวัลกว่าหนึ่งแสนดอลลาร์]]></desc>
-  </programme>
-  <programme start="20210106081000 +0700" stop="20210106090000 +0700" channel="history2">
-    <title><![CDATA[Top Shot   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
-    <desc><![CDATA[พบกับรายการแข่งขันอันน่าตื่นเต้นที่รวบรวมเหล่านักแม่นปืนสิบหกชีวิตจากทั่วประเทศเพื่อมาประชันทักษะเฉพาะตัวและชิงเงินรางวัลกว่าหนึ่งแสนดอลลาร์]]></desc>
-  </programme>
-  <programme start="20210106090000 +0700" stop="20210106095000 +0700" channel="history2">
-    <title><![CDATA[Stan Lee's Superhumans   [ 3 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Humanity]]></sub-title>
-    <desc><![CDATA[สแตน ลี ผู้ร่วมรังสรรค์การ์ตูนยอดมนุษย์ของบริษัทมาร์เวลคอมิกส์จะมารับหน้าพิธีกรพาคุณผู้ชมออกเสาะหาบรรดายอดมนุษย์มากพรสวรรค์ตัวจริง]]></desc>
-  </programme>
-  <programme start="20210106095000 +0700" stop="20210106104000 +0700" channel="history2">
-    <title><![CDATA[Warriors]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: History]]></sub-title>
-    <desc><![CDATA[สารคดีถ่ายทอดประสบการณ์การล่องทะเลสุดหฤโหดด้วยเรือโบราณพร้อมเรียนรู้เกี่ยวกับอาวุธของนักรบแห่งมหาสมทรในยุคอดีต -- ดำเนินรายการโดยพิธีกร เทอร์รี่ แชพเพิร์ต]]></desc>
-  </programme>
-  <programme start="20210106104000 +0700" stop="20210106113000 +0700" channel="history2">
-    <title><![CDATA[Dogfights]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Military]]></sub-title>
-    <desc><![CDATA[พบกับเรื่องราวของยุทธการบนเวหาซึ่งอดีตนักบินรบจะมาบอกเล่าถึงการต่อสู้ด้วยเครื่องบินรบประจัญบานในสงครามต่างๆที่พวกเขาเคยผ่านมา]]></desc>
-  </programme>
-  <programme start="20210106113000 +0700" stop="20210106131000 +0700" channel="history2">
-    <title><![CDATA[Sniper: Bulletproof]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Military]]></sub-title>
-    <desc><![CDATA[รายการที่จะพาไปติดตามการปฏิบัติภารกิจของเหล่าสไนเปอร์รวมทั้งวิเคราะห์ถึงเหตุการณ์และเทคนิคสำคัญในการทำงานของพวกเขาแบบเจาะลึก]]></desc>
-  </programme>
-  <programme start="20210106131000 +0700" stop="20210106140000 +0700" channel="history2">
-    <title><![CDATA[Top Shot   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
-    <desc><![CDATA[พบกับรายการแข่งขันอันน่าตื่นเต้นที่รวบรวมเหล่านักแม่นปืนสิบหกชีวิตจากทั่วประเทศเพื่อมาประชันทักษะเฉพาะตัวและชิงเงินรางวัลกว่าหนึ่งแสนดอลลาร์]]></desc>
-  </programme>
-  <programme start="20210106140000 +0700" stop="20210106145000 +0700" channel="history2">
-    <title><![CDATA[Top Shot   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Reality]]></sub-title>
-    <desc><![CDATA[พบกับรายการแข่งขันอันน่าตื่นเต้นที่รวบรวมเหล่านักแม่นปืนสิบหกชีวิตจากทั่วประเทศเพื่อมาประชันทักษะเฉพาะตัวและชิงเงินรางวัลกว่าหนึ่งแสนดอลลาร์]]></desc>
-  </programme>
-  <programme start="20210106145000 +0700" stop="20210106154000 +0700" channel="history2">
-    <title><![CDATA[Stan Lee's Superhumans   [ 3 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Humanity]]></sub-title>
-    <desc><![CDATA[สแตน ลี ผู้ร่วมรังสรรค์การ์ตูนยอดมนุษย์ของบริษัทมาร์เวลคอมิกส์จะมารับหน้าพิธีกรพาคุณผู้ชมออกเสาะหาบรรดายอดมนุษย์มากพรสวรรค์ตัวจริง]]></desc>
-  </programme>
-  <programme start="20210106154000 +0700" stop="20210106163000 +0700" channel="history2">
-    <title><![CDATA[Warriors]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: History]]></sub-title>
-    <desc><![CDATA[สารคดีถ่ายทอดประสบการณ์การล่องทะเลสุดหฤโหดด้วยเรือโบราณพร้อมเรียนรู้เกี่ยวกับอาวุธของนักรบแห่งมหาสมทรในยุคอดีต -- ดำเนินรายการโดยพิธีกร เทอร์รี่ แชพเพิร์ต]]></desc>
-  </programme>
-  <programme start="20210106163000 +0700" stop="20210106172000 +0700" channel="history2">
-    <title><![CDATA[Dogfights]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Military]]></sub-title>
-    <desc><![CDATA[พบกับเรื่องราวของยุทธการบนเวหาซึ่งอดีตนักบินรบจะมาบอกเล่าถึงการต่อสู้ด้วยเครื่องบินรบประจัญบานในสงครามต่างๆที่พวกเขาเคยผ่านมา]]></desc>
-  </programme>
-  <programme start="20210106172000 +0700" stop="20210106181000 +0700" channel="history2">
-    <title><![CDATA[Face the Beast]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Documentary]]></sub-title>
-    <desc><![CDATA[สารคดีถ่ายทอดเรื่องราวการเผชิญหน้ากับสถานการณ์จากสัตว์ดุร้ายไปกับผู้เชี่ยวชาญด้านพฤติกรรมสัตว์และนักประวัติศาสตร์ชื่อดัง]]></desc>
-  </programme>
-  <programme start="20210106181000 +0700" stop="20210106190000 +0700" channel="history2">
-    <title><![CDATA[Jurassic Fight Club]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Wildlife]]></sub-title>
-    <desc><![CDATA[สารคดีถ่ายทอดเรื่องราวทางประวัติศาสตร์ยุคดึกดำบรรพ์เมื่อเหล่าไดโนเสาร์ครองโลกและสถานที่ต่อสู้เพื่อความอยู่รอดของพวกมัน]]></desc>
-  </programme>
-  <programme start="20210106190000 +0700" stop="20210106195000 +0700" channel="history2">
-    <title><![CDATA[Monsterquest   [ 5 ]]]></title>
-    <sub-title><![CDATA[KNOWLEDGE :: Humanity]]></sub-title>
-    <desc><![CDATA[ติดตามชมเรื่องราวการสืบสวนสอบสวนทางวิทยาศาสตร์เพื่อพิสูจน์ว่าสิ่งมีชีวิตในตำนานที่น่าเหลือเชื่อต่างๆนั้นมีตัวตนอยู่จริง]]></desc>
-  </programme>
-  <programme start="20210106195000 +0700" stop="20210106204000 +0700" channel="history2">
-    <title><![CDATA[Serial Killer Earth]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Earth]]></sub-title>
-    <desc><![CDATA[ร่วมค้นหาสาเหตุของสิ่งที่ทำให้เกิดภัยพิบัติทางธรรมชาติ รวมทั้งศึกษาวิธีการรับมือกับมันจากประสบการณ์ในครั้งก่อนๆที่เคยเกิดขึ้น]]></desc>
-  </programme>
-  <programme start="20210106204000 +0700" stop="20210106213000 +0700" channel="history2">
-    <title><![CDATA[The Universe   [ 5 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Space, Humanity]]></sub-title>
-    <desc><![CDATA[พบกับประวัติศาสตร์อันยาวนานของจักรวาลแห่งนี้และร่วมค้นหาความเป็นไปได้ที่จะมีสิ่งมีชีวิตอยู่บนดาวดวงอื่น]]></desc>
-  </programme>
-  <programme start="20210106213000 +0700" stop="20210106222000 +0700" channel="history2">
-    <title><![CDATA[Brad Meltzer's Decoded   [ 2 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: History, Humanity]]></sub-title>
-    <desc><![CDATA[พบกับนักเขียนยอดนิยม แบรด เมลต์เซอร์ ศึกษาแกะรอยความหมายและความลับร่องรอยสัญลักษณ์โดยใช้ทฤษฎีการสมรู้ร่วมคิดเพื่อไขปริศนาที่ค้างคาใจในประวัติศาสตร์ของเรา]]></desc>
-  </programme>
-  <programme start="20210106222000 +0700" stop="20210106231000 +0700" channel="history2">
-    <title><![CDATA[Monsterquest   [ 3 ]]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Humanity]]></sub-title>
-    <desc><![CDATA[ติดตามชมเรื่องราวการสืบสวนสอบสวนทางวิทยาศาสตร์เพื่อพิสูจน์ว่าสิ่งมีชีวิตในตำนานที่น่าเหลือเชื่อต่างๆนั้นมีตัวตนอยู่จริง]]></desc>
-  </programme>
-  <programme start="20210106231000 +0700" stop="20210106235959 +0700" channel="history2">
-    <title><![CDATA[Face the Beast]]></title>
-    <sub-title><![CDATA[SR-ENT-KN :: Documentary]]></sub-title>
-    <desc><![CDATA[สารคดีถ่ายทอดเรื่องราวการเผชิญหน้ากับสถานการณ์จากสัตว์ดุร้ายไปกับผู้เชี่ยวชาญด้านพฤติกรรมสัตว์และนักประวัติศาสตร์ชื่อดัง]]></desc>
-  </programme>
-  <programme start="20210106124500 +0700" stop="20210106144500 +0700" channel="hitsmovies">
-    <title><![CDATA[Dirty Dancing]]></title>
-    <desc><![CDATA[<No description>]]></desc>
-  </programme>
-  <programme start="20210106144500 +0700" stop="20210106180000 +0700" channel="hitsmovies">
-    <title><![CDATA[The Guns of Navarone]]></title>
-    <desc><![CDATA[<No description>]]></desc>
-  </programme>
-  <programme start="20210106180000 +0700" stop="20210106211500 +0700" channel="hitsmovies">
-    <title><![CDATA[Rudolph the Red-Nosed Reindeer]]></title>
-    <desc><![CDATA[<No description>]]></desc>
-  </programme>
-  <programme start="20210106211500 +0700" stop="20210106230000 +0700" channel="hitsmovies">
-    <title><![CDATA[See all]]></title>
-  </programme>
-  <programme start="20210106230000 +0700" stop="20210107010000 +0700" channel="hitsmovies">
-    <title><![CDATA[Reservoir Dogs]]></title>
-  </programme>
-  <programme start="20210107010000 +0700" stop="20210107033000 +0700" channel="hitsmovies">
-    <title><![CDATA[Raging Bull]]></title>
-  </programme>
-  <programme start="20210107033000 +0700" stop="20210107053000 +0700" channel="hitsmovies">
-    <title><![CDATA[Addams Family Values!]]></title>
-  </programme>
-  <programme start="20210107053000 +0700" stop="20210107073000 +0700" channel="hitsmovies">
-    <title><![CDATA[Harry and the Hendersons]]></title>
-  </programme>
-  <programme start="20210107073000 +0700" stop="20210107093000 +0700" channel="hitsmovies">
-    <title><![CDATA[The Flinstones]]></title>
-  </programme>
-  <programme start="20210107093000 +0700" stop="20210107113000 +0700" channel="hitsmovies">
-    <title><![CDATA[Reservoir Dogs]]></title>
-  </programme>
-  <programme start="20210107113000 +0700" stop="20210107140000 +0700" channel="hitsmovies">
-    <title><![CDATA[Raging Bull]]></title>
-  </programme>
-  <programme start="20210107140000 +0700" stop="20210107160000 +0700" channel="hitsmovies">
-    <title><![CDATA[Addams Family Values!]]></title>
-  </programme>
-  <programme start="20210107160000 +0700" stop="20210107180000 +0700" channel="hitsmovies">
-    <title><![CDATA[Reservoir Dogs]]></title>
-  </programme>
-  <programme start="20210107180000 +0700" stop="20210107190000 +0700" channel="hitsmovies">
-    <title><![CDATA[Rudolph the Red-Nosed Reindeer]]></title>
-  </programme>
-  <programme start="20210107190000 +0700" stop="20210107210000 +0700" channel="hitsmovies">
-    <title><![CDATA[Matilda]]></title>
-  </programme>
-  <programme start="20210107210000 +0700" stop="20210107231500 +0700" channel="hitsmovies">
-    <title><![CDATA[Universal Solider]]></title>
-  </programme>
-  <programme start="20210107231500 +0700" stop="20210108000000 +0700" channel="hitsmovies">
-    <title><![CDATA[Another 48 Hours]]></title>
-  </programme>
-  <programme start="20210108000000 +0700" stop="20210108011500 +0700" channel="hitsmovies">
-    <title><![CDATA[See all]]></title>
-  </programme>
-  <programme start="20210108011500 +0700" stop="20210108031500 +0700" channel="hitsmovies">
-    <title><![CDATA[The Flinstones]]></title>
-  </programme>
   <programme start="20210106000000 +0700" stop="20210106005500 +0700" channel="natgeo">
     <title><![CDATA[Europe from Above]]></title>
     <sub-title><![CDATA[SR-ENT-KN :: Travel]]></sub-title>
@@ -5212,78 +5051,6 @@
     <sub-title><![CDATA[SR-ENT-KN :: Technology]]></sub-title>
     <desc><![CDATA[สารคดีสำรวจบรรดาโรงงานขนาดใหญ่ที่อยู่เบื้องหลังการผลิตของบรรดาผลิตภัณฑ์ชื่อดังอันโดดเด่นจากทั่วทุกมุมโลก]]></desc>
   </programme>
-  <programme start="20210106170000 -0000" stop="20210106175000 -0000" channel="one">
-    <title><![CDATA[รักวุ่นวายเจ้าชายกบ]]></title>
-    <desc><![CDATA[เรื่องราวของสาวสวยขาลุยแห่งหมู่บ้านชื่นชีวาที่ทนไม่ไหวเมื่อถูกนักท่องเที่ยวดูถูกบ้านเกิดของเธอ จึงทำให้เธอสร้างตำนานแห่งความรักหากคู่ไหนเจอกับบนสะพานแสดงว่าเป็นรักแท้]]></desc>
-  </programme>
-  <programme start="20210106175000 -0000" stop="20210106181000 -0000" channel="one">
-    <title><![CDATA[O SHOPPING]]></title>
-    <desc><![CDATA[วาไรตี้แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106184000 -0000" stop="20210106203000 -0000" channel="gmm25">
-    <title><![CDATA[ข่าวแหกโค้ง (Rerun)]]></title>
-    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210106181000 -0000" stop="20210106185500 -0000" channel="one">
-    <title><![CDATA[นางสาวไม่จำกัดนามสกุล]]></title>
-    <desc><![CDATA[หญิงสาวที่ตัดสินใจขอเป็นโสดตลอดชีวิต จนกระทั่งเธอตรวจเจอช็อคโกแลตซีสต์ในมดลูก วิธีทำให้หายคือต้องมีลูก เธอจึงต้องออกตามหาชายหนุ่มเพื่อมาแต่งงานให้เร็วที่สุด]]></desc>
-  </programme>
-  <programme start="20210106185500 -0000" stop="20210106190500 -0000" channel="one">
-    <title><![CDATA[O SHOPPING]]></title>
-    <desc><![CDATA[วาไรตี้แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106203000 -0000" stop="20210106205000 -0000" channel="gmm25">
-    <title><![CDATA[TRUE SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106205000 -0000" stop="20210106215000 -0000" channel="gmm25">
-    <title><![CDATA[ธรรมนำชีวิต]]></title>
-    <desc><![CDATA[รายการประเภท สาระความรู้]]></desc>
-  </programme>
-  <programme start="20210106190500 -0000" stop="20210106192000 -0000" channel="one">
-    <title><![CDATA[MV]]></title>
-    <desc><![CDATA[เพลิดเพลินกับมิวสิควิดีโอเพลงของเหล่าศิลปินที่คุณชื่นชอบ]]></desc>
-  </programme>
-  <programme start="20210106192000 -0000" stop="20210106200000 -0000" channel="one">
-    <title><![CDATA[รักล้นๆคนเต็มบ้าน]]></title>
-    <desc><![CDATA[เรื่องราวคู่รักที่เพิ่งแต่งงานกันแค่ 7 วัน แล้วบ้านญาติฝ่ายหญิงที่สุพรรณบุรีเกิดไฟไหม้ จึงต้องย้ายมาอยู่กรุงเทพ แค่ย้ายมาวันแรกก็เกิดเรื่องวุ่นซะแล้ว]]></desc>
-  </programme>
-  <programme start="20210106200000 -0000" stop="20210106210000 -0000" channel="one">
-    <title><![CDATA[วันนี้มีธรรม]]></title>
-    <desc><![CDATA[รับบุญ ฟังเทศน์ ฟังธรรม แต่เช้าตรู่ ร่วมคิดวิเคราะห์และนำคำสอนทางพระพุทธศาสนาไปใช้ในชีวิต]]></desc>
-  </programme>
-  <programme start="20210106215000 -0000" stop="20210106221000 -0000" channel="gmm25">
-    <title><![CDATA[TRUE SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106210000 -0000" stop="20210106211000 -0000" channel="one">
-    <title><![CDATA[O SHOPPING]]></title>
-    <desc><![CDATA[วาไรตี้แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106211000 -0000" stop="20210106223000 -0000" channel="one">
-    <title><![CDATA[ดวลเพลงชิงทุน]]></title>
-    <desc><![CDATA[ศึกสังเวียนแห่งการฟาดฟันเสียงร้อง เพื่อชิงทุนการศึกษา]]></desc>
-  </programme>
-  <programme start="20210106221000 -0000" stop="20210106222500 -0000" channel="gmm25">
-    <title><![CDATA[MV]]></title>
-    <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210106222500 -0000" stop="20210106223500 -0000" channel="gmm25">
-    <title><![CDATA[O SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106223500 -0000" stop="20210106225500 -0000" channel="gmm25">
-    <title><![CDATA[MV]]></title>
-    <desc><![CDATA[รายการประเภท เพลง]]></desc>
-  </programme>
-  <programme start="20210106225500 -0000" stop="20210106230500 -0000" channel="gmm25">
-    <title><![CDATA[O SHOPPING]]></title>
-    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210106065000 -0000" stop="20210106070000 -0000" channel="nation">
-    <title><![CDATA[ทันช้อป ทันใช้]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
-  </programme>
   <programme start="20210106070000 -0000" stop="20210106074000 -0000" channel="nation">
     <title><![CDATA[กรุงเทพธุรกิจ Biz Insight]]></title>
     <desc><![CDATA[เจาะลึก เรื่องเศรษฐกิจ ธุรกิจ สร้างพลังและแรงบันดาลใจในการลงทุน]]></desc>
@@ -5346,10 +5113,6 @@
   <programme start="20210106162000 -0000" stop="20210106165959 -0000" channel="nation">
     <title><![CDATA[จุดวัดดวงข่าว  (L)]]></title>
     <desc><![CDATA[วิเคราะห์สถานการณ์ เหตุการณ์ และบุคคลโดยใช้โหราศาสตร์จีน พร้อมให้คำแนะนำการดูแลชีวิตและสุขภาพอย่างสมดุลครบทุกด้าน]]></desc>
-  </programme>
-  <programme start="20210106063000 -0000" stop="20210106070000 -0000" channel="nbt">
-    <title><![CDATA[เมืองไทยดี๊ ดี]]></title>
-    <desc><![CDATA[ประชาชนทั่วไป]]></desc>
   </programme>
   <programme start="20210106070000 -0000" stop="20210106080000 -0000" channel="nbt">
     <title><![CDATA[NBT รวมใจ คนไทยไม่ทิ้งกัน]]></title>
@@ -5650,9 +5413,6 @@
   </programme>
   <programme start="20210109170000 -0000" stop="20210109210000 -0000" channel="nbt">
     <title><![CDATA[ปิดสถานี]]></title>
-  </programme>
-  <programme start="20210106063000 -0000" stop="20210106070000 -0000" channel="new18">
-    <title><![CDATA[True Shopping]]></title>
   </programme>
   <programme start="20210106070000 -0000" stop="20210106075000 -0000" channel="new18">
     <title><![CDATA[NEW Documentary สำรวจโลก : ฮาว สตัฟฟ์ เวิร์ก ทำได้อย่างไร]]></title>
@@ -5956,6 +5716,89 @@
   </programme>
   <programme start="20210109170000 -0000" stop="20210109230000 -0000" channel="new18">
     <title><![CDATA[TVD SHOP]]></title>
+  </programme>
+  <programme start="20210106064000 -0000" stop="20210106074500 -0000" channel="one">
+    <title><![CDATA[คุยแซ่บ SHOW]]></title>
+    <desc><![CDATA[เป็นรายการวาไรตี้ทอล์คโชว์ยามบ่ายที่เน้นความฮอต แซ่บ สนุก สร้างแรงบันดาลใจ ให้พลังบวกแก่สังคม]]></desc>
+  </programme>
+  <programme start="20210106074500 -0000" stop="20210106091500 -0000" channel="one">
+    <title><![CDATA[แผนรักแผนร้าย]]></title>
+    <desc><![CDATA[ชิษณุพงษ์สืบจนรู้ว่ากอหญ้าความจำเสื่อมและพเยียแอบอ้างเป็นทายาท นภัสรพีเสนอให้เงินพเยียให้เรื่องสงบ]]></desc>
+  </programme>
+  <programme start="20210106091500 -0000" stop="20210106093000 -0000" channel="one">
+    <title><![CDATA[แม่บ้าน มือหนึ่ง]]></title>
+    <desc><![CDATA[รายการที่จะเชิญคู่ซี้แม่บ้าน หรือเพื่อนกัน มาตอบคำถามความรู้เกี่ยวกับงานบ้าน]]></desc>
+  </programme>
+  <programme start="20210106093000 -0000" stop="20210106110000 -0000" channel="one">
+    <title><![CDATA[ข่าวเย็นช่องวัน]]></title>
+    <desc><![CDATA[รายการ ข่าวเย็นช่องวัน  เล่าเรื่องจริง ตรงไปตรงมา เข้าใจง่าย แง่มุมสร้างสรรค์ เพื่อสังคมน่าอยู่]]></desc>
+  </programme>
+  <programme start="20210106110000 -0000" stop="20210106120000 -0000" channel="one">
+    <title><![CDATA[ดวลเพลงชิงทุน]]></title>
+    <desc><![CDATA[ศึกสังเวียนแห่งการฟาดฟันเสียงร้อง เพื่อชิงทุนการศึกษา]]></desc>
+  </programme>
+  <programme start="20210106120000 -0000" stop="20210106125500 -0000" channel="one">
+    <title><![CDATA[สูตรรักแซ่บอีหลี]]></title>
+    <desc><![CDATA[สูตรลับของการฝ่าวิกฤติ คือความรัก ละครที่รวมซุปตาร์ลูกทุ่งที่มียอดวิว รวมกันมากกว่า 5000 ล้านวิว]]></desc>
+  </programme>
+  <programme start="20210106125500 -0000" stop="20210106130000 -0000" channel="one">
+    <title><![CDATA[ข่าวค่ำช่องวัน]]></title>
+    <desc><![CDATA[เล่าเรื่องจริง ตรงไปตรงมา เข้าใจง่าย แง่มุมสร้างสรรค์ เพื่อสังคมน่าอยู่]]></desc>
+  </programme>
+  <programme start="20210106130000 -0000" stop="20210106133000 -0000" channel="one">
+    <title><![CDATA[ข่าว / เนตรมหรรณพ]]></title>
+  </programme>
+  <programme start="20210106133000 -0000" stop="20210106152500 -0000" channel="one">
+    <title><![CDATA[เนตรมหรรณพ]]></title>
+    <desc><![CDATA[เพชรต้องคำสาปถูกโจรกรรม เหตุการณ์นี้มีผู้ต้องสงสัยนับ 10 คนที่หวังครอบครองเพชรมูลค่ามหาศาล ใครคือหัวขโมยตัวจริง]]></desc>
+  </programme>
+  <programme start="20210106152500 -0000" stop="20210106160000 -0000" channel="one">
+    <title><![CDATA[เอาให้ชัด]]></title>
+    <desc><![CDATA[รายการที่จะถามคำถามที่คนไทยทั้งประเทศสงสัย ตรงทุกประเด็น กล้าถามทุกความจริง กับ เอาให้ชัด]]></desc>
+  </programme>
+  <programme start="20210106160000 -0000" stop="20210106163000 -0000" channel="one">
+    <title><![CDATA[SOUND CHECK]]></title>
+    <desc><![CDATA[เพลงฮิตติดกระแส มอบความสุขให้คอเพลงได้ผ่อนคลายก่อนเข้านอน]]></desc>
+  </programme>
+  <programme start="20210106163000 -0000" stop="20210106165959 -0000" channel="one">
+    <title><![CDATA[รักวุ่นวายเจ้าชายกบ]]></title>
+    <desc><![CDATA[เรื่องราวของสาวสวยขาลุยแห่งหมู่บ้านชื่นชีวาที่ทนไม่ไหวเมื่อถูกนักท่องเที่ยวดูถูกบ้านเกิดของเธอ จึงทำให้เธอสร้างตำนานแห่งความรักหากคู่ไหนเจอกับบนสะพานแสดงว่าเป็นรักแท้]]></desc>
+  </programme>
+  <programme start="20210106170000 -0000" stop="20210106175000 -0000" channel="one">
+    <title><![CDATA[รักวุ่นวายเจ้าชายกบ]]></title>
+    <desc><![CDATA[เรื่องราวของสาวสวยขาลุยแห่งหมู่บ้านชื่นชีวาที่ทนไม่ไหวเมื่อถูกนักท่องเที่ยวดูถูกบ้านเกิดของเธอ จึงทำให้เธอสร้างตำนานแห่งความรักหากคู่ไหนเจอกับบนสะพานแสดงว่าเป็นรักแท้]]></desc>
+  </programme>
+  <programme start="20210106175000 -0000" stop="20210106181000 -0000" channel="one">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[วาไรตี้แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106181000 -0000" stop="20210106185500 -0000" channel="one">
+    <title><![CDATA[นางสาวไม่จำกัดนามสกุล]]></title>
+    <desc><![CDATA[หญิงสาวที่ตัดสินใจขอเป็นโสดตลอดชีวิต จนกระทั่งเธอตรวจเจอช็อคโกแลตซีสต์ในมดลูก วิธีทำให้หายคือต้องมีลูก เธอจึงต้องออกตามหาชายหนุ่มเพื่อมาแต่งงานให้เร็วที่สุด]]></desc>
+  </programme>
+  <programme start="20210106185500 -0000" stop="20210106190500 -0000" channel="one">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[วาไรตี้แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106190500 -0000" stop="20210106192000 -0000" channel="one">
+    <title><![CDATA[MV]]></title>
+    <desc><![CDATA[เพลิดเพลินกับมิวสิควิดีโอเพลงของเหล่าศิลปินที่คุณชื่นชอบ]]></desc>
+  </programme>
+  <programme start="20210106192000 -0000" stop="20210106200000 -0000" channel="one">
+    <title><![CDATA[รักล้นๆคนเต็มบ้าน]]></title>
+    <desc><![CDATA[เรื่องราวคู่รักที่เพิ่งแต่งงานกันแค่ 7 วัน แล้วบ้านญาติฝ่ายหญิงที่สุพรรณบุรีเกิดไฟไหม้ จึงต้องย้ายมาอยู่กรุงเทพ แค่ย้ายมาวันแรกก็เกิดเรื่องวุ่นซะแล้ว]]></desc>
+  </programme>
+  <programme start="20210106200000 -0000" stop="20210106210000 -0000" channel="one">
+    <title><![CDATA[วันนี้มีธรรม]]></title>
+    <desc><![CDATA[รับบุญ ฟังเทศน์ ฟังธรรม แต่เช้าตรู่ ร่วมคิดวิเคราะห์และนำคำสอนทางพระพุทธศาสนาไปใช้ในชีวิต]]></desc>
+  </programme>
+  <programme start="20210106210000 -0000" stop="20210106211000 -0000" channel="one">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[วาไรตี้แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210106211000 -0000" stop="20210106223000 -0000" channel="one">
+    <title><![CDATA[ดวลเพลงชิงทุน]]></title>
+    <desc><![CDATA[ศึกสังเวียนแห่งการฟาดฟันเสียงร้อง เพื่อชิงทุนการศึกษา]]></desc>
   </programme>
   <programme start="20210106223000 -0000" stop="20210106230000 -0000" channel="one">
     <title><![CDATA[ข่าวเช้าตรู่ช่องวัน]]></title>
@@ -6262,9 +6105,9 @@
     <title><![CDATA[สงครามนักปั้น Season 1]]></title>
     <desc><![CDATA[การแข่งขัน ฟาดฟัน เฉือดเฉือน ระหว่างผู้ที่อยู่เบื้องหลังวงการบันเทิงที่สวยงาม นักปั้นทั้งสองโมเดลลิ่งจะมีทีเด็ดอะไรมาปั้นแต่งให้ดาวของตัวเองโดดเด่นกว่ากัน]]></desc>
   </programme>
-  <programme start="20210106062000 -0000" stop="20210106065000 -0000" channel="pptv">
-    <title><![CDATA[เป็นเรื่องเป็นข่าว]]></title>
-    <desc><![CDATA[ถกประเด็นข่าวร้อน อยู่ในกระแสของสังคม คมทุกคำถาม]]></desc>
+  <programme start="20210109190000 -0000" stop="20210109194000 -0000" channel="one">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[วาไรตี้แนะนำสินค้า]]></desc>
   </programme>
   <programme start="20210106065000 -0000" stop="20210106074500 -0000" channel="pptv">
     <title><![CDATA[Tasty Journey วัฒนธรรมยั่วน้ำลาย ซีซั่น 2]]></title>
@@ -6810,14 +6653,6 @@
   </programme>
   <programme start="20210106230000 +0700" stop="20210106235959 +0700" channel="premier2">
     <title><![CDATA[Fanzone]]></title>
-  </programme>
-  <programme start="20210106063000 -0000" stop="20210106070000 -0000" channel="thaipbs">
-    <title><![CDATA[ที่นี่บ้านเรา]]></title>
-    <desc><![CDATA[นี่คือเรื่องราวจากบ้านของเรา จากมุมของเรา จากการผลิตของเรา]]></desc>
-  </programme>
-  <programme start="20210106070000 -0000" stop="20210106070500 -0000" channel="thaipbs">
-    <title><![CDATA[ทันข่าว 14.00 น.]]></title>
-    <desc><![CDATA[รายงานข่าวตามสถานการณ์ต้นชั่วโมง]]></desc>
   </programme>
   <programme start="20210106070500 -0000" stop="20210106080000 -0000" channel="thaipbs">
     <title><![CDATA[สถานีประชาชน]]></title>
@@ -7593,13 +7428,11 @@
   <programme start="20210109183000 -0000" stop="20210109190000 -0000" channel="thairath">
     <title><![CDATA[Baby สัตว์ตัวน้อย AD CC]]></title>
   </programme>
-  <programme start="20210106063200 -0000" stop="20210106070000 -0000" channel="tnn16">
-    <title><![CDATA[คนชนข่าว]]></title>
-    <desc><![CDATA[สรุปเหตุการณ์ข่าวตลอดทั้งวันที่มีความหลากหลายจากในและต่างประเทศ พร้อมทั้งการรายงานสภาพอากาศจากทุกมุมโลก]]></desc>
+  <programme start="20210109190000 -0000" stop="20210109191500 -0000" channel="thairath">
+    <title><![CDATA[โอ้โห Thailand AD CC]]></title>
   </programme>
-  <programme start="20210106070000 -0000" stop="20210106070500 -0000" channel="tnn16">
-    <title><![CDATA[TNN ข่าวต้นชั่วโมง]]></title>
-    <desc><![CDATA[เกาะติดทุกวินาทีความเคลื่อนไหว กับการรายงานข่าวสั้นในแต่ละช่วงของวัน]]></desc>
+  <programme start="20210109191500 -0000" stop="20210109193000 -0000" channel="thairath">
+    <title><![CDATA[เล่าเส้นเป็นเรื่อง AD CC]]></title>
   </programme>
   <programme start="20210106070500 -0000" stop="20210106073000 -0000" channel="tnn16">
     <title><![CDATA[เศรษฐกิจอินไซต์]]></title>
@@ -8233,6 +8066,10 @@
     <title><![CDATA[Tnnประเด็นใหญ่ 2021]]></title>
     <desc><![CDATA[คุยข่าวใหญ่ ขยายข่าวดัง กับ เคนโด้ เกรียงไกรมาศ และ เก๋ กมลพรวรกุล]]></desc>
   </programme>
+  <programme start="20210108020000 +0700" stop="20210108040000 +0700" channel="true4u">
+    <title><![CDATA[TNN ข่าวค่ำ]]></title>
+    <desc><![CDATA[สรุปเหตุการณ์ข่าวตลอดทั้งวันที่มีความหลากหลายจากในและต่างประเทศพร้อมทั้งการรายงานสภาพอากาศจากทุกมุมโ]]></desc>
+  </programme>
   <programme start="20210106000000 +0700" stop="20210106000100 +0700" channel="truesport2">
     <title><![CDATA[เพลงสรรเสริญพระบารมี]]></title>
     <sub-title><![CDATA[ENTERTAIN ::]]></sub-title>
@@ -8433,12 +8270,6 @@
     <title><![CDATA[รันนิ่งแมน   [ 8 ]]]></title>
     <sub-title><![CDATA[SR-ENT-KN :: Gameshow]]></sub-title>
     <desc><![CDATA[รายการวาไรตี้ของเกาหลีใต้เกี่ยวกับกิจกรรมคนเมืองโดยที่เหล่าพิธีกรและแขกรับเชิญจะร่วมแข่งขันกันตามสถานที่สำคัญๆต่างๆ]]></desc>
-  </programme>
-  <programme start="20210106063000 -0000" stop="20210106070000 -0000" channel="tv5">
-    <title><![CDATA[ไดร์ฟ แอนด์ ไรด์ ขับขี่ไปด้วยกัน]]></title>
-  </programme>
-  <programme start="20210106070000 -0000" stop="20210106070500 -0000" channel="tv5">
-    <title><![CDATA[ช่อง 5 ทันข่าว 1400 - 1405]]></title>
   </programme>
   <programme start="20210106070500 -0000" stop="20210106073500 -0000" channel="tv5">
     <title><![CDATA[เส้นทางเศรษฐี]]></title>
@@ -8827,9 +8658,6 @@
   <programme start="20210109180000 -0000" stop="20210109200000 -0000" channel="tv5">
     <title><![CDATA[รายการสารคดี]]></title>
   </programme>
-  <programme start="20210106132000 +0700" stop="20210106141000 +0700" channel="warnertv">
-    <title><![CDATA[World's Dumbest S13 EP.4]]></title>
-  </programme>
   <programme start="20210106141000 +0700" stop="20210106143500 +0700" channel="warnertv">
     <title><![CDATA[Storage Hunters S2 EP.4]]></title>
   </programme>
@@ -8872,13 +8700,14 @@
   <programme start="20210106225000 +0700" stop="20210106231500 +0700" channel="warnertv">
     <title><![CDATA[Storage Hunters S2 EP.4]]></title>
   </programme>
-  <programme start="20210106060000 -0000" stop="20210106065000 -0000" channel="workpoint">
-    <title><![CDATA[ปัญญาปันสุข]]></title>
-    <desc><![CDATA[รายการที่จะทำให้ทั้งผู้เข้าร่วมรายการทุกอาชีพรวมถึงผู้ชมรายการได้รับกำลังใจและพลังของการปันสุขไปอย่างเต็มเปี่ยม]]></desc>
+  <programme start="20210106231500 +0700" stop="20210106234000 +0700" channel="warnertv">
+    <title><![CDATA[Storage Hunters S2 EP.5]]></title>
   </programme>
-  <programme start="20210106065000 -0000" stop="20210106070000 -0000" channel="workpoint">
-    <title><![CDATA[Wellness Shop]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  <programme start="20210106234000 +0700" stop="20210107003000 +0700" channel="warnertv">
+    <title><![CDATA[Major Crimes S5 EP.08]]></title>
+  </programme>
+  <programme start="20210107003000 +0700" stop="20210107012000 +0700" channel="warnertv">
+    <title><![CDATA[World's Dumbest S13 EP.4]]></title>
   </programme>
   <programme start="20210106070000 -0000" stop="20210106075500 -0000" channel="workpoint">
     <title><![CDATA[ยืน 1 ถึง 3 รีรัน]]></title>
@@ -9010,15 +8839,6 @@
     <title><![CDATA[ตลาดข่าวเวิร์คพอยท์]]></title>
     <desc><![CDATA[รายงานข่าว]]></desc>
   </programme>
-  <programme start="20210106231500 +0700" stop="20210106234000 +0700" channel="warnertv">
-    <title><![CDATA[Storage Hunters S2 EP.5]]></title>
-  </programme>
-  <programme start="20210106234000 +0700" stop="20210107003000 +0700" channel="warnertv">
-    <title><![CDATA[Major Crimes S5 EP.08]]></title>
-  </programme>
-  <programme start="20210107003000 +0700" stop="20210107012000 +0700" channel="warnertv">
-    <title><![CDATA[World's Dumbest S13 EP.4]]></title>
-  </programme>
   <programme start="20210106232000 -0000" stop="20210107010000 -0000" channel="workpoint">
     <title><![CDATA[ข่าวเช้าเวิร์คพอยท์]]></title>
     <desc><![CDATA[รายงานข่าว]]></desc>
@@ -9079,22 +8899,6 @@
   <programme start="20210107064000 +0700" stop="20210107073000 +0700" channel="warnertv">
     <title><![CDATA[Izombie S5 EP.12]]></title>
   </programme>
-  <programme start="20210107055500 -0000" stop="20210107060000 -0000" channel="workpoint">
-    <title><![CDATA[2 ข่าวใหญ่ เวิร์คพอยท์]]></title>
-    <desc><![CDATA[รายงานข่าว]]></desc>
-  </programme>
-  <programme start="20210107060000 -0000" stop="20210107065000 -0000" channel="workpoint">
-    <title><![CDATA[ปัญญาปันสุข]]></title>
-    <desc><![CDATA[รายการที่จะทำให้ทั้งผู้เข้าร่วมรายการทุกอาชีพรวมถึงผู้ชมรายการได้รับกำลังใจและพลังของการปันสุขไปอย่างเต็มเปี่ยม]]></desc>
-  </programme>
-  <programme start="20210107065000 -0000" stop="20210107070000 -0000" channel="workpoint">
-    <title><![CDATA[Wellness Shop]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210107070000 -0000" stop="20210107075500 -0000" channel="workpoint">
-    <title><![CDATA[ซูเปอร์หม่ำ รีรัน]]></title>
-    <desc><![CDATA[รายการตลก มีแขกรับเชิญประจำสัปดาห์]]></desc>
-  </programme>
   <programme start="20210107073000 +0700" stop="20210107082000 +0700" channel="warnertv">
     <title><![CDATA[Supergirl S4 EP.10]]></title>
   </programme>
@@ -9103,25 +8907,6 @@
   </programme>
   <programme start="20210107091000 +0700" stop="20210107100000 +0700" channel="warnertv">
     <title><![CDATA[World's Dumbest S13 EP.5]]></title>
-  </programme>
-  <programme start="20210107075500 -0000" stop="20210107080000 -0000" channel="workpoint">
-    <title><![CDATA[2 ข่าวใหญ่ เวิร์คพอยท์]]></title>
-    <desc><![CDATA[รายงานข่าว]]></desc>
-  </programme>
-  <programme start="20210107080000 -0000" stop="20210107083000 -0000" channel="workpoint">
-    <title><![CDATA[ฟาดข่าวบันเทิง]]></title>
-  </programme>
-  <programme start="20210107083000 -0000" stop="20210107090000 -0000" channel="workpoint">
-    <title><![CDATA[อดเปรี้ยวกินหวาน]]></title>
-    <desc><![CDATA[รายการสอนทำขนมหวาน]]></desc>
-  </programme>
-  <programme start="20210107090000 -0000" stop="20210107091000 -0000" channel="workpoint">
-    <title><![CDATA[Wellness Shop]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
-  </programme>
-  <programme start="20210107091000 -0000" stop="20210107094500 -0000" channel="workpoint">
-    <title><![CDATA[ชิงร้อยชิงล้าน ว้าวว้าวว้าว รีรัน]]></title>
-    <desc><![CDATA[รายการตลก]]></desc>
   </programme>
   <programme start="20210107100000 +0700" stop="20210107102500 +0700" channel="warnertv">
     <title><![CDATA[Storage Hunters S2 EP.6]]></title>
@@ -9132,48 +8917,14 @@
   <programme start="20210107105000 +0700" stop="20210107123000 +0700" channel="warnertv">
     <title><![CDATA[Game Night]]></title>
   </programme>
-  <programme start="20210107094500 -0000" stop="20210107105000 -0000" channel="workpoint">
-    <title><![CDATA[บรรจงชงข่าว]]></title>
-    <desc><![CDATA[รายการวิเคราะห์ข่าว]]></desc>
-  </programme>
-  <programme start="20210107105000 -0000" stop="20210107105500 -0000" channel="workpoint">
-    <title><![CDATA[2 ข่าวใหญ่ เวิร์คพอยท์]]></title>
-    <desc><![CDATA[รายงานข่าว]]></desc>
-  </programme>
-  <programme start="20210107105500 -0000" stop="20210107110000 -0000" channel="workpoint">
-    <title><![CDATA[ติ่งข่าว]]></title>
-    <desc><![CDATA[รายงานข่าว]]></desc>
-  </programme>
-  <programme start="20210107110000 -0000" stop="20210107110100 -0000" channel="workpoint">
-    <title><![CDATA[เคารพธงชาติ]]></title>
-  </programme>
-  <programme start="20210107110100 -0000" stop="20210107120000 -0000" channel="workpoint">
-    <title><![CDATA[ไมค์หมดหนี้ นักร้องนำโชค]]></title>
-    <desc><![CDATA[รายการโทรทัศน์ประกวดนักร้องเพลงลูกทุ่ง]]></desc>
-  </programme>
   <programme start="20210107123000 +0700" stop="20210107130000 +0700" channel="warnertv">
     <title><![CDATA[Friends S9 EP.21]]></title>
   </programme>
   <programme start="20210107130000 +0700" stop="20210107132500 +0700" channel="warnertv">
     <title><![CDATA[Friends S9 EP.22]]></title>
   </programme>
-  <programme start="20210107120000 -0000" stop="20210107125800 -0000" channel="workpoint">
-    <title><![CDATA[ปัญญาปันสุข]]></title>
-    <desc><![CDATA[รายการที่จะทำให้ทั้งผู้เข้าร่วมรายการทุกอาชีพรวมถึงผู้ชมรายการได้รับกำลังใจและพลังของการปันสุขไปอย่างเต็มเปี่ยม]]></desc>
-  </programme>
-  <programme start="20210107125800 -0000" stop="20210107130000 -0000" channel="workpoint">
-    <title><![CDATA[ข่าว 2 ทุ่มเวิร์คพอยท์]]></title>
-    <desc><![CDATA[รายงานข่าว]]></desc>
-  </programme>
-  <programme start="20210107130000 -0000" stop="20210107131500 -0000" channel="workpoint">
-    <title><![CDATA[ข่าวในพระราชสำนัก]]></title>
-    <desc><![CDATA[รายงานข่าวพระราชสำนัก]]></desc>
-  </programme>
   <programme start="20210107132500 +0700" stop="20210107141000 +0700" channel="warnertv">
     <title><![CDATA[World's Dumbest S13 EP.5]]></title>
-  </programme>
-  <programme start="20210107131500 -0000" stop="20210107143000 -0000" channel="workpoint">
-    <title><![CDATA[ร้องข้ามกำแพง]]></title>
   </programme>
   <programme start="20210107141000 +0700" stop="20210107143500 +0700" channel="warnertv">
     <title><![CDATA[Storage Hunters S2 EP.6]]></title>
@@ -9228,6 +8979,81 @@
   </programme>
   <programme start="20210108010500 +0700" stop="20210108015500 +0700" channel="warnertv">
     <title><![CDATA[Izombie S5 EP.12]]></title>
+  </programme>
+  <programme start="20210108015500 +0700" stop="20210108022000 +0700" channel="warnertv">
+    <title><![CDATA[Storage Hunters S2 EP.7]]></title>
+  </programme>
+  <programme start="20210108022000 +0700" stop="20210108031000 +0700" channel="warnertv">
+    <title><![CDATA[Supergirl S4 EP.10]]></title>
+  </programme>
+  <programme start="20210107055500 -0000" stop="20210107060000 -0000" channel="workpoint">
+    <title><![CDATA[2 ข่าวใหญ่ เวิร์คพอยท์]]></title>
+    <desc><![CDATA[รายงานข่าว]]></desc>
+  </programme>
+  <programme start="20210107060000 -0000" stop="20210107065000 -0000" channel="workpoint">
+    <title><![CDATA[ปัญญาปันสุข]]></title>
+    <desc><![CDATA[รายการที่จะทำให้ทั้งผู้เข้าร่วมรายการทุกอาชีพรวมถึงผู้ชมรายการได้รับกำลังใจและพลังของการปันสุขไปอย่างเต็มเปี่ยม]]></desc>
+  </programme>
+  <programme start="20210107065000 -0000" stop="20210107070000 -0000" channel="workpoint">
+    <title><![CDATA[Wellness Shop]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210107070000 -0000" stop="20210107075500 -0000" channel="workpoint">
+    <title><![CDATA[ซูเปอร์หม่ำ รีรัน]]></title>
+    <desc><![CDATA[รายการตลก มีแขกรับเชิญประจำสัปดาห์]]></desc>
+  </programme>
+  <programme start="20210107075500 -0000" stop="20210107080000 -0000" channel="workpoint">
+    <title><![CDATA[2 ข่าวใหญ่ เวิร์คพอยท์]]></title>
+    <desc><![CDATA[รายงานข่าว]]></desc>
+  </programme>
+  <programme start="20210107080000 -0000" stop="20210107083000 -0000" channel="workpoint">
+    <title><![CDATA[ฟาดข่าวบันเทิง]]></title>
+  </programme>
+  <programme start="20210107083000 -0000" stop="20210107090000 -0000" channel="workpoint">
+    <title><![CDATA[อดเปรี้ยวกินหวาน]]></title>
+    <desc><![CDATA[รายการสอนทำขนมหวาน]]></desc>
+  </programme>
+  <programme start="20210107090000 -0000" stop="20210107091000 -0000" channel="workpoint">
+    <title><![CDATA[Wellness Shop]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210107091000 -0000" stop="20210107094500 -0000" channel="workpoint">
+    <title><![CDATA[ชิงร้อยชิงล้าน ว้าวว้าวว้าว รีรัน]]></title>
+    <desc><![CDATA[รายการตลก]]></desc>
+  </programme>
+  <programme start="20210107094500 -0000" stop="20210107105000 -0000" channel="workpoint">
+    <title><![CDATA[บรรจงชงข่าว]]></title>
+    <desc><![CDATA[รายการวิเคราะห์ข่าว]]></desc>
+  </programme>
+  <programme start="20210107105000 -0000" stop="20210107105500 -0000" channel="workpoint">
+    <title><![CDATA[2 ข่าวใหญ่ เวิร์คพอยท์]]></title>
+    <desc><![CDATA[รายงานข่าว]]></desc>
+  </programme>
+  <programme start="20210107105500 -0000" stop="20210107110000 -0000" channel="workpoint">
+    <title><![CDATA[ติ่งข่าว]]></title>
+    <desc><![CDATA[รายงานข่าว]]></desc>
+  </programme>
+  <programme start="20210107110000 -0000" stop="20210107110100 -0000" channel="workpoint">
+    <title><![CDATA[เคารพธงชาติ]]></title>
+  </programme>
+  <programme start="20210107110100 -0000" stop="20210107120000 -0000" channel="workpoint">
+    <title><![CDATA[ไมค์หมดหนี้ นักร้องนำโชค]]></title>
+    <desc><![CDATA[รายการโทรทัศน์ประกวดนักร้องเพลงลูกทุ่ง]]></desc>
+  </programme>
+  <programme start="20210107120000 -0000" stop="20210107125800 -0000" channel="workpoint">
+    <title><![CDATA[ปัญญาปันสุข]]></title>
+    <desc><![CDATA[รายการที่จะทำให้ทั้งผู้เข้าร่วมรายการทุกอาชีพรวมถึงผู้ชมรายการได้รับกำลังใจและพลังของการปันสุขไปอย่างเต็มเปี่ยม]]></desc>
+  </programme>
+  <programme start="20210107125800 -0000" stop="20210107130000 -0000" channel="workpoint">
+    <title><![CDATA[ข่าว 2 ทุ่มเวิร์คพอยท์]]></title>
+    <desc><![CDATA[รายงานข่าว]]></desc>
+  </programme>
+  <programme start="20210107130000 -0000" stop="20210107131500 -0000" channel="workpoint">
+    <title><![CDATA[ข่าวในพระราชสำนัก]]></title>
+    <desc><![CDATA[รายงานข่าวพระราชสำนัก]]></desc>
+  </programme>
+  <programme start="20210107131500 -0000" stop="20210107143000 -0000" channel="workpoint">
+    <title><![CDATA[ร้องข้ามกำแพง]]></title>
   </programme>
   <programme start="20210107143000 -0000" stop="20210107151500 -0000" channel="workpoint">
     <title><![CDATA[หกฉากครับจารย์ รีรัน]]></title>
@@ -9582,5 +9408,159 @@
   <programme start="20210109183500 -0000" stop="20210109190000 -0000" channel="workpoint">
     <title><![CDATA[Wellness Shop]]></title>
     <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210109190000 -0000" stop="20210109200000 -0000" channel="workpoint">
+    <title><![CDATA[สาวน้อยร้อยหม้อ รีรัน]]></title>
+    <desc><![CDATA[ละคร]]></desc>
+  </programme>
+  <programme start="20210106140000 +0700" stop="20210106143000 +0700" channel="zeenung">
+    <title><![CDATA[ADVERTISING SLOT]]></title>
+  </programme>
+  <programme start="20210106143000 +0700" stop="20210106152500 +0700" channel="zeenung">
+    <title><![CDATA[สายใยรัก]]></title>
+  </programme>
+  <programme start="20210106152500 +0700" stop="20210106160000 +0700" channel="zeenung">
+    <title><![CDATA[ADVERTISING SLOT]]></title>
+  </programme>
+  <programme start="20210106160000 +0700" stop="20210106180000 +0700" channel="zeenung">
+    <title><![CDATA[โยดาห์ อัคบาร์ (รีรัน)]]></title>
+  </programme>
+  <programme start="20210106180000 +0700" stop="20210106182500 +0700" channel="zeenung">
+    <title><![CDATA[ADVERTISING SLOT]]></title>
+  </programme>
+  <programme start="20210106182500 +0700" stop="20210106185000 +0700" channel="zeenung">
+    <title><![CDATA[จังหวะบอลลีวูด]]></title>
+  </programme>
+  <programme start="20210106185000 +0700" stop="20210106194500 +0700" channel="zeenung">
+    <title><![CDATA[คู่รัก คู่แค้น]]></title>
+  </programme>
+  <programme start="20210106194500 +0700" stop="20210106205000 +0700" channel="zeenung">
+    <title><![CDATA[ชู้รัก]]></title>
+  </programme>
+  <programme start="20210106205000 +0700" stop="20210106215000 +0700" channel="zeenung">
+    <title><![CDATA[อภินิหารเจ้าหญิงผู้กล้า]]></title>
+  </programme>
+  <programme start="20210106215000 +0700" stop="20210106230000 +0700" channel="zeenung">
+    <title><![CDATA[ดูลลันรักข้ามภพ]]></title>
+  </programme>
+  <programme start="20210106230000 +0700" stop="20210106233000 +0700" channel="zeenung">
+    <title><![CDATA[ADVERTISING SLOT]]></title>
+  </programme>
+  <programme start="20210106233000 +0700" stop="20210107000000 +0700" channel="zeenung">
+    <title><![CDATA[จังหวะบอลลีวูด]]></title>
+  </programme>
+  <programme start="20210107000000 +0700" stop="20210107002500 +0700" channel="zeenung">
+    <title><![CDATA[ADVERTISING SLOT]]></title>
+  </programme>
+  <programme start="20210107002500 +0700" stop="20210107010000 +0700" channel="zeenung">
+    <title><![CDATA[จังหวะบอลลีวูด]]></title>
+  </programme>
+  <programme start="20210107010000 +0700" stop="20210107020000 +0700" channel="zeenung">
+    <title><![CDATA[สายใยรัก (รีรัน)]]></title>
+  </programme>
+  <programme start="20210107020000 +0700" stop="20210107030000 +0700" channel="zeenung">
+    <title><![CDATA[คู่รัก คู่แค้น (รีรัน)]]></title>
+  </programme>
+  <programme start="20210107030000 +0700" stop="20210107040000 +0700" channel="zeenung">
+    <title><![CDATA[ดูลลันรักข้ามภพ (รีรัน)]]></title>
+  </programme>
+  <programme start="20210107040000 +0700" stop="20210107050000 +0700" channel="zeenung">
+    <title><![CDATA[โยดาห์ อัคบาร์ (รีรัน)]]></title>
+  </programme>
+  <programme start="20210107050000 +0700" stop="20210107060000 +0700" channel="zeenung">
+    <title><![CDATA[อภินิหารเจ้าหญิงผู้กล้า (รีรัน)]]></title>
+  </programme>
+  <programme start="20210107060000 +0700" stop="20210107063000 +0700" channel="zeenung">
+    <title><![CDATA[ADVERTISING SLOT]]></title>
+  </programme>
+  <programme start="20210107063000 +0700" stop="20210107073000 +0700" channel="zeenung">
+    <title><![CDATA[ชู้รัก (รีรัน)]]></title>
+  </programme>
+  <programme start="20210107073000 +0700" stop="20210107080000 +0700" channel="zeenung">
+    <title><![CDATA[จังหวะบอลลีวูด]]></title>
+  </programme>
+  <programme start="20210107080000 +0700" stop="20210107083000 +0700" channel="zeenung">
+    <title><![CDATA[ADVERTISING SLOT]]></title>
+  </programme>
+  <programme start="20210107083000 +0700" stop="20210107090000 +0700" channel="zeenung">
+    <title><![CDATA[คู่รัก คู่แค้น (รีรัน)]]></title>
+  </programme>
+  <programme start="20210107090000 +0700" stop="20210107093000 +0700" channel="zeenung">
+    <title><![CDATA[ADVERTISING SLOT]]></title>
+  </programme>
+  <programme start="20210107093000 +0700" stop="20210107100000 +0700" channel="zeenung">
+    <title><![CDATA[คู่รัก คู่แค้น (รีรัน)]]></title>
+  </programme>
+  <programme start="20210107100000 +0700" stop="20210107103500 +0700" channel="zeenung">
+    <title><![CDATA[ADVERTISING SLOT]]></title>
+  </programme>
+  <programme start="20210107103500 +0700" stop="20210107110000 +0700" channel="zeenung">
+    <title><![CDATA[สายใยรัก (รีรัน)]]></title>
+  </programme>
+  <programme start="20210107110000 +0700" stop="20210107113500 +0700" channel="zeenung">
+    <title><![CDATA[ADVERTISING SLOT]]></title>
+  </programme>
+  <programme start="20210107113500 +0700" stop="20210107120000 +0700" channel="zeenung">
+    <title><![CDATA[สายใยรัก (รีรัน)]]></title>
+  </programme>
+  <programme start="20210107120000 +0700" stop="20210107123000 +0700" channel="zeenung">
+    <title><![CDATA[ADVERTISING SLOT]]></title>
+  </programme>
+  <programme start="20210107123000 +0700" stop="20210107130000 +0700" channel="zeenung">
+    <title><![CDATA[จังหวะบอลลีวูด]]></title>
+  </programme>
+  <programme start="20210107130000 +0700" stop="20210107133000 +0700" channel="zeenung">
+    <title><![CDATA[ADVERTISING SLOT]]></title>
+  </programme>
+  <programme start="20210107133000 +0700" stop="20210107140000 +0700" channel="zeenung">
+    <title><![CDATA[Yogapalooza]]></title>
+  </programme>
+  <programme start="20210107140000 +0700" stop="20210107143000 +0700" channel="zeenung">
+    <title><![CDATA[ADVERTISING SLOT]]></title>
+  </programme>
+  <programme start="20210107143000 +0700" stop="20210107152500 +0700" channel="zeenung">
+    <title><![CDATA[สายใยรัก]]></title>
+  </programme>
+  <programme start="20210107152500 +0700" stop="20210107160000 +0700" channel="zeenung">
+    <title><![CDATA[ADVERTISING SLOT]]></title>
+  </programme>
+  <programme start="20210107160000 +0700" stop="20210107180000 +0700" channel="zeenung">
+    <title><![CDATA[อาณาจักรรักนิรันดร์]]></title>
+  </programme>
+  <programme start="20210107180000 +0700" stop="20210107182500 +0700" channel="zeenung">
+    <title><![CDATA[ADVERTISING SLOT]]></title>
+  </programme>
+  <programme start="20210107182500 +0700" stop="20210107185000 +0700" channel="zeenung">
+    <title><![CDATA[จังหวะบอลลีวูด]]></title>
+  </programme>
+  <programme start="20210107185000 +0700" stop="20210107194500 +0700" channel="zeenung">
+    <title><![CDATA[คู่รัก คู่แค้น]]></title>
+  </programme>
+  <programme start="20210107194500 +0700" stop="20210107205000 +0700" channel="zeenung">
+    <title><![CDATA[ชู้รัก]]></title>
+  </programme>
+  <programme start="20210107205000 +0700" stop="20210107215000 +0700" channel="zeenung">
+    <title><![CDATA[อภินิหารเจ้าหญิงผู้กล้า]]></title>
+  </programme>
+  <programme start="20210107215000 +0700" stop="20210107230000 +0700" channel="zeenung">
+    <title><![CDATA[ดูลลันรักข้ามภพ]]></title>
+  </programme>
+  <programme start="20210107230000 +0700" stop="20210107233000 +0700" channel="zeenung">
+    <title><![CDATA[ADVERTISING SLOT]]></title>
+  </programme>
+  <programme start="20210107233000 +0700" stop="20210108000000 +0700" channel="zeenung">
+    <title><![CDATA[จังหวะบอลลีวูด]]></title>
+  </programme>
+  <programme start="20210108000000 +0700" stop="20210108002500 +0700" channel="zeenung">
+    <title><![CDATA[ADVERTISING SLOT]]></title>
+  </programme>
+  <programme start="20210108002500 +0700" stop="20210108010000 +0700" channel="zeenung">
+    <title><![CDATA[จังหวะบอลลีวูด]]></title>
+  </programme>
+  <programme start="20210108010000 +0700" stop="20210108020000 +0700" channel="zeenung">
+    <title><![CDATA[สายใยรัก (รีรัน)]]></title>
+  </programme>
+  <programme start="20210108020000 +0700" stop="20210108030000 +0700" channel="zeenung">
+    <title><![CDATA[คู่รัก คู่แค้น (รีรัน)]]></title>
   </programme>
 </tv>
