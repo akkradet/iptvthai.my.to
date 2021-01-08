@@ -25,6 +25,9 @@
   <channel id="boomberang">
     <display-name>boomberang</display-name>
   </channel>
+  <channel id="cartoonclub">
+    <display-name>cartoonclub</display-name>
+  </channel>
   <channel id="cartoonnetwork">
     <display-name>cartoonnetwork</display-name>
   </channel>
@@ -82,6 +85,12 @@
   <channel id="new18">
     <display-name>new18</display-name>
   </channel>
+  <channel id="nickelodeon">
+    <display-name>nickelodeon</display-name>
+  </channel>
+  <channel id="nickjr">
+    <display-name>nickjr</display-name>
+  </channel>
   <channel id="one">
     <display-name>one</display-name>
   </channel>
@@ -109,6 +118,12 @@
   <channel id="true4u">
     <display-name>true4u</display-name>
   </channel>
+  <channel id="truesparkjump">
+    <display-name>truesparkjump</display-name>
+  </channel>
+  <channel id="truesparkplay">
+    <display-name>truesparkplay</display-name>
+  </channel>
   <channel id="truesport2">
     <display-name>truesport2</display-name>
   </channel>
@@ -127,9 +142,6 @@
   <channel id="warnertv">
     <display-name>warnertv</display-name>
   </channel>
-  <programme start="20210108141500 +0700" stop="20210108150500 +0700" channel="altv">
-    <title><![CDATA[ละคร ฝันให้สุด]]></title>
-  </programme>
   <programme start="20210108150500 +0700" stop="20210108153500 +0700" channel="altv">
     <title><![CDATA[ห้องเรียน On Air]]></title>
   </programme>
@@ -303,12 +315,6 @@
   </programme>
   <programme start="20210109210000 +0700" stop="20210110060000 +0700" channel="altv">
     <title><![CDATA[ปิดสถานี]]></title>
-  </programme>
-  <programme start="20210108064000 -0000" stop="20210108074000 -0000" channel="amarin">
-    <title><![CDATA[บังเกิดเกล้า รีรัน]]></title>
-  </programme>
-  <programme start="20210108074000 -0000" stop="20210108075000 -0000" channel="amarin">
-    <title><![CDATA[ชีวิตดีมีสุข]]></title>
   </programme>
   <programme start="20210108075000 -0000" stop="20210108083500 -0000" channel="amarin">
     <title><![CDATA[Z Story]]></title>
@@ -691,11 +697,8 @@
   <programme start="20210111190000 -0000" stop="20210111200000 -0000" channel="amarin">
     <title><![CDATA[สภากาแฟ 4.0 ยกล้อ]]></title>
   </programme>
-  <programme start="20210108140000 +0700" stop="20210108143000 +0700" channel="arirang">
-    <title><![CDATA[ARIRANG NEWS [L]]]></title>
-  </programme>
-  <programme start="20210108143000 +0700" stop="20210108150000 +0700" channel="arirang">
-    <title><![CDATA[MONEY MONSTER]]></title>
+  <programme start="20210111200000 -0000" stop="20210111213000 -0000" channel="amarin">
+    <title><![CDATA[TVD SHOP]]></title>
   </programme>
   <programme start="20210108150000 +0700" stop="20210108160000 +0700" channel="arirang">
     <title><![CDATA[SIMPLY K-POP]]></title>
@@ -1262,11 +1265,11 @@
   <programme start="20210110002500 +0700" stop="20210110023000 +0700" channel="bein1">
     <title><![CDATA[LaLiga 2020/21 : Granada vs Barcelona (Live)]]></title>
   </programme>
-  <programme start="20210108123000 +0700" stop="20210108143000 +0700" channel="bein2">
-    <title><![CDATA[Westfield W-League 2020/21 : Newcastle Jets vs Sydney FC (Live)]]></title>
+  <programme start="20210110023000 +0700" stop="20210110025500 +0700" channel="bein1">
+    <title><![CDATA[LaLiga Pre Match 2020/21 : Osasuna vs Real Madrid (Live)]]></title>
   </programme>
-  <programme start="20210108143000 +0700" stop="20210108150500 +0700" channel="bein2">
-    <title><![CDATA[The Emirates FA Cup Preview 2020/21 : 3rd Round]]></title>
+  <programme start="20210110025500 +0700" stop="20210110050000 +0700" channel="bein1">
+    <title><![CDATA[LaLiga 2020/21 : Osasuna vs Real Madrid (Live)]]></title>
   </programme>
   <programme start="20210108150500 +0700" stop="20210108170500 +0700" channel="bein2">
     <title><![CDATA[A-League 2020/21 : Newcastle Jets vs Western Sydney (Live)]]></title>
@@ -1361,11 +1364,11 @@
   <programme start="20210110002500 +0700" stop="20210110023000 +0700" channel="bein2">
     <title><![CDATA[The Emirates FA Cup 2020/21 : Arsenal vs Newcastle (Live)]]></title>
   </programme>
-  <programme start="20210108140000 +0700" stop="20210108143000 +0700" channel="boomberang">
-    <title><![CDATA[Kidsplorer Hong Kong (R) 1]]></title>
+  <programme start="20210110023000 +0700" stop="20210110025500 +0700" channel="bein2">
+    <title><![CDATA[FA Cup LIVE : Episode Number 6 (Live)]]></title>
   </programme>
-  <programme start="20210108143000 +0700" stop="20210108150000 +0700" channel="boomberang">
-    <title><![CDATA[Chowder]]></title>
+  <programme start="20210110025500 +0700" stop="20210110050000 +0700" channel="bein2">
+    <title><![CDATA[The Emirates FA Cup 2020/21 : Man Utd vs Watford (Live)]]></title>
   </programme>
   <programme start="20210108150000 +0700" stop="20210108153000 +0700" channel="boomberang">
     <title><![CDATA[Courage the Cowardiy Dog]]></title>
@@ -1550,44 +1553,389 @@
   <programme start="20210110020000 +0700" stop="20210110030000 +0700" channel="boomberang">
     <title><![CDATA[Courage the Cowardiy Dog]]></title>
   </programme>
+  <programme start="20210110030000 +0700" stop="20210110040000 +0700" channel="boomberang">
+    <title><![CDATA[Ben10]]></title>
+  </programme>
+  <programme start="20210108150000 +0700" stop="20210108153000 +0700" channel="cartoonclub">
+    <title><![CDATA[จีไฟท์เตอร์]]></title>
+  </programme>
+  <programme start="20210108153000 +0700" stop="20210108160000 +0700" channel="cartoonclub">
+    <title><![CDATA[โกไคเจอร์]]></title>
+  </programme>
+  <programme start="20210108160000 +0700" stop="20210108163000 +0700" channel="cartoonclub">
+    <title><![CDATA[โบโบยบอย]]></title>
+  </programme>
+  <programme start="20210108163000 +0700" stop="20210108170000 +0700" channel="cartoonclub">
+    <title><![CDATA[ก๊อง (ปี1) + ชินจังจอมแก่น]]></title>
+  </programme>
+  <programme start="20210108170000 +0700" stop="20210108173000 +0700" channel="cartoonclub">
+    <title><![CDATA[ขบวนการโจรสลัด โกไคเจอร์]]></title>
+  </programme>
+  <programme start="20210108173000 +0700" stop="20210108180000 +0700" channel="cartoonclub">
+    <title><![CDATA[บัดดี้ไฟท์ (100)]]></title>
+  </programme>
+  <programme start="20210108180000 +0700" stop="20210108183000 +0700" channel="cartoonclub">
+    <title><![CDATA[แบล็คโคลเวอร์]]></title>
+  </programme>
+  <programme start="20210108183000 +0700" stop="20210108190000 +0700" channel="cartoonclub">
+    <title><![CDATA[Dr.SLUMP กับหนูน้อยอาราเล่]]></title>
+  </programme>
+  <programme start="20210108190000 +0700" stop="20210108193000 +0700" channel="cartoonclub">
+    <title><![CDATA[ชินบิ (ปี1-3)]]></title>
+  </programme>
+  <programme start="20210108193000 +0700" stop="20210108200000 +0700" channel="cartoonclub">
+    <title><![CDATA[ชินจัง ก๊อง]]></title>
+  </programme>
+  <programme start="20210108200000 +0700" stop="20210108203000 +0700" channel="cartoonclub">
+    <title><![CDATA[Astro boy + โพโรโระ]]></title>
+  </programme>
+  <programme start="20210108203000 +0700" stop="20210108210000 +0700" channel="cartoonclub">
+    <title><![CDATA[Dr.SLUMP กับหนูน้อยอาราเล่]]></title>
+  </programme>
+  <programme start="20210108210000 +0700" stop="20210108213000 +0700" channel="cartoonclub">
+    <title><![CDATA[แบล็คโคลเวอร์]]></title>
+  </programme>
+  <programme start="20210108213000 +0700" stop="20210108220000 +0700" channel="cartoonclub">
+    <title><![CDATA[ชินจังจอมแก่น]]></title>
+  </programme>
+  <programme start="20210108220000 +0700" stop="20210108223000 +0700" channel="cartoonclub">
+    <title><![CDATA[ชินบิ (ปี1+2)]]></title>
+  </programme>
+  <programme start="20210108223000 +0700" stop="20210108230000 +0700" channel="cartoonclub">
+    <title><![CDATA[วันพีช (ปี15) เกาะโซว]]></title>
+  </programme>
+  <programme start="20210108230000 +0700" stop="20210109000000 +0700" channel="cartoonclub">
+    <title><![CDATA[นารูโตะ นินจาจอมคาถา (ปี1-3)]]></title>
+  </programme>
+  <programme start="20210109000000 +0700" stop="20210109003000 +0700" channel="cartoonclub">
+    <title><![CDATA[ดาบพิฆาตอสูร]]></title>
+  </programme>
+  <programme start="20210109003000 +0700" stop="20210109010000 +0700" channel="cartoonclub">
+    <title><![CDATA[ชินจังจอมแก่น]]></title>
+  </programme>
+  <programme start="20210109010000 +0700" stop="20210109020000 +0700" channel="cartoonclub">
+    <title><![CDATA[นารูโตะ นินจาจอมคาถา (ปี1-3)]]></title>
+  </programme>
+  <programme start="20210109020000 +0700" stop="20210109023000 +0700" channel="cartoonclub">
+    <title><![CDATA[โพโรโระ + Astro boy]]></title>
+  </programme>
+  <programme start="20210109023000 +0700" stop="20210109033000 +0700" channel="cartoonclub">
+    <title><![CDATA[วันพีช (ปี15)]]></title>
+  </programme>
+  <programme start="20210109033000 +0700" stop="20210109043000 +0700" channel="cartoonclub">
+    <title><![CDATA[อาราเล่]]></title>
+  </programme>
+  <programme start="20210109043000 +0700" stop="20210109050000 +0700" channel="cartoonclub">
+    <title><![CDATA[ก๊อง]]></title>
+  </programme>
+  <programme start="20210109050000 +0700" stop="20210109053000 +0700" channel="cartoonclub">
+    <title><![CDATA[ขบวนการจ้าวสรรพสัตว์ จูโอเจอร์]]></title>
+  </programme>
+  <programme start="20210109053000 +0700" stop="20210109060000 +0700" channel="cartoonclub">
+    <title><![CDATA[Astro Boy]]></title>
+  </programme>
+  <programme start="20210109060000 +0700" stop="20210109063000 +0700" channel="cartoonclub">
+    <title><![CDATA[บาคุกัน]]></title>
+  </programme>
+  <programme start="20210109063000 +0700" stop="20210109070000 +0700" channel="cartoonclub">
+    <title><![CDATA[ชินจังจอมแก่น]]></title>
+  </programme>
+  <programme start="20210109070000 +0700" stop="20210109073000 +0700" channel="cartoonclub">
+    <title><![CDATA[Saikyo Battle]]></title>
+  </programme>
+  <programme start="20210109073000 +0700" stop="20210109080000 +0700" channel="cartoonclub">
+    <title><![CDATA[ก๊อง]]></title>
+  </programme>
+  <programme start="20210109080000 +0700" stop="20210109083000 +0700" channel="cartoonclub">
+    <title><![CDATA[แบล็คโคลเวอร์]]></title>
+  </programme>
+  <programme start="20210109083000 +0700" stop="20210109090000 +0700" channel="cartoonclub">
+    <title><![CDATA[ชินบิ (ปี1+2)]]></title>
+  </programme>
+  <programme start="20210109090000 +0700" stop="20210109093000 +0700" channel="cartoonclub">
+    <title><![CDATA[ดาบพิฆาตอสูร]]></title>
+  </programme>
+  <programme start="20210109093000 +0700" stop="20210109100000 +0700" channel="cartoonclub">
+    <title><![CDATA[ชินจังจอมแก่น]]></title>
+  </programme>
+  <programme start="20210109100000 +0700" stop="20210109110000 +0700" channel="cartoonclub">
+    <title><![CDATA[นารูโตะ นินจาจอมคาถา (ปี1-3)]]></title>
+  </programme>
+  <programme start="20210109110000 +0700" stop="20210109113000 +0700" channel="cartoonclub">
+    <title><![CDATA[ก๊อง]]></title>
+  </programme>
+  <programme start="20210109113000 +0700" stop="20210109120000 +0700" channel="cartoonclub">
+    <title><![CDATA[วอชคาร์]]></title>
+  </programme>
+  <programme start="20210109120000 +0700" stop="20210109123000 +0700" channel="cartoonclub">
+    <title><![CDATA[Dr.SLUMP กับหนูน้อยอาราเล่]]></title>
+  </programme>
+  <programme start="20210109123000 +0700" stop="20210109130000 +0700" channel="cartoonclub">
+    <title><![CDATA[บาคุกัน]]></title>
+  </programme>
+  <programme start="20210109130000 +0700" stop="20210109133000 +0700" channel="cartoonclub">
+    <title><![CDATA[โบโบยบอย]]></title>
+  </programme>
+  <programme start="20210109133000 +0700" stop="20210109140000 +0700" channel="cartoonclub">
+    <title><![CDATA[Saikyo Battle]]></title>
+  </programme>
+  <programme start="20210109140000 +0700" stop="20210109143000 +0700" channel="cartoonclub">
+    <title><![CDATA[ชินจังจอมแก่น]]></title>
+  </programme>
+  <programme start="20210109143000 +0700" stop="20210109153000 +0700" channel="cartoonclub">
+    <title><![CDATA[รีบอร์น (ปี4)]]></title>
+  </programme>
+  <programme start="20210109153000 +0700" stop="20210109160000 +0700" channel="cartoonclub">
+    <title><![CDATA[นินจาโก]]></title>
+  </programme>
+  <programme start="20210109160000 +0700" stop="20210109163000 +0700" channel="cartoonclub">
+    <title><![CDATA[ลูแปงเรนเจอร์]]></title>
+  </programme>
+  <programme start="20210109163000 +0700" stop="20210109170000 +0700" channel="cartoonclub">
+    <title><![CDATA[แบล็คโคลเวอร์]]></title>
+  </programme>
+  <programme start="20210109170000 +0700" stop="20210109173000 +0700" channel="cartoonclub">
+    <title><![CDATA[ชินบัดดี้ไฟท์]]></title>
+  </programme>
+  <programme start="20210109173000 +0700" stop="20210109180000 +0700" channel="cartoonclub">
+    <title><![CDATA[ชินจังจอมแก่น]]></title>
+  </programme>
+  <programme start="20210109180000 +0700" stop="20210109183000 +0700" channel="cartoonclub">
+    <title><![CDATA[นารูโตะ นินจาจอมคาถา (ปี1-3)]]></title>
+  </programme>
+  <programme start="20210109183000 +0700" stop="20210109190000 +0700" channel="cartoonclub">
+    <title><![CDATA[ดาบพิฆาตอสูร]]></title>
+  </programme>
+  <programme start="20210109190000 +0700" stop="20210109193000 +0700" channel="cartoonclub">
+    <title><![CDATA[วันพีช (ปี15)]]></title>
+  </programme>
+  <programme start="20210109193000 +0700" stop="20210109200000 +0700" channel="cartoonclub">
+    <title><![CDATA[Dr.SLUMP กับหนูน้อยอาราเล่]]></title>
+  </programme>
+  <programme start="20210109200000 +0700" stop="20210109203000 +0700" channel="cartoonclub">
+    <title><![CDATA[ความทรงจำของฮาริ]]></title>
+  </programme>
+  <programme start="20210109203000 +0700" stop="20210109210000 +0700" channel="cartoonclub">
+    <title><![CDATA[ก๊อง]]></title>
+  </programme>
+  <programme start="20210109210000 +0700" stop="20210109213000 +0700" channel="cartoonclub">
+    <title><![CDATA[ชินบิ หอพักอลเวง (ปี1)]]></title>
+  </programme>
+  <programme start="20210109213000 +0700" stop="20210109220000 +0700" channel="cartoonclub">
+    <title><![CDATA[แบล็คโคลเวอร์]]></title>
+  </programme>
+  <programme start="20210109220000 +0700" stop="20210109223000 +0700" channel="cartoonclub">
+    <title><![CDATA[รีบอร์น (ปี4)]]></title>
+  </programme>
+  <programme start="20210109223000 +0700" stop="20210109230000 +0700" channel="cartoonclub">
+    <title><![CDATA[รีบอร์น (ปี4)]]></title>
+  </programme>
+  <programme start="20210109230000 +0700" stop="20210109233000 +0700" channel="cartoonclub">
+    <title><![CDATA[Dr.SLUMP กับหนูน้อยอาราเล่]]></title>
+  </programme>
+  <programme start="20210109233000 +0700" stop="20210110000000 +0700" channel="cartoonclub">
+    <title><![CDATA[โบโบยบอย แก๊งจิ๋วซ่าพิทักษ์โลก]]></title>
+  </programme>
+  <programme start="20210110000000 +0700" stop="20210110003000 +0700" channel="cartoonclub">
+    <title><![CDATA[ดาบพิฆาตอสูร]]></title>
+  </programme>
+  <programme start="20210110003000 +0700" stop="20210110010000 +0700" channel="cartoonclub">
+    <title><![CDATA[ชินจังจอมแก่น]]></title>
+  </programme>
+  <programme start="20210110010000 +0700" stop="20210110020000 +0700" channel="cartoonclub">
+    <title><![CDATA[นารูโตะ นินจาจอมคาถา (ปี1-3)]]></title>
+  </programme>
+  <programme start="20210110020000 +0700" stop="20210110023000 +0700" channel="cartoonclub">
+    <title><![CDATA[โพโรโระ + Astro boy]]></title>
+  </programme>
+  <programme start="20210110023000 +0700" stop="20210110033000 +0700" channel="cartoonclub">
+    <title><![CDATA[วันพีช (ปี15)]]></title>
+  </programme>
+  <programme start="20210108000000 +0700" stop="20210108010000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[อังเคิ้ล แกรนด์ปา]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวการผจญภัยแสนวิเศษแต่เต็มไปด้วยอุปสรรคของชายชราใจดีผู้ชอบผูกมิตรกับทุกคน -- ให้เสียงพากย์นำโดย ปีเตอร์ บราวน์การ์ดท์, เควิน ไมเคิล ริชาร์ดสัน, และ เอริค บัวซา]]></desc>
+  </programme>
+  <programme start="20210108010000 +0700" stop="20210108020000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Mighty Magiswords]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[แวมเบอร์ และ โพรยาส สองพี่น้องทีมนักรบรับจ้างออกผจญภัยและได้พบเจอเรื่องแปลกประหลาดสนุกสนานมากมายระหว่างภารกิจการตามหาดาบวิเศษ]]></desc>
+  </programme>
+  <programme start="20210108020000 +0700" stop="20210108030000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[ชาวเดอร์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ชาวเดอร์ เป็นลูกมือฝึกหัดรุ่นเยาว์ของเชฟอัศจรรย์ที่มักสร้างปัญหาในห้องครัวอยู่บ่อยครั้งรวมถึงการทำส่วนผสมแบบย่ำแย่ให้กลายเป็นอาหารรสเยี่ยมจานโปรด]]></desc>
+  </programme>
+  <programme start="20210108030000 +0700" stop="20210108040000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[แอดแวนเจอร์ ไทม์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[การผจญภัยสุดพิสดารของหนูน้อยฟินน์และเจคสุนัขแสนรู้คู่หู กับการสำรวจดินแดนอูที่มีแต่เรื่องประหลาดที่ไม่เหมือนใคร -- ให้เสียงพากย์นำโดย เจเรมี่ เชดา]]></desc>
+  </programme>
+  <programme start="20210108040000 +0700" stop="20210108050000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Grizzy and the Lemmings]]></title>
+    <sub-title><![CDATA[KIDS ::]]></sub-title>
+    <desc><![CDATA[เรื่องราวของเจ้าหมีซึ่งเข้าไปยึดครองบ้านของเจ้าหน้าที่ป่าไม้แต่กลับต้องชิงไหวชิงพริบกับฝูงตัวเลมมิ่งอีกฝูงที่ปักหลักอยู่ในนั้นเช่นกัน]]></desc>
+  </programme>
+  <programme start="20210108050000 +0700" stop="20210108052500 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Oggy and the Cockroaches]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ภาพยนตร์การ์ตูนที่ถ่ายทอดเรื่องราวสุดอลเวงของเจ้าแมว อ็อกกี้ กับเหล่าแมลงสาบจอมกวนซึ่งเป็นศัตรูคู่อริตัวฉกาจของเขา -- ให้เสียงพากย์นำโดย ฮิวจ์ เลอ บาร์]]></desc>
+  </programme>
+  <programme start="20210108052500 +0700" stop="20210108053000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Lamput]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[สนุกไปกับการผจญภัยครั้งใหม่ของเจ้าตัวหนืดสีส้มในขณะที่เขาก็ต้องหลบหนีจากการจับกุมจากนักวิทยาศาสตร์ไปพร้อมๆกัน]]></desc>
+  </programme>
+  <programme start="20210108053000 +0700" stop="20210108063000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[The Tom and Jerry Show]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[สองคู่ปรับ ทอม เจ้าแมวเกเร และเจอรี่ เจ้าหนูจอมกวน สร้างเรื่องราวปั่นป่วนวุ่นวายชิงไหวชิงพริบกันสารพัดในเกมแมวจับหนูที่จะทำให้ทุกคนได้หัวเราะไปตามๆกัน]]></desc>
+  </programme>
+  <programme start="20210108063000 +0700" stop="20210108073000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Grizzy and the Lemmings]]></title>
+    <sub-title><![CDATA[KIDS ::]]></sub-title>
+    <desc><![CDATA[เรื่องราวของเจ้าหมีซึ่งเข้าไปยึดครองบ้านของเจ้าหน้าที่ป่าไม้แต่กลับต้องชิงไหวชิงพริบกับฝูงตัวเลมมิ่งอีกฝูงที่ปักหลักอยู่ในนั้นเช่นกัน]]></desc>
+  </programme>
+  <programme start="20210108073000 +0700" stop="20210108083000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Mr. Bean: The Animated Series]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของ มิสเตอร์บีน จอมเปิ่นในแบบฉบับการ์ตูนที่มาพร้อมกับเรื่องปั่นป่วนและความอลเวงสุดหรรษา]]></desc>
+  </programme>
+  <programme start="20210108083000 +0700" stop="20210108090000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Kingdom Force]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ภาพยนตร์การ์ตูนสีสันสดใสเกี่ยวกับห้าสัตว์ผู้กล้าหาญที่ออกต่อสู้เหล่าวายร้ายเพื่อพิทักษ์สันติสุขในอาณาจักรสัตว์ -- ให้เสียงพากย์นำโดย นิกิ เบิร์ก, ชาร์ล็อตต์ ทาวาเรส, และ ดเวย์น ฮิล]]></desc>
+  </programme>
+  <programme start="20210108090000 +0700" stop="20210108100000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Runningman Animation]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[รายการยอดนิยมของเกาหลีที่ผันตัวมาสู่รูปแบบแอนิเมชั่นโดยผู้เข้าร่วมจะกลายเป็นตัวการ์ตูนสุดเจ๋งซึ่งจะมาประชันแข่งขันกันเพื่อคว้าชัยชนะและความเป็นหนึ่ง]]></desc>
+  </programme>
+  <programme start="20210108100000 +0700" stop="20210108110000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Runningman Animation]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[รายการยอดนิยมของเกาหลีที่ผันตัวมาสู่รูปแบบแอนิเมชั่นโดยผู้เข้าร่วมจะกลายเป็นตัวการ์ตูนสุดเจ๋งซึ่งจะมาประชันแข่งขันกันเพื่อคว้าชัยชนะและความเป็นหนึ่ง]]></desc>
+  </programme>
+  <programme start="20210108110000 +0700" stop="20210108120000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Runningman Animation]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[รายการยอดนิยมของเกาหลีที่ผันตัวมาสู่รูปแบบแอนิเมชั่นโดยผู้เข้าร่วมจะกลายเป็นตัวการ์ตูนสุดเจ๋งซึ่งจะมาประชันแข่งขันกันเพื่อคว้าชัยชนะและความเป็นหนึ่ง]]></desc>
+  </programme>
+  <programme start="20210108120000 +0700" stop="20210108130000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Runningman Animation]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[รายการยอดนิยมของเกาหลีที่ผันตัวมาสู่รูปแบบแอนิเมชั่นโดยผู้เข้าร่วมจะกลายเป็นตัวการ์ตูนสุดเจ๋งซึ่งจะมาประชันแข่งขันกันเพื่อคว้าชัยชนะและความเป็นหนึ่ง]]></desc>
+  </programme>
+  <programme start="20210108130000 +0700" stop="20210108133000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[The Amazing World of Gumball]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวน่ารักๆ ของแมวสีฟ้าขี้ตื่นชื่อ กัมบอลล์ และปลาทองเพื่อนรักชื่อ ดาร์วิน ทั้งคู่เป็นสัตว์เลี้ยงในบ้านแสนสุขของครอบครัววัตเตอร์สัน]]></desc>
+  </programme>
+  <programme start="20210108133000 +0700" stop="20210108140000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Ninjago: Masters of Spinjitzu]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ขอเชิญน้องๆหนูๆร่วมผจญภัยไปกับทีม นินจาโก ซึ่งเป็นสุดยอดสี่นินจาที่เก่งกาจและมากด้วยพลังกับภารกิจของพวกเขาในการต่อสู้กับเหล่ามารร้าย -- ให้เสียงพากย์นำโดย ไมเคิล อเดมธ์เวต]]></desc>
+  </programme>
   <programme start="20210108140000 +0700" stop="20210108150000 +0700" channel="cartoonnetwork">
     <title><![CDATA[Teen Titans Go!]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ติดตามชีวิตประจำวันของเหล่ายอดมนุษย์ ทีน ไททันส์ ในยามที่พวกเขาไม่มีภารกิจกู้โลกและต้องใช้ชีวิตตามประสาวัยรุ่นทั่วไปที่พบเจอเรื่องวุ่นวายสารพัด]]></desc>
   </programme>
   <programme start="20210108150000 +0700" stop="20210108160000 +0700" channel="cartoonnetwork">
     <title><![CDATA[We Bare Bears]]></title>
   </programme>
+  <programme start="20210108150000 +0700" stop="20210108160000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[We Bare Bears]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับเจ้าหมีสามพี่น้องสุดน่ารักซึ่งพยายามจะทำตัวให้กลมกลืนกับโลกยุคใหม่และเป็นมิตรกับทุกคน]]></desc>
+  </programme>
   <programme start="20210108160000 +0700" stop="20210108170000 +0700" channel="cartoonnetwork">
     <title><![CDATA[The Amazing World Of Gumball]]></title>
+  </programme>
+  <programme start="20210108160000 +0700" stop="20210108170000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[The Amazing World of Gumball]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวน่ารักๆ ของแมวสีฟ้าขี้ตื่นชื่อ กัมบอลล์ และปลาทองเพื่อนรักชื่อ ดาร์วิน ทั้งคู่เป็นสัตว์เลี้ยงในบ้านแสนสุขของครอบครัววัตเตอร์สัน]]></desc>
   </programme>
   <programme start="20210108170000 +0700" stop="20210108173000 +0700" channel="cartoonnetwork">
     <title><![CDATA[The Powerpuff Girls]]></title>
   </programme>
+  <programme start="20210108170000 +0700" stop="20210108173000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[เดอะเพาว์เวอร์พัพเกิร์ลส์]]></title>
+    <sub-title><![CDATA[KIDS ::]]></sub-title>
+    <desc><![CDATA[เรื่องราวเกี่ยวกับสามสาวยอดมนุษย์ผู้อุทิศตนต่อสู้ปราบปรามเหล่าอาชญากรและอสูรร้ายที่คุกคามความสงบสุขของมวลมนุษยชาติ]]></desc>
+  </programme>
   <programme start="20210108173000 +0700" stop="20210108180000 +0700" channel="cartoonnetwork">
     <title><![CDATA[Running Man Animation]]></title>
+  </programme>
+  <programme start="20210108173000 +0700" stop="20210108180000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Runningman Animation]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[รายการยอดนิยมของเกาหลีที่ผันตัวมาสู่รูปแบบแอนิเมชั่นโดยผู้เข้าร่วมจะกลายเป็นตัวการ์ตูนสุดเจ๋งซึ่งจะมาประชันแข่งขันกันเพื่อคว้าชัยชนะและความเป็นหนึ่ง]]></desc>
   </programme>
   <programme start="20210108180000 +0700" stop="20210108183500 +0700" channel="cartoonnetwork">
     <title><![CDATA[Teen Titans Go!]]></title>
   </programme>
+  <programme start="20210108180000 +0700" stop="20210108183500 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Teen Titans Go!]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ติดตามชีวิตประจำวันของเหล่ายอดมนุษย์ ทีน ไททันส์ ในยามที่พวกเขาไม่มีภารกิจกู้โลกและต้องใช้ชีวิตตามประสาวัยรุ่นทั่วไปที่พบเจอเรื่องวุ่นวายสารพัด]]></desc>
+  </programme>
   <programme start="20210108183500 +0700" stop="20210108190000 +0700" channel="cartoonnetwork">
     <title><![CDATA[Ben 10]]></title>
+  </programme>
+  <programme start="20210108183500 +0700" stop="20210108190000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[เบ็น เท็น]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวภารกิจพิทักษ์โลกของเด็กชายวัยสิบปีและนาฬิกาข้อมือวิเศษที่ทำให้เขาแปลงร่างเป็นยอดมนุษย์ได้ถึงสิบร่าง -- ให้เสียงพากย์นำโดย มอท์เซ เฮอร์แนนเดส]]></desc>
   </programme>
   <programme start="20210108190000 +0700" stop="20210108200000 +0700" channel="cartoonnetwork">
     <title><![CDATA[We Bare Bears]]></title>
   </programme>
+  <programme start="20210108190000 +0700" stop="20210108200000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[We Bare Bears]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับเจ้าหมีสามพี่น้องสุดน่ารักซึ่งพยายามจะทำตัวให้กลมกลืนกับโลกยุคใหม่และเป็นมิตรกับทุกคน]]></desc>
+  </programme>
   <programme start="20210108200000 +0700" stop="20210108203000 +0700" channel="cartoonnetwork">
     <title><![CDATA[Monster Beach]]></title>
+  </programme>
+  <programme start="20210108200000 +0700" stop="20210108203000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Monster Beach]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของสองพี่น้องที่ต้องพบกับความปั่นป่วนในช่วงวันหยุดบนเกาะแห่งหนึ่งเมื่อพวกเขาพบว่าเหล่าชาวบ้านเป็นอสูรกายผู้คลั่งไคล้การเล่นโต้คลื่นและเกลียดนักท่องเที่ยวเป็นอย่างมาก]]></desc>
   </programme>
   <programme start="20210108203000 +0700" stop="20210108210000 +0700" channel="cartoonnetwork">
     <title><![CDATA[Power Players]]></title>
   </programme>
+  <programme start="20210108203000 +0700" stop="20210108210000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Power Players]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ออกผจญภัยท่องโลกกว้างไปกับเด็กชายตัวน้อยที่มีความสามารถในการแปลงร่างเป็นของเล่นได้กับภารกิจก่อตั้งทีมของเล่นเพื่อกลายเป็นซุปเปอร์ฮีโร่และออกแก้ปัญหาให้กับโลกใบนี้]]></desc>
+  </programme>
   <programme start="20210108210000 +0700" stop="20210108220000 +0700" channel="cartoonnetwork">
     <title><![CDATA[Steven Universe]]></title>
+  </programme>
+  <programme start="20210108210000 +0700" stop="20210108220000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Steven Universe]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ติดตามการผจญภัยของเจ้าหนูสตีเว่น สมาชิกอายุน้อยที่สุดแห่งกลุ่มคริสตัลเจ็มส์ ซึ่งเป็นทีมผู้ทักษ์จักรวาลด้วยพลังจากอัญมณีวิเศษ -- ให้เสียงพากย์นำโดย แซค คัลลิซัน]]></desc>
   </programme>
   <programme start="20210108220000 +0700" stop="20210108230000 +0700" channel="cartoonnetwork">
     <title><![CDATA[Adventure Time]]></title>
   </programme>
+  <programme start="20210108220000 +0700" stop="20210108230000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[แอดแวนเจอร์ ไทม์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[การผจญภัยสุดพิสดารของหนูน้อยฟินน์และเจคสุนัขแสนรู้คู่หู กับการสำรวจดินแดนอูที่มีแต่เรื่องประหลาดที่ไม่เหมือนใคร -- ให้เสียงพากย์นำโดย เจเรมี่ เชดา]]></desc>
+  </programme>
   <programme start="20210108230000 +0700" stop="20210109000000 +0700" channel="cartoonnetwork">
     <title><![CDATA[Oggy & The Cockroaches]]></title>
+  </programme>
+  <programme start="20210108230000 +0700" stop="20210108235959 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Oggy and the Cockroaches]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ภาพยนตร์การ์ตูนที่ถ่ายทอดเรื่องราวสุดอลเวงของเจ้าแมว อ็อกกี้ กับเหล่าแมลงสาบจอมกวนซึ่งเป็นศัตรูคู่อริตัวฉกาจของเขา -- ให้เสียงพากย์นำโดย ฮิวจ์ เลอ บาร์]]></desc>
   </programme>
   <programme start="20210109000000 +0700" stop="20210109010000 +0700" channel="cartoonnetwork">
     <title><![CDATA[Uncle Grandpa]]></title>
@@ -1681,6 +2029,9 @@
   </programme>
   <programme start="20210110020000 +0700" stop="20210110030000 +0700" channel="cartoonnetwork">
     <title><![CDATA[Chowder]]></title>
+  </programme>
+  <programme start="20210110030000 +0700" stop="20210110040000 +0700" channel="cartoonnetwork">
+    <title><![CDATA[Adventure Time]]></title>
   </programme>
   <programme start="20210108071500 -0000" stop="20210108084500 -0000" channel="ch3">
     <title><![CDATA[ละคร บ่วงอธิฏฐาน]]></title>
@@ -2154,6 +2505,10 @@
     <title><![CDATA[B Times Business Moment By Bancha]]></title>
     <desc><![CDATA[เป็นรายการที่นำเสนอเรื่องราวของภาคธุรกิจและเอกชนเป็นหลัก โดยมี คุณบัญชา ชุมชัยเวทย์ เป็นผู้ดำเนินรายการ]]></desc>
   </programme>
+  <programme start="20210111192500 -0000" stop="20210111202500 -0000" channel="ch3">
+    <title><![CDATA[(AD/CC) สารคดี ประสบการณ์โลก]]></title>
+    <desc><![CDATA[เปิดประสบการณ์ใหม่ๆ จากโลกใบเดิมของคุณด้วยเสียงที่ทำให้คุณเห็นภาพ และตัวอักษรที่ทำให้คุณได้ยิน พร้อมพบกับความมหัศจรรย์ที่คัดสรรเนื้อหามาทั่วทุกมุมโลกมาเพื่อคุณผู้ชมโดยเฉพาะ ไม่ว่าจะเป็นการผจญภัยไปกับความงดงามของธรรมชาติและสัตว์โลก ด้วยเทคโนโลยีการถ่ายทำที่ล้ำสมัย]]></desc>
+  </programme>
   <programme start="20210108064500 -0000" stop="20210108084500 -0000" channel="ch7">
     <title><![CDATA[ผู้บ่าวอินดี้ ยาหยีอินเตอร์ (Rerun)]]></title>
     <desc><![CDATA[เมื่อคู่ปรับต่างที่ไม่มีใครยอมใคร ต้องกลายมาเป็นคู่รักกำมะลอ เรื่องราววุ่นๆ จึงเกิดขึ้น]]></desc>
@@ -2558,9 +2913,9 @@
     <title><![CDATA[ข่าวดึก 7HD]]></title>
     <desc><![CDATA[รวมรายงานข่าวสำคัญของวัน พร้อมมุมมองข่าวในวันรุ่งขึ้น]]></desc>
   </programme>
-  <programme start="20210108071500 -0000" stop="20210108072500 -0000" channel="ch8">
-    <title><![CDATA[ชีวิตดี สาระดี]]></title>
-    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  <programme start="20210111194000 -0000" stop="20210111204000 -0000" channel="ch7">
+    <title><![CDATA[เล่ห์รัก ยาใจ (Rerun) (ตอนแรก)]]></title>
+    <desc><![CDATA[เรื่องราวความโรแมนติก และความอลวนของซูเปอร์สตาร์สาวสวย ที่มีอันต้องแปลงป็นสตรีขี้เหร่ และยังต้องเจอกับคู่ปรับในอดีต]]></desc>
   </programme>
   <programme start="20210108072500 -0000" stop="20210108085500 -0000" channel="ch8">
     <title><![CDATA[ซีรี่ส์ THE ROYAL GUARDIAN]]></title>
@@ -2998,8 +3353,13 @@
     <title><![CDATA[ละคร เพลิงภริยา]]></title>
     <desc><![CDATA[นำแสดงโดย ศรราม เทพพิทักษ์ แคทรียา อิงลิช ไนกี้ นิธิดล ไอซ์ อามีนา]]></desc>
   </programme>
-  <programme start="20210108141100 +0700" stop="20210108150000 +0700" channel="discoveryasia">
-    <title><![CDATA[Build It Bigger (S5) : Turkey's Mammoth Hydropowered Deriner Dam]]></title>
+  <programme start="20210111195500 -0000" stop="20210111200500 -0000" channel="ch8">
+    <title><![CDATA[ชีวิตดี สาระดี]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210111200500 -0000" stop="20210111210500 -0000" channel="ch8">
+    <title><![CDATA[เรื่องว้าวเล่าโลก]]></title>
+    <desc><![CDATA[รายการสารคดีที่จะพาไปดูเรื่องราวต่างๆจากทั่วทุกมุมโลก]]></desc>
   </programme>
   <programme start="20210108150000 +0700" stop="20210108155000 +0700" channel="discoveryasia">
     <title><![CDATA[Build It Bigger (S2) : World's Tallest Skysraper]]></title>
@@ -3180,6 +3540,9 @@
   </programme>
   <programme start="20210110015000 +0700" stop="20210110024000 +0700" channel="discoveryasia">
     <title><![CDATA[Taiwan Made (S2) : Episode 1]]></title>
+  </programme>
+  <programme start="20210110024000 +0700" stop="20210110033000 +0700" channel="discoveryasia">
+    <title><![CDATA[Operation Thai Cave Rescue : Operation Thai Cave Rescue]]></title>
   </programme>
   <programme start="20210108005500 +0700" stop="20210108023000 +0700" channel="foxactionmovies">
     <title><![CDATA[My Name is Lenny]]></title>
@@ -4393,19 +4756,6 @@ Romance, Family]]></sub-title>
     <sub-title><![CDATA[KNOWLEDGE :: Wildlife]]></sub-title>
     <desc><![CDATA[สารคดีตามติดชีวิตของนักพิทักษ์ป่าผู้กล้าหาญที่เต็มไปด้วยอันตรายโดยเฉพาะอย่างยื่งเมื่อต้องเผชิญหน้ากับนักลักลอบล่าสัตว์อย่างผิดกฎหมาย]]></desc>
   </programme>
-  <programme start="20210108070500 -0000" stop="20210108072000 -0000" channel="mcot">
-    <title><![CDATA[ASIAN SERIES]]></title>
-    <desc><![CDATA[ภาพยนตร์จีน ชุด ฝูเหยา จอมนางเหนือบัลลังค์]]></desc>
-  </programme>
-  <programme start="20210108072000 -0000" stop="20210108073000 -0000" channel="mcot">
-    <title><![CDATA[แปลกแต่จริง]]></title>
-  </programme>
-  <programme start="20210108073000 -0000" stop="20210108080000 -0000" channel="mcot">
-    <title><![CDATA[ก๊วนกวนแซ่บ]]></title>
-  </programme>
-  <programme start="20210108080000 -0000" stop="20210108080500 -0000" channel="mcot">
-    <title><![CDATA[ข่าวต้นชั่วโมง]]></title>
-  </programme>
   <programme start="20210108080500 -0000" stop="20210108090000 -0000" channel="mcot">
     <title><![CDATA[คุยโขมง บ่าย 3 โมง]]></title>
   </programme>
@@ -4830,8 +5180,8 @@ Romance, Family]]></sub-title>
   <programme start="20210111180000 -0000" stop="20210111200000 -0000" channel="mcot">
     <title><![CDATA[TVD SHOP]]></title>
   </programme>
-  <programme start="20210108071000 -0000" stop="20210108081500 -0000" channel="mono29">
-    <title><![CDATA[Heroic Journey of Nezha : นาจา ตำนานเทพพิชิตมาร]]></title>
+  <programme start="20210111200000 -0000" stop="20210111203000 -0000" channel="mcot">
+    <title><![CDATA[ชีวิตสัตว์มหัศจรรย์ The Wonderful Animals]]></title>
   </programme>
   <programme start="20210108081500 -0000" stop="20210108083000 -0000" channel="mono29">
     <title><![CDATA[เจาะข่าวเด็ด : The Day News Update]]></title>
@@ -5070,6 +5420,9 @@ Romance, Family]]></sub-title>
   <programme start="20210111190500 -0000" stop="20210111195500 -0000" channel="mono29">
     <title><![CDATA[Lost in China : ปริศนาลับแดนมังกร (ตอน วิถีท้องถิ่น)]]></title>
   </programme>
+  <programme start="20210111195500 -0000" stop="20210111203000 -0000" channel="mono29">
+    <title><![CDATA[Born to Be Wild  : ผจญภัยสัตว์โลกทะลุจอ]]></title>
+  </programme>
   <programme start="20210108000000 +0700" stop="20210108005500 +0700" channel="natgeo">
     <title><![CDATA[Drain the Oceans   [ 3 ]]]></title>
     <sub-title><![CDATA[SR-ENT-KN :: Ocean]]></sub-title>
@@ -5219,10 +5572,6 @@ Romance, Family]]></sub-title>
     <title><![CDATA[World's Most Extreme   [ 2 ]]]></title>
     <sub-title><![CDATA[SR-ENT-KN :: Earth]]></sub-title>
     <desc><![CDATA[ร่วมสำรวจเสาะหาบรรดาสถานที่ซึ่งสิ่งมีชีวิตไม่สามารถอาศัยอยู่ได้และขึ้นชื่อว่าอันตรายที่สุดในโลก]]></desc>
-  </programme>
-  <programme start="20210108140000 +0700" stop="20210108144500 +0700" channel="nation">
-    <title><![CDATA[Biz Insight  (L)]]></title>
-    <desc><![CDATA[เจาะลึก เรื่องเศรษฐกิจ สร้างพลังและแรงบันดาลใจในการลงทุน]]></desc>
   </programme>
   <programme start="20210108144500 +0700" stop="20210108152500 +0700" channel="nation">
     <title><![CDATA[เรื่องลับมาก  (L)]]></title>
@@ -5454,9 +5803,9 @@ Romance, Family]]></sub-title>
     <title><![CDATA[มิติโลก   [R]]]></title>
     <desc><![CDATA[เกาะติดกระแสโลก เรื่องเด่น สถานการณ์โลก กับ ชิบ จิตนิยม]]></desc>
   </programme>
-  <programme start="20210108070000 -0000" stop="20210108080000 -0000" channel="nbt">
-    <title><![CDATA[NBT รวมใจ คนไทยไม่ทิ้งกัน]]></title>
-    <desc><![CDATA[ประชาชนทั่วไป]]></desc>
+  <programme start="20210110030000 +0700" stop="20210110034500 +0700" channel="nation">
+    <title><![CDATA[เนชั่นทันข่าวค่ำ [R]]]></title>
+    <desc><![CDATA[ข่าว]]></desc>
   </programme>
   <programme start="20210108080000 -0000" stop="20210108083000 -0000" channel="nbt">
     <title><![CDATA[รอบภูมิภาค]]></title>
@@ -5779,12 +6128,6 @@ Romance, Family]]></sub-title>
     <title><![CDATA[Newsline]]></title>
     <desc><![CDATA[ข่าว เหตุการณ์ประจำวัน]]></desc>
   </programme>
-  <programme start="20210108070000 -0000" stop="20210108075000 -0000" channel="new18">
-    <title><![CDATA[NEW Documentary สำรวจโลก : มหัศจรรย์แห่งการอยู่รอด]]></title>
-  </programme>
-  <programme start="20210108075000 -0000" stop="20210108080000 -0000" channel="new18">
-    <title><![CDATA[S channel]]></title>
-  </programme>
   <programme start="20210108080000 -0000" stop="20210108085000 -0000" channel="new18">
     <title><![CDATA[NEW Documentary สำรวจโลก : ประวัติศาสตร์ต้องห้าม - ตำนานยักษ์]]></title>
   </programme>
@@ -6079,9 +6422,883 @@ Romance, Family]]></sub-title>
   <programme start="20210111170000 -0000" stop="20210111230000 -0000" channel="new18">
     <title><![CDATA[TVD SHOP]]></title>
   </programme>
-  <programme start="20210108064000 -0000" stop="20210108074500 -0000" channel="one">
-    <title><![CDATA[คุยแซ่บ SHOW]]></title>
-    <desc><![CDATA[เป็นรายการวาไรตี้ทอล์คโชว์ยามบ่ายที่เน้นความฮอต แซ่บ สนุก สร้างแรงบันดาลใจ ให้พลังบวกแก่สังคม]]></desc>
+  <programme start="20210108001500 +0700" stop="20210108003500 +0700" channel="nickelodeon">
+    <title><![CDATA[Icarly]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของสาวน้อยและเพื่อนรักอีกสองคนที่กลายมาเป็นคนดังในโลกออนไลน์เมื่อเว็บไซต์ของพวกเขามีแฟนๆติดตามมหาศาลจนทำให้ชีวิตประจำวันของพวกเขาต้องเปลี่ยนไปตลอดกาล]]></desc>
+  </programme>
+  <programme start="20210108003500 +0700" stop="20210108010000 +0700" channel="nickelodeon">
+    <title><![CDATA[Sam & Cat]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของสองสาวน้อยเพื่อนร่วมห้องที่ริเริ่มก่อตั้งกิจการพี่เลี้ยงดูแลเด็กเล็ก]]></desc>
+  </programme>
+  <programme start="20210108010000 +0700" stop="20210108012000 +0700" channel="nickelodeon">
+    <title><![CDATA[Spongebob Squarepants]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[สปอนจ์บ๊อบ คือฟองน้ำทะเลจอมซุ่มซ่ามที่ทำงานในร้านอาหารจานด่วนใต้บาดาลที่ซึ่งเขามักจะมีเรื่องผจญภัยสนุกๆกับเพื่อนๆใต้ทะเลอยู่เสมอ]]></desc>
+  </programme>
+  <programme start="20210108012000 +0700" stop="20210108014500 +0700" channel="nickelodeon">
+    <title><![CDATA[Spongebob Squarepants]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[สปอนจ์บ๊อบ คือฟองน้ำทะเลจอมซุ่มซ่ามที่ทำงานในร้านอาหารจานด่วนใต้บาดาลที่ซึ่งเขามักจะมีเรื่องผจญภัยสนุกๆกับเพื่อนๆใต้ทะเลอยู่เสมอ]]></desc>
+  </programme>
+  <programme start="20210108014500 +0700" stop="20210108020500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Fairly Oddparents]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับชีวิตแสนวุ่นของเด็กชายทิมมี่วัยสิบปีที่รายล้อมไปด้วยเหล่าพี่เลี้ยงจอมยุ่งจนทำให้บรรดาพ่อแม่เทวดาอุปถัมภ์ต้องยื่นมือเข้ามาช่วยเหลือเขาอยู่เสมอ]]></desc>
+  </programme>
+  <programme start="20210108020500 +0700" stop="20210108022500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Fairly Oddparents]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับชีวิตแสนวุ่นของเด็กชายทิมมี่วัยสิบปีที่รายล้อมไปด้วยเหล่าพี่เลี้ยงจอมยุ่งจนทำให้บรรดาพ่อแม่เทวดาอุปถัมภ์ต้องยื่นมือเข้ามาช่วยเหลือเขาอยู่เสมอ]]></desc>
+  </programme>
+  <programme start="20210108022500 +0700" stop="20210108025000 +0700" channel="nickelodeon">
+    <title><![CDATA[The Thundermans]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับครอบครัวธันเดอร์แมนซึ่งเป็นครอบครัวธรรมดาที่ไม่ธรรมดาเพราะพวกเขาเผอิญมีพลังยอดมนุษย์!]]></desc>
+  </programme>
+  <programme start="20210108025000 +0700" stop="20210108031000 +0700" channel="nickelodeon">
+    <title><![CDATA[The Thundermans]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับครอบครัวธันเดอร์แมนซึ่งเป็นครอบครัวธรรมดาที่ไม่ธรรมดาเพราะพวกเขาเผอิญมีพลังยอดมนุษย์!]]></desc>
+  </programme>
+  <programme start="20210108031000 +0700" stop="20210108033500 +0700" channel="nickelodeon">
+    <title><![CDATA[Spongebob Squarepants]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[สปอนจ์บ๊อบ คือฟองน้ำทะเลจอมซุ่มซ่ามที่ทำงานในร้านอาหารจานด่วนใต้บาดาลที่ซึ่งเขามักจะมีเรื่องผจญภัยสนุกๆกับเพื่อนๆใต้ทะเลอยู่เสมอ]]></desc>
+  </programme>
+  <programme start="20210108033500 +0700" stop="20210108040000 +0700" channel="nickelodeon">
+    <title><![CDATA[Spongebob Squarepants]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[สปอนจ์บ๊อบ คือฟองน้ำทะเลจอมซุ่มซ่ามที่ทำงานในร้านอาหารจานด่วนใต้บาดาลที่ซึ่งเขามักจะมีเรื่องผจญภัยสนุกๆกับเพื่อนๆใต้ทะเลอยู่เสมอ]]></desc>
+  </programme>
+  <programme start="20210108040000 +0700" stop="20210108042000 +0700" channel="nickelodeon">
+    <title><![CDATA[Blue's Clues & You]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับ บลูส์และผองเพื่อน ในเกมปริศนาที่กำลังรอการคลี่คลายเมื่อขนมของเขาได้หายไป]]></desc>
+  </programme>
+  <programme start="20210108042000 +0700" stop="20210108044500 +0700" channel="nickelodeon">
+    <title><![CDATA[Blaze and the Monster Machines]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวมิตรภาพและการผจญภัยของเด็กวัยแปดปีกับรถบรรทุกยักษ์คู่ใจซึ่งทั้งสองต้องแก้ไขปัญหาระหว่างทางด้วยหลักการทางคณิตศาสตร์และวิทยาศาสตร์ไปพร้อมๆ กัน]]></desc>
+  </programme>
+  <programme start="20210108044500 +0700" stop="20210108045500 +0700" channel="nickelodeon">
+    <title><![CDATA[Paw Patrol]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับทีมลูกสุนัขกู้ภัยและภารกิจปกป้องชุมชนพร้อมส่งเสริมการเรียนรู้เรื่องความปลอดภัยต่างๆ]]></desc>
+  </programme>
+  <programme start="20210108045500 +0700" stop="20210108052000 +0700" channel="nickelodeon">
+    <title><![CDATA[Paw Patrol]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับทีมลูกสุนัขกู้ภัยและภารกิจปกป้องชุมชนพร้อมส่งเสริมการเรียนรู้เรื่องความปลอดภัยต่างๆ]]></desc>
+  </programme>
+  <programme start="20210108052000 +0700" stop="20210108054500 +0700" channel="nickelodeon">
+    <title><![CDATA[Rusty Rivets]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[สนุกกับ รัสตี้ รูบี้ และหุ่นยนต์ โบตาซอร์ เมื่อพวกเขาใช้ความรู้ด้านวิทยาศาสตร์และเทคโนโลยีในการแก้ไขปัญหาต่างๆ]]></desc>
+  </programme>
+  <programme start="20210108054500 +0700" stop="20210108060000 +0700" channel="nickelodeon">
+    <title><![CDATA[44 Cats]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[มาสนุกและผจญภัยไปกับเหล่าเจ้าเหมียวและผองเพื่อนทั้งสี่ในภาพยนตร์การ์ตูนสุดน่ารัก]]></desc>
+  </programme>
+  <programme start="20210108060000 +0700" stop="20210108061000 +0700" channel="nickelodeon">
+    <title><![CDATA[44 Cats]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[มาสนุกและผจญภัยไปกับเหล่าเจ้าเหมียวและผองเพื่อนทั้งสี่ในภาพยนตร์การ์ตูนสุดน่ารัก]]></desc>
+  </programme>
+  <programme start="20210108061000 +0700" stop="20210108062000 +0700" channel="nickelodeon">
+    <title><![CDATA[Alvinnn!!! and the Chipmunks]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ติดตามเรื่องราวสุดอลเวงของเหล่าชิพมั้งค์และสาวๆชิพเพ็ตส์เมื่อพวกเขาต้องกลับไปเข้าโรงเรียนและพักเรื่องงานดนตรีไว้ก่อน]]></desc>
+  </programme>
+  <programme start="20210108062000 +0700" stop="20210108063500 +0700" channel="nickelodeon">
+    <title><![CDATA[Alvinnn!!! and the Chipmunks]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ติดตามเรื่องราวสุดอลเวงของเหล่าชิพมั้งค์และสาวๆชิพเพ็ตส์เมื่อพวกเขาต้องกลับไปเข้าโรงเรียนและพักเรื่องงานดนตรีไว้ก่อน]]></desc>
+  </programme>
+  <programme start="20210108063500 +0700" stop="20210108065000 +0700" channel="nickelodeon">
+    <title><![CDATA[Spongebob Squarepants]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[สปอนจ์บ๊อบ คือฟองน้ำทะเลจอมซุ่มซ่ามที่ทำงานในร้านอาหารจานด่วนใต้บาดาลที่ซึ่งเขามักจะมีเรื่องผจญภัยสนุกๆกับเพื่อนๆใต้ทะเลอยู่เสมอ]]></desc>
+  </programme>
+  <programme start="20210108065000 +0700" stop="20210108071500 +0700" channel="nickelodeon">
+    <title><![CDATA[Spongebob Squarepants]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[สปอนจ์บ๊อบ คือฟองน้ำทะเลจอมซุ่มซ่ามที่ทำงานในร้านอาหารจานด่วนใต้บาดาลที่ซึ่งเขามักจะมีเรื่องผจญภัยสนุกๆกับเพื่อนๆใต้ทะเลอยู่เสมอ]]></desc>
+  </programme>
+  <programme start="20210108071500 +0700" stop="20210108074000 +0700" channel="nickelodeon">
+    <title><![CDATA[Sam & Cat]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของสองสาวน้อยเพื่อนร่วมห้องที่ริเริ่มก่อตั้งกิจการพี่เลี้ยงดูแลเด็กเล็ก]]></desc>
+  </programme>
+  <programme start="20210108074000 +0700" stop="20210108080500 +0700" channel="nickelodeon">
+    <title><![CDATA[Sam & Cat]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของสองสาวน้อยเพื่อนร่วมห้องที่ริเริ่มก่อตั้งกิจการพี่เลี้ยงดูแลเด็กเล็ก]]></desc>
+  </programme>
+  <programme start="20210108080500 +0700" stop="20210108083000 +0700" channel="nickelodeon">
+    <title><![CDATA[Icarly]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของสาวน้อยและเพื่อนรักอีกสองคนที่กลายมาเป็นคนดังในโลกออนไลน์เมื่อเว็บไซต์ของพวกเขามีแฟนๆติดตามมหาศาลจนทำให้ชีวิตประจำวันของพวกเขาต้องเปลี่ยนไปตลอดกาล]]></desc>
+  </programme>
+  <programme start="20210108083000 +0700" stop="20210108085500 +0700" channel="nickelodeon">
+    <title><![CDATA[Icarly]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของสาวน้อยและเพื่อนรักอีกสองคนที่กลายมาเป็นคนดังในโลกออนไลน์เมื่อเว็บไซต์ของพวกเขามีแฟนๆติดตามมหาศาลจนทำให้ชีวิตประจำวันของพวกเขาต้องเปลี่ยนไปตลอดกาล]]></desc>
+  </programme>
+  <programme start="20210108085500 +0700" stop="20210108090500 +0700" channel="nickelodeon">
+    <title><![CDATA[Alvinnn!!! and the Chipmunks]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ติดตามเรื่องราวสุดอลเวงของเหล่าชิพมั้งค์และสาวๆชิพเพ็ตส์เมื่อพวกเขาต้องกลับไปเข้าโรงเรียนและพักเรื่องงานดนตรีไว้ก่อน]]></desc>
+  </programme>
+  <programme start="20210108090500 +0700" stop="20210108092000 +0700" channel="nickelodeon">
+    <title><![CDATA[Alvinnn!!! and the Chipmunks]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ติดตามเรื่องราวสุดอลเวงของเหล่าชิพมั้งค์และสาวๆชิพเพ็ตส์เมื่อพวกเขาต้องกลับไปเข้าโรงเรียนและพักเรื่องงานดนตรีไว้ก่อน]]></desc>
+  </programme>
+  <programme start="20210108092000 +0700" stop="20210108093500 +0700" channel="nickelodeon">
+    <title><![CDATA[Alvinnn!!! and the Chipmunks]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ติดตามเรื่องราวสุดอลเวงของเหล่าชิพมั้งค์และสาวๆชิพเพ็ตส์เมื่อพวกเขาต้องกลับไปเข้าโรงเรียนและพักเรื่องงานดนตรีไว้ก่อน]]></desc>
+  </programme>
+  <programme start="20210108093500 +0700" stop="20210108094500 +0700" channel="nickelodeon">
+    <title><![CDATA[Spongebob Squarepants]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[สปอนจ์บ๊อบ คือฟองน้ำทะเลจอมซุ่มซ่ามที่ทำงานในร้านอาหารจานด่วนใต้บาดาลที่ซึ่งเขามักจะมีเรื่องผจญภัยสนุกๆกับเพื่อนๆใต้ทะเลอยู่เสมอ]]></desc>
+  </programme>
+  <programme start="20210108094500 +0700" stop="20210108100000 +0700" channel="nickelodeon">
+    <title><![CDATA[Spongebob Squarepants]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[สปอนจ์บ๊อบ คือฟองน้ำทะเลจอมซุ่มซ่ามที่ทำงานในร้านอาหารจานด่วนใต้บาดาลที่ซึ่งเขามักจะมีเรื่องผจญภัยสนุกๆกับเพื่อนๆใต้ทะเลอยู่เสมอ]]></desc>
+  </programme>
+  <programme start="20210108100000 +0700" stop="20210108101000 +0700" channel="nickelodeon">
+    <title><![CDATA[Spongebob Squarepants]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[สปอนจ์บ๊อบ คือฟองน้ำทะเลจอมซุ่มซ่ามที่ทำงานในร้านอาหารจานด่วนใต้บาดาลที่ซึ่งเขามักจะมีเรื่องผจญภัยสนุกๆกับเพื่อนๆใต้ทะเลอยู่เสมอ]]></desc>
+  </programme>
+  <programme start="20210108101000 +0700" stop="20210108102500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Casagrandes]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวสุดวุ่นของสาวน้อย รอนนี่ แอนน์ ที่เพิ่งย้ายเข้ามาอยู่ในเมืองที่ซึ่งเธอ พี่ชาย และแม่ได้พบกับครอบครัวใหญ่ของเธออีกครั้ง]]></desc>
+  </programme>
+  <programme start="20210108102500 +0700" stop="20210108103500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Casagrandes]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวสุดวุ่นของสาวน้อย รอนนี่ แอนน์ ที่เพิ่งย้ายเข้ามาอยู่ในเมืองที่ซึ่งเธอ พี่ชาย และแม่ได้พบกับครอบครัวใหญ่ของเธออีกครั้ง]]></desc>
+  </programme>
+  <programme start="20210108103500 +0700" stop="20210108110000 +0700" channel="nickelodeon">
+    <title><![CDATA[Tyler Perry's Young Dylan]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับเรื่องราวสุดอลเวงของหนูน้อย ดีแลน ที่ต้องย้ายเข้าไปอยู่ในบ้านญาติอย่างไม่มีกำหนด]]></desc>
+  </programme>
+  <programme start="20210108110000 +0700" stop="20210108112500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Thundermans]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับครอบครัวธันเดอร์แมนซึ่งเป็นครอบครัวธรรมดาที่ไม่ธรรมดาเพราะพวกเขาเผอิญมีพลังยอดมนุษย์!]]></desc>
+  </programme>
+  <programme start="20210108112500 +0700" stop="20210108115000 +0700" channel="nickelodeon">
+    <title><![CDATA[The Thundermans]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับครอบครัวธันเดอร์แมนซึ่งเป็นครอบครัวธรรมดาที่ไม่ธรรมดาเพราะพวกเขาเผอิญมีพลังยอดมนุษย์!]]></desc>
+  </programme>
+  <programme start="20210108115000 +0700" stop="20210108121500 +0700" channel="nickelodeon">
+    <title><![CDATA[Hunter Street]]></title>
+    <sub-title><![CDATA[KIDS :: Adventure, Kids]]></sub-title>
+    <desc><![CDATA[แม็กซ์เป็นสมาชิกคนล่าสุดของครอบครัวฮันเตอร์ เขาต้องร่วมมือกับพี่ๆ น้องๆ เพื่อตามหาตัวพ่อแม่อุปถัมภ์ เอริคและเคท ซึ่งหายตัวไปอย่างลึกลับในคืนหนึ่ง]]></desc>
+  </programme>
+  <programme start="20210108121500 +0700" stop="20210108124000 +0700" channel="nickelodeon">
+    <title><![CDATA[Hunter Street]]></title>
+    <sub-title><![CDATA[KIDS :: Adventure, Kids]]></sub-title>
+    <desc><![CDATA[แม็กซ์เป็นสมาชิกคนล่าสุดของครอบครัวฮันเตอร์ เขาต้องร่วมมือกับพี่ๆ น้องๆ เพื่อตามหาตัวพ่อแม่อุปถัมภ์ เอริคและเคท ซึ่งหายตัวไปอย่างลึกลับในคืนหนึ่ง]]></desc>
+  </programme>
+  <programme start="20210108124000 +0700" stop="20210108125000 +0700" channel="nickelodeon">
+    <title><![CDATA[Alvinnn!!! and the Chipmunks]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ติดตามเรื่องราวสุดอลเวงของเหล่าชิพมั้งค์และสาวๆชิพเพ็ตส์เมื่อพวกเขาต้องกลับไปเข้าโรงเรียนและพักเรื่องงานดนตรีไว้ก่อน]]></desc>
+  </programme>
+  <programme start="20210108125000 +0700" stop="20210108131000 +0700" channel="nickelodeon">
+    <title><![CDATA[Alvinnn!!! and the Chipmunks]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ติดตามเรื่องราวสุดอลเวงของเหล่าชิพมั้งค์และสาวๆชิพเพ็ตส์เมื่อพวกเขาต้องกลับไปเข้าโรงเรียนและพักเรื่องงานดนตรีไว้ก่อน]]></desc>
+  </programme>
+  <programme start="20210108131000 +0700" stop="20210108132000 +0700" channel="nickelodeon">
+    <title><![CDATA[Deer Squad]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของสี่กวางน้อยที่ใช้พลังวิเศษในการปกป้องผืนป่าและเพื่อนมนุษย์ร่วมโลก]]></desc>
+  </programme>
+  <programme start="20210108132000 +0700" stop="20210108133500 +0700" channel="nickelodeon">
+    <title><![CDATA[Deer Squad]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของสี่กวางน้อยที่ใช้พลังวิเศษในการปกป้องผืนป่าและเพื่อนมนุษย์ร่วมโลก]]></desc>
+  </programme>
+  <programme start="20210108133500 +0700" stop="20210108235959 +0700" channel="nickelodeon">
+    <title><![CDATA[The Loud House]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวการดำรงชีวิตประจำวันในครอบครัวใหญ่แสนอึกทึกของเด็กชายวัยสิบเอ็ดปีชื่อ ลินคอล์น ผู้มีพี่น้องผู้หญิงถึงสิบคน]]></desc>
+  </programme>
+  <programme start="20210108150000 +0700" stop="20210108152500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Casagrandes S1 EP.105]]></title>
+  </programme>
+  <programme start="20210108152500 +0700" stop="20210108155000 +0700" channel="nickelodeon">
+    <title><![CDATA[Tyler Perry's Young Dylan S1 EP.106]]></title>
+  </programme>
+  <programme start="20210108155000 +0700" stop="20210108161500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Thundermans S3 EP.319]]></title>
+  </programme>
+  <programme start="20210108161500 +0700" stop="20210108164000 +0700" channel="nickelodeon">
+    <title><![CDATA[The Thundermans S3 EP.320]]></title>
+  </programme>
+  <programme start="20210108164000 +0700" stop="20210108170000 +0700" channel="nickelodeon">
+    <title><![CDATA[Henry Danger S1 EP.108]]></title>
+  </programme>
+  <programme start="20210108170000 +0700" stop="20210108172500 +0700" channel="nickelodeon">
+    <title><![CDATA[Nickelodeon's Spyders S1 EP.105]]></title>
+  </programme>
+  <programme start="20210108172500 +0700" stop="20210108174000 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S11 EP.227]]></title>
+  </programme>
+  <programme start="20210108174000 +0700" stop="20210108175500 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S11 EP.228]]></title>
+  </programme>
+  <programme start="20210108175500 +0700" stop="20210108180500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Casagrandes S1 EP.103]]></title>
+  </programme>
+  <programme start="20210108180500 +0700" stop="20210108182000 +0700" channel="nickelodeon">
+    <title><![CDATA[The Casagrandes S1 EP.103]]></title>
+  </programme>
+  <programme start="20210108182000 +0700" stop="20210108184000 +0700" channel="nickelodeon">
+    <title><![CDATA[The Loud House S1 EP.126]]></title>
+  </programme>
+  <programme start="20210108184000 +0700" stop="20210108190500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Loud House S2 EP.201]]></title>
+  </programme>
+  <programme start="20210108190500 +0700" stop="20210108193500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Loud House S2 EP.202]]></title>
+  </programme>
+  <programme start="20210108193500 +0700" stop="20210108195500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Thundermans S1 EP.110]]></title>
+  </programme>
+  <programme start="20210108195500 +0700" stop="20210108200500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Fairly OddParents S9 EP.133]]></title>
+  </programme>
+  <programme start="20210108200500 +0700" stop="20210108202500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Fairly OddParents S9 EP.133]]></title>
+  </programme>
+  <programme start="20210108202500 +0700" stop="20210108203500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Fairly OddParents S9 EP.134]]></title>
+  </programme>
+  <programme start="20210108203500 +0700" stop="20210108205000 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S11 EP.217]]></title>
+  </programme>
+  <programme start="20210108205000 +0700" stop="20210108210000 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S11 EP.218]]></title>
+  </programme>
+  <programme start="20210108210000 +0700" stop="20210108211000 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S11 EP.218]]></title>
+  </programme>
+  <programme start="20210108211000 +0700" stop="20210108212500 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S11 EP.219]]></title>
+  </programme>
+  <programme start="20210108212500 +0700" stop="20210108213500 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S11 EP.219]]></title>
+  </programme>
+  <programme start="20210108213500 +0700" stop="20210108220000 +0700" channel="nickelodeon">
+    <title><![CDATA[Henry Danger S2 EP.207]]></title>
+  </programme>
+  <programme start="20210108220000 +0700" stop="20210108222000 +0700" channel="nickelodeon">
+    <title><![CDATA[Henry Danger S2 EP.208]]></title>
+  </programme>
+  <programme start="20210108222000 +0700" stop="20210108224500 +0700" channel="nickelodeon">
+    <title><![CDATA[Henry Danger S2 EP.212]]></title>
+  </programme>
+  <programme start="20210108224500 +0700" stop="20210108230500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Thundermans S3 EP.302]]></title>
+  </programme>
+  <programme start="20210108230500 +0700" stop="20210108233000 +0700" channel="nickelodeon">
+    <title><![CDATA[The Thundermans S3 EP.303]]></title>
+  </programme>
+  <programme start="20210108233000 +0700" stop="20210108235000 +0700" channel="nickelodeon">
+    <title><![CDATA[Game Shakers S1 EP.111]]></title>
+  </programme>
+  <programme start="20210108235000 +0700" stop="20210109001500 +0700" channel="nickelodeon">
+    <title><![CDATA[Game Shakers S1 EP.112]]></title>
+  </programme>
+  <programme start="20210109001500 +0700" stop="20210109003500 +0700" channel="nickelodeon">
+    <title><![CDATA[iCarly S1 EP.121]]></title>
+  </programme>
+  <programme start="20210109003500 +0700" stop="20210109010000 +0700" channel="nickelodeon">
+    <title><![CDATA[Sam & Cat S1 EP.129]]></title>
+  </programme>
+  <programme start="20210109010000 +0700" stop="20210109012000 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S11 EP.223]]></title>
+  </programme>
+  <programme start="20210109012000 +0700" stop="20210109014500 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S11 EP.224]]></title>
+  </programme>
+  <programme start="20210109014500 +0700" stop="20210109020500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Fairly OddParents S9 EP.138]]></title>
+  </programme>
+  <programme start="20210109020500 +0700" stop="20210109022500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Fairly OddParents S9 EP.139]]></title>
+  </programme>
+  <programme start="20210109022500 +0700" stop="20210109025000 +0700" channel="nickelodeon">
+    <title><![CDATA[The Thundermans S2 EP.225]]></title>
+  </programme>
+  <programme start="20210109025000 +0700" stop="20210109031000 +0700" channel="nickelodeon">
+    <title><![CDATA[The Thundermans S3 EP.301]]></title>
+  </programme>
+  <programme start="20210109031000 +0700" stop="20210109033500 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S11 EP.221]]></title>
+  </programme>
+  <programme start="20210109033500 +0700" stop="20210109040000 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S11 EP.222]]></title>
+  </programme>
+  <programme start="20210109040000 +0700" stop="20210109042000 +0700" channel="nickelodeon">
+    <title><![CDATA[Blue's Clues & You S1 EP.103]]></title>
+  </programme>
+  <programme start="20210109042000 +0700" stop="20210109044500 +0700" channel="nickelodeon">
+    <title><![CDATA[Blaze and the Monster Machines S1 EP.115]]></title>
+  </programme>
+  <programme start="20210109044500 +0700" stop="20210109045500 +0700" channel="nickelodeon">
+    <title><![CDATA[Paw Patrol S5 EP.507]]></title>
+  </programme>
+  <programme start="20210109045500 +0700" stop="20210109051500 +0700" channel="nickelodeon">
+    <title><![CDATA[Paw Patrol S5 EP.508]]></title>
+  </programme>
+  <programme start="20210109051500 +0700" stop="20210109054500 +0700" channel="nickelodeon">
+    <title><![CDATA[Rusty Rivets S3 EP.320]]></title>
+  </programme>
+  <programme start="20210109054500 +0700" stop="20210109061000 +0700" channel="nickelodeon">
+    <title><![CDATA[Blue's Clues & You S1 EP.110]]></title>
+  </programme>
+  <programme start="20210109061000 +0700" stop="20210109063000 +0700" channel="nickelodeon">
+    <title><![CDATA[The Thundermans S3 EP.310]]></title>
+  </programme>
+  <programme start="20210109063000 +0700" stop="20210109065500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Thundermans S3 EP.311]]></title>
+  </programme>
+  <programme start="20210109065500 +0700" stop="20210109072000 +0700" channel="nickelodeon">
+    <title><![CDATA[Henry Danger S3 EP.317]]></title>
+  </programme>
+  <programme start="20210109072000 +0700" stop="20210109074000 +0700" channel="nickelodeon">
+    <title><![CDATA[Henry Danger S3 EP.318]]></title>
+  </programme>
+  <programme start="20210109074000 +0700" stop="20210109080000 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S8 EP.165]]></title>
+  </programme>
+  <programme start="20210109080000 +0700" stop="20210109081000 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S8 EP.165]]></title>
+  </programme>
+  <programme start="20210109081000 +0700" stop="20210109082000 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S8 EP.166]]></title>
+  </programme>
+  <programme start="20210109082000 +0700" stop="20210109083500 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S8 EP.166]]></title>
+  </programme>
+  <programme start="20210109083500 +0700" stop="20210109085000 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S8 EP.163]]></title>
+  </programme>
+  <programme start="20210109085000 +0700" stop="20210109090000 +0700" channel="nickelodeon">
+    <title><![CDATA[ALVINNN!!! and the Chipmunks S1 EP.150]]></title>
+  </programme>
+  <programme start="20210109090000 +0700" stop="20210109091500 +0700" channel="nickelodeon">
+    <title><![CDATA[ALVINNN!!! and the Chipmunks S1 EP.151]]></title>
+  </programme>
+  <programme start="20210109091500 +0700" stop="20210109093000 +0700" channel="nickelodeon">
+    <title><![CDATA[ALVINNN!!! and the Chipmunks S1 EP.152]]></title>
+  </programme>
+  <programme start="20210109093000 +0700" stop="20210109094000 +0700" channel="nickelodeon">
+    <title><![CDATA[It's Pony S1 EP.103]]></title>
+  </programme>
+  <programme start="20210109094000 +0700" stop="20210109095000 +0700" channel="nickelodeon">
+    <title><![CDATA[It's Pony S1 EP.104]]></title>
+  </programme>
+  <programme start="20210109095000 +0700" stop="20210109100500 +0700" channel="nickelodeon">
+    <title><![CDATA[It's Pony S1 EP.104]]></title>
+  </programme>
+  <programme start="20210109100500 +0700" stop="20210109102500 +0700" channel="nickelodeon">
+    <title><![CDATA[Henry Danger S3 EP.311]]></title>
+  </programme>
+  <programme start="20210109102500 +0700" stop="20210109105000 +0700" channel="nickelodeon">
+    <title><![CDATA[Henry Danger S3 EP.314]]></title>
+  </programme>
+  <programme start="20210109105000 +0700" stop="20210109111500 +0700" channel="nickelodeon">
+    <title><![CDATA[Danger Force S1 EP.102]]></title>
+  </programme>
+  <programme start="20210109111500 +0700" stop="20210109114000 +0700" channel="nickelodeon">
+    <title><![CDATA[Nickelodeon's Spyders S1 EP.101]]></title>
+  </programme>
+  <programme start="20210109114000 +0700" stop="20210109120500 +0700" channel="nickelodeon">
+    <title><![CDATA[Nickelodeon's Spyders S1 EP.102]]></title>
+  </programme>
+  <programme start="20210109120500 +0700" stop="20210109123000 +0700" channel="nickelodeon">
+    <title><![CDATA[Nickelodeon's Spyders S1 EP.103]]></title>
+  </programme>
+  <programme start="20210109123000 +0700" stop="20210109125500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Thundermans S1 EP.101]]></title>
+  </programme>
+  <programme start="20210109125500 +0700" stop="20210109130500 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S11 EP.216]]></title>
+  </programme>
+  <programme start="20210109130500 +0700" stop="20210109132000 +0700" channel="nickelodeon">
+    <title><![CDATA[Deer Squad S1 EP.118]]></title>
+  </programme>
+  <programme start="20210109132000 +0700" stop="20210109133500 +0700" channel="nickelodeon">
+    <title><![CDATA[Deer Squad S1 EP.118]]></title>
+  </programme>
+  <programme start="20210109133500 +0700" stop="20210109135500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Loud House S2 EP.204]]></title>
+  </programme>
+  <programme start="20210109135500 +0700" stop="20210109141500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Loud House S2 EP.205]]></title>
+  </programme>
+  <programme start="20210109141500 +0700" stop="20210109142000 +0700" channel="nickelodeon">
+    <title><![CDATA[The Casagrandes S1 EP.101]]></title>
+  </programme>
+  <programme start="20210109142000 +0700" stop="20210109144500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Casagrandes S1 EP.111]]></title>
+  </programme>
+  <programme start="20210109144500 +0700" stop="20210109151000 +0700" channel="nickelodeon">
+    <title><![CDATA[It's Pony S1 EP.101]]></title>
+  </programme>
+  <programme start="20210109151000 +0700" stop="20210109153500 +0700" channel="nickelodeon">
+    <title><![CDATA[It's Pony S1 EP.102]]></title>
+  </programme>
+  <programme start="20210109153500 +0700" stop="20210109155500 +0700" channel="nickelodeon">
+    <title><![CDATA[Just Add Magic: Mystery City S1 EP.101]]></title>
+  </programme>
+  <programme start="20210109155500 +0700" stop="20210109162000 +0700" channel="nickelodeon">
+    <title><![CDATA[Just Add Magic: Mystery City S1 EP.102]]></title>
+  </programme>
+  <programme start="20210109162000 +0700" stop="20210109164500 +0700" channel="nickelodeon">
+    <title><![CDATA[School of Rock S1 EP.101]]></title>
+  </programme>
+  <programme start="20210109164500 +0700" stop="20210109171000 +0700" channel="nickelodeon">
+    <title><![CDATA[School of Rock S1 EP.102]]></title>
+  </programme>
+  <programme start="20210109171000 +0700" stop="20210109174000 +0700" channel="nickelodeon">
+    <title><![CDATA[Henry Danger S5 EP.510]]></title>
+  </programme>
+  <programme start="20210109174000 +0700" stop="20210109180000 +0700" channel="nickelodeon">
+    <title><![CDATA[Henry Danger S5 EP.509]]></title>
+  </programme>
+  <programme start="20210109180000 +0700" stop="20210109182000 +0700" channel="nickelodeon">
+    <title><![CDATA[Danger Force S1 EP.105]]></title>
+  </programme>
+  <programme start="20210109182000 +0700" stop="20210109184000 +0700" channel="nickelodeon">
+    <title><![CDATA[The Loud House S2 EP.207]]></title>
+  </programme>
+  <programme start="20210109184000 +0700" stop="20210109190500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Loud House S2 EP.208]]></title>
+  </programme>
+  <programme start="20210109190500 +0700" stop="20210109193500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Loud House S2 EP.209]]></title>
+  </programme>
+  <programme start="20210109193500 +0700" stop="20210109195500 +0700" channel="nickelodeon">
+    <title><![CDATA[iCarly S1 EP.102]]></title>
+  </programme>
+  <programme start="20210109195500 +0700" stop="20210109202500 +0700" channel="nickelodeon">
+    <title><![CDATA[Sam & Cat S1 EP.110]]></title>
+  </programme>
+  <programme start="20210109202500 +0700" stop="20210109203500 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S11 EP.221]]></title>
+  </programme>
+  <programme start="20210109203500 +0700" stop="20210109205000 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S11 EP.221]]></title>
+  </programme>
+  <programme start="20210109205000 +0700" stop="20210109210000 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S11 EP.222]]></title>
+  </programme>
+  <programme start="20210109210000 +0700" stop="20210109211000 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S11 EP.222]]></title>
+  </programme>
+  <programme start="20210109211000 +0700" stop="20210109213500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Fairly OddParents S7 EP.117]]></title>
+  </programme>
+  <programme start="20210109213500 +0700" stop="20210109215000 +0700" channel="nickelodeon">
+    <title><![CDATA[The Fairly OddParents S6 EP.93]]></title>
+  </programme>
+  <programme start="20210109215000 +0700" stop="20210109215500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Fairly OddParents S7 EP.102]]></title>
+  </programme>
+  <programme start="20210109215500 +0700" stop="20210109222000 +0700" channel="nickelodeon">
+    <title><![CDATA[School of Rock S3 EP.301]]></title>
+  </programme>
+  <programme start="20210109222000 +0700" stop="20210109224500 +0700" channel="nickelodeon">
+    <title><![CDATA[School of Rock S3 EP.302]]></title>
+  </programme>
+  <programme start="20210109224500 +0700" stop="20210109230500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Thundermans S3 EP.304]]></title>
+  </programme>
+  <programme start="20210109230500 +0700" stop="20210109233000 +0700" channel="nickelodeon">
+    <title><![CDATA[The Thundermans S3 EP.305]]></title>
+  </programme>
+  <programme start="20210109233000 +0700" stop="20210109235000 +0700" channel="nickelodeon">
+    <title><![CDATA[Game Shakers S1 EP.113]]></title>
+  </programme>
+  <programme start="20210109235000 +0700" stop="20210110001500 +0700" channel="nickelodeon">
+    <title><![CDATA[Game Shakers S1 EP.114]]></title>
+  </programme>
+  <programme start="20210110001500 +0700" stop="20210110003500 +0700" channel="nickelodeon">
+    <title><![CDATA[iCarly S1 EP.122]]></title>
+  </programme>
+  <programme start="20210110003500 +0700" stop="20210110010000 +0700" channel="nickelodeon">
+    <title><![CDATA[Sam & Cat S1 EP.130]]></title>
+  </programme>
+  <programme start="20210110010000 +0700" stop="20210110012000 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S11 EP.225]]></title>
+  </programme>
+  <programme start="20210110012000 +0700" stop="20210110014500 +0700" channel="nickelodeon">
+    <title><![CDATA[SpongeBob SquarePants S11 EP.226]]></title>
+  </programme>
+  <programme start="20210110014500 +0700" stop="20210110020500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Fairly OddParents S9 EP.140]]></title>
+  </programme>
+  <programme start="20210110020500 +0700" stop="20210110022500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Fairly OddParents S9 EP.141]]></title>
+  </programme>
+  <programme start="20210110022500 +0700" stop="20210110025000 +0700" channel="nickelodeon">
+    <title><![CDATA[The Thundermans S3 EP.302]]></title>
+  </programme>
+  <programme start="20210110025000 +0700" stop="20210110031000 +0700" channel="nickelodeon">
+    <title><![CDATA[The Thundermans S3 EP.303]]></title>
+  </programme>
+  <programme start="20210108151000 +0700" stop="20210108153500 +0700" channel="nickjr">
+    <title><![CDATA[Blaze and the Monster Machines S5 EP.505]]></title>
+  </programme>
+  <programme start="20210108153500 +0700" stop="20210108155500 +0700" channel="nickjr">
+    <title><![CDATA[Rusty Rivets S1 EP.109]]></title>
+  </programme>
+  <programme start="20210108155500 +0700" stop="20210108162000 +0700" channel="nickjr">
+    <title><![CDATA[Abby Hatcher S1 EP.116]]></title>
+  </programme>
+  <programme start="20210108162000 +0700" stop="20210108164000 +0700" channel="nickjr">
+    <title><![CDATA[Butterbean's Café S1 EP.130]]></title>
+  </programme>
+  <programme start="20210108164000 +0700" stop="20210108170000 +0700" channel="nickjr">
+    <title><![CDATA[Bubble Guppies S4 EP.402]]></title>
+  </programme>
+  <programme start="20210108170000 +0700" stop="20210108170500 +0700" channel="nickjr">
+    <title><![CDATA[Peppa Pig S1 EP.147]]></title>
+  </programme>
+  <programme start="20210108170500 +0700" stop="20210108171500 +0700" channel="nickjr">
+    <title><![CDATA[Peppa Pig S1 EP.149]]></title>
+  </programme>
+  <programme start="20210108171500 +0700" stop="20210108173500 +0700" channel="nickjr">
+    <title><![CDATA[Barbapapa - One Big Happy Family! S1 EP.102]]></title>
+  </programme>
+  <programme start="20210108173500 +0700" stop="20210108180000 +0700" channel="nickjr">
+    <title><![CDATA[Blue's Clues & You S1 EP.107]]></title>
+  </programme>
+  <programme start="20210108180000 +0700" stop="20210108182000 +0700" channel="nickjr">
+    <title><![CDATA[Blaze and the Monster Machines S4 EP.412]]></title>
+  </programme>
+  <programme start="20210108182000 +0700" stop="20210108184500 +0700" channel="nickjr">
+    <title><![CDATA[Blaze and the Monster Machines S4 EP.413]]></title>
+  </programme>
+  <programme start="20210108184500 +0700" stop="20210108193000 +0700" channel="nickjr">
+    <title><![CDATA[PAW Patrol: Jet To The Rescue S1 EP.993]]></title>
+  </programme>
+  <programme start="20210108193000 +0700" stop="20210108193500 +0700" channel="nickjr">
+    <title><![CDATA[Calvin & Kaison's Play Power S1 EP.107]]></title>
+  </programme>
+  <programme start="20210108193500 +0700" stop="20210108194000 +0700" channel="nickjr">
+    <title><![CDATA[Calvin & Kaison's Play Power S1 EP.108]]></title>
+  </programme>
+  <programme start="20210108194000 +0700" stop="20210108194500 +0700" channel="nickjr">
+    <title><![CDATA[Ready Set Dance S1 EP.115]]></title>
+  </programme>
+  <programme start="20210108194500 +0700" stop="20210108195000 +0700" channel="nickjr">
+    <title><![CDATA[Ready Set Dance S1 EP.101]]></title>
+  </programme>
+  <programme start="20210108195000 +0700" stop="20210108200500 +0700" channel="nickjr">
+    <title><![CDATA[Top Wing S2 EP.203]]></title>
+  </programme>
+  <programme start="20210108200500 +0700" stop="20210108202500 +0700" channel="nickjr">
+    <title><![CDATA[Top Wing S2 EP.205]]></title>
+  </programme>
+  <programme start="20210108202500 +0700" stop="20210108204500 +0700" channel="nickjr">
+    <title><![CDATA[The Adventures of Paddington S1 EP.116]]></title>
+  </programme>
+  <programme start="20210108204500 +0700" stop="20210108211000 +0700" channel="nickjr">
+    <title><![CDATA[Bubble Guppies S3 EP.316]]></title>
+  </programme>
+  <programme start="20210108211000 +0700" stop="20210108212000 +0700" channel="nickjr">
+    <title><![CDATA[Abby Hatcher S1 EP.109]]></title>
+  </programme>
+  <programme start="20210108212000 +0700" stop="20210108214500 +0700" channel="nickjr">
+    <title><![CDATA[Butterbean's Café S1 EP.109]]></title>
+  </programme>
+  <programme start="20210108214500 +0700" stop="20210108220500 +0700" channel="nickjr">
+    <title><![CDATA[Blue's Clues & You S1 EP.102]]></title>
+  </programme>
+  <programme start="20210108220500 +0700" stop="20210108222500 +0700" channel="nickjr">
+    <title><![CDATA[Blaze and the Monster Machines S4 EP.411]]></title>
+  </programme>
+  <programme start="20210108222500 +0700" stop="20210108224500 +0700" channel="nickjr">
+    <title><![CDATA[Blaze and the Monster Machines S4 EP.412]]></title>
+  </programme>
+  <programme start="20210108224500 +0700" stop="20210108230000 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S1 EP.105]]></title>
+  </programme>
+  <programme start="20210108230000 +0700" stop="20210108231000 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S1 EP.105]]></title>
+  </programme>
+  <programme start="20210108231000 +0700" stop="20210109000000 +0700" channel="nickjr">
+    <title><![CDATA[PAW Patrol: Jet To The Rescue S1 EP.993]]></title>
+  </programme>
+  <programme start="20210109000000 +0700" stop="20210109000500 +0700" channel="nickjr">
+    <title><![CDATA[Peppa Pig S2 EP.201]]></title>
+  </programme>
+  <programme start="20210109000500 +0700" stop="20210109001000 +0700" channel="nickjr">
+    <title><![CDATA[Peppa Pig S2 EP.202]]></title>
+  </programme>
+  <programme start="20210109001000 +0700" stop="20210109002800 +0700" channel="nickjr">
+    <title><![CDATA[Barbapapa - One Big Happy Family! S1 EP.101]]></title>
+  </programme>
+  <programme start="20210109002800 +0700" stop="20210109005300 +0700" channel="nickjr">
+    <title><![CDATA[Blue's Clues & You S1 EP.107]]></title>
+  </programme>
+  <programme start="20210109005300 +0700" stop="20210109011300 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S3 EP.310]]></title>
+  </programme>
+  <programme start="20210109011300 +0700" stop="20210109013800 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S3 EP.311]]></title>
+  </programme>
+  <programme start="20210109013800 +0700" stop="20210109020300 +0700" channel="nickjr">
+    <title><![CDATA[The Adventures of Paddington S1 EP.104]]></title>
+  </programme>
+  <programme start="20210109020300 +0700" stop="20210109022300 +0700" channel="nickjr">
+    <title><![CDATA[Shimmer and Shine S1 EP.109]]></title>
+  </programme>
+  <programme start="20210109022300 +0700" stop="20210109024800 +0700" channel="nickjr">
+    <title><![CDATA[Top Wing S1 EP.109]]></title>
+  </programme>
+  <programme start="20210109024800 +0700" stop="20210109030800 +0700" channel="nickjr">
+    <title><![CDATA[Blaze and the Monster Machines S5 EP.506]]></title>
+  </programme>
+  <programme start="20210109030800 +0700" stop="20210109033300 +0700" channel="nickjr">
+    <title><![CDATA[Blaze and the Monster Machines S5 EP.507]]></title>
+  </programme>
+  <programme start="20210109033300 +0700" stop="20210109035300 +0700" channel="nickjr">
+    <title><![CDATA[Rusty Rivets S1 EP.110]]></title>
+  </programme>
+  <programme start="20210109035300 +0700" stop="20210109041800 +0700" channel="nickjr">
+    <title><![CDATA[Abby Hatcher S1 EP.117]]></title>
+  </programme>
+  <programme start="20210109041800 +0700" stop="20210109043800 +0700" channel="nickjr">
+    <title><![CDATA[Butterbean's Café S1 EP.131]]></title>
+  </programme>
+  <programme start="20210109043800 +0700" stop="20210109045800 +0700" channel="nickjr">
+    <title><![CDATA[Bubble Guppies S4 EP.403]]></title>
+  </programme>
+  <programme start="20210109045800 +0700" stop="20210109050300 +0700" channel="nickjr">
+    <title><![CDATA[Peppa Pig S1 EP.151]]></title>
+  </programme>
+  <programme start="20210109050300 +0700" stop="20210109051300 +0700" channel="nickjr">
+    <title><![CDATA[Peppa Pig S2 EP.201]]></title>
+  </programme>
+  <programme start="20210109051300 +0700" stop="20210109053300 +0700" channel="nickjr">
+    <title><![CDATA[Barbapapa - One Big Happy Family! S1 EP.103]]></title>
+  </programme>
+  <programme start="20210109053300 +0700" stop="20210109055800 +0700" channel="nickjr">
+    <title><![CDATA[Blue's Clues & You S1 EP.108]]></title>
+  </programme>
+  <programme start="20210109055800 +0700" stop="20210109063800 +0700" channel="nickjr">
+    <title><![CDATA[PAW Patrol: Jet To The Rescue S1 EP.993]]></title>
+  </programme>
+  <programme start="20210109063800 +0700" stop="20210109070300 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S5 EP.518]]></title>
+  </programme>
+  <programme start="20210109070300 +0700" stop="20210109072300 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S4 EP.407]]></title>
+  </programme>
+  <programme start="20210109072300 +0700" stop="20210109074800 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S4 EP.410]]></title>
+  </programme>
+  <programme start="20210109074800 +0700" stop="20210109081300 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S4 EP.404]]></title>
+  </programme>
+  <programme start="20210109081300 +0700" stop="20210109082300 +0700" channel="nickjr">
+    <title><![CDATA[Top Wing S2 EP.203]]></title>
+  </programme>
+  <programme start="20210109082300 +0700" stop="20210109084800 +0700" channel="nickjr">
+    <title><![CDATA[The Adventures of Paddington S1 EP.117]]></title>
+  </programme>
+  <programme start="20210109084800 +0700" stop="20210109090800 +0700" channel="nickjr">
+    <title><![CDATA[Bubble Guppies S3 EP.317]]></title>
+  </programme>
+  <programme start="20210109090800 +0700" stop="20210109091800 +0700" channel="nickjr">
+    <title><![CDATA[Abby Hatcher S1 EP.110]]></title>
+  </programme>
+  <programme start="20210109091800 +0700" stop="20210109094300 +0700" channel="nickjr">
+    <title><![CDATA[Butterbean's Café S1 EP.110]]></title>
+  </programme>
+  <programme start="20210109094300 +0700" stop="20210109100300 +0700" channel="nickjr">
+    <title><![CDATA[Blue's Clues & You S1 EP.103]]></title>
+  </programme>
+  <programme start="20210109100300 +0700" stop="20210109102300 +0700" channel="nickjr">
+    <title><![CDATA[Blaze and the Monster Machines S4 EP.413]]></title>
+  </programme>
+  <programme start="20210109102300 +0700" stop="20210109104300 +0700" channel="nickjr">
+    <title><![CDATA[Blaze and the Monster Machines S4 EP.414]]></title>
+  </programme>
+  <programme start="20210109104300 +0700" stop="20210109105800 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S1 EP.106]]></title>
+  </programme>
+  <programme start="20210109105800 +0700" stop="20210109110800 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S1 EP.106]]></title>
+  </programme>
+  <programme start="20210109110800 +0700" stop="20210109112800 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S4 EP.421]]></title>
+  </programme>
+  <programme start="20210109112800 +0700" stop="20210109120000 +0700" channel="nickjr">
+    <title><![CDATA[The Adventures of Paddington S1 EP.105]]></title>
+  </programme>
+  <programme start="20210109120000 +0700" stop="20210109120500 +0700" channel="nickjr">
+    <title><![CDATA[Peppa Pig S2 EP.201]]></title>
+  </programme>
+  <programme start="20210109120500 +0700" stop="20210109121000 +0700" channel="nickjr">
+    <title><![CDATA[Peppa Pig S2 EP.202]]></title>
+  </programme>
+  <programme start="20210109121000 +0700" stop="20210109121500 +0700" channel="nickjr">
+    <title><![CDATA[Peppa Pig S2 EP.203]]></title>
+  </programme>
+  <programme start="20210109121500 +0700" stop="20210109122000 +0700" channel="nickjr">
+    <title><![CDATA[Calvin & Kaison's Play Power S1 EP.109]]></title>
+  </programme>
+  <programme start="20210109122000 +0700" stop="20210109122500 +0700" channel="nickjr">
+    <title><![CDATA[Calvin & Kaison's Play Power S1 EP.110]]></title>
+  </programme>
+  <programme start="20210109122500 +0700" stop="20210109123000 +0700" channel="nickjr">
+    <title><![CDATA[Ready Set Dance S1 EP.114]]></title>
+  </programme>
+  <programme start="20210109123000 +0700" stop="20210109125500 +0700" channel="nickjr">
+    <title><![CDATA[Blue's Clues & You S1 EP.107]]></title>
+  </programme>
+  <programme start="20210109125500 +0700" stop="20210109131500 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S3 EP.310]]></title>
+  </programme>
+  <programme start="20210109131500 +0700" stop="20210109134000 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S3 EP.311]]></title>
+  </programme>
+  <programme start="20210109134000 +0700" stop="20210109140500 +0700" channel="nickjr">
+    <title><![CDATA[The Adventures of Paddington S1 EP.104]]></title>
+  </programme>
+  <programme start="20210109140500 +0700" stop="20210109142500 +0700" channel="nickjr">
+    <title><![CDATA[Shimmer and Shine S1 EP.109]]></title>
+  </programme>
+  <programme start="20210109142500 +0700" stop="20210109145000 +0700" channel="nickjr">
+    <title><![CDATA[Top Wing S1 EP.109]]></title>
+  </programme>
+  <programme start="20210109145000 +0700" stop="20210109151000 +0700" channel="nickjr">
+    <title><![CDATA[Blaze and the Monster Machines S5 EP.506]]></title>
+  </programme>
+  <programme start="20210109151000 +0700" stop="20210109153500 +0700" channel="nickjr">
+    <title><![CDATA[Blaze and the Monster Machines S5 EP.507]]></title>
+  </programme>
+  <programme start="20210109153500 +0700" stop="20210109155500 +0700" channel="nickjr">
+    <title><![CDATA[Rusty Rivets S1 EP.110]]></title>
+  </programme>
+  <programme start="20210109155500 +0700" stop="20210109162000 +0700" channel="nickjr">
+    <title><![CDATA[Abby Hatcher S1 EP.117]]></title>
+  </programme>
+  <programme start="20210109162000 +0700" stop="20210109164000 +0700" channel="nickjr">
+    <title><![CDATA[Butterbean's Café S1 EP.131]]></title>
+  </programme>
+  <programme start="20210109164000 +0700" stop="20210109170000 +0700" channel="nickjr">
+    <title><![CDATA[Bubble Guppies S4 EP.403]]></title>
+  </programme>
+  <programme start="20210109170000 +0700" stop="20210109170500 +0700" channel="nickjr">
+    <title><![CDATA[Peppa Pig S1 EP.151]]></title>
+  </programme>
+  <programme start="20210109170500 +0700" stop="20210109171500 +0700" channel="nickjr">
+    <title><![CDATA[Peppa Pig S2 EP.201]]></title>
+  </programme>
+  <programme start="20210109171500 +0700" stop="20210109173500 +0700" channel="nickjr">
+    <title><![CDATA[Barbapapa - One Big Happy Family! S1 EP.103]]></title>
+  </programme>
+  <programme start="20210109173500 +0700" stop="20210109180000 +0700" channel="nickjr">
+    <title><![CDATA[Blue's Clues & You S1 EP.108]]></title>
+  </programme>
+  <programme start="20210109180000 +0700" stop="20210109184000 +0700" channel="nickjr">
+    <title><![CDATA[PAW Patrol: Jet To The Rescue S1 EP.993]]></title>
+  </programme>
+  <programme start="20210109184000 +0700" stop="20210109190500 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S5 EP.518]]></title>
+  </programme>
+  <programme start="20210109190500 +0700" stop="20210109192500 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S4 EP.407]]></title>
+  </programme>
+  <programme start="20210109192500 +0700" stop="20210109195000 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S4 EP.410]]></title>
+  </programme>
+  <programme start="20210109195000 +0700" stop="20210109201500 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S4 EP.404]]></title>
+  </programme>
+  <programme start="20210109201500 +0700" stop="20210109202500 +0700" channel="nickjr">
+    <title><![CDATA[Top Wing S2 EP.203]]></title>
+  </programme>
+  <programme start="20210109202500 +0700" stop="20210109205000 +0700" channel="nickjr">
+    <title><![CDATA[The Adventures of Paddington S1 EP.117]]></title>
+  </programme>
+  <programme start="20210109205000 +0700" stop="20210109211000 +0700" channel="nickjr">
+    <title><![CDATA[Bubble Guppies S3 EP.317]]></title>
+  </programme>
+  <programme start="20210109211000 +0700" stop="20210109212000 +0700" channel="nickjr">
+    <title><![CDATA[Abby Hatcher S1 EP.110]]></title>
+  </programme>
+  <programme start="20210109212000 +0700" stop="20210109214500 +0700" channel="nickjr">
+    <title><![CDATA[Butterbean's Café S1 EP.110]]></title>
+  </programme>
+  <programme start="20210109214500 +0700" stop="20210109220500 +0700" channel="nickjr">
+    <title><![CDATA[Blue's Clues & You S1 EP.103]]></title>
+  </programme>
+  <programme start="20210109220500 +0700" stop="20210109222500 +0700" channel="nickjr">
+    <title><![CDATA[Blaze and the Monster Machines S4 EP.413]]></title>
+  </programme>
+  <programme start="20210109222500 +0700" stop="20210109224500 +0700" channel="nickjr">
+    <title><![CDATA[Blaze and the Monster Machines S4 EP.414]]></title>
+  </programme>
+  <programme start="20210109224500 +0700" stop="20210109230000 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S1 EP.106]]></title>
+  </programme>
+  <programme start="20210109230000 +0700" stop="20210109231000 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S1 EP.106]]></title>
+  </programme>
+  <programme start="20210109231000 +0700" stop="20210109233500 +0700" channel="nickjr">
+    <title><![CDATA[Paw Patrol S4 EP.421]]></title>
+  </programme>
+  <programme start="20210109233500 +0700" stop="20210110000000 +0700" channel="nickjr">
+    <title><![CDATA[The Adventures of Paddington S1 EP.105]]></title>
+  </programme>
+  <programme start="20210110000000 +0700" stop="20210110000500 +0700" channel="nickjr">
+    <title><![CDATA[Peppa Pig S2 EP.204]]></title>
+  </programme>
+  <programme start="20210110000500 +0700" stop="20210110001000 +0700" channel="nickjr">
+    <title><![CDATA[Peppa Pig S2 EP.205]]></title>
+  </programme>
+  <programme start="20210110001000 +0700" stop="20210110002800 +0700" channel="nickjr">
+    <title><![CDATA[Barbapapa - One Big Happy Family! S1 EP.102]]></title>
+  </programme>
+  <programme start="20210110002800 +0700" stop="20210110005300 +0700" channel="nickjr">
+    <title><![CDATA[Blue's Clues & You S1 EP.108]]></title>
+  </programme>
+  <programme start="20210110005300 +0700" stop="20210110013800 +0700" channel="nickjr">
+    <title><![CDATA[Dora The Explorer S999 EP.995]]></title>
+  </programme>
+  <programme start="20210110013800 +0700" stop="20210110020300 +0700" channel="nickjr">
+    <title><![CDATA[The Adventures of Paddington S1 EP.105]]></title>
+  </programme>
+  <programme start="20210110020300 +0700" stop="20210110022300 +0700" channel="nickjr">
+    <title><![CDATA[Shimmer and Shine S1 EP.110]]></title>
+  </programme>
+  <programme start="20210110022300 +0700" stop="20210110024800 +0700" channel="nickjr">
+    <title><![CDATA[Top Wing S1 EP.110]]></title>
+  </programme>
+  <programme start="20210110024800 +0700" stop="20210110030800 +0700" channel="nickjr">
+    <title><![CDATA[Blaze and the Monster Machines S5 EP.509]]></title>
   </programme>
   <programme start="20210108074500 -0000" stop="20210108091500 -0000" channel="one">
     <title><![CDATA[แผนรักแผนร้าย]]></title>
@@ -6459,13 +7676,13 @@ Romance, Family]]></sub-title>
     <title><![CDATA[MV]]></title>
     <desc><![CDATA[เพลิดเพลินกับมิวสิควิดีโอเพลงของเหล่าศิลปินที่คุณชื่นชอบ]]></desc>
   </programme>
-  <programme start="20210108065500 -0000" stop="20210108075200 -0000" channel="pptv">
-    <title><![CDATA[ตามสัญญา]]></title>
-    <desc><![CDATA[รายการที่จะพาคุณผู้ชมไปพบกับแขกรับเชิญ บุคคลที่มีชื่อเสียง ตามสถานที่ต่างๆ]]></desc>
+  <programme start="20210111192000 -0000" stop="20210111200000 -0000" channel="one">
+    <title><![CDATA[รักล้นๆคนเต็มบ้าน]]></title>
+    <desc><![CDATA[เรื่องราวคู่รักที่เพิ่งแต่งงานกันแค่ 7 วัน แล้วบ้านญาติฝ่ายหญิงที่สุพรรณบุรีเกิดไฟไหม้ จึงต้องย้ายมาอยู่กรุงเทพ แค่ย้ายมาวันแรกก็เกิดเรื่องวุ่นซะแล้ว]]></desc>
   </programme>
-  <programme start="20210108075200 -0000" stop="20210108075500 -0000" channel="pptv">
-    <title><![CDATA[นาทีข่าว]]></title>
-    <desc><![CDATA[ข่าวด่วน ข่าวเด่นทันต่อสถานการณ์]]></desc>
+  <programme start="20210111200000 -0000" stop="20210111210000 -0000" channel="one">
+    <title><![CDATA[วันนี้มีธรรม]]></title>
+    <desc><![CDATA[รับบุญ ฟังเทศน์ ฟังธรรม แต่เช้าตรู่ ร่วมคิดวิเคราะห์และนำคำสอนทางพระพุทธศาสนาไปใช้ในชีวิต]]></desc>
   </programme>
   <programme start="20210108075500 -0000" stop="20210108100000 -0000" channel="pptv">
     <title><![CDATA[หนังดังยามบ่าย]]></title>
@@ -6727,6 +7944,141 @@ Romance, Family]]></sub-title>
     <title><![CDATA[Top Ten]]></title>
     <desc><![CDATA[รายการกีฬา]]></desc>
   </programme>
+  <programme start="20210110170000 -0000" stop="20210110173000 -0000" channel="pptv">
+    <title><![CDATA[True Shopping]]></title>
+    <desc><![CDATA[คัดสรรสินค้าและบริการต่างๆที่มีคุณภาพ นำเสนอต่อผู้ชมรายการทั่วประเทศเพื่อให้สามารถเลือกซื้อสินค้าด้วยความสะดวกสบาย]]></desc>
+  </programme>
+  <programme start="20210110173000 -0000" stop="20210110210000 -0000" channel="pptv">
+    <title><![CDATA[Home of Football Weekend]]></title>
+    <desc><![CDATA[รายการกีฬาฟุตบอล]]></desc>
+  </programme>
+  <programme start="20210110210000 -0000" stop="20210110213000 -0000" channel="pptv">
+    <title><![CDATA[True Shopping]]></title>
+    <desc><![CDATA[คัดสรรสินค้าและบริการต่างๆที่มีคุณภาพ นำเสนอต่อผู้ชมรายการทั่วประเทศเพื่อให้สามารถเลือกซื้อสินค้าด้วยความสะดวกสบาย]]></desc>
+  </programme>
+  <programme start="20210110213000 -0000" stop="20210110220000 -0000" channel="pptv">
+    <title><![CDATA[มองมุมใหม่ Birds Eye View]]></title>
+    <desc><![CDATA[รายการท่องเที่ยวที่จะพาคุณไปสัมผัสประเทศไทยที่ให้เห็น ความงาม ของทัศนียภาพ จากมุมสูงที่ใครหลายคนอาจ ไม่เคยเห็นมาก่อน เก็บซ็อตมันส์มันส์แบบแอกซ์ตรีม]]></desc>
+  </programme>
+  <programme start="20210110220000 -0000" stop="20210110223000 -0000" channel="pptv">
+    <title><![CDATA[TV Direct]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้าช้อปปิ้งโดยใช้นวัตกรรมที่หลากหลายตั้งแต่แบรด์สินค้าระดับโลกและของไทยในราคาสุดพิเศษ]]></desc>
+  </programme>
+  <programme start="20210110223000 -0000" stop="20210110230000 -0000" channel="pptv">
+    <title><![CDATA[เที่ยวกินกับหมึกแดง]]></title>
+    <desc><![CDATA[เชฟหมึกแดงจะพาไปพบเจอสิ่งใหม่ๆ ที่มาเที่ยว ชิม กิน และทำอาหารแบบใหม่ในสไตล์เชฟหมึกแดง]]></desc>
+  </programme>
+  <programme start="20210110230000 -0000" stop="20210111010000 -0000" channel="pptv">
+    <title><![CDATA[โชว์ข่าวเช้านี้]]></title>
+    <desc><![CDATA[ข่าวเช้าที่จะทำให้คุณเข้าใจข่าวแบบง่ายๆเหมือนเพื่อนคุยข่าวให้ฟังอัดแน่นไปด้วยข่าวใกล้ตัวที่พร้อมเสิร์ฟคุณถึงเช้า]]></desc>
+  </programme>
+  <programme start="20210111010000 -0000" stop="20210111013000 -0000" channel="pptv">
+    <title><![CDATA[โชว์ข่าว 36]]></title>
+    <desc><![CDATA[นำเสนอเชิงประเด็นสังคม ครอบครัว และเด็ก เชิงลึก โดยใช้ข้อมูลข้างเคียงเพื่ออธิบายปรากฎการณ์ และสรุปข่าวในกระแสที่จะเป็นทิศทางของวัน]]></desc>
+  </programme>
+  <programme start="20210111013000 -0000" stop="20210111020000 -0000" channel="pptv">
+    <title><![CDATA[ทันโลกการเงินยามเช้า]]></title>
+    <desc><![CDATA[รายการข่าวเศรษฐกิจ นำเสนอในแวดวงตลาดเงิน ตลาดทุน]]></desc>
+  </programme>
+  <programme start="20210111020000 -0000" stop="20210111021500 -0000" channel="pptv">
+    <title><![CDATA[Pop news daily]]></title>
+    <desc><![CDATA[รายการข่าวบันเทิงของช่องที่จะพาผุ้ชมไปพบกับเบื้องหลังละครและนักแสดงมากมาย]]></desc>
+  </programme>
+  <programme start="20210111021500 -0000" stop="20210111024500 -0000" channel="pptv">
+    <title><![CDATA[บางกอก  จะบอกให้]]></title>
+    <desc><![CDATA[รายการวาไรตี้ ที่นำเสนอเรื่องราวดีๆ สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210111024500 -0000" stop="20210111025000 -0000" channel="pptv">
+    <title><![CDATA[นาทีข่าว]]></title>
+    <desc><![CDATA[ข่าวด่วน ข่าวเด่นทันต่อสถานการณ์]]></desc>
+  </programme>
+  <programme start="20210111025000 -0000" stop="20210111040000 -0000" channel="pptv">
+    <title><![CDATA[ละคร มิติรักผ่านเลนส์]]></title>
+    <desc><![CDATA[ซีรีส์ที่นำเอาเรื่องราวเกี่ยวกับความทรงจำผ่านกล้องถ่ายรูปมาเป็นตัวดำเนินเรื่องราวทั้ง 8 เรื่อง]]></desc>
+  </programme>
+  <programme start="20210111040000 -0000" stop="20210111060000 -0000" channel="pptv">
+    <title><![CDATA[เที่ยงทันข่าว]]></title>
+    <desc><![CDATA[เที่ยงทันข่าว ข่าวเป็นกลางถูกต้องและแตกประเด็นข่าวใหม่ที่จะทำให้คุณไม่พลาดทุกข่าวสำคัญด้วยผู้ประกาศมืออาชีพ]]></desc>
+  </programme>
+  <programme start="20210111060000 -0000" stop="20210111063000 -0000" channel="pptv">
+    <title><![CDATA[Sport Corner]]></title>
+    <desc><![CDATA[อัพเดททุกความเคลื่อนไหวในวงการกีฬาไทย และวงการกีฬาต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210111063000 -0000" stop="20210111070000 -0000" channel="pptv">
+    <title><![CDATA[เป็นเรื่องเป็นข่าว]]></title>
+    <desc><![CDATA[ถกประเด็นข่าวร้อน อยู่ในกระแสของสังคม คมทุกคำถาม]]></desc>
+  </programme>
+  <programme start="20210111070000 -0000" stop="20210111073000 -0000" channel="pptv">
+    <title><![CDATA[The Lighthouse Drive Thru]]></title>
+    <desc><![CDATA[วาไรตี้ครบทุกรสชาติเต็มไปด้วยสาระและบันเทิง เทคโนโลยีรอบตัว สุขภาพให้กับคนในครอบครัว ได้ตามกระแสแบบไม่ตกเทรนด์]]></desc>
+  </programme>
+  <programme start="20210111073000 -0000" stop="20210111080000 -0000" channel="pptv">
+    <title><![CDATA[เที่ยวกินกับหมึกแดง]]></title>
+    <desc><![CDATA[เชฟหมึกแดงจะพาไปพบเจอสิ่งใหม่ๆ ที่มาเที่ยว ชิม กิน และทำอาหารแบบใหม่ในสไตล์เชฟหมึกแดง]]></desc>
+  </programme>
+  <programme start="20210111080000 -0000" stop="20210111080300 -0000" channel="pptv">
+    <title><![CDATA[นาทีข่าว]]></title>
+    <desc><![CDATA[ข่าวด่วน ข่าวเด่นทันต่อสถานการณ์]]></desc>
+  </programme>
+  <programme start="20210111080300 -0000" stop="20210111095500 -0000" channel="pptv">
+    <title><![CDATA[หนังดังยามบ่าย]]></title>
+    <desc><![CDATA[FALLEN เทวทัณฑ์]]></desc>
+  </programme>
+  <programme start="20210111095500 -0000" stop="20210111110000 -0000" channel="pptv">
+    <title><![CDATA[เข้มข่าวเย็น]]></title>
+    <desc><![CDATA[Highlight ข่าวในกระแส สัมภาษณ์ ข่าวสีสันภูมิภาค สีสันสนั่นทุ่ง ข่าวต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210111110000 -0000" stop="20210111130000 -0000" channel="pptv">
+    <title><![CDATA[เข้มข่าวค่ำ]]></title>
+    <desc><![CDATA[ครอบคลุมทุกประเด็นเด่น เข้มทุกประเด็นข่าวในกระแส และเข้มขอบสนาม]]></desc>
+  </programme>
+  <programme start="20210111130000 -0000" stop="20210111131500 -0000" channel="pptv">
+    <title><![CDATA[ข่าวในพระราชสำนัก]]></title>
+  </programme>
+  <programme start="20210111131500 -0000" stop="20210111143000 -0000" channel="pptv">
+    <title><![CDATA[รอบโลก Daily]]></title>
+    <desc><![CDATA[รายการเชิงข่าว Magazine ที่จะคัดกรองข่าวที่มีนัยยะสำคัญที่เกิดขึ้นในแต่ละวันทั้งในและต่างประเทศ]]></desc>
+  </programme>
+  <programme start="20210111143000 -0000" stop="20210111150000 -0000" channel="pptv">
+    <title><![CDATA[Monday Night Caf?]]></title>
+    <desc><![CDATA[สรุปผลหลังการแข่งขันและรวบรวมไฮไลท์การแข่งขันฟุตบอล]]></desc>
+  </programme>
+  <programme start="20210111150000 -0000" stop="20210111153000 -0000" channel="pptv">
+    <title><![CDATA[Highlights Bundesliga]]></title>
+    <desc><![CDATA[รายการกีฬาฟุตบอลไฮไลต์บุนเดสลีกา]]></desc>
+  </programme>
+  <programme start="20210111153000 -0000" stop="20210111153300 -0000" channel="pptv">
+    <title><![CDATA[นาทีข่าว]]></title>
+    <desc><![CDATA[ข่าวด่วน ข่าวเด่นทันต่อสถานการณ์]]></desc>
+  </programme>
+  <programme start="20210111153300 -0000" stop="20210111163000 -0000" channel="pptv">
+    <title><![CDATA[Highlights Bundesliga]]></title>
+    <desc><![CDATA[รายการกีฬาฟุตบอลไฮไลต์บุนเดสลีกา]]></desc>
+  </programme>
+  <programme start="20210111163000 -0000" stop="20210111165959 -0000" channel="pptv">
+    <title><![CDATA[Highlights Carabao Cup]]></title>
+    <desc><![CDATA[รายการกีฬาฟุตบอลไฮไลต์คาราบาวคัพ]]></desc>
+  </programme>
+  <programme start="20210111170000 -0000" stop="20210111172000 -0000" channel="pptv">
+    <title><![CDATA[True Shopping]]></title>
+    <desc><![CDATA[คัดสรรสินค้าและบริการต่างๆที่มีคุณภาพ นำเสนอต่อผู้ชมรายการทั่วประเทศเพื่อให้สามารถเลือกซื้อสินค้าด้วยความสะดวกสบาย]]></desc>
+  </programme>
+  <programme start="20210111172000 -0000" stop="20210111173000 -0000" channel="pptv">
+    <title><![CDATA[Pop news daily]]></title>
+    <desc><![CDATA[รายการข่าวบันเทิงของช่องที่จะพาผุ้ชมไปพบกับเบื้องหลังละครและนักแสดงมากมาย]]></desc>
+  </programme>
+  <programme start="20210111173000 -0000" stop="20210111180000 -0000" channel="pptv">
+    <title><![CDATA[TV Direct]]></title>
+    <desc><![CDATA[รายการแนะนำสินค้าช้อปปิ้งโดยใช้นวัตกรรมที่หลากหลายตั้งแต่แบรด์สินค้าระดับโลกและของไทยในราคาสุดพิเศษ]]></desc>
+  </programme>
+  <programme start="20210111180000 -0000" stop="20210111183000 -0000" channel="pptv">
+    <title><![CDATA[Home of Sport Weekday]]></title>
+    <desc><![CDATA[รายการกีฬา]]></desc>
+  </programme>
+  <programme start="20210111183000 -0000" stop="20210111213000 -0000" channel="pptv">
+    <title><![CDATA[True Shopping]]></title>
+    <desc><![CDATA[คัดสรรสินค้าและบริการต่างๆที่มีคุณภาพ นำเสนอต่อผู้ชมรายการทั่วประเทศเพื่อให้สามารถเลือกซื้อสินค้าด้วยความสะดวกสบาย]]></desc>
+  </programme>
   <programme start="20210108000000 +0700" stop="20210108003000 +0700" channel="premier1">
     <title><![CDATA[PL Netbuster 2020/21]]></title>
   </programme>
@@ -6891,14 +8243,6 @@ Romance, Family]]></sub-title>
   </programme>
   <programme start="20210108230000 +0700" stop="20210108235959 +0700" channel="premier2">
     <title><![CDATA[Fanzone]]></title>
-  </programme>
-  <programme start="20210108070500 -0000" stop="20210108080000 -0000" channel="thaipbs">
-    <title><![CDATA[สถานีประชาชน]]></title>
-    <desc><![CDATA[เป็นสื่อกลางเพื่อนำเสนอปัญหาและหาทางออกของปัญหา เป็นที่พึ่งของประชาชนที่หาทางออกให้คุณได้]]></desc>
-  </programme>
-  <programme start="20210108080000 -0000" stop="20210108080500 -0000" channel="thaipbs">
-    <title><![CDATA[ทันข่าว 15.00 น.]]></title>
-    <desc><![CDATA[รายงานข่าวตามสถานการณ์ต้นชั่วโมง]]></desc>
   </programme>
   <programme start="20210108080500 -0000" stop="20210108083000 -0000" channel="thaipbs">
     <title><![CDATA[คนสู้โรค]]></title>
@@ -7378,12 +8722,6 @@ Romance, Family]]></sub-title>
   <programme start="20210111180000 -0000" stop="20210111213000 -0000" channel="thaipbs">
     <title><![CDATA[ปิดสถานี]]></title>
   </programme>
-  <programme start="20210108063000 -0000" stop="20210108072800 -0000" channel="thairath">
-    <title><![CDATA[บันเทิงไทยรัฐ]]></title>
-  </programme>
-  <programme start="20210108072800 -0000" stop="20210108073000 -0000" channel="thairath">
-    <title><![CDATA[Express News]]></title>
-  </programme>
   <programme start="20210108073000 -0000" stop="20210108082800 -0000" channel="thairath">
     <title><![CDATA[เกมต่อชีวิต (Rerun)]]></title>
   </programme>
@@ -7653,14 +8991,6 @@ Romance, Family]]></sub-title>
   </programme>
   <programme start="20210110161500 -0000" stop="20210110165959 -0000" channel="thairath">
     <title><![CDATA[ท่องโลกไปกับจอร์ชกาเซีย]]></title>
-  </programme>
-  <programme start="20210108070500 -0000" stop="20210108073000 -0000" channel="tnn16">
-    <title><![CDATA[เศรษฐกิจอินไซต์]]></title>
-    <desc><![CDATA[นำเสนอความเคลื่อนไหวในแวดวงเศรษฐกิจ การเงิน ทั้งในและต่างประเทศ รวมไปถึงเทคโนโลยีและนวัตกรรมที่ส่งเสริมการพัฒนาเศรษฐกิจ Startup]]></desc>
-  </programme>
-  <programme start="20210108073000 -0000" stop="20210108080000 -0000" channel="tnn16">
-    <title><![CDATA[EEC Focus]]></title>
-    <desc><![CDATA[รายการเสริมสร้างความรู้ความเคลื่อนไหวเชิงลึกในโครงการพัฒนาระเบียงเศรษฐกิจพิเศษภาคตะวันออก หรือ EEC]]></desc>
   </programme>
   <programme start="20210108080000 -0000" stop="20210108083000 -0000" channel="tnn16">
     <title><![CDATA[เรื่องดีดีทั่วไทย]]></title>
@@ -8130,11 +9460,9 @@ Romance, Family]]></sub-title>
     <title><![CDATA[TNN World Today]]></title>
     <desc><![CDATA[สรุปเหตุการณ์ข่าวตลอดทั้งวันที่มีความหลากหลายจากในและต่างประเทศ พร้อมทั้งการรายงานสภาพอากาศจากทุกมุมโลก]]></desc>
   </programme>
-  <programme start="20210108140000 +0700" stop="20210108143000 +0700" channel="toonee">
-    <title><![CDATA[GG BOND S.13_EP.111 + EP.112 // TOONEE DOONEE USSD]]></title>
-  </programme>
-  <programme start="20210108143000 +0700" stop="20210108150000 +0700" channel="toonee">
-    <title><![CDATA[TEENAGE MUTANT NINJA TURTLES S.3_EP.1  // TOONEEUPDATE]]></title>
+  <programme start="20210111200000 -0000" stop="20210111213000 -0000" channel="tnn16">
+    <title><![CDATA[TNN ข่าวดึก]]></title>
+    <desc><![CDATA[สรุปเหตุการณ์ข่าวตลอดทั้งวันที่มีความหลากหลายจากในและต่างประเทศพร้อมทั้งการรายงานสภาพอากาศจากทุกมุมโลก]]></desc>
   </programme>
   <programme start="20210108150000 +0700" stop="20210108153000 +0700" channel="toonee">
     <title><![CDATA[BLAZE AND THE MONSTER MACHINES S.2_EP.19]]></title>
@@ -8288,14 +9616,6 @@ Romance, Family]]></sub-title>
   </programme>
   <programme start="20210110013000 +0700" stop="20210110050000 +0700" channel="toonee">
     <title><![CDATA[GG BOND S.1_EP.119 + EP.120]]></title>
-  </programme>
-  <programme start="20210108123000 +0700" stop="20210108142500 +0700" channel="true4u">
-    <title><![CDATA[ภาพยนตร์ เธอแรงหยุดโลก]]></title>
-    <desc><![CDATA[เจ้าหน้าที่รัฐสาวถูกทรยศหักหลังโดยหน่วยงานของเธอรวมถึงคนไว้ใจซึ่งทำให้ชีวิตของเธอต้องตกอยู่ในอันตราย]]></desc>
-  </programme>
-  <programme start="20210108142500 +0700" stop="20210108143500 +0700" channel="true4u">
-    <title><![CDATA[ทรูช้อปปิ้ง]]></title>
-    <desc><![CDATA[พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตล]]></desc>
   </programme>
   <programme start="20210108143500 +0700" stop="20210108163000 +0700" channel="true4u">
     <title><![CDATA[ภาพยนตร์ ฮ้อ..แรง]]></title>
@@ -8456,6 +9776,442 @@ Romance, Family]]></sub-title>
   <programme start="20210110020000 +0700" stop="20210110023000 +0700" channel="true4u">
     <title><![CDATA[ทรูช้อปปิ้ง]]></title>
     <desc><![CDATA[พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ]]></desc>
+  </programme>
+  <programme start="20210110023000 +0700" stop="20210110030000 +0700" channel="true4u">
+    <title><![CDATA[ทรูช้อปปิ้ง]]></title>
+    <desc><![CDATA[พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ]]></desc>
+  </programme>
+  <programme start="20210110030000 +0700" stop="20210110033000 +0700" channel="true4u">
+    <title><![CDATA[ทรูช้อปปิ้ง]]></title>
+    <desc><![CDATA[พบกับมิติใหม่แห่งการสั่งซื้อสินค้าผ่านจอโทรทัศน์ตลอดยี่สิบสี่ชั่วโมงเพื่อเอาใจคนรุ่นใหม่ที่รักการช้อ]]></desc>
+  </programme>
+  <programme start="20210108000000 +0700" stop="20210108000100 +0700" channel="truesparkjump">
+    <title><![CDATA[เพลงสรรเสริญพระบารมี ร.10]]></title>
+    <sub-title><![CDATA[SR-ENT-KN ::]]></sub-title>
+  </programme>
+  <programme start="20210108000100 +0700" stop="20210108003000 +0700" channel="truesparkjump">
+    <title><![CDATA[หนูน้อยจอมซ่า...มารุโกะจัง]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ภาพยนตร์การ์ตูนเกี่ยวกับเด็กหญิงนักเรียนประถมที่อาศัยอยู่กับครอบครัวในเมืองเล็กๆและมีเพื่อนเล่นมากมาย]]></desc>
+  </programme>
+  <programme start="20210108003000 +0700" stop="20210108010000 +0700" channel="truesparkjump">
+    <title><![CDATA[ฝากฝันไว้ที่เสียงโคโตะ!]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของนักเรียนปีสองคนเดียวที่เหลืออยู่ของชมรมโคโตะผู้ต้องการรักษาชมรมเอาไว้ให้ได้ท่ามกลางสารพัดปัญหามากมาย]]></desc>
+  </programme>
+  <programme start="20210108010000 +0700" stop="20210108013000 +0700" channel="truesparkjump">
+    <title><![CDATA[ชิจัง !!  ป่วนสุดติ่ง]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับเรื่องราวอันแสนอบอุ่นและประทับใจของเด็กหญิงที่ชื่อว่า ยูกะ ที่ได้พบกับสิ่งมีชีวิตจากส่วนลึกของโลก การใช้ชีวิตและความวุ่นวายจึงเริ่มต้น]]></desc>
+  </programme>
+  <programme start="20210108013000 +0700" stop="20210108020000 +0700" channel="truesparkjump">
+    <title><![CDATA[แซค จิงค์ส]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับวันหรรษาของเด็กชายวัยแปดขวบที่แสนซุกซนและน่ารัก]]></desc>
+  </programme>
+  <programme start="20210108020000 +0700" stop="20210108023000 +0700" channel="truesparkjump">
+    <title><![CDATA[คุณพ่อขายาว]]></title>
+    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
+    <desc><![CDATA[เรื่องราวของ จูดี้ แอบบอตต์ ที่กำลังศึกษาในวิทยาลัย เขียนจดหมายเล่าถึงชีวิตของเธอถึงผู้อุปการะเธอ ชายผู้ร่ำรวยที่เธอไม่เคยเห็นหน้า]]></desc>
+  </programme>
+  <programme start="20210108023000 +0700" stop="20210108030000 +0700" channel="truesparkjump">
+    <title><![CDATA[กรอจแบนด์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของวงดนตรีแนวอินดี้ร็อคที่ก่อตั้งโดยเพื่อนรักสี่คนกับภารกิจล่าฝันเพื่อก้าวไปสู่ความโด่งดังระดับสากล]]></desc>
+  </programme>
+  <programme start="20210108030000 +0700" stop="20210108033000 +0700" channel="truesparkjump">
+    <title><![CDATA[ยอดนักสืบจิ๋วโคนัน เดอะซีรี่ส์   [ 19 ]]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของนักสืบ โคนัน ที่ใช้อุปกรณ์ประดิษฐ์พิเศษช่วยคลี่คลายคดีต่างๆด้วยหลักการและเหตุผล]]></desc>
+  </programme>
+  <programme start="20210108033000 +0700" stop="20210108040000 +0700" channel="truesparkjump">
+    <title><![CDATA[คุณครูสุดฮา นักเรียนสุดซ่าส์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ภาพยนตร์การ์ตูนสัญชาติญี่ปุ่นเกี่ยวกับตัวตุ่นสติเฟื่องจอมอลเวงที่เป็นคุณครูในโรงเรียนประถมและเหล่าเด็กๆ นักเรียนสุดซ่าส์ซึ่งเป็นมนุษย์]]></desc>
+  </programme>
+  <programme start="20210108040000 +0700" stop="20210108043000 +0700" channel="truesparkjump">
+    <title><![CDATA[หนูน้อยจอมซ่า...มารุโกะจัง]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ภาพยนตร์การ์ตูนเกี่ยวกับเด็กหญิงนักเรียนประถมที่อาศัยอยู่กับครอบครัวในเมืองเล็กๆและมีเพื่อนเล่นมากมาย]]></desc>
+  </programme>
+  <programme start="20210108043000 +0700" stop="20210108050000 +0700" channel="truesparkjump">
+    <title><![CDATA[ปาร์แมน   [ 2 ]]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของเด็กชายในโรงเรียนประถมที่ได้รับพลังพิเศษจนกลายเป็นยอดมนุษย์ปาร์แมนและได้ออกช่วยเหลือผู้คนพร้อมกับพิทักษ์ปฐพีไปพร้อมๆกัน]]></desc>
+  </programme>
+  <programme start="20210108050000 +0700" stop="20210108053000 +0700" channel="truesparkjump">
+    <title><![CDATA[โลกหรรษาของลูคัสและเอมิลี่]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[สนุกสดใสและออกไปผจญภัยกับลูคัสและแฟมิลี่ ที่มาพร้อมกับสัตว์ประหลาดสุดมหัศจรรย์]]></desc>
+  </programme>
+  <programme start="20210108053000 +0700" stop="20210108060000 +0700" channel="truesparkjump">
+    <title><![CDATA[มอนสเตอร์ฮันเตอร์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ผจญภัยไปยังโลกแห่งแฟนตาซีไปกับฮีโร่สุดเท่ห์พร้อมทั้งปลุกพลังของมอนสเตอร์ให้ออกมาใช้ชีวิตอยู่เคียงข้างไปด้วยกัน]]></desc>
+  </programme>
+  <programme start="20210108060000 +0700" stop="20210108063000 +0700" channel="truesparkjump">
+    <title><![CDATA[หนูน้อยจอมซ่า...มารุโกะจัง]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ภาพยนตร์การ์ตูนเกี่ยวกับเด็กหญิงนักเรียนประถมที่อาศัยอยู่กับครอบครัวในเมืองเล็กๆและมีเพื่อนเล่นมากมาย]]></desc>
+  </programme>
+  <programme start="20210108063000 +0700" stop="20210108070000 +0700" channel="truesparkjump">
+    <title><![CDATA[ฝากฝันไว้ที่เสียงโคโตะ!]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของนักเรียนปีสองคนเดียวที่เหลืออยู่ของชมรมโคโตะผู้ต้องการรักษาชมรมเอาไว้ให้ได้ท่ามกลางสารพัดปัญหามากมาย]]></desc>
+  </programme>
+  <programme start="20210108070000 +0700" stop="20210108073000 +0700" channel="truesparkjump">
+    <title><![CDATA[ชิจัง !!  ป่วนสุดติ่ง]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับเรื่องราวอันแสนอบอุ่นและประทับใจของเด็กหญิงที่ชื่อว่า ยูกะ ที่ได้พบกับสิ่งมีชีวิตจากส่วนลึกของโลก การใช้ชีวิตและความวุ่นวายจึงเริ่มต้น]]></desc>
+  </programme>
+  <programme start="20210108073000 +0700" stop="20210108080000 +0700" channel="truesparkjump">
+    <title><![CDATA[แซค จิงค์ส]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับวันหรรษาของเด็กชายวัยแปดขวบที่แสนซุกซนและน่ารัก]]></desc>
+  </programme>
+  <programme start="20210108080000 +0700" stop="20210108083000 +0700" channel="truesparkjump">
+    <title><![CDATA[คุณพ่อขายาว]]></title>
+    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
+    <desc><![CDATA[เรื่องราวของ จูดี้ แอบบอตต์ ที่กำลังศึกษาในวิทยาลัย เขียนจดหมายเล่าถึงชีวิตของเธอถึงผู้อุปการะเธอ ชายผู้ร่ำรวยที่เธอไม่เคยเห็นหน้า]]></desc>
+  </programme>
+  <programme start="20210108083000 +0700" stop="20210108090000 +0700" channel="truesparkjump">
+    <title><![CDATA[กรอจแบนด์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของวงดนตรีแนวอินดี้ร็อคที่ก่อตั้งโดยเพื่อนรักสี่คนกับภารกิจล่าฝันเพื่อก้าวไปสู่ความโด่งดังระดับสากล]]></desc>
+  </programme>
+  <programme start="20210108090000 +0700" stop="20210108093000 +0700" channel="truesparkjump">
+    <title><![CDATA[ยอดนักสืบจิ๋วโคนัน เดอะซีรี่ส์   [ 19 ]]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของนักสืบ โคนัน ที่ใช้อุปกรณ์ประดิษฐ์พิเศษช่วยคลี่คลายคดีต่างๆด้วยหลักการและเหตุผล]]></desc>
+  </programme>
+  <programme start="20210108093000 +0700" stop="20210108100000 +0700" channel="truesparkjump">
+    <title><![CDATA[คุณครูสุดฮา นักเรียนสุดซ่าส์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ภาพยนตร์การ์ตูนสัญชาติญี่ปุ่นเกี่ยวกับตัวตุ่นสติเฟื่องจอมอลเวงที่เป็นคุณครูในโรงเรียนประถมและเหล่าเด็กๆ นักเรียนสุดซ่าส์ซึ่งเป็นมนุษย์]]></desc>
+  </programme>
+  <programme start="20210108100000 +0700" stop="20210108103000 +0700" channel="truesparkjump">
+    <title><![CDATA[หนูน้อยจอมซ่า...มารุโกะจัง]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ภาพยนตร์การ์ตูนเกี่ยวกับเด็กหญิงนักเรียนประถมที่อาศัยอยู่กับครอบครัวในเมืองเล็กๆและมีเพื่อนเล่นมากมาย]]></desc>
+  </programme>
+  <programme start="20210108103000 +0700" stop="20210108110000 +0700" channel="truesparkjump">
+    <title><![CDATA[ปาร์แมน   [ 2 ]]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของเด็กชายในโรงเรียนประถมที่ได้รับพลังพิเศษจนกลายเป็นยอดมนุษย์ปาร์แมนและได้ออกช่วยเหลือผู้คนพร้อมกับพิทักษ์ปฐพีไปพร้อมๆกัน]]></desc>
+  </programme>
+  <programme start="20210108110000 +0700" stop="20210108113000 +0700" channel="truesparkjump">
+    <title><![CDATA[โลกหรรษาของลูคัสและเอมิลี่]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[สนุกสดใสและออกไปผจญภัยกับลูคัสและแฟมิลี่ ที่มาพร้อมกับสัตว์ประหลาดสุดมหัศจรรย์]]></desc>
+  </programme>
+  <programme start="20210108113000 +0700" stop="20210108120000 +0700" channel="truesparkjump">
+    <title><![CDATA[มอนสเตอร์ฮันเตอร์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ผจญภัยไปยังโลกแห่งแฟนตาซีไปกับฮีโร่สุดเท่ห์พร้อมทั้งปลุกพลังของมอนสเตอร์ให้ออกมาใช้ชีวิตอยู่เคียงข้างไปด้วยกัน]]></desc>
+  </programme>
+  <programme start="20210108120000 +0700" stop="20210108123000 +0700" channel="truesparkjump">
+    <title><![CDATA[หนูน้อยจอมซ่า...มารุโกะจัง]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ภาพยนตร์การ์ตูนเกี่ยวกับเด็กหญิงนักเรียนประถมที่อาศัยอยู่กับครอบครัวในเมืองเล็กๆและมีเพื่อนเล่นมากมาย]]></desc>
+  </programme>
+  <programme start="20210108123000 +0700" stop="20210108130000 +0700" channel="truesparkjump">
+    <title><![CDATA[ฝากฝันไว้ที่เสียงโคโตะ!]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของนักเรียนปีสองคนเดียวที่เหลืออยู่ของชมรมโคโตะผู้ต้องการรักษาชมรมเอาไว้ให้ได้ท่ามกลางสารพัดปัญหามากมาย]]></desc>
+  </programme>
+  <programme start="20210108130000 +0700" stop="20210108133000 +0700" channel="truesparkjump">
+    <title><![CDATA[ชิจัง !!  ป่วนสุดติ่ง]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับเรื่องราวอันแสนอบอุ่นและประทับใจของเด็กหญิงที่ชื่อว่า ยูกะ ที่ได้พบกับสิ่งมีชีวิตจากส่วนลึกของโลก การใช้ชีวิตและความวุ่นวายจึงเริ่มต้น]]></desc>
+  </programme>
+  <programme start="20210108133000 +0700" stop="20210108140000 +0700" channel="truesparkjump">
+    <title><![CDATA[แซค จิงค์ส]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับวันหรรษาของเด็กชายวัยแปดขวบที่แสนซุกซนและน่ารัก]]></desc>
+  </programme>
+  <programme start="20210108140000 +0700" stop="20210108143000 +0700" channel="truesparkjump">
+    <title><![CDATA[คุณพ่อขายาว]]></title>
+    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
+    <desc><![CDATA[เรื่องราวของ จูดี้ แอบบอตต์ ที่กำลังศึกษาในวิทยาลัย เขียนจดหมายเล่าถึงชีวิตของเธอถึงผู้อุปการะเธอ ชายผู้ร่ำรวยที่เธอไม่เคยเห็นหน้า]]></desc>
+  </programme>
+  <programme start="20210108143000 +0700" stop="20210108150000 +0700" channel="truesparkjump">
+    <title><![CDATA[กรอจแบนด์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของวงดนตรีแนวอินดี้ร็อคที่ก่อตั้งโดยเพื่อนรักสี่คนกับภารกิจล่าฝันเพื่อก้าวไปสู่ความโด่งดังระดับสากล]]></desc>
+  </programme>
+  <programme start="20210108150000 +0700" stop="20210108153000 +0700" channel="truesparkjump">
+    <title><![CDATA[ยอดนักสืบจิ๋วโคนัน เดอะซีรี่ส์   [ 19 ]]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของนักสืบ โคนัน ที่ใช้อุปกรณ์ประดิษฐ์พิเศษช่วยคลี่คลายคดีต่างๆด้วยหลักการและเหตุผล]]></desc>
+  </programme>
+  <programme start="20210108153000 +0700" stop="20210108160000 +0700" channel="truesparkjump">
+    <title><![CDATA[คุณครูสุดฮา นักเรียนสุดซ่าส์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ภาพยนตร์การ์ตูนสัญชาติญี่ปุ่นเกี่ยวกับตัวตุ่นสติเฟื่องจอมอลเวงที่เป็นคุณครูในโรงเรียนประถมและเหล่าเด็กๆ นักเรียนสุดซ่าส์ซึ่งเป็นมนุษย์]]></desc>
+  </programme>
+  <programme start="20210108160000 +0700" stop="20210108163000 +0700" channel="truesparkjump">
+    <title><![CDATA[หนูน้อยจอมซ่า...มารุโกะจัง]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ภาพยนตร์การ์ตูนเกี่ยวกับเด็กหญิงนักเรียนประถมที่อาศัยอยู่กับครอบครัวในเมืองเล็กๆและมีเพื่อนเล่นมากมาย]]></desc>
+  </programme>
+  <programme start="20210108163000 +0700" stop="20210108170000 +0700" channel="truesparkjump">
+    <title><![CDATA[ปาร์แมน   [ 2 ]]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของเด็กชายในโรงเรียนประถมที่ได้รับพลังพิเศษจนกลายเป็นยอดมนุษย์ปาร์แมนและได้ออกช่วยเหลือผู้คนพร้อมกับพิทักษ์ปฐพีไปพร้อมๆกัน]]></desc>
+  </programme>
+  <programme start="20210108170000 +0700" stop="20210108173000 +0700" channel="truesparkjump">
+    <title><![CDATA[โลกหรรษาของลูคัสและเอมิลี่]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[สนุกสดใสและออกไปผจญภัยกับลูคัสและแฟมิลี่ ที่มาพร้อมกับสัตว์ประหลาดสุดมหัศจรรย์]]></desc>
+  </programme>
+  <programme start="20210108173000 +0700" stop="20210108180000 +0700" channel="truesparkjump">
+    <title><![CDATA[มอนสเตอร์ฮันเตอร์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ผจญภัยไปยังโลกแห่งแฟนตาซีไปกับฮีโร่สุดเท่ห์พร้อมทั้งปลุกพลังของมอนสเตอร์ให้ออกมาใช้ชีวิตอยู่เคียงข้างไปด้วยกัน]]></desc>
+  </programme>
+  <programme start="20210108180000 +0700" stop="20210108183000 +0700" channel="truesparkjump">
+    <title><![CDATA[หนูน้อยจอมซ่า...มารุโกะจัง]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ภาพยนตร์การ์ตูนเกี่ยวกับเด็กหญิงนักเรียนประถมที่อาศัยอยู่กับครอบครัวในเมืองเล็กๆและมีเพื่อนเล่นมากมาย]]></desc>
+  </programme>
+  <programme start="20210108183000 +0700" stop="20210108190000 +0700" channel="truesparkjump">
+    <title><![CDATA[ฝากฝันไว้ที่เสียงโคโตะ!]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของนักเรียนปีสองคนเดียวที่เหลืออยู่ของชมรมโคโตะผู้ต้องการรักษาชมรมเอาไว้ให้ได้ท่ามกลางสารพัดปัญหามากมาย]]></desc>
+  </programme>
+  <programme start="20210108190000 +0700" stop="20210108193000 +0700" channel="truesparkjump">
+    <title><![CDATA[ชิจัง !!  ป่วนสุดติ่ง]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับเรื่องราวอันแสนอบอุ่นและประทับใจของเด็กหญิงที่ชื่อว่า ยูกะ ที่ได้พบกับสิ่งมีชีวิตจากส่วนลึกของโลก การใช้ชีวิตและความวุ่นวายจึงเริ่มต้น]]></desc>
+  </programme>
+  <programme start="20210108193000 +0700" stop="20210108200300 +0700" channel="truesparkjump">
+    <title><![CDATA[แซค จิงค์ส]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับวันหรรษาของเด็กชายวัยแปดขวบที่แสนซุกซนและน่ารัก]]></desc>
+  </programme>
+  <programme start="20210108200300 +0700" stop="20210108203000 +0700" channel="truesparkjump">
+    <title><![CDATA[คุณพ่อขายาว]]></title>
+    <sub-title><![CDATA[KIDS :: Animation]]></sub-title>
+    <desc><![CDATA[เรื่องราวของ จูดี้ แอบบอตต์ ที่กำลังศึกษาในวิทยาลัย เขียนจดหมายเล่าถึงชีวิตของเธอถึงผู้อุปการะเธอ ชายผู้ร่ำรวยที่เธอไม่เคยเห็นหน้า]]></desc>
+  </programme>
+  <programme start="20210108203000 +0700" stop="20210108235959 +0700" channel="truesparkjump">
+    <title><![CDATA[กรอจแบนด์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของวงดนตรีแนวอินดี้ร็อคที่ก่อตั้งโดยเพื่อนรักสี่คนกับภารกิจล่าฝันเพื่อก้าวไปสู่ความโด่งดังระดับสากล]]></desc>
+  </programme>
+  <programme start="20210108000000 +0700" stop="20210108000100 +0700" channel="truesparkplay">
+    <title><![CDATA[เพลงสรรเสริญพระบารมี ร.10]]></title>
+    <sub-title><![CDATA[SR-ENT-KN ::]]></sub-title>
+  </programme>
+  <programme start="20210108000100 +0700" stop="20210108003000 +0700" channel="truesparkplay">
+    <title><![CDATA[ดาร์วินและนิวท์ พี่น้อง นักประดิษฐ์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของสองพี่น้องดาร์วินและนิวท์กับการสำรวจและค้นพบความมหัศจรรย์ทางวิทยาศาสตร์อันน่าตื่นเต้น -- ให้เสียงพากย์นำโดย ซาร่าห์ ฮาร์ท และ ซาร่า สโตน]]></desc>
+  </programme>
+  <programme start="20210108003000 +0700" stop="20210108010000 +0700" channel="truesparkplay">
+    <title><![CDATA[ชิมาจิโร]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ลูกเสือจอมอยากรู้อยากเห็น ชิมะจิโระ ชิมาโนะ เข้าโรงเรียนอนุบาลพร้อมด้วยเพื่อนๆที่มาร่วมค้นพบสิ่งต่างๆรอบตัวไปด้วยกัน]]></desc>
+  </programme>
+  <programme start="20210108010000 +0700" stop="20210108011500 +0700" channel="truesparkplay">
+    <title><![CDATA[วาดรูปกันเถอะ]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[รายการที่จะมาเสริมสร้างจินตนาการให้กับคุณหนูๆด้วยการสอนวาดรูปแสนสนุกไม่ว่าจะเป็น สัตว์ ไดโนเสาร์ ดอกไม้ และอื่นๆอีกมากมาย]]></desc>
+  </programme>
+  <programme start="20210108011500 +0700" stop="20210108013000 +0700" channel="truesparkplay">
+    <title><![CDATA[วาดรูปกันเถอะ]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[รายการที่จะมาเสริมสร้างจินตนาการให้กับคุณหนูๆด้วยการสอนวาดรูปแสนสนุกไม่ว่าจะเป็น สัตว์ ไดโนเสาร์ ดอกไม้ และอื่นๆอีกมากมาย]]></desc>
+  </programme>
+  <programme start="20210108013000 +0700" stop="20210108020000 +0700" channel="truesparkplay">
+    <title><![CDATA[ลีโอ หนูน้อยผู้พิทักษ์สัตว์ในป่าใหญ่]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ร่วมออกเดินทางไปกับ ลีโอ และผองเพื่อน ในการผจญภัยครั้งยิ่งใหญ่ทั่วโลกเพื่อสำรวจสถานที่แปลกใหม่และร่วมเรียนรู้เรื่องราวของสัตว์ป่าและธรรมชาติอันน่าทึ่ง]]></desc>
+  </programme>
+  <programme start="20210108020000 +0700" stop="20210108023000 +0700" channel="truesparkplay">
+    <title><![CDATA[ไมค์ยอดอัศวินฝึกหัด   [ 2 ]]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับการผจญภัยแสนสนุกไปกับอัศวินฝึกหัดตัวน้อยและผองเพื่อนของเขา]]></desc>
+  </programme>
+  <programme start="20210108023000 +0700" stop="20210108024500 +0700" channel="truesparkplay">
+    <title><![CDATA[เปเปอร์เทลส์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวการผจญภัยแสนสนุกของเหล่าสัตว์ตัวน้อยในโลกที่ทุกอย่างเป็นกระดาษมีชีวิต]]></desc>
+  </programme>
+  <programme start="20210108024500 +0700" stop="20210108030000 +0700" channel="truesparkplay">
+    <title><![CDATA[เปเปอร์เทลส์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวการผจญภัยแสนสนุกของเหล่าสัตว์ตัวน้อยในโลกที่ทุกอย่างเป็นกระดาษมีชีวิต]]></desc>
+  </programme>
+  <programme start="20210108030000 +0700" stop="20210108033000 +0700" channel="truesparkplay">
+    <title><![CDATA[ดาร์วินและนิวท์ พี่น้อง นักประดิษฐ์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของสองพี่น้องดาร์วินและนิวท์กับการสำรวจและค้นพบความมหัศจรรย์ทางวิทยาศาสตร์อันน่าตื่นเต้น -- ให้เสียงพากย์นำโดย ซาร่าห์ ฮาร์ท และ ซาร่า สโตน]]></desc>
+  </programme>
+  <programme start="20210108033000 +0700" stop="20210108034500 +0700" channel="truesparkplay">
+    <title><![CDATA[วาดรูปกันเถอะ]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[รายการที่จะมาเสริมสร้างจินตนาการให้กับคุณหนูๆด้วยการสอนวาดรูปแสนสนุกไม่ว่าจะเป็น สัตว์ ไดโนเสาร์ ดอกไม้ และอื่นๆอีกมากมาย]]></desc>
+  </programme>
+  <programme start="20210108034500 +0700" stop="20210108040000 +0700" channel="truesparkplay">
+    <title><![CDATA[วาดรูปกันเถอะ]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[รายการที่จะมาเสริมสร้างจินตนาการให้กับคุณหนูๆด้วยการสอนวาดรูปแสนสนุกไม่ว่าจะเป็น สัตว์ ไดโนเสาร์ ดอกไม้ และอื่นๆอีกมากมาย]]></desc>
+  </programme>
+  <programme start="20210108040000 +0700" stop="20210108043000 +0700" channel="truesparkplay">
+    <title><![CDATA[ชิมาจิโร]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ลูกเสือจอมอยากรู้อยากเห็น ชิมะจิโระ ชิมาโนะ เข้าโรงเรียนอนุบาลพร้อมด้วยเพื่อนๆที่มาร่วมค้นพบสิ่งต่างๆรอบตัวไปด้วยกัน]]></desc>
+  </programme>
+  <programme start="20210108043000 +0700" stop="20210108050000 +0700" channel="truesparkplay">
+    <title><![CDATA[ลีโอ หนูน้อยผู้พิทักษ์สัตว์ในป่าใหญ่]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ร่วมออกเดินทางไปกับ ลีโอ และผองเพื่อน ในการผจญภัยครั้งยิ่งใหญ่ทั่วโลกเพื่อสำรวจสถานที่แปลกใหม่และร่วมเรียนรู้เรื่องราวของสัตว์ป่าและธรรมชาติอันน่าทึ่ง]]></desc>
+  </programme>
+  <programme start="20210108050000 +0700" stop="20210108053000 +0700" channel="truesparkplay">
+    <title><![CDATA[ไมค์ยอดอัศวินฝึกหัด   [ 2 ]]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับการผจญภัยแสนสนุกไปกับอัศวินฝึกหัดตัวน้อยและผองเพื่อนของเขา]]></desc>
+  </programme>
+  <programme start="20210108053000 +0700" stop="20210108054500 +0700" channel="truesparkplay">
+    <title><![CDATA[เปเปอร์เทลส์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวการผจญภัยแสนสนุกของเหล่าสัตว์ตัวน้อยในโลกที่ทุกอย่างเป็นกระดาษมีชีวิต]]></desc>
+  </programme>
+  <programme start="20210108054500 +0700" stop="20210108060000 +0700" channel="truesparkplay">
+    <title><![CDATA[เปเปอร์เทลส์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวการผจญภัยแสนสนุกของเหล่าสัตว์ตัวน้อยในโลกที่ทุกอย่างเป็นกระดาษมีชีวิต]]></desc>
+  </programme>
+  <programme start="20210108060000 +0700" stop="20210108063000 +0700" channel="truesparkplay">
+    <title><![CDATA[ดาร์วินและนิวท์ พี่น้อง นักประดิษฐ์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของสองพี่น้องดาร์วินและนิวท์กับการสำรวจและค้นพบความมหัศจรรย์ทางวิทยาศาสตร์อันน่าตื่นเต้น -- ให้เสียงพากย์นำโดย ซาร่าห์ ฮาร์ท และ ซาร่า สโตน]]></desc>
+  </programme>
+  <programme start="20210108063000 +0700" stop="20210108070000 +0700" channel="truesparkplay">
+    <title><![CDATA[ชิมาจิโร]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ลูกเสือจอมอยากรู้อยากเห็น ชิมะจิโระ ชิมาโนะ เข้าโรงเรียนอนุบาลพร้อมด้วยเพื่อนๆที่มาร่วมค้นพบสิ่งต่างๆรอบตัวไปด้วยกัน]]></desc>
+  </programme>
+  <programme start="20210108070000 +0700" stop="20210108071500 +0700" channel="truesparkplay">
+    <title><![CDATA[วาดรูปกันเถอะ]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[รายการที่จะมาเสริมสร้างจินตนาการให้กับคุณหนูๆด้วยการสอนวาดรูปแสนสนุกไม่ว่าจะเป็น สัตว์ ไดโนเสาร์ ดอกไม้ และอื่นๆอีกมากมาย]]></desc>
+  </programme>
+  <programme start="20210108071500 +0700" stop="20210108073000 +0700" channel="truesparkplay">
+    <title><![CDATA[วาดรูปกันเถอะ]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[รายการที่จะมาเสริมสร้างจินตนาการให้กับคุณหนูๆด้วยการสอนวาดรูปแสนสนุกไม่ว่าจะเป็น สัตว์ ไดโนเสาร์ ดอกไม้ และอื่นๆอีกมากมาย]]></desc>
+  </programme>
+  <programme start="20210108073000 +0700" stop="20210108080000 +0700" channel="truesparkplay">
+    <title><![CDATA[ลีโอ หนูน้อยผู้พิทักษ์สัตว์ในป่าใหญ่]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ร่วมออกเดินทางไปกับ ลีโอ และผองเพื่อน ในการผจญภัยครั้งยิ่งใหญ่ทั่วโลกเพื่อสำรวจสถานที่แปลกใหม่และร่วมเรียนรู้เรื่องราวของสัตว์ป่าและธรรมชาติอันน่าทึ่ง]]></desc>
+  </programme>
+  <programme start="20210108080000 +0700" stop="20210108083000 +0700" channel="truesparkplay">
+    <title><![CDATA[ไมค์ยอดอัศวินฝึกหัด   [ 2 ]]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับการผจญภัยแสนสนุกไปกับอัศวินฝึกหัดตัวน้อยและผองเพื่อนของเขา]]></desc>
+  </programme>
+  <programme start="20210108083000 +0700" stop="20210108084500 +0700" channel="truesparkplay">
+    <title><![CDATA[เปเปอร์เทลส์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวการผจญภัยแสนสนุกของเหล่าสัตว์ตัวน้อยในโลกที่ทุกอย่างเป็นกระดาษมีชีวิต]]></desc>
+  </programme>
+  <programme start="20210108084500 +0700" stop="20210108090000 +0700" channel="truesparkplay">
+    <title><![CDATA[เปเปอร์เทลส์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวการผจญภัยแสนสนุกของเหล่าสัตว์ตัวน้อยในโลกที่ทุกอย่างเป็นกระดาษมีชีวิต]]></desc>
+  </programme>
+  <programme start="20210108090000 +0700" stop="20210108090500 +0700" channel="truesparkplay">
+    <title><![CDATA[Shimajiro Shima Adventures]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ลูกเสือจอมอยากรู้อยากเห็น ชิมะจิโระ ชิมาโนะ เข้าโรงเรียนอนุบาลพร้อมด้วยเพื่อนๆที่มาร่วมค้นพบสิ่งต่างๆ รอบตัวไปด้วยกัน]]></desc>
+  </programme>
+  <programme start="20210108090500 +0700" stop="20210108093000 +0700" channel="truesparkplay">
+    <title><![CDATA[ดาร์วินและนิวท์ พี่น้อง นักประดิษฐ์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของสองพี่น้องดาร์วินและนิวท์กับการสำรวจและค้นพบความมหัศจรรย์ทางวิทยาศาสตร์อันน่าตื่นเต้น -- ให้เสียงพากย์นำโดย ซาร่าห์ ฮาร์ท และ ซาร่า สโตน]]></desc>
+  </programme>
+  <programme start="20210108093000 +0700" stop="20210108094500 +0700" channel="truesparkplay">
+    <title><![CDATA[วาดรูปกันเถอะ]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[รายการที่จะมาเสริมสร้างจินตนาการให้กับคุณหนูๆด้วยการสอนวาดรูปแสนสนุกไม่ว่าจะเป็น สัตว์ ไดโนเสาร์ ดอกไม้ และอื่นๆอีกมากมาย]]></desc>
+  </programme>
+  <programme start="20210108094500 +0700" stop="20210108100000 +0700" channel="truesparkplay">
+    <title><![CDATA[วาดรูปกันเถอะ]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[รายการที่จะมาเสริมสร้างจินตนาการให้กับคุณหนูๆด้วยการสอนวาดรูปแสนสนุกไม่ว่าจะเป็น สัตว์ ไดโนเสาร์ ดอกไม้ และอื่นๆอีกมากมาย]]></desc>
+  </programme>
+  <programme start="20210108100000 +0700" stop="20210108103000 +0700" channel="truesparkplay">
+    <title><![CDATA[ชิมาจิโร]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ลูกเสือจอมอยากรู้อยากเห็น ชิมะจิโระ ชิมาโนะ เข้าโรงเรียนอนุบาลพร้อมด้วยเพื่อนๆที่มาร่วมค้นพบสิ่งต่างๆรอบตัวไปด้วยกัน]]></desc>
+  </programme>
+  <programme start="20210108103000 +0700" stop="20210108110000 +0700" channel="truesparkplay">
+    <title><![CDATA[ลีโอ หนูน้อยผู้พิทักษ์สัตว์ในป่าใหญ่]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ร่วมออกเดินทางไปกับ ลีโอ และผองเพื่อน ในการผจญภัยครั้งยิ่งใหญ่ทั่วโลกเพื่อสำรวจสถานที่แปลกใหม่และร่วมเรียนรู้เรื่องราวของสัตว์ป่าและธรรมชาติอันน่าทึ่ง]]></desc>
+  </programme>
+  <programme start="20210108110000 +0700" stop="20210108113000 +0700" channel="truesparkplay">
+    <title><![CDATA[ไมค์ยอดอัศวินฝึกหัด   [ 2 ]]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับการผจญภัยแสนสนุกไปกับอัศวินฝึกหัดตัวน้อยและผองเพื่อนของเขา]]></desc>
+  </programme>
+  <programme start="20210108113000 +0700" stop="20210108114500 +0700" channel="truesparkplay">
+    <title><![CDATA[เปเปอร์เทลส์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวการผจญภัยแสนสนุกของเหล่าสัตว์ตัวน้อยในโลกที่ทุกอย่างเป็นกระดาษมีชีวิต]]></desc>
+  </programme>
+  <programme start="20210108114500 +0700" stop="20210108115500 +0700" channel="truesparkplay">
+    <title><![CDATA[เปเปอร์เทลส์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวการผจญภัยแสนสนุกของเหล่าสัตว์ตัวน้อยในโลกที่ทุกอย่างเป็นกระดาษมีชีวิต]]></desc>
+  </programme>
+  <programme start="20210108115500 +0700" stop="20210108120000 +0700" channel="truesparkplay">
+    <title><![CDATA[Shimajiro Shima Adventures]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ลูกเสือจอมอยากรู้อยากเห็น ชิมะจิโระ ชิมาโนะ เข้าโรงเรียนอนุบาลพร้อมด้วยเพื่อนๆที่มาร่วมค้นพบสิ่งต่างๆ รอบตัวไปด้วยกัน]]></desc>
+  </programme>
+  <programme start="20210108120000 +0700" stop="20210108123000 +0700" channel="truesparkplay">
+    <title><![CDATA[ดาร์วินและนิวท์ พี่น้อง นักประดิษฐ์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวของสองพี่น้องดาร์วินและนิวท์กับการสำรวจและค้นพบความมหัศจรรย์ทางวิทยาศาสตร์อันน่าตื่นเต้น -- ให้เสียงพากย์นำโดย ซาร่าห์ ฮาร์ท และ ซาร่า สโตน]]></desc>
+  </programme>
+  <programme start="20210108123000 +0700" stop="20210108130000 +0700" channel="truesparkplay">
+    <title><![CDATA[ชิมาจิโร]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ลูกเสือจอมอยากรู้อยากเห็น ชิมะจิโระ ชิมาโนะ เข้าโรงเรียนอนุบาลพร้อมด้วยเพื่อนๆที่มาร่วมค้นพบสิ่งต่างๆรอบตัวไปด้วยกัน]]></desc>
+  </programme>
+  <programme start="20210108130000 +0700" stop="20210108131500 +0700" channel="truesparkplay">
+    <title><![CDATA[วาดรูปกันเถอะ]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[รายการที่จะมาเสริมสร้างจินตนาการให้กับคุณหนูๆด้วยการสอนวาดรูปแสนสนุกไม่ว่าจะเป็น สัตว์ ไดโนเสาร์ ดอกไม้ และอื่นๆอีกมากมาย]]></desc>
+  </programme>
+  <programme start="20210108131500 +0700" stop="20210108133000 +0700" channel="truesparkplay">
+    <title><![CDATA[วาดรูปกันเถอะ]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[รายการที่จะมาเสริมสร้างจินตนาการให้กับคุณหนูๆด้วยการสอนวาดรูปแสนสนุกไม่ว่าจะเป็น สัตว์ ไดโนเสาร์ ดอกไม้ และอื่นๆอีกมากมาย]]></desc>
+  </programme>
+  <programme start="20210108133000 +0700" stop="20210108140000 +0700" channel="truesparkplay">
+    <title><![CDATA[ลีโอ หนูน้อยผู้พิทักษ์สัตว์ในป่าใหญ่]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[ร่วมออกเดินทางไปกับ ลีโอ และผองเพื่อน ในการผจญภัยครั้งยิ่งใหญ่ทั่วโลกเพื่อสำรวจสถานที่แปลกใหม่และร่วมเรียนรู้เรื่องราวของสัตว์ป่าและธรรมชาติอันน่าทึ่ง]]></desc>
+  </programme>
+  <programme start="20210108140000 +0700" stop="20210108143000 +0700" channel="truesparkplay">
+    <title><![CDATA[ไมค์ยอดอัศวินฝึกหัด   [ 2 ]]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[พบกับการผจญภัยแสนสนุกไปกับอัศวินฝึกหัดตัวน้อยและผองเพื่อนของเขา]]></desc>
+  </programme>
+  <programme start="20210108143000 +0700" stop="20210108144500 +0700" channel="truesparkplay">
+    <title><![CDATA[เปเปอร์เทลส์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวการผจญภัยแสนสนุกของเหล่าสัตว์ตัวน้อยในโลกที่ทุกอย่างเป็นกระดาษมีชีวิต]]></desc>
+  </programme>
+  <programme start="20210108144500 +0700" stop="20210108235959 +0700" channel="truesparkplay">
+    <title><![CDATA[เปเปอร์เทลส์]]></title>
+    <sub-title><![CDATA[KIDS :: Kids]]></sub-title>
+    <desc><![CDATA[เรื่องราวการผจญภัยแสนสนุกของเหล่าสัตว์ตัวน้อยในโลกที่ทุกอย่างเป็นกระดาษมีชีวิต]]></desc>
   </programme>
   <programme start="20210108000000 +0700" stop="20210108000100 +0700" channel="truesport2">
     <title><![CDATA[เพลงสรรเสริญพระบารมี]]></title>
@@ -8654,15 +10410,6 @@ Romance, Family]]></sub-title>
     <sub-title><![CDATA[SR-ENT-KN :: Fishing]]></sub-title>
     <desc><![CDATA[รายการที่จะพาไปติดตามชมการตกปลาและร่วมสำรวจสถานที่ในการตกปลาที่ยอดเยี่ยมของฮอกไกโดพร้อมชิมรสชาติอันแสนโอชะ]]></desc>
   </programme>
-  <programme start="20210108070500 -0000" stop="20210108073500 -0000" channel="tv5">
-    <title><![CDATA[เค ฟาร์ม]]></title>
-  </programme>
-  <programme start="20210108073500 -0000" stop="20210108080000 -0000" channel="tv5">
-    <title><![CDATA[สุขแบบไทยใจพอเพียง]]></title>
-  </programme>
-  <programme start="20210108080000 -0000" stop="20210108080500 -0000" channel="tv5">
-    <title><![CDATA[ช่อง 5 ทันข่าว 1500 - 1505]]></title>
-  </programme>
   <programme start="20210108080500 -0000" stop="20210108090000 -0000" channel="tv5">
     <title><![CDATA[5 อาสา เพื่อประชาชน]]></title>
   </programme>
@@ -8671,14 +10418,6 @@ Romance, Family]]></sub-title>
   </programme>
   <programme start="20210108090500 -0000" stop="20210108093000 -0000" channel="tv5">
     <title><![CDATA[อาสาหาเรื่องน่ารู้]]></title>
-  </programme>
-  <programme start="20210108070000 -0000" stop="20210108075500 -0000" channel="workpoint">
-    <title><![CDATA[เวทีทอง รีรัน]]></title>
-    <desc><![CDATA[รายการเกมโชว์ตอบคำถาม มีแขกรับเชิญประจำสัปดาห์]]></desc>
-  </programme>
-  <programme start="20210108075500 -0000" stop="20210108080000 -0000" channel="workpoint">
-    <title><![CDATA[2 ข่าวใหญ่ เวิร์คพอยท์]]></title>
-    <desc><![CDATA[รายงานข่าว]]></desc>
   </programme>
   <programme start="20210108080000 -0000" stop="20210108083000 -0000" channel="workpoint">
     <title><![CDATA[ตลกหกฉาก รีรัน]]></title>
@@ -9390,12 +11129,6 @@ Romance, Family]]></sub-title>
     <title><![CDATA[TV DIRECT PROGRAM]]></title>
     <desc><![CDATA[ออกอากาศทาง Voice TV ช่อง 21]]></desc>
   </programme>
-  <programme start="20210108141000 +0700" stop="20210108143500 +0700" channel="warnertv">
-    <title><![CDATA[Storage Hunters S2 EP.8]]></title>
-  </programme>
-  <programme start="20210108143500 +0700" stop="20210108150000 +0700" channel="warnertv">
-    <title><![CDATA[Storage Hunters S2 EP.9]]></title>
-  </programme>
   <programme start="20210108150000 +0700" stop="20210108155000 +0700" channel="warnertv">
     <title><![CDATA[Major Crimes S5 EP.14]]></title>
   </programme>
@@ -9530,6 +11263,9 @@ Romance, Family]]></sub-title>
   </programme>
   <programme start="20210110013000 +0700" stop="20210110022000 +0700" channel="warnertv">
     <title><![CDATA[Major Crimes S5 EP.07]]></title>
+  </programme>
+  <programme start="20210110022000 +0700" stop="20210110031000 +0700" channel="warnertv">
+    <title><![CDATA[Major Crimes S5 EP.08]]></title>
   </programme>
   <programme start="20210110010000 -0000" stop="20210110010100 -0000" channel="workpoint">
     <title><![CDATA[เคารพธงชาติ]]></title>
