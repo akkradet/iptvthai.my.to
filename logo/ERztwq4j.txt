@@ -1,0 +1,283 @@
+#EXTM3U
+#EXTINF:-1,TV5 HD1
+http://160.119.77.116:8081/iptv/hd-ch5.stream/playlist.m3u8
+#EXTINF:-1,NBT
+http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
+#EXTINF:-1,Thai PBS
+http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
+#EXTINF:-1,ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1,TPTV
+http://160.119.77.116:8081/iptv/sd-tptv.stream/playlist.m3u8
+#EXTINF:-1,TNN16
+https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
+#EXTINF:-1,NEW TV
+https://edge6a.v2h-cdn.com/m2i1/NEW.stream_720p/playlist.m3u8
+#EXTINF:-1,NATION TV
+https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+#EXTINF:-1,Workpoint TV
+https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
+#EXTINF:-1,True4U
+https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
+#EXTINF:-1,GMM Channel
+https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
+#EXTINF:-1,CH8
+https://cdn6.goprimetime.info/feed/ch8/index.m3u8
+#EXTINF:-1,Mono 29
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_720P/mono29hls_720TH.stream/chunklist_w305237673.m3u8
+#EXTINF:-1,MCOT HD
+https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8
+#EXTINF:-1,ONE
+https://cdn6.goprimetime.info/feed/chonehd/index.m3u8
+#EXTINF:-1,Thairath TV
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1,3 HD
+https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
+#EXTINF:-1,Amarin TV HD
+https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
+#EXTINF:-1,7 HD
+https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
+#EXTINF:-1,PPTV HD
+https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
+#EXTINF:-1,True Film HD
+http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
+#EXTINF:-1,FOX Movies
+http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
+#EXTINF:-1,FOX Action Movies
+http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
+#EXTINF:-1,Warner TV
+http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
+#EXTINF:-1,Celestial Classic Movies
+http://160.119.77.116:8081/iptv/sd-celestial.stream/playlist.m3u8
+#EXTINF:-1,TVB
+http://ip2121.com:8081/live/TVB/playlist.m3u8
+#EXTINF:-1,True Thai Film
+http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
+#EXTINF:-1,True Asian Series HD
+http://160.119.77.116:8081/iptv/hd-asian.stream/playlist.m3u8
+#EXTINF:-1,True Series
+http://160.119.77.116:8081/iptv/sd-series.stream/playlist.m3u8
+#EXTINF:-1,tvN
+http://160.119.77.116:8081/iptv/hd-tvn.stream/playlist.m3u8
+#EXTINF:-1,FOX Thai (HD)
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8 
+#EXTINF:-1,HBO​ HD
+https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8 
+#EXTINF:-1,HBO Hits
+https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1,FOX Life
+http://160.119.77.116:8081/iptv/hd-foxlife.stream/playlist.m3u8
+#EXTINF:-1,Star Chinese Movies
+http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
+#EXTINF:-1,BOX​ FILM
+http://61.19.242.134/feed/LC52/index.m3u8
+#EXTINF:-1,SUN
+http://61.19.242.134/feed/LC1/index.m3u8
+#EXTINF:-1,SAMURAI
+http://61.19.242.134/feed/LC2/index.m3u8
+#EXTINF:-1,SANOOK
+http://61.19.242.134/feed/LC53/index.m3u8
+#EXTINF:-1,TVB THAI
+https://edge6a.v2h-cdn.com:443/appt7/TDramaTV.stream_720p/iptv-ton.m3u8
+#EXTINF:-1,Hits
+https://www.livedoomovie.com/02_HITS_720p/chunklist.m3u8
+#EXTINF:-1,HITS Movies
+https://www.livedoomovie.com/02_HITSMOVIE_720p/chunklist.m3u8
+#EXTINF:-1,True Inside HD
+http://160.119.77.116:8081/iptv/sd-inside.stream/playlist.m3u8
+#EXTINF:-1,AXN HD
+https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/playlist.m3u8
+#EXTINF:-1,True X-zyte HD
+http://160.119.77.116:8081/iptv/hd-xzyte.stream/playlist.m3u8
+#EXTINF:-1,Food Network (UK)
+http://160.119.77.116:8081/iptv/uk-foodnetwork.stream/playlist.m3u8
+#EXTINF:-1,True Music HD
+http://160.119.77.116:8081/iptv/sd-tmusic.stream/playlist.m3u8
+#EXTINF:-1,BBC Life Style
+http://160.119.77.116:8081/iptv/sd-bbclifestyle.stream/playlist.m3u8
+#EXTINF:-1,Asian Food Network
+http://160.119.77.116:8081/iptv/sd-asianfood.stream/playlist.m3u8
+#EXTINF:-1 MTV China
+http://203.154.177.124:8899/live/ch16/playlist.m3u8
+#EXTINF:-1,Channel V
+https://cdn6.goprimetime.info/feed/LC14/index.m3u8
+#EXTINF:-1,True Spark Play
+http://160.119.77.116:8081/iptv/sd-sparkplay.stream/playlist.m3u8
+#EXTINF:-1,True Spark Jump
+http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
+#EXTINF:-1,Disney XD
+http://160.119.77.116:8081/iptv/hd-disneyxd.stream/playlist.m3u8
+#EXTINF:-1,Disney Channel
+https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1,Cartoon Network HD
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:-1,Nickelodeon
+http://160.119.77.116:8081/iptv/sd-nickelodeoneng.stream/playlist.m3u8
+#EXTINF:-1,Nick Jr. (EN)
+http://160.119.77.116:8081/iptv/sd-nickjr.stream/playlist.m3u8
+#EXTINF:-1,Animax
+https://cdn6.goprimetime.info/feed/LC38/index.m3u8
+#EXTINF:-1,Boomerang
+https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
+#EXTINF:-1,Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:-1,TOONEE
+https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_720p/playlist.m3u8
+#EXTINF:-1,Discovery Asia
+http://160.119.77.116:8081/iptv/hd-discovery.stream/playlist.m3u8
+#EXTINF:-1,History Channel HD      
+http://160.119.77.116:8081/iptv/hd-history.stream/playlist.m3u8
+#EXTINF:-1,H2
+http://160.119.77.116:8081/iptv/hd-history2.stream/playlist.m3u8
+#EXTINF:-1,National Geographic (HD)
+http://160.119.77.116:8081/iptv/hd-natgeo.stream/playlist.m3u8
+#EXTINF:-1,True Explore Wild
+http://160.119.77.116:8081/iptv/sd-expwild.stream/playlist.m3u8
+#EXTINF:-1,True Explore Life
+http://160.119.77.116:8081/iptv/sd-explife.stream/playlist.m3u8
+#EXTINF:-1,True Explore Sci
+http://160.119.77.116:8081/iptv/sd-expsci.stream/playlist.m3u8
+#EXTINF:-1,Discovery Channel
+http://160.119.77.116:8081/iptv/sd-discovery.stream/playlist.m3u8
+#EXTINF:-1,Love Nature HD
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1,Animal Planet
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1,BBC Earth
+http://160.119.77.116:8081/iptv/sd-bbcearth.stream/playlist.m3u8
+#EXTINF:-1,Discovery HD World
+https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1,Nat Geo WILD
+https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+#EXTINF:-1,Samrujlok HD
+https://cdn6.goprimetime.info/feed/LC8/index.m3u8
+#EXTINF:-1,MYSCI HD
+https://www.livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
+#EXTINF:-1,Science Channel
+https://www.livedoomovies.com/02_DiscoveryScience/chunklist.m3u8
+#EXTINF:-1,Charoen Cable TV
+https://cdn6.goprimetime.info/feed/LC32/index.m3u8
+#EXTINF:-1,PSI SARADEE
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+#EXTINF:-1,WBTV
+https://cdn6.goprimetime.info/feed/LC37/index.m3u8
+#EXTINF:-1,True​ Premie​r Football HD1
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1,True​ Premie​r Football HD2
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+#EXTINF:-1,True​ Premie​r Football HD3
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+#EXTINF:-1,True​ Premie​r Football HD4
+http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
+#EXTINF:-1,True​ Premie​r Football HD5
+http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
+#EXTINF:-1,True​ ​Sports​ HD
+http://160.119.77.116:8081/iptv/hd-tsport1.stream/playlist.m3u8
+#EXTINF:-1,True​ ​Sports​ HD2
+http://160.119.77.116:8081/iptv/hd-tsport2.stream/playlist.m3u8
+#EXTINF:-1,True​ ​Sports HD3
+http://160.119.77.116:8081/iptv/hd-tsport3.stream/playlist.m3u8
+#EXTINF:-1,True​ ​Sports​ HD4
+http://160.119.77.116:8081/iptv/hd-tsport4.stream/playlist.m3u8
+#EXTINF:-1, 670. True Tennis HD
+http://160.119.77.116:8081/iptv/hd-tennis.stream/playlist.m3u8
+#EXTINF:-1,Motor Vision
+http://160.119.77.116:8081/iptv/hd-motorvision.stream/playlist.m3u8
+#EXTINF:-1,Outdoor Channel HD
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,NBA TV HD
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1,Golf Channel Thailand HD
+https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1,FOX​ Sports​ HD
+http://160.119.77.116:8081/iptv/hd-foxsports1.stream/playlist.m3u8
+#EXTINF:-1,True​ ​Sports ​2
+http://160.119.77.116:8081/iptv/sd-tsport2.stream/playlist.m3u8
+#EXTINF:-1,True​ ​Sports ​5
+https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1,True​ ​Sport​s 6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1,​Sports ​7
+http://160.119.77.116:8081/iptv/sd-tsport7.stream/playlist.m3u8
+#EXTINF:-1,FOX​ Sports​ 2
+http://160.119.77.116:8081/iptv/sd-foxsports2.stream/playlist.m3u8
+#EXTINF:-1,FOX​ Sports​ 3
+http://160.119.77.116:8081/iptv/sd-foxsports3.stream/playlist.m3u8
+#EXTINF:-1,BT​ SPORT​S​1
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:-1,BT​ SPORT​S​2
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
+#EXTINF:-1, BT​ SPORT​S​3
+http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
+#EXTINF:-1,BEIN​ SPORT​1
+http://160.119.77.116:8081/iptv/epl-bein1.stream/playlist.m3u8                                                                         
+#EXTINF:-1,BEIN​ SPORT​2
+http://160.119.77.116:8081/iptv/epl-bein2.stream/playlist.m3u8
+#EXTINF:-1,BEIN1
+https://laos-tech-live.b-cdn.net/epl-bein1_720/index.m3u8
+#EXTINF:-1,BEIN2
+https://laos-tech-live.b-cdn.net/epl-bein2_720/index.m3u8
+#EXTINF:-1,SKY​ SPORT​S PREMIER
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:-1,SKY​ SPORT​S FOOTBALL
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+#EXTINF:-1,PREMIER​ SPORTS
+http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
+#EXTINF:-1,SPORT​S TV​1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,SPORT​S TV​2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,SPORT​S TV​3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,SPORT​S TV​4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,SPORT​S TV​5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1,Liverpool FC TV
+http://160.119.77.116:8081/iptv/uk-lfctv.stream/playlist.m3u8
+#EXTINF:-1,Chelsea TV (UK)
+http://160.119.77.116:8081/iptv/uk-chelseatv.stream/playlist.m3u8
+#EXTINF:-1,MUTV (UK)
+http://160.119.77.116:8081/iptv/uk-mutv.stream/playlist.m3u8  
+#EXTINF:-1,FIGHT SPORTS
+https://cdn6.goprimetime.info/feed/LC36/index.m3u8
+#EXTINF:-1,Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1,TNN16
+http://160.119.77.116:8081/iptv/sd-tnn24.stream/playlist.m3u8
+#EXTINF:-1,CNN HD
+http://160.119.77.116:8081/iptv/uk-cnn.stream/playlist.m3u8
+#EXTINF:-1,Phoenix InfoNews
+http://160.119.77.116:8081/iptv/sd-phoenixinfonews.stream/playlist.m3u8
+#EXTINF:-1,BBC World News HD
+http://160.119.77.116:8081/iptv/hd-bbcworldnews.stream/playlist.m3u8
+#EXTINF:-1,CNBC
+http://160.119.77.116:8081/iptv/sd-cnbc.stream/playlist.m3u8
+#EXTINF:-1,CCTV4
+http://160.119.77.116:8081/iptv/sd-cctv4.stream/playlist.m3u8
+#EXTINF:-1,TV5Monde
+https://cdn6.goprimetime.info/feed/LC10/index.m3u8
+#EXTINF:-1,DW (Deutsch)
+https://cdn6.goprimetime.info/feed/LC12/index.m3u8
+#EXTINF:-1,YTN
+https://cdn6.goprimetime.info/feed/LC44/index.m3u8
+#EXTINF:-1,ABC Australia
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,CGTN
+https://cdn6.goprimetime.info/feed/LC51/index.m3u8
+#EXTINF:-1,Russia Today
+https://cdn6.goprimetime.info/feed/LC9/index.m3u8
+#EXTINF:-1,LAOSTAR TV
+http://61.19.242.134/feed/LC58/index.m3u8
+#EXTINF:-1,Bloomberg TV
+http://160.119.77.116:8081/iptv/sd-bloomberg.stream/playlist.m3u8
+#EXTINF:-1,Euro News
+http://61.19.242.134/feed/LC35/index.m3u8
+#EXTINF:-1,Fox News (UK)
+http://160.119.77.116:8081/iptv/uk-foxnews.stream/playlist.m3u8
+#EXTINF:-1,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1,France 24 (English)
+https://cdn6.goprimetime.info/feed/LC34/index.m3u8
+#EXTINF:-1,Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
