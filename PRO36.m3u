@@ -1,63 +1,63 @@
-#EXTM3U x-tvg-url="http://iptvthai.my.to/EPG.xml" : Thai IPTV - Last Update 2021-01-10T22:12
+#EXTM3U x-tvg-url="http://iptvthai.my.to/EPG.xml" : Thai IPTV - Last Update 2021-01-11T09:34
 
-#EXTINF:-1 tvg-chno="1" tvg-id="tv5" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-ch5.png?rev=8",TV5 HD
+#EXTINF:-1 tvg-chno="1" tvg-id="tv5" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-ch5.png?rev=8",TV5 HD
 http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-id="nbt" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-nbt.png?rev=8",NBT HD
+#EXTINF:-1 tvg-chno="2" tvg-id="nbt" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-nbt.png?rev=8",NBT HD
 https://edge6a.v2h-cdn.com/m2i3/NBT.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-id="thaipbs" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-tpbs.png?rev=8",Thai PBS HD
+#EXTINF:-1 tvg-chno="3" tvg-id="thaipbs" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-tpbs.png?rev=8",Thai PBS HD
 https://edge6a.v2h-cdn.com/m2i1/TPBS.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-id="altv" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://iptvthai.my.to/logo/altv.png?rev=8",ALTV HD
+#EXTINF:-1 tvg-chno="4" tvg-id="altv" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://iptvthai.my.to/logo/altv.png?rev=8",ALTV HD
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="5" tvg-id="tnn16" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/sd-tnn.png?rev=8",TNN16
+#EXTINF:-1 tvg-chno="5" tvg-id="tnn16" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/sd-tnn.png?rev=8",TNN16
 https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="6" tvg-id="new18" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/sd-new.png?rev=8",NEW 18 HD
-https://stream-01.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54-LYXF8xAYdS26RHhiURIKg)/dm/3/x7kx5i7/s/live-3.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="new18" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/sd-new.png?rev=8",NEW 18 HD
+https://stream-04.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54-LYXF8xAYdS26RHhiURIKg)/dm/3/x7kx5i7/s/live-3.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-id="nation" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/sd-nation.png?rev=8",Nation TV HD
-https://stream-03.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSQRoWsAWyl7IbjBD9Hje_cw)/dm/3/x6eoldf/d/live-3.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="nation" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/sd-nation.png?rev=8",Nation TV HD
+https://stream-01.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSd49CSndndBqrjh6Zxxa1ew)/dm/3/x6eoldf/d/live-3.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-id="workpoint" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-workpoint.png?rev=8",Workpoint TV HD
+#EXTINF:-1 tvg-chno="8" tvg-id="workpoint" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-workpoint.png?rev=8",Workpoint TV HD
 https://stream-02.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8soVAtjVr5D3OPPcebv2kf8)/dm/3/x6g9qjj/s/live-3.m3u8
 
-#EXTINF:-1 tvg-chno="9" tvg-id="true4u" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/sd-24u.png?rev=8",True4U
+#EXTINF:-1 tvg-chno="9" tvg-id="true4u" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/sd-24u.png?rev=8",True4U
 http://183.182.100.184/live/true4u/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-id="gmm25" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/sd-gmm.png?rev=8",GMM25 HD
+#EXTINF:-1 tvg-chno="10" tvg-id="gmm25" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/sd-gmm.png?rev=8",GMM25 HD
 https://stream-01.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_SoGQyds6NfkxaLEJk_U12g)/dm/3/x6rz4t7/s/live-3.m3u8
 
-#EXTINF:-1 tvg-chno="11" tvg-id="ch8" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-ch8.png?rev=8",[เสีย] CH8
+#EXTINF:-1 tvg-chno="11" tvg-id="ch8" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-ch8.png?rev=8",CH8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-id="mono29" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-mono.png?rev=8",MONO29
+#EXTINF:-1 tvg-chno="12" tvg-id="mono29" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-mono.png?rev=8",MONO29
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="13" tvg-id="mono29" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-mono.png?rev=8",MONO29 HD Soundtrack
+#EXTINF:-1 tvg-chno="13" tvg-id="mono29" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-mono.png?rev=8",MONO29 HD Soundtrack
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080EN.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="14" tvg-id="mcot" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://iptvthai.my.to/logo/mcot.png?rev=8",MCOT HD
+#EXTINF:-1 tvg-chno="14" tvg-id="mcot" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://iptvthai.my.to/logo/mcot.png?rev=8",MCOT HD
 https://edge6a.v2h-cdn.com/m2i3/McotHD.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="15" tvg-id="one" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-gmmone.png?rev=8",ONE HD
+#EXTINF:-1 tvg-chno="15" tvg-id="one" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-gmmone.png?rev=8",ONE HD
 https://edge6a.v2h-cdn.com/m2i1/OneHD.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-id="thairath" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-thairath.png?rev=8",Thairath TV HD
+#EXTINF:-1 tvg-chno="16" tvg-id="thairath" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-thairath.png?rev=8",Thairath TV HD
 https://edge6a.v2h-cdn.com/m2i4/ThairathHD.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="17" tvg-id="ch3" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://iptvthai.my.to/logo/ch3.png?rev=8",CH3 HD
+#EXTINF:-1 tvg-chno="17" tvg-id="ch3" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://iptvthai.my.to/logo/ch3.png?rev=8",CH3 HD
 https://edge6a.v2h-cdn.com/m2i1/3HD.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="18" tvg-id="amarin" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-amarin.png?rev=8",Amarin TV HD
+#EXTINF:-1 tvg-chno="18" tvg-id="amarin" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-amarin.png?rev=8",Amarin TV HD
 https://edge6a.v2h-cdn.com/m2i1/AmarinHD.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="19" tvg-id="ch7" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-ch7.png?rev=8",CH7 HD
+#EXTINF:-1 tvg-chno="19" tvg-id="ch7" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-ch7.png?rev=8",CH7 HD
 https://edge6a.v2h-cdn.com/m2i1/7HD.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="20" tvg-id="pptv" group-title="Digital TV 2021-01-10T22:12" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-pptv.png?rev=8",PPTV HD
+#EXTINF:-1 tvg-chno="20" tvg-id="pptv" group-title="Digital TV 2021-01-11T09:34" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-pptv.png?rev=8",PPTV HD
 https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-id="sunmovie" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/sun-movie.jpg?rev=8",SUN MOVIE
