@@ -62,20 +62,18 @@ https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_360p/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/jxrgC7j.png" tvg-name="TRUE SPARK JUMP"  group-title="Kids",TRUE SPARK JUMP
 http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/h2v4W4t.png" tvg-name="Nick JR"  group-title="Kids",Nick JR
+#EXTINF:-1, tvg-logo="https://i.imgur.com/h2v4W4t.png" tvg-name="Nick Jr."  group-title="Kids",Nick Jr.
 http://160.119.77.116:8081/iptv/uk-nickjr.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.imgur.com/PzNRbK9.png",DISNEY CHANNEL
 https://doofootball.livestream-cdn.com/iptv/uk-disney.stream/chunks.m3u8
 
-
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.imgur.com/b2SoZUz.png",Disney JUNIOR En
-https://doofootball.livestream-cdn.com/iptv/uk-nickjr.stream/chunks.m3u8
-
+\
 
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/iPQFqKC.png" tvg-name="Discovery Asia"  group-title="Documentary",Discovery Asia
-https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXVOxG5GBOWT37BcTvWhAeVcd0wtEICceOVg&usqp=CAU" group-title="Documentary",Discovery Turbo
+https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXVOxG5GBOWT37BcTvWhAeVcd0wtEICceOVg&usqp=CAU" group-title="Documentary",Discovery Turbo
 http://160.119.77.116:8081/iptv/uk-discoveryturbo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1NtU8OZV8NhFilMOeuFcsAOJVTUj5V2ATA&usqp=CAU" group-title="Documentary",DMAX

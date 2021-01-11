@@ -1,0 +1,98 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+#EXTINF:-1,(CH-13) Sky Sports Cricket HD (Webo-20169-35799)
+http://45.249.9.21:8000/play/a06g/index.m3u8
+#EXTINF:-1,(CH--01) FOX Crime HD
+http://45.249.9.21:8000/play/a085/index.m3u8
+#EXTINF:-1,(CH--02) National Geographic HD
+http://45.249.9.21:8000/play/a086/index.m3u8
+#EXTINF:-1,(CH--03) FX HD
+http://45.249.9.21:8000/play/a087/index.m3u8
+#EXTINF:-1,(CH--04) 24 Kitchen HD
+http://45.249.9.21:8000/play/a088/index.m3u8
+#EXTINF:-1,(CH--05) Nat Geo Wild HD
+http://45.249.9.21:8000/play/a08a/index.m3u8
+#EXTINF:-1,(CH-01) Super Laliga HD (515) (768) (Webo-96713)
+http://45.249.9.21:8000/play/a04f/index.m3u8
+#EXTINF:-1,(CH-02) Super Cricket HD (DOOM-25267) (Star-516-769) (b1g-52064-96724)
+http://45.249.9.21:8000/play/a04g/index.m3u8
+#EXTINF:-1,(CH-03) Super Grandstand HD (DOOM-25281) (Star-519-772) (b1g-52066-96716)
+http://45.249.9.21:8000/play/a04h/index.m3u8
+#EXTINF:-1,(CH-04) Super Premiere League HD (DOOM-25792) (78994) (b1g-96715-52059)
+http://45.249.9.21:8000/play/a072/index.m3u8
+#EXTINF:-1,(CH-05) Super Action HD (DOOM-25284) (78997) (Star 774-521)
+http://45.249.9.21:8000/play/a07n/index.m3u8
+#EXTINF:-1,(CH-06) TENNIS HD (TT-79653)
+http://45.249.9.21:8000/play/a07o/index.m3u8
+#EXTINF:-1,(CH-07) UFC HD (98539) (OPP-67202-67203) (Smart-15961)
+http://45.249.9.21:8000/play/a07p/index.m3u8
+#EXTINF:-1,(CH-08) FOX Sports 501 HD (V3-104420-104530)
+http://45.249.9.21:8000/play/a073/index.m3u8
+#EXTINF:-1,(CH-09) FOX Sports 502 HD (V3 -104421-104531) 86634
+http://45.249.9.21:8000/play/a074/index.m3u8
+#EXTINF:-1,(CH-10) FOX Sports 503 HD (V3-104422-104532) 86658
+http://45.249.9.21:8000/play/a06t/index.m3u8
+#EXTINF:-1,(CH-11) Sky Sports F1 HD (20167)
+http://45.249.9.21:8000/play/a04v/index.m3u8
+#EXTINF:-1,(CH-12) Sky Sports Golf HD (20168)
+http://45.249.9.21:8000/play/a05q/index.m3u8
+#EXTINF:-1,(CH-14) Outdoor HD (V3-79698) (Webo-97135) (Smart-17934)
+http://45.249.9.21:8000/play/a04n/index.m3u8
+#EXTINF:-1,(CH-15) M-Net Movies 1 HD (Star-4890) (Webo-96735)
+http://45.249.9.21:8000/play/a06i/index.m3u8
+#EXTINF:-1,(CH-16) M-Net Movies 2 HD (DOOM-25244) (Star-4800) (Webo-96737)
+http://45.249.9.21:8000/play/a06j/index.m3u8
+#EXTINF:-1,(CH-17) M-Net Movies 3 HD (DOOM-25246) (Star-4801) (Webo-96736) (DOOM-25246)
+http://45.249.9.21:8000/play/a07v/index.m3u8
+#EXTINF:-1,(CH-18) Outside tv HD (Star-97137) (Webo-97136)
+http://45.249.9.21:8000/play/a06o/index.m3u8
+#EXTINF:-1,(CH-19) World Fishing HD (V3-79632) (OPP-27412) (Webo-97284)
+http://45.249.9.21:8000/play/a07i/index.m3u8
+#EXTINF:-1,(CH-20) MotorTrend HD (75192)
+http://45.249.9.21:8000/play/a06f/index.m3u8
+#EXTINF:-1,(CH-21) History HD (DOOM-27954) (OTT-75260) (OPP-67133-68963)
+http://45.249.9.21:8000/play/a07u/index.m3u8
+#EXTINF:-1,(CH-22) FOX News HD (OPP-27749) (TT-75106)
+http://45.249.9.21:8000/play/a07t/index.m3u8
+#EXTINF:-1,(CH-23) Discovery HD (86641) (DOOM-57932) (OPP-67077-70562) (Webo-11863) (Smart-5832-24619)
+http://45.249.9.21:8000/play/a06s/index.m3u8
+#EXTINF:-1,(CH-24) Travel HD (V3-79919-79129-85533) (Star-351)
+http://45.249.9.21:8000/play/a06h/index.m3u8
+#EXTINF:-1,(CH-25) Food Network HD (Smart-17905) (V3-75107-80837) (Webo-97075) (OPP-67122-67123)
+http://45.249.9.21:8000/play/a07y/index.m3u8
+#EXTINF:-1,(CH-26) Discovery Family HD (V3-75236-80839) (Webo-97260)
+http://45.249.9.21:8000/play/a07w/index.m3u8
+#EXTINF:-1,(CH-27) Hallmark HD (75258) (81663) (OPP-68065-68066) (Smart-17915)
+http://45.249.9.21:8000/play/a07x/index.m3u8
+#EXTINF:-1,(CH-28) Syfy HD (OTT-79659) (OPP-66954-66989) (Smart-17946)
+http://45.249.9.21:8000/play/a06v/index.m3u8
+#EXTINF:-1,(CH-29) Viasat Film Action HD (15288) (Smart-8511) (OPP-73200)
+http://45.249.9.21:8000/play/a06w/index.m3u8
+#EXTINF:-1,(CH-30) Viasat Film Premiere HD (32391) (Smart-8514) (OPP-73203)
+http://45.249.9.21:8000/play/a06x/index.m3u8
+#EXTINF:-1,(CH-31) HGTV HD (TT-80831-79751) (Smart-17918) (OPP-67130) (Mr4k-66190-66192)
+http://45.249.9.21:8000/play/a07z/index.m3u8
+#EXTINF:-1,(CH-32) Fight Network HD (OPP--67121-70194) (DOOM-58095) (V3-80838-79165) (Smart-19364)
+http://45.249.9.21:8000/play/a080/index.m3u8
+#EXTINF:-1,(CH-33) NAT GEO People HD (87413) (OPP-68969)
+http://45.249.9.21:8000/play/a04l/index.m3u8
+#EXTINF:-1,In-House
+http://45.249.9.21:8000/play/a083/index.m3u8
+#EXTINF:-1,TEST -01
+http://45.249.9.21:8000/play/a050/index.m3u8
+#EXTINF:-1,TEST -02
+http://45.249.9.21:8000/play/a05c/index.m3u8
+#EXTINF:-1,TEST -03
+http://45.249.9.21:8000/play/a05d/index.m3u8
+#EXTINF:-1,TEST -04
+http://45.249.9.21:8000/play/a05i/index.m3u8
+#EXTINF:-1,TEST -05
+http://45.249.9.21:8000/play/a070/index.m3u8
+#EXTINF:-1,TEST -06
+http://45.249.9.21:8000/play/a084/index.m3u8
+#EXTINF:-1,TEST -07
+http://45.249.9.21:8000/play/a06z/index.m3u8
+#EXTINF:-1,TEST -08
+http://45.249.9.21:8000/play/a075/index.m3u8
+#EXTINF:-1,TEST -10
+http://45.249.9.21:8000/play/a07j/index.m3u8
