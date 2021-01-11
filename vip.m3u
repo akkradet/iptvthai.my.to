@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXTINF:-1,(CH-13) Sky Sports Cricket HD (Webo-20169-35799)
 http://45.249.9.21:8000/play/a06g/index.m3u8
 #EXTINF:-1,(CH--01) FOX Crime HD
