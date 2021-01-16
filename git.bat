@@ -1,9 +1,6 @@
-echo .....!!!!git checkout project master 
-D:
-cd D:\Github\iptvthai.my.to
-git add .
-git commit  -m %date%
-git push origin master
-echo .....enter any key to exit
+@echo off
 
-pause>nul
+git add .
+git commit -m %computername%_%date:~0,4%%date:~5,2%%date:~8,2%_%time:~1,2%%time:~3,2%%time:~6,2%
+git push origin master
+pause
