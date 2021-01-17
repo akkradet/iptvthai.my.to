@@ -22,10 +22,10 @@ https://edge6a.v2h-cdn.com/m2i1/NEW.stream_360p/playlist.m3u8
 http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/uQqgpkp.png" tvg-name="Workpoint TV"  group-title="Digital TV",Workpoint TV
-http://iptvthai.my.to/WPTV.m3u8
+https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/n2354RI.png" tvg-name="True 4U"  group-title="Digital TV",True 4U
-http://183.182.100.184/live/true4u/chunklist.m3u8
+https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/B0Kq8XM.png" tvg-name="GMM 25"  group-title="Digital TV",GMM 25
 http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
