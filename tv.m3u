@@ -1,11 +1,12 @@
 ﻿#EXTM3U x-tvg-url="http://iptvthai.my.to/guide.xml"
+
 #EXTINF:-1, tvg-logo="https://i.imgur.com/9S4aBdt.png" tvg-name="CH5 HD"  group-title="Digital TV",CH5 HD
 https://edge6a.v2h-cdn.com/m2i1/TV5HD.stream_720p/playlist.m3u8
-Thai PBS
+
 #EXTINF:-1, tvg-logo="https://i.imgur.com/D1jo1L4.png" tvg-name="NBT HD"  group-title="Digital TV",NBT HD
 https://edge6a.v2h-cdn.com/m2i3/NBT.stream_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/UcVCd3I.png" tvg-name="Thai PBS"  group-title="Digital TV",
+#EXTINF:-1, tvg-logo="https://i.imgur.com/UcVCd3I.png" tvg-name="Thai PBS"  group-title="Digital TV",Thai PBS
 https://edge6a.v2h-cdn.com/m2i1/TPBS.stream_720p/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/gFNABNU.png" tvg-name="ALTV"  group-title="Digital TV",ALTV
@@ -21,7 +22,7 @@ https://edge6a.v2h-cdn.com/m2i1/NEW.stream_360p/playlist.m3u8
 http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/uQqgpkp.png" tvg-name="Workpoint TV"  group-title="Digital TV",Workpoint TV
-https://github.com/exodiver/IPTV/raw/master/M3U8/Token/WPTV.m3u8
+http://iptvthai.my.to/WPTV.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/n2354RI.png" tvg-name="True 4U"  group-title="Digital TV",True 4U
 http://183.182.100.184/live/true4u/chunklist.m3u8
@@ -68,11 +69,10 @@ http://160.119.77.116:8081/iptv/uk-nickjr.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.imgur.com/PzNRbK9.png",DISNEY CHANNEL
 https://doofootball.livestream-cdn.com/iptv/uk-disney.stream/chunks.m3u8
 
-\
-
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/iPQFqKC.png" tvg-name="Discovery Asia"  group-title="Documentary",Discovery Asia
 https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXVOxG5GBOWT37BcTvWhAeVcd0wtEICceOVg&usqp=CAU" group-title="Documentary",Discovery Turbo
 http://160.119.77.116:8081/iptv/uk-discoveryturbo.stream/playlist.m3u8
 
@@ -116,7 +116,8 @@ https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/RED.m3u8
 https://github.com/akkradet/iptvthai.my.to/raw/master/hbo-th/MAX.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlgjgnPY03shWihuug-FmM8oDjGiLV8Y0KA&usqp=CAU" group-title="Movies",Star Chinese Movies
-http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8'
+http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_hoBCq-H3UUoBID12pRiAF0Zf_VDIJsGuQ&usqp=CAU" group-title="Movies",&FlixHd
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
