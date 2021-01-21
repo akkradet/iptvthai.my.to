@@ -1,0 +1,1054 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content='width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no' name='viewport'/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>app</title>
+<style>
+* {box-sizing: border-box}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+}
+
+.tablink {
+  background-color: white;
+  color: black;
+  border: none;
+  outline: none;
+  cursor: pointer;;
+  font-size: 15px;
+  margin-bottom:10px;
+  width: 180px;
+  transition: 0.4s;
+  border-radius: 15px;
+}
+
+.tablink:hover {
+  background-color: black;
+  color: white;
+}
+.tablink-movies:hover {
+  background-color: black;
+  color: white;
+}
+.tablink-movies {
+  background-color: #dcdcdc;
+  color: black;
+  border: none;
+  outline: none;
+  cursor: pointer;;
+  font-size: 15px;
+  margin-bottom:10px;
+  width: 80%;
+  transition: 0.4s;
+  border-radius: 15px;
+}
+.tablink-text-movies{
+  padding: 10px 16px !important;
+  font-size: 15px !important;
+  width: 100% !important;
+}
+
+.tabcontent {
+  padding: 20px 20px;
+  background-color: #d6d1d145;
+}
+
+div.scrollmenu {
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  text-align: center;
+  padding: 14px;
+}
+
+.title{
+  text-align: center;
+  margin-bottom: 15px;
+  border-radius: 30px;
+  padding: 1px;
+  color: navy;
+  background-color: #d6d1d145;
+}
+
+.zoom{
+  transition: transform .2s;
+  display: inline-grid;
+  margin: 20px 30px;
+}
+.zoom:hover {
+  transform: scale(1.2);
+  
+}
+.text-center{
+  text-align: center;
+}
+
+/************************************/
+
+.mySearch {
+  width: 80%;
+  font-size: 18px;
+  padding: 11px;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+}
+.myMenu {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.lia {
+  text-decoration: none;
+  display: block;
+}
+
+.padding{
+  padding:12px;
+}
+</style>
+
+
+</head>
+<script src='https://cdn.jsdelivr.net/gh/Abdo-Hegazi/yallagual@4620ae19441804afe10c9d0bc8649dcba8668ed9/jquery.min.js'></script>
+<script>
+  function vlcplay(b){if(navigator.userAgent.match(/iPhone|iPad|iPod/i)){window.location=b}else{location.href="intent:"+b+"#Intent;package=com.instantbits.cast.webvideo;S.title=msftv ...;type=application/vnd.apple.mpegurl;end"}};
+  function maxplay(a){if(navigator.userAgent.match(/iPhone|iPad|iPod/i)){window.location=b}else{location.href="intent:"+a+"#Intent;package=com.mxtech.videoplayer.ad;end"}};
+  function maxplay_pro(b){if(navigator.userAgent.match(/iPhone|iPad|iPod/i)){window.location=b}else{location.href="intent:"+b+"#Intent;package=com.mxtech.videoplayer.pro;end"}};
+  function extplay(a){if(navigator.userAgent.match(/iPhone|iPad|iPod/i)){window.location=a}else{location.href="intent://"+a+"#Intent;action=android.intent.action.VIEW;scheme=http;type=video/*;end"}};
+  function intent(b){if(navigator.userAgent.match(/iPhone|iPad|iPod/i)){window.location=b}else{location.href="intent:"+b+"#Intent;action=android.intent.action.VIEW;scheme=http;type=video/mp4;end"}};
+</script>
+<body>
+
+ 
+  <div class="scrollmenu" style="margin-top:20px">
+  <a class="tablink" onclick="openPage('beIN SPORTS HD', this, 'black', 'white')" id="defaultOpen">beIN SPORTS</a>
+    <a class="tablink" onclick="openPage('AD SPORTS', this, 'black', 'white')">beIN entertainment</a>
+    <a class="tablink" onclick="openPage('EGYPT SPORT TV', this, 'black', 'white')">ARABIC SPORT TV</a>
+    <a class="tablink" onclick="openPage('ARABIC SPORT TV', this, 'black', 'white')">SPORT TV</a>
+    <a class="tablink" onclick="openPage('OSN', this, 'black', 'white')">OSN</a>
+  <a class="tablink" onclick="openPage('ARABIC', this, 'black', 'white')">ARABIC</a>
+  <a class="tablink" onclick="openPage('ITALY', this, 'black', 'white')">ITALY</a>
+  <a class="tablink" onclick="openPage('UK', this, 'black', 'white')">UK</a> 
+   <a class="tablink" onclick="openPage('USA', this, 'black', 'white')">USA</a>
+   <a class="tablink" onclick="openPage('KIDS', this, 'black', 'white')">KIDS</a>
+    <a class="tablink" onclick="openPage('TURKEY', this, 'black', 'white')">TURKEY</a>
+	<!--
+		1° package name:
+		غير اسم الباكدج
+		<a class="tablink" onclick="openPage('EXAMPLE', this, 'black')">EXAMPLE</a>
+	-->
+  </div>
+
+  <div id="beIN SPORTS HD" class="tabcontent text-center">
+  
+  <input  autocomplete="off" type="text" id="mySearch" value="" onkeyup="search()" placeholder="Search" title="Type in a category" class="text-center mySearch">
+  <ul id="beIN SPORTS HD" class="padding text-center myMenu">
+  
+   
+
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport1|referer=http://yariga.tv/?01")>
+      <a class=" lia tablink-text-movies"  id="defaultOpen">beIN SPORTS HD1</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport2|referer=http://yariga.tv/?02")>
+      <a class="lia tablink-text-movies">beIN SPORTS HD2</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport3|referer=http://yariga.tv/?03")>
+      <a class="lia tablink-text-movies">beIN SPORTS HD3</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport4|referer=http://yariga.tv/?04")>
+      <a class="lia tablink-text-movies">beIN SPORTS HD4</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport5|referer=http://yariga.tv/?05")>
+      <a class="lia tablink-text-movies">beIN SPORTS HD5</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport6|referer=http://yariga.tv/?06")>
+      <a class="lia tablink-text-movies">beIN SPORTS HD6</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport7|User-Agent=7RhmQzXGwrJ5XwkYXFYv725")>
+      <a class="lia tablink-text-movies">beIN SPORTS HD7</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport8|User-Agent=7RhmQzXGwrJ5XwkYXFYv725")>
+      <a class="lia tablink-text-movies">beIN SPORTS HD8</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport9|User-Agent=7RhmQzXGwrJ5XwkYXFYv725")>
+      <a class="lia tablink-text-movies">beIN SPORTS HD9</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport10|User-Agent=7RhmQzXGwrJ5XwkYXFYv725")>
+      <a class="lia tablink-text-movies">beIN SPORTS HD10</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport1-5")>
+      <a class=" lia tablink-text-movies"  id="defaultOpen">beIN SPORTS SD1</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport2-5")>
+      <a class="lia tablink-text-movies">beIN SPORTS SD2</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport3-5")>
+      <a class="lia tablink-text-movies">beIN SPORTS SD3</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport4-5")>
+      <a class="lia tablink-text-movies">beIN SPORTS SD4</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport5-5")>
+      <a class="lia tablink-text-movies">beIN SPORTS SD5</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport6-5")>
+      <a class="lia tablink-text-movies">beIN SPORTS SD6</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport7-5")>
+      <a class="lia tablink-text-movies">beIN SPORTS SD7</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport8-5")>
+      <a class="lia tablink-text-movies">beIN SPORTS SD8</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport9-5")>
+      <a class="lia tablink-text-movies">beIN SPORTS SD9</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport10-5")>
+      <a class="lia tablink-text-movies">beIN SPORTS SD10</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport1-2")>
+      <a class=" tablink-text-movies"  id="defaultOpen">beIN SPORTS LOW1</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport2-2")>
+      <a class="tablink-text-movies">beIN SPORTS LOW2</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport3-2")>
+      <a class="tablink-text-movies">beIN SPORTS LOW3</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport4-2")>
+      <a class="tablink-text-movies">beIN SPORTS LOW4</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport5-2")>
+      <a class="tablink-text-movies">beIN SPORTS LOW5</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport6-2")>
+      <a class="tablink-text-movies">beIN SPORTS LOW6</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport7-2")>
+      <a class="tablink-text-movies">beIN SPORTS LOW7</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport8-2")>
+      <a class="tablink-text-movies">beIN SPORTS LOW8</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport9-2")>
+      <a class="tablink-text-movies">beIN SPORTS LOW9</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport10-2")>
+      <a class="tablink-text-movies">beIN SPORTS LOW10</a>
+    </li>
+    
+    
+      <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport1-3")>
+      <a class="tablink-text-movies">beIN SPORTS VERY LOW1</a>
+    </li>
+    
+     <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport2-3")>  <a class="tablink-text-movies">beIN SPORTS VERY LOW2</a>
+    </li>
+    
+     <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport3-3")>
+      <a class="tablink-text-movies">beIN SPORTS VERY LOW3</a>
+    </li>
+    
+     <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport4-3")>
+      <a class="tablink-text-movies">beIN SPORTS VERY LOW4</a>
+    </li>
+    
+     <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport5-3")>
+      <a class="tablink-text-movies">beIN SPORTS VERY LOW5</a>
+    </li>
+    
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport6-3")>
+      <a class="tablink-text-movies">beIN SPORTS VERY LOW6</a>
+    </li>
+    
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport7-3")>
+      <a class="tablink-text-movies">beIN SPORTS VERY LOW7</a>
+    </li>
+    
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport8-3")>
+      <a class="tablink-text-movies">beIN SPORTS VERY LOW8</a>
+    </li>
+    
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport9-3")>
+      <a class="tablink-text-movies">beIN SPORTS VERY LOW9</a>
+    </li>
+    
+    
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport10-3")>
+      <a class="tablink-text-movies">beIN SPORTS VERY LOW10</a>
+    </li>
+    
+    
+      <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport1-4|User-Agent=www.yacineapp.tv")>
+      <a class=" tablink-text-movies"  id="defaultOpen">beIN SPORTS WE1</a>
+    </li>
+    
+    
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport2-4|User-Agent=www.yacineapp.tv")>
+      <a class=" tablink-text-movies"  id="defaultOpen">beIN SPORTS WE2</a>
+    </li>
+    
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport3-4|User-Agent=www.yacineapp.tv")>
+      <a class=" tablink-text-movies"  id="defaultOpen">beIN SPORTS WE3</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport4-4|User-Agent=www.yacineapp.tv")>
+      <a class=" tablink-text-movies"  id="defaultOpen">beIN SPORTS WE4</a>
+    </li>
+ <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport5-4|User-Agent=www.yacineapp.tv")>
+      <a class=" tablink-text-movies"  id="defaultOpen">beIN SPORTS WE5</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport6-4|User-Agent=www.yacineapp.tv")>
+      <a class=" tablink-text-movies"  id="defaultOpen">beIN SPORTS WE6</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport7-4|User-Agent=www.yacineapp.tv")>
+      <a class=" tablink-text-movies"  id="defaultOpen">beIN SPORTS WE7</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport8-4|User-Agent=www.yacineapp.tv")>
+      <a class=" tablink-text-movies"  id="defaultOpen">beIN SPORTS WE8</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=beinsport9-4|User-Agent=www.yacineapp.tv")>
+      <a class=" tablink-text-movies"  id="defaultOpen">beIN SPORTS WE9</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.cf/server/MSFtv.m3u8?s=141|User-Agent=WSS_User_Agent")>
+      <a class=" tablink-text-movies"  id="defaultOpen">beIN SPORTS WE10</a>
+    </li>
+    
+  </ul>
+  </div>
+
+
+  
+  <div id="AD SPORTS" class=" tabcontent text-center">
+    <input  autocomplete="off" type="text" id="mySearch4" value="" onkeyup="search()" placeholder="Search" title="Type in a category" class="text-center mySearch">
+  <ul id="AD SPORTS" class="padding text-center myMenu">
+    
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=BeinMovies1")>
+      <a class=" tablink-text-movies"  id="defaultOpen">beIN MOVIES 1</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=2")>
+      <a class="tablink-text-movies">beIN MOVIES 2</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=BeinMovies3")>
+      <a class="tablink-text-movies">beIN MOVIES 3</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=BeinMovies4")>
+      <a class="tablink-text-movies">beIN MOVIES 4</a>
+    </li>
+      <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=Beindrama")>
+      <a class="tablink-text-movies">beIN DRAMA</a>
+    </li>
+  </ul>
+  </div>
+  
+  <div id="EGYPT SPORT TV" class=" tabcontent text-center">
+    <input  autocomplete="off" type="text" id="mySearch5" value="" onkeyup="search()" placeholder="Search" title="Type in a category" class="text-center mySearch">
+  <ul id="EGYPT SPORT TV" class="padding text-center myMenu">
+    
+     <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=zamalek")>
+      <a class=" tablink-text-movies"  id="defaultOpen">ZAMALEK TV</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=onsport")>
+      <a class=" tablink-text-movies"  id="defaultOpen">ON SPORT</a>
+    </li>
+
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=onsport2")>
+      <a class=" tablink-text-movies"  id="defaultOpen">ON SPORT 2</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=nilesport")>
+      <a class="tablink-text-movies">NILE SPORT</a>
+    </li>
+
+     <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=libyasport")>
+      <a class="tablink-text-movies">Libya Sport channel</a>
+    </li>
+    
+        <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=ahly")>
+      <a class=" tablink-text-movies"  id="defaultOpen">AL AHLY</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=timesport|User-Agent=REDLINECLIENTGN-CX1200V2.0.63")>
+      <a class="tablink-text-movies">TIME SPORT</a>
+    </li> 
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=adsport1")>
+      <a class=" tablink-text-movies"  id="defaultOpen">AD SPORTS1</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=adsport2")>
+      <a class="tablink-text-movies">AD SPORTS2</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=adsport3")>
+      <a class="tablink-text-movies">AD SPORTS3</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=adsport4")>
+      <a class="tablink-text-movies">AD SPORTS4</a>  
+       <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=dubais1")>
+      <a class="tablink-text-movies">Dubai Sport 1</a>  
+       <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=dubais2")>
+      <a class="tablink-text-movies">Dubai Sport 2</a>  
+       <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=dubais3")>
+      <a class="tablink-text-movies">Dubai Sport 3</a>  
+      <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=ksasport")>
+      <a class=" tablink-text-movies"  id="defaultOpen">KSA SPORT 1</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=ksasport2")>
+      <a class=" tablink-text-movies"  id="defaultOpen">KSA SPORT 2</a>
+    </li>
+    </li>
+  </ul>
+  </div>
+  
+  <div id="ARABIC SPORT TV" class=" tabcontent text-center">
+    <input  autocomplete="off" type="text" id="mySearch6" value="" onkeyup="search()" placeholder="Search" title="Type in a category" class="text-center mySearch">
+  <ul id="ARABIC SPORT TV" class="padding text-center myMenu">  
+  <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=wwe")>
+      <a class=" tablink-text-movies"  id="defaultOpen">WWE</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=AsteraSport")>
+      <a class=" tablink-text-movies"  id="defaultOpen">AsteraSport</a>
+    </li>
+   <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=ajyal")>
+      <a class=" tablink-text-movies"  id="defaultOpen">AJYAL</a>
+    </li>
+     <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=fajertv1")>
+      <a class=" tablink-text-movies"  id="defaultOpen">AL FaJer 1</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=fajertv2")>
+      <a class=" tablink-text-movies"  id="defaultOpen">AL FaJer 2</a>
+    </li>
+      <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=varzich")>
+      <a class=" tablink-text-movies"  id="defaultOpen">VARZICH</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=falconeye2")>
+      <a class=" tablink-text-movies"  id="defaultOpen">FAlcon eye 2</a>
+    </li>
+     <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=kurdgoal")>
+      <a class=" tablink-text-movies"  id="defaultOpen">Kurd goal</a>
+    </li>
+      <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=nl2")>
+      <a class=" tablink-text-movies"  id="defaultOpen">New Line 2</a>
+      <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=setanta")>
+      <a class=" tablink-text-movies"  id="defaultOpen">Setanta Sport</a>
+    </li>  
+     <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=setanta2")>
+      <a class=" tablink-text-movies"  id="defaultOpen">Setanta Sport 2</a>
+    </li>
+          <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=ss1")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SUPER Sport 1</a>
+    </li>
+          <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=ss2")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SUPER Sport 2</a>
+    </li>
+          <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=ss3")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SUPER Sport 3</a>
+    </li> 
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=ss4")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SUPER Sport 4</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=ss5")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SUPER Sport 5</a>
+    </li> 
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=ss6")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SUPER Sport 6</a>
+    </li>
+     <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=ss7")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SUPER Sport 7</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=ss8")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SUPER Sport 8</a>
+    </li> 
+     <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=ss9")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SUPER Sport 9</a>
+    </li>
+          <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=stfoucs")>
+      <a class=" tablink-text-movies"  id="defaultOpen">ST SPORTS FOCUS</a>
+    </li>
+          <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=stpremium")>
+      <a class=" tablink-text-movies"  id="defaultOpen">ST SPORTS PREMIUM</a>
+    </li>
+          <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=arena1")>
+      <a class=" tablink-text-movies"  id="defaultOpen">ARENA Sport 1</a>
+    </li>
+          <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=arena2")>
+      <a class=" tablink-text-movies"  id="defaultOpen">ARENA Sport 2</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=arena3")>
+      <a class=" tablink-text-movies"  id="defaultOpen">ARENA Sport 3</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=arena4")>
+      <a class=" tablink-text-movies"  id="defaultOpen">ARENA Sport 4</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=sk1")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SPORT KLUB 1</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=sk2")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SPORT KLUB 2</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=sk3")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SPORT KLUB 3</a>
+    </li>
+        <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=sk4")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SPORT KLUB 4</a>
+    </li>
+        <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=sk5")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SPORT KLUB 5</a>
+    </li>
+        <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=sk6")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SPORT KLUB 6</a>
+    </li>
+            <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=eurosport1")>
+      <a class=" tablink-text-movies"  id="defaultOpen">EUROSPORT 1</a>
+    </li>
+            <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=eurosport2")>
+      <a class=" tablink-text-movies"  id="defaultOpen">EUROSPORT 2</a>
+    </li>
+          <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=match")>
+      <a class=" tablink-text-movies"  id="defaultOpen">MATCH</a>
+    </li><li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=match1")>
+      <a class=" tablink-text-movies"  id="defaultOpen">MATCH 1</a>
+    </li>
+<li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=match2")>
+      <a class=" tablink-text-movies"  id="defaultOpen">MATCH 2</a>
+    </li>
+        <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=match3")>
+      <a class=" tablink-text-movies"  id="defaultOpen">MATCH 3</a>
+    </li>
+          <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=espn")>
+      <a class=" tablink-text-movies"  id="defaultOpen">ESPN</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=espn2")>
+      <a class=" tablink-text-movies"  id="defaultOpen">ESPN 2</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=espn3")>
+      <a class=" tablink-text-movies"  id="defaultOpen">ESPN 3</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=fox1")>
+      <a class=" tablink-text-movies"  id="defaultOpen">Fox Sports 1</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=fox2")>
+      <a class=" tablink-text-movies"  id="defaultOpen">Fox Sports 2</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=fox3")>
+      <a class=" tablink-text-movies"  id="defaultOpen">Fox Sports 3</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=foxpr")>
+      <a class=" tablink-text-movies"  id="defaultOpen">Fox Sports Premium</a>
+    </li>
+     <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=ten1")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SONY TEN 1</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=ten2")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SONY TEN 2</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=ten3")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SONY TEN 3</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=sespn")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SONY ESPN</a>
+    </li>
+    
+  </ul>
+  </div>
+  
+  <div id="OSN" class=" tabcontent text-center">
+    <input  autocomplete="off" type="text" id="mySearch7" value="" onkeyup="search()" placeholder="Search" title="Type in a category" class="text-center mySearch">
+  <ul id="OSN" class="padding text-center myMenu">
+    
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=osnyahala")>
+      <a class=" tablink-text-movies"  id="defaultOpen">OSN YAHALA</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=osnmovies")>
+      <a class="tablink-text-movies">OSN MOVIES</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=osnmoviesaction")>
+      <a class="tablink-text-movies">OSN MOVIES ACTION</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=osnmoviesfirst")>
+      <a class="tablink-text-movies">OSN MOVIES FIRST</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=osnyahalacinema|referer=http://qanat.tv/?A16")>
+      <a class="tablink-text-movies">OSN YH CINEMA</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=StarWorld")>
+      <a class="tablink-text-movies">STAR MOVIES</a>
+    </li> 
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=osncinema1")>
+      <a class="tablink-text-movies">OSN CINEMA 1</a>
+    </li>
+     <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=osnyahala1")>
+      <a class="tablink-text-movies">OSN YH ALOULA</a>
+    </li>
+  </ul>
+  </div>
+  
+  <div id="ARABIC" class=" tabcontent text-center">
+    <input  autocomplete="off" type="text" id="mySearch8" value="" onkeyup="search()" placeholder="Search" title="Type in a category" class="text-center mySearch">
+  <ul id="ARABIC" class="padding text-center myMenu">
+    
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=mbc1")>
+      <a class=" tablink-text-movies"  id="defaultOpen">MBC 1</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=mbc2")>
+      <a class="tablink-text-movies">MBC 2</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=mbc3")>
+      <a class="tablink-text-movies">MBC 3</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=mbc4")>
+      <a class="tablink-text-movies">MBC 4</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=mbcaction")>
+      <a class="tablink-text-movies">MBC ACTION</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=mbcmax")>
+      <a class="tablink-text-movies">MBC MAX</a>
+    </li>
+  </ul>
+  </div>
+  
+  <div id="ITALY" class=" tabcontent text-center">
+    <input  autocomplete="off" type="text" id="mySearch9" value="" onkeyup="search()" placeholder="Search" title="Type in a category" class="text-center mySearch">
+  <ul id="ITALY" class="padding text-center myMenu">
+    
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=skcl1")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SKY SERIE A</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=skysportunoit")>
+      <a class="tablink-text-movies">SKY    SPORT UNO</a>
+    </li>
+
+ <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=skysportfootballit")>
+      <a class="tablink-text-movies">SKY    SPORT FOOTBALL</a>
+    </li>
+  
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=dazn1it")>
+      <a class="tablink-text-movies">DAZN 1</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=dazn2it")>
+      <a class="tablink-text-movies">DAZN 2</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=dazn3it")>
+      <a class="tablink-text-movies">DAZN 3</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("www.msftv.ga/MSFtv.m3u8?ch=dazn4it")>
+      <a class="tablink-text-movies">DAZN 4</a>
+    </li>
+  </ul>
+  </div>
+  
+  <div id="UK" class=" tabcontent text-center">
+    <input  autocomplete="off" type="text" id="mySearch10" value="" onkeyup="search()" placeholder="Search" title="Type in a category" class="text-center mySearch">
+  <ul id="UK" class="padding text-center myMenu">
+    
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=skysportme")>
+      <a class=" tablink-text-movies"  id="defaultOpen">SKY SPORT MAIN EFENT</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=SkySportaction")>
+      <a class="tablink-text-movies">SKY SPORT ACTION</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=SkySportPL")>
+      <a class="tablink-text-movies">SKY SPORT PL</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=SkySportfootball")>
+      <a class="tablink-text-movies">SKY SPORT FOOTBALL</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=SkySportcricket")>
+      <a class="tablink-text-movies">SKY SPORT CRICKET</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=SkySportF1")>
+      <a class="tablink-text-movies">SKY SPORT F1</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=SkySportGolf")>
+      <a class="tablink-text-movies">SKY SPORT GOLF</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=SkySportArena")>
+      <a class="tablink-text-movies">SKY SPORT ARENA</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=btsport1")>
+      <a class="tablink-text-movies">Bt sport1</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=btsport2")>
+      <a class="tablink-text-movies">Bt sport2</a>
+    </li>
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=btsport3")>
+      <a class="tablink-text-movies">Bt sport3</a>
+    </li>
+    
+  </ul>
+  </div>  <div id="USA" class=" tabcontent text-center">
+    <input  autocomplete="off" type="text" id="mySearch11" value="" onkeyup="search()" placeholder="Search" title="Type in a category" class="text-center mySearch">
+  <ul id="USA" class="padding text-center myMenu">
+    
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=nbcsn")>
+      <a class="tablink-text-movies">NBCSN</a>
+    </li> 
+      <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=tnt")>
+      <a class="tablink-text-movies">TNT</a>
+    </li>
+     <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=usa")>
+      <a class="tablink-text-movies">USA NETWORK</a>
+    </li>
+  </ul>
+  </div>
+   </div> 
+
+   <div id="KIDS" class=" tabcontent text-center">
+    <input  autocomplete="off" type="text" id="mySearch12" value="" onkeyup="search()" placeholder="Search" title="Type in a category" class="text-center mySearch">
+  <ul id="KIDS" class="padding text-center myMenu">
+    
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=nbcsn")>
+      <a class="tablink-text-movies">NBCSN</a>
+    </li> 
+      <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=tnt")>
+      <a class="tablink-text-movies">TNT</a>
+    </li>
+     <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=usa")>
+      <a class="tablink-text-movies">USA NETWORK</a>
+    </li>
+  </ul>
+  </div>
+  
+  <div id="TURKEY" class=" tabcontent text-center">
+    <input  autocomplete="off" type="text" id="mySearch2" value="" onkeyup="search()" placeholder="Search" title="Type in a category" class="text-center mySearch">
+  <ul id="TURKEY" class="padding text-center myMenu">
+    
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=trt1")>
+      <a class=" tablink-text-movies"  id="defaultOpen">TRT 1</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=trtarabic")>
+      <a class="tablink-text-movies">TRT ARABIC</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=TRTTURK")>
+      <a class="tablink-text-movies">TRT TURK</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=TRTCocuk")>
+      <a class="tablink-text-movies">TRT Cocuk</a>
+    </li>
+  
+  <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=TRTsport")>
+      <a class="tablink-text-movies">TRT SPORT</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=TRTWorld")>
+      <a class="tablink-text-movies">TRT World</a>
+    </li>
+  
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=foxtr")>
+      <a class="tablink-text-movies">FOX</a>
+    </li>
+       <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=bein1tr")>
+      <a class=" tablink-text-movies"  id="defaultOpen">Bein Sports 1 Turkey</a>
+    </li>
+        <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=bein2tr")>
+      <a class=" tablink-text-movies"  id="defaultOpen">Bein Sports 2 Turkey</a>
+    </li>   
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=ssport")>
+      <a class=" tablink-text-movies"  id="defaultOpen">S SPORT</a>
+    </li>   
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=smartsport")>
+      <a class=" tablink-text-movies"  id="defaultOpen">Smart SPORT</a>
+    </li>
+  </ul>
+  </div>
+  
+<!--
+	2° channel:
+	id="mySearch12"غير اسم القنوات واللينكات و
+	<div id="KIDS" class=" tabcontent text-center">
+    <input  autocomplete="off" type="text" id="mySearch12" value="" onkeyup="search()" placeholder="Search" title="Type in a category" class="text-center mySearch">
+  <ul id="KIDS" class="padding text-center myMenu">
+    
+    <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=nbcsn")>
+      <a class="tablink-text-movies">NBCSN</a>
+    </li> 
+      <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=tnt")>
+      <a class="tablink-text-movies">TNT</a>
+    </li>
+     <li class="zoom tablink-movies" onclick=extplay("msftv.ga/MSFtv.m3u8?ch=usa")>
+      <a class="tablink-text-movies">USA NETWORK</a>
+    </li>
+  </ul>
+  </div>
+-->
+
+<script>
+//3°: input filter ul li هتضيف 
+//ضيفهم باسامى غير اللى مستعلينها قبل كدا
+var input, input2, input3, input4, input5, input6, input7, input8, input9, input10, input11, input12;
+var filter, filter2, filter3, filter4, filter5, filter6, filter7, filter8, filter9, filter10, filter11, filter12;
+var ul, al, bl, cl, dl, el, fl, gl, il, jl, tl, kl; 
+var li, la, lb, lc, ld, le, lf, lg, lii, lj ,lt, lk;
+function search() {
+  var a, i;
+  input = document.getElementById("mySearch");
+  input2 = document.getElementById("mySearch2");
+  input4 = document.getElementById("mySearch4");
+  input5 = document.getElementById("mySearch5");
+  input6 = document.getElementById("mySearch6");
+  input7 = document.getElementById("mySearch7");
+  input8 = document.getElementById("mySearch8");
+  input9 = document.getElementById("mySearch9");
+  input10 = document.getElementById("mySearch10");
+  input11 = document.getElementById("mySearch11");
+  input12 = document.getElementById("mySearch12");
+  
+  // 4°: input12 = document.getElementById("mySearch12"); هتضيف الانبوت الجديد اللى عملته باسم السيرش الجديد
+  
+  filter = input.value.toUpperCase();
+  filter2 = input2.value.toUpperCase();
+  filter4 = input4.value.toUpperCase();
+  filter5 = input5.value.toUpperCase();
+  filter6 = input6.value.toUpperCase();
+  filter7 = input7.value.toUpperCase();
+  filter8 = input8.value.toUpperCase();
+  filter9 = input9.value.toUpperCase();
+  filter10 = input10.value.toUpperCase();
+  filter11 = input11.value.toUpperCase();
+  filter12 = input12.value.toUpperCase();
+  
+  // 5° filter12 = input12.value.toUpperCase();
+
+  ul = document.getElementById("beIN SPORTS HD");
+  cl = document.getElementById("AD SPORTS");
+  dl = document.getElementById("EGYPT SPORT TV");
+  el = document.getElementById("ARABIC SPORT TV");
+  fl = document.getElementById("OSN");
+  gl = document.getElementById("ARABIC");
+  il = document.getElementById("ITALY");
+  jl = document.getElementById("UK");
+  tl = document.getElementById("USA");
+  kl = document.getElementById("KIDS");
+  al = document.getElementById("TURKEY");
+  
+  // 6° al = document.getElementById("TURKEY");
+  
+  li = ul.getElementsByTagName("li");
+  lc = cl.getElementsByTagName("li");
+  ld = dl.getElementsByTagName("li");
+  le = el.getElementsByTagName("li");
+  lf = fl.getElementsByTagName("li");
+  lg = gl.getElementsByTagName("li");
+  lii = il.getElementsByTagName("li");
+  lt = tl.getElementsByTagName("li");
+  lj = jl.getElementsByTagName("li");
+  la = al.getElementsByTagName("li");
+  lk = kl.getElementsByTagName("li");
+  
+  // 7° lk = kl.getElementsByTagName("li");
+  
+  for (i = 0; i < li.length; i++) {
+    a = li[i].getElementsByTagName("a")[0];
+    if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+  
+  }
+ 
+  for (i = 0; i < lc.length; i++) {
+    a = lc[i].getElementsByTagName("a")[0];
+    if (a.innerHTML.toUpperCase().indexOf(filter4) > -1) {
+      lc[i].style.display = "";
+    } else {
+      lc[i].style.display = "none";
+    }
+  
+  }
+  for (i = 0; i < ld.length; i++) {
+    a = ld[i].getElementsByTagName("a")[0];
+    if (a.innerHTML.toUpperCase().indexOf(filter5) > -1) {
+      ld[i].style.display = "";
+    } else {
+      ld[i].style.display = "none";
+    }
+  
+  }
+  for (i = 0; i < le.length; i++) {
+    a = le[i].getElementsByTagName("a")[0];
+    if (a.innerHTML.toUpperCase().indexOf(filter6) > -1) {
+      le[i].style.display = "";
+    } else {
+      le[i].style.display = "none";
+    }
+  
+  }
+  for (i = 0; i < lf.length; i++) {
+    a = lf[i].getElementsByTagName("a")[0];
+    if (a.innerHTML.toUpperCase().indexOf(filter7) > -1) {
+      lf[i].style.display = "";
+    } else {
+      lf[i].style.display = "none";
+    }
+  
+  }
+  for (i = 0; i < lg.length; i++) {
+    a = lg[i].getElementsByTagName("a")[0];
+    if (a.innerHTML.toUpperCase().indexOf(filter8) > -1) {
+      lg[i].style.display = "";
+    } else {
+      lg[i].style.display = "none";
+    }
+  
+  }
+  for (i = 0; i < lii.length; i++) {
+    a = lii[i].getElementsByTagName("a")[0];
+    if (a.innerHTML.toUpperCase().indexOf(filter9) > -1) {
+      lii[i].style.display = "";
+    } else {
+      lii[i].style.display = "none";
+    }
+  
+  }
+  for (i = 0; i < lj.length; i++) {
+    a = lj[i].getElementsByTagName("a")[0];
+    if (a.innerHTML.toUpperCase().indexOf(filter10) > -1) {
+      lj[i].style.display = "";
+    } else {
+      lj[i].style.display = "none";
+    }
+  
+  }for (i = 0; i < lt.length; i++) {
+    a = lt[i].getElementsByTagName("a")[0];
+    if (a.innerHTML.toUpperCase().indexOf(filter11) > -1) {
+      lt[i].style.display = "";
+    } else {
+      lt[i].style.display = "none";
+    }
+  
+  }
+  for (i = 0; i < la.length; i++) {
+    a = la[i].getElementsByTagName("a")[0];
+    if (a.innerHTML.toUpperCase().indexOf(filter2) > -1) {
+      la[i].style.display = "";
+    } else {
+      la[i].style.display = "none";
+    }
+  
+  }
+  for (i = 0; i < lk.length; i++) {
+    a = lk[i].getElementsByTagName("a")[0];
+    if (a.innerHTML.toUpperCase().indexOf(filter12) > -1) {
+      lk[i].style.display = "";
+    } else {
+      lk[i].style.display = "none";
+    }
+  
+  }
+  
+  /* 8°:
+  for (i = 0; i < lk.length; i++) {
+    a = lk[i].getElementsByTagName("a")[0];
+    if (a.innerHTML.toUpperCase().indexOf(filter12) > -1) {
+      lk[i].style.display = "";
+    } else {
+      lk[i].style.display = "none";
+    }
+  
+  }
+  */
+}
+function getElementAgain(){
+  document.getElementById("mySearch").value = "";
+  document.getElementById("mySearch4").value = "";
+  document.getElementById("mySearch5").value = "";
+  document.getElementById("mySearch6").value = "";
+  document.getElementById("mySearch7").value = "";
+  document.getElementById("mySearch8").value = "";
+  document.getElementById("mySearch9").value = "";
+  document.getElementById("mySearch10").value = "";
+  document.getElementById("mySearch11").value = "";
+  document.getElementById("mySearch12").value = "";
+  
+  //document.getElementById("mySearch12").value = "";
+  search();
+} 
+function openPage(pageName,elmnt,groundColor, color) {
+  var i, tabcontent, tablinks;
+  
+  getElementAgain();
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].style.backgroundColor = "";
+	 tablinks[i].style.color = "";
+  }
+  document.getElementById(pageName).style.display = "block";
+  elmnt.style.backgroundColor = groundColor;
+  elmnt.style.color = color;
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+   
+</body>
+</html> 
