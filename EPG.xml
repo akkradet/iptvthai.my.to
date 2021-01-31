@@ -1998,9 +1998,6 @@
   <programme start="20210131232500 +0700" stop="20210201000000 +0700" channel="blueantent">
     <title><![CDATA[The Tonight Show Starring Jimmy Fallon S8 EP.75]]></title>
   </programme>
-  <programme start="20210131113000 +0700" stop="20210131122500 +0700" channel="blueantext">
-    <title><![CDATA[Paranormal Survivor S5 EP.7]]></title>
-  </programme>
   <programme start="20210131122500 +0700" stop="20210131132000 +0700" channel="blueantext">
     <title><![CDATA[Paranormal Survivor S5 EP.8]]></title>
   </programme>
@@ -5020,6 +5017,9 @@
   <programme start="20210131233000 +0700" stop="20210201000000 +0700" channel="dltv10">
     <title><![CDATA[การศึกษาพิเศษ สำหรับเด็กพิเศษ]]></title>
   </programme>
+  <programme start="20210201000000 +0700" stop="20210201010000 +0700" channel="dltv10">
+    <title><![CDATA[เล็กๆเปลี่ยนโลก]]></title>
+  </programme>
   <programme start="20210131120000 +0700" stop="20210131130000 +0700" channel="dltv11">
     <title><![CDATA[NCDs Reality เพราะรักจึงยอมเปลี่ยนแปลง]]></title>
   </programme>
@@ -5079,6 +5079,9 @@
   </programme>
   <programme start="20210131233000 +0700" stop="20210201000000 +0700" channel="dltv11">
     <title><![CDATA[กฎหมายคลายเครียดปี 1]]></title>
+  </programme>
+  <programme start="20210201000000 +0700" stop="20210201010000 +0700" channel="dltv11">
+    <title><![CDATA[อยู่เป็นลืมป่วย]]></title>
   </programme>
   <programme start="20210131120000 +0700" stop="20210131123000 +0700" channel="dltv12">
     <title><![CDATA[ธรรมดี...ได้ดี Easy Life]]></title>
@@ -5587,6 +5590,9 @@
   <programme start="20210131233000 +0700" stop="20210201000000 +0700" channel="dltv8">
     <title><![CDATA[ภาษาเกาหลี]]></title>
   </programme>
+  <programme start="20210201000000 +0700" stop="20210201003000 +0700" channel="dltv8">
+    <title><![CDATA[ASEAN FOCUS]]></title>
+  </programme>
   <programme start="20210131120000 +0700" stop="20210131130000 +0700" channel="dltv9">
     <title><![CDATA[ศ23104 นาฏศิลป์ ม.3]]></title>
     <desc><![CDATA[เรื่อง การประดิษฐ์ท่ารำจากภาษาท่าที่มาจากธรรมชาติ]]></desc>
@@ -5647,6 +5653,9 @@
   </programme>
   <programme start="20210131233000 +0700" stop="20210201000000 +0700" channel="dltv9">
     <title><![CDATA[เมืองไทยดี๊ดี]]></title>
+  </programme>
+  <programme start="20210201000000 +0700" stop="20210201003000 +0700" channel="dltv9">
+    <title><![CDATA[E Journey พลังงาน DEDE]]></title>
   </programme>
   <programme start="20210131120000 +0700" stop="20210131130000 +0700" channel="dw">
     <title><![CDATA[The 77 Percent]]></title>
@@ -6381,9 +6390,6 @@
     <title><![CDATA[Bosch   [ 6 ]]]></title>
     <sub-title><![CDATA[SR-ENT-KN :: Crime Series]]></sub-title>
     <desc><![CDATA[ภาพยนตร์ชุดทางโทรทัศน์เกี่ยวกับตำรวจสืบสวนแห่งนครลอสแอนเจลิสและภารกิจในการพิทักษ์เมืองจากเหล่าวายร้าย -- นำแสดงโดย ไททัส เวลลิเวอร์ และ เจมี่ เฮ็คเตอร์]]></desc>
-  </programme>
-  <programme start="20210131121500 +0700" stop="20210131122100 +0700" channel="france24">
-    <title><![CDATA[SPORTS]]></title>
   </programme>
   <programme start="20210131122100 +0700" stop="20210131123000 +0700" channel="france24">
     <title><![CDATA[FRENCH CONNECTIONS]]></title>
@@ -8215,12 +8221,6 @@
   </programme>
   <programme start="20210201000000 +0700" stop="20210201045500 +0700" channel="nickelodeon">
     <title><![CDATA[See all]]></title>
-  </programme>
-  <programme start="20210131121500 +0700" stop="20210131122000 +0700" channel="nickjr">
-    <title><![CDATA[Calvin & Kaison's Play Power S1 EP.113]]></title>
-  </programme>
-  <programme start="20210131122000 +0700" stop="20210131122500 +0700" channel="nickjr">
-    <title><![CDATA[Calvin & Kaison's Play Power S1 EP.114]]></title>
   </programme>
   <programme start="20210131122500 +0700" stop="20210131123000 +0700" channel="nickjr">
     <title><![CDATA[Ready Set Dance S1 EP.108]]></title>
@@ -15430,9 +15430,6 @@
   </programme>
   <programme start="20210131220000 +0700" stop="20210131235959 +0700" channel="truesport2">
     <title><![CDATA[NBA 2020/21]]></title>
-  </programme>
-  <programme start="20210131050500 -0000" stop="20210131052000 -0000" channel="tv5">
-    <title><![CDATA[แซดทีวี]]></title>
   </programme>
   <programme start="20210131052000 -0000" stop="20210131054500 -0000" channel="tv5">
     <title><![CDATA[ไดอารี่ช่อง 5]]></title>
