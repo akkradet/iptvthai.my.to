@@ -331,9 +331,6 @@
   <programme start="20210201233000 +0700" stop="20210202000000 +0700" channel="aljazeera">
     <title><![CDATA[People and Power]]></title>
   </programme>
-  <programme start="20210201131500 +0700" stop="20210201134000 +0700" channel="altv">
-    <title><![CDATA[สนุกเรียน (Rerun)]]></title>
-  </programme>
   <programme start="20210201134000 +0700" stop="20210201141000 +0700" channel="altv">
     <title><![CDATA[ละครเด็ก You&Me เพื่อนซี้ปาฏิหาริย์ S.2]]></title>
   </programme>
@@ -396,9 +393,6 @@
   </programme>
   <programme start="20210201210000 +0700" stop="20210202000000 +0700" channel="altv">
     <title><![CDATA[ปิดสถานี]]></title>
-  </programme>
-  <programme start="20210201063000 -0000" stop="20210201064000 -0000" channel="amarin">
-    <title><![CDATA[ชีวิตดีมีสุข]]></title>
   </programme>
   <programme start="20210201064000 -0000" stop="20210201065000 -0000" channel="amarin">
     <title><![CDATA[ฅ.คนโคตรเฮง!]]></title>
@@ -1143,6 +1137,9 @@
   </programme>
   <programme start="20210208063000 -0000" stop="20210208064000 -0000" channel="amarin">
     <title><![CDATA[ชีวิตดีมีสุข]]></title>
+  </programme>
+  <programme start="20210208064000 -0000" stop="20210208074000 -0000" channel="amarin">
+    <title><![CDATA[เพลิงนาง รีรัน]]></title>
   </programme>
   <programme start="20210201133500 +0700" stop="20210201143000 +0700" channel="animalplanet">
     <title><![CDATA[My Cat From Hell S9 : Ferocious Foster]]></title>
@@ -2040,8 +2037,8 @@
   <programme start="20210202000000 +0700" stop="20210202015000 +0700" channel="bein2">
     <title><![CDATA[Serie A 2020/21 : Bologna vs Milan]]></title>
   </programme>
-  <programme start="20210201125000 +0700" stop="20210201134000 +0700" channel="blueantent">
-    <title><![CDATA[Late Night With Seth Meyers S8 EP.55]]></title>
+  <programme start="20210202015000 +0700" stop="20210202034000 +0700" channel="bein2">
+    <title><![CDATA[A-League 2020/21 : Macarthur vs Sydney FC]]></title>
   </programme>
   <programme start="20210201134000 +0700" stop="20210201143000 +0700" channel="blueantent">
     <title><![CDATA[First Dates S7 EP.22]]></title>
@@ -7141,6 +7138,82 @@
     <title><![CDATA[เจาะข่าวค่ำ (Rerun)]]></title>
     <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
   </programme>
+  <programme start="20210207170000 -0000" stop="20210207175000 -0000" channel="gmm25">
+    <title><![CDATA[เจาะข่าวค่ำ (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210207175000 -0000" stop="20210207180000 -0000" channel="gmm25">
+    <title><![CDATA[MV]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210207180000 -0000" stop="20210207182000 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210207182000 -0000" stop="20210207184000 -0000" channel="gmm25">
+    <title><![CDATA[MV]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210207184000 -0000" stop="20210207190000 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210207190000 -0000" stop="20210207192000 -0000" channel="gmm25">
+    <title><![CDATA[MV]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210207192000 -0000" stop="20210207194000 -0000" channel="gmm25">
+    <title><![CDATA[O SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210207194000 -0000" stop="20210207203000 -0000" channel="gmm25">
+    <title><![CDATA[MV]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210207203000 -0000" stop="20210207205000 -0000" channel="gmm25">
+    <title><![CDATA[TRUE SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210207205000 -0000" stop="20210207215000 -0000" channel="gmm25">
+    <title><![CDATA[พบพระ พบธรรม]]></title>
+    <desc><![CDATA[รายการประเภท สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210207215000 -0000" stop="20210207221000 -0000" channel="gmm25">
+    <title><![CDATA[TRUE SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210207221000 -0000" stop="20210207222000 -0000" channel="gmm25">
+    <title><![CDATA[MV]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210207222000 -0000" stop="20210207224000 -0000" channel="gmm25">
+    <title><![CDATA[TRUE SHOPPING]]></title>
+    <desc><![CDATA[รายการประเภท แนะนำสินค้า]]></desc>
+  </programme>
+  <programme start="20210207224000 -0000" stop="20210208000000 -0000" channel="gmm25">
+    <title><![CDATA[ข่าวแหกโค้ง (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210208000000 -0000" stop="20210208010000 -0000" channel="gmm25">
+    <title><![CDATA[ไทยทึ่ง WOW! THAILAND (Rerun)]]></title>
+    <desc><![CDATA[รายการประเภท วาไรตี้]]></desc>
+  </programme>
+  <programme start="20210208010000 -0000" stop="20210208030000 -0000" channel="gmm25">
+    <title><![CDATA[แฉข่าวเช้า (สด)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
+  <programme start="20210208030000 -0000" stop="20210208034500 -0000" channel="gmm25">
+    <title><![CDATA[นานาน่า (สด)]]></title>
+    <desc><![CDATA[รายการประเภท เพลง]]></desc>
+  </programme>
+  <programme start="20210208034500 -0000" stop="20210208053000 -0000" channel="gmm25">
+    <title><![CDATA[ซีรีส์ U-Prince Series ตอน สิบทิศ (ตอนจบ)]]></title>
+    <desc><![CDATA[รายการประเภท ละคร]]></desc>
+  </programme>
+  <programme start="20210208053000 -0000" stop="20210208070000 -0000" channel="gmm25">
+    <title><![CDATA[เกาะข่าวเที่ยง (สด)]]></title>
+    <desc><![CDATA[รายการประเภท ข่าวสาร สาระความรู้]]></desc>
+  </programme>
   <programme start="20210201013000 +0700" stop="20210201032000 +0700" channel="history">
     <title><![CDATA[The Rise and Fall of Pablo Escobar]]></title>
     <sub-title><![CDATA[KNOWLEDGE :: Crime, Humanity]]></sub-title>
@@ -9195,10 +9268,6 @@
     <sub-title><![CDATA[KNOWLEDGE :: Technology]]></sub-title>
     <desc><![CDATA[สารคดีนำเสนอเรื่องราวเบื้องหลังอุตสาหกรรมการผลิตอาหารและเครื่องดื่มนานาชนิดที่ทุกคนชื่นชอบ]]></desc>
   </programme>
-  <programme start="20210201050000 -0000" stop="20210201064000 -0000" channel="nation">
-    <title><![CDATA[เนชั่น ทันข่าวเที่ยง (L)]]></title>
-    <desc><![CDATA[ข่าว]]></desc>
-  </programme>
   <programme start="20210201064000 -0000" stop="20210201065000 -0000" channel="nation">
     <title><![CDATA[ทันช้อป ทันใช้]]></title>
     <desc><![CDATA[รายการแนะนำสินค้า สุขภาพ ความงาม]]></desc>
@@ -10010,8 +10079,8 @@
   <programme start="20210202012000 +0700" stop="20210202014500 +0700" channel="nickelodeon">
     <title><![CDATA[SpongeBob SquarePants S11 EP.220]]></title>
   </programme>
-  <programme start="20210201131500 +0700" stop="20210201134000 +0700" channel="nickjr">
-    <title><![CDATA[Paw Patrol S02 EP.225]]></title>
+  <programme start="20210202014500 +0700" stop="20210202020500 +0700" channel="nickelodeon">
+    <title><![CDATA[The Fairly OddParents S7 EP.103]]></title>
   </programme>
   <programme start="20210201134000 +0700" stop="20210201140500 +0700" channel="nickjr">
     <title><![CDATA[The Adventures of Paddington S01 EP.109]]></title>
@@ -10138,10 +10207,6 @@
   </programme>
   <programme start="20210202014000 +0700" stop="20210202020500 +0700" channel="nickjr">
     <title><![CDATA[The Adventures of Paddington S01 EP.111]]></title>
-  </programme>
-  <programme start="20210201060500 -0000" stop="20210201064000 -0000" channel="one">
-    <title><![CDATA[ผู้หญิง..ทำมาหากิน]]></title>
-    <desc><![CDATA[รายการเพื่อความหวัง ให้เห็นว่าชีวิตย่อมมีทางไปเสมอ ทุกอาชีพ ทุกการทำมาหากินเคล็ดลับในการสร้างเงิน]]></desc>
   </programme>
   <programme start="20210201064000 -0000" stop="20210201074000 -0000" channel="one">
     <title><![CDATA[คุยแซ่บ SHOW]]></title>
@@ -13709,6 +13774,9 @@
   <programme start="20210202011500 +0700" stop="20210202014000 +0700" channel="toonee">
     <title><![CDATA[BUBBLE GUPPIES S.1 EP.8]]></title>
   </programme>
+  <programme start="20210202014000 +0700" stop="20210202050000 +0700" channel="toonee">
+    <title><![CDATA[MY LITTLE PONY FRIENDSHIP IS MAGIC EP.13]]></title>
+  </programme>
   <programme start="20210201053000 -0000" stop="20210201072500 -0000" channel="true4u">
     <title><![CDATA[ภาพยนตร์ เสียดฟ้า เบียดนรก]]></title>
     <desc><![CDATA[เรื่องราวเกี่ยวกับช่างภาพผู้สื่อข่าวสาวผู้พิการทางสายตาในเคหาสน์หรูกลางกรุงนิวยอร์กที่ถูกอาชญากรใจทมิฬรุกล้ำเข้ามาหาสมบัติภายในอาคารนี้ -- นำแสดงโดย มิเชล โมนาแฮน และ ไมเคิล คีตัน]]></desc>
@@ -16063,9 +16131,6 @@
   <programme start="20210202010500 +0700" stop="20210202023500 +0700" channel="tvn">
     <title><![CDATA[Best of I Can See Your Voice 7 EP.5]]></title>
   </programme>
-  <programme start="20210201133000 +0700" stop="20210201134000 +0700" channel="voice">
-    <title><![CDATA[ปักหมุดสุขภาพ]]></title>
-  </programme>
   <programme start="20210201134000 +0700" stop="20210201143000 +0700" channel="voice">
     <title><![CDATA[WOW Shopping]]></title>
   </programme>
@@ -16215,6 +16280,9 @@
   </programme>
   <programme start="20210202012500 +0700" stop="20210202015000 +0700" channel="warnertv">
     <title><![CDATA[Impractical Jokers S1 EP.6]]></title>
+  </programme>
+  <programme start="20210202015000 +0700" stop="20210202021500 +0700" channel="warnertv">
+    <title><![CDATA[The Big Bang Theory S12 EP.16]]></title>
   </programme>
   <programme start="20210201060000 -0000" stop="20210201065000 -0000" channel="workpoint">
     <title><![CDATA[ปัญญาปันสุข]]></title>
