@@ -334,9 +334,6 @@
   <programme start="20210203023000 +0700" stop="20210203030000 +0700" channel="aljazeera">
     <title><![CDATA[Viewfinder Asia]]></title>
   </programme>
-  <programme start="20210202141500 +0700" stop="20210202150500 +0700" channel="altv">
-    <title><![CDATA[ละครฝันให้สุด]]></title>
-  </programme>
   <programme start="20210202150500 +0700" stop="20210202153500 +0700" channel="altv">
     <title><![CDATA[ห้องเรียน On Air]]></title>
   </programme>
@@ -5059,6 +5056,9 @@
   <programme start="20210203023000 +0700" stop="20210203030000 +0700" channel="dltv4">
     <title><![CDATA[โลกใสไร้ขยะ]]></title>
   </programme>
+  <programme start="20210203030000 +0700" stop="20210203033000 +0700" channel="dltv4">
+    <title><![CDATA[เมืองไทยดี๊ดี]]></title>
+  </programme>
   <programme start="20210202150000 +0700" stop="20210202153000 +0700" channel="dltv5">
     <title><![CDATA[ที่นี่บ้านเรา]]></title>
   </programme>
@@ -7771,9 +7771,6 @@
     <sub-title><![CDATA[KNOWLEDGE :: Wildlife]]></sub-title>
     <desc><![CDATA[รายการที่จะพาคุณไปพบกับความลับของหมีโคอาล่าที่น่ารัก ถึงแม้ว่าพวกมันจะต้องการเวลานอนหลายชั่วโมง แต่พวกมันก็สามารถแสดงพลังออกมาได้อย่างน่าตกใจ]]></desc>
   </programme>
-  <programme start="20210202080000 -0000" stop="20210202080500 -0000" channel="mcot">
-    <title><![CDATA[ข่าวต้นชั่วโมง]]></title>
-  </programme>
   <programme start="20210202080500 -0000" stop="20210202090000 -0000" channel="mcot">
     <title><![CDATA[คุยโขมง บ่าย 3 โมง]]></title>
   </programme>
@@ -8637,6 +8634,9 @@
   </programme>
   <programme start="20210209080000 -0000" stop="20210209080500 -0000" channel="mcot">
     <title><![CDATA[ข่าวต้นชั่วโมง]]></title>
+  </programme>
+  <programme start="20210209080500 -0000" stop="20210209090000 -0000" channel="mcot">
+    <title><![CDATA[คุยโขมง บ่าย 3 โมง]]></title>
   </programme>
   <programme start="20210202072000 -0000" stop="20210202082000 -0000" channel="mono29">
     <title><![CDATA[Heroic Journey of Nezha : นาจา ตำนานเทพพิชิตมาร]]></title>
@@ -11902,10 +11902,6 @@
   <programme start="20210202230000 +0700" stop="20210202235959 +0700" channel="premier1">
     <title><![CDATA[Matchday Live Extra 2020/21]]></title>
   </programme>
-  <programme start="20210202080000 -0000" stop="20210202080500 -0000" channel="thaipbs">
-    <title><![CDATA[ทันข่าว 15.00 น.]]></title>
-    <desc><![CDATA[รายงานข่าวตามสถานการณ์ต้นชั่วโมง]]></desc>
-  </programme>
   <programme start="20210202080500 -0000" stop="20210202083000 -0000" channel="thaipbs">
     <title><![CDATA[คนสู้โรค]]></title>
     <desc><![CDATA[ให้ข้อมูลทางการแพทย์ การดูแลรักษาสุขภาพ การป้องกันและการรักษาโรค]]></desc>
@@ -12777,6 +12773,10 @@
   <programme start="20210209080000 -0000" stop="20210209080500 -0000" channel="thaipbs">
     <title><![CDATA[ทันข่าว 15.00 น.]]></title>
     <desc><![CDATA[รายงานข่าวตามสถานการณ์ต้นชั่วโมง]]></desc>
+  </programme>
+  <programme start="20210209080500 -0000" stop="20210209083000 -0000" channel="thaipbs">
+    <title><![CDATA[คนสู้โรค]]></title>
+    <desc><![CDATA[ให้ข้อมูลทางการแพทย์ การดูแลรักษาสุขภาพ การป้องกันและการรักษาโรค]]></desc>
   </programme>
   <programme start="20210202073000 -0000" stop="20210202082800 -0000" channel="thairath">
     <title><![CDATA[ร้องได้ให้ล้าน (Rerun)]]></title>
@@ -15315,9 +15315,6 @@
     <title><![CDATA[รันนิ่งแมน   [ 8 ]]]></title>
     <sub-title><![CDATA[ENTERTAIN :: Gameshow]]></sub-title>
     <desc><![CDATA[รายการวาไรตี้ของเกาหลีใต้เกี่ยวกับกิจกรรมคนเมืองโดยที่เหล่าพิธีกรและแขกรับเชิญจะร่วมแข่งขันกันตามสถานที่สำคัญๆต่างๆ]]></desc>
-  </programme>
-  <programme start="20210202080000 -0000" stop="20210202080500 -0000" channel="tv5">
-    <title><![CDATA[ช่อง 5 ทันข่าว 1500 - 1505]]></title>
   </programme>
   <programme start="20210202080500 -0000" stop="20210202090000 -0000" channel="tv5">
     <title><![CDATA[5 อาสา เพื่อประชาชน]]></title>
