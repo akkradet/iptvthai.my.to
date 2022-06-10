@@ -1,0 +1,4 @@
+#EXTM3U url-logos="https://iptvthai.my.to/guide.xml"
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://iptvthai.my.to/logo/SS_Logo_Variety3_4-3_001_lrg.png",SuperSport Variety 3
+https://iptvthai.my.to/supersport-variety-3.m3u8
