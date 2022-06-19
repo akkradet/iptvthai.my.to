@@ -17,3 +17,6 @@ https://iptvthai.my.to/s-variety-2.m3u8
 https://iptvthai.my.to/s-variety-3.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://iptvthai.my.to/logo/SS_Logo_Variety4_4-3_lrg.png",S VARIETY 4
 https://iptvthai.my.to/s-variety-4.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",ESPN
+https://iptvthai.my.to/espn.m3u8
