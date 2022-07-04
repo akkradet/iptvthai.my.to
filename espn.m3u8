@@ -1,2 +1,5 @@
 #EXTM3U
-http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=75108&extension=ts&play_token=kH57tNBkww
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/42909
