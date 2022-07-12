@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+https://playlist-rewriter-ais-az.ais-vidnt.com/live/eds/B7777/HLS/B7777-avc1_2000000=10002.m3u8?playbackUrlPrefix=https%3A%2F%2Fedgecdn-aisplay.akamaized.net&tt=06642e7c640f1579c8af1bd6e0ee3b73&chunkHttps=true&tmid=B7777&tpbk=TANnJsxKguGU0VNZ&rrt=1657605684&tmod=none&rsid=6a3a3141-42b9-4aaf-bb45-07386133fc1e&tuid=uql7wn1VhI%2F3eEVWxbgxm4W%2B6pT4Y1OyVYgNIi9%2B2YlCLSm2FnkpTMSSUKKpVI5jlCQTLYxWNqIVgz3ZzybbJRY2%2BRPcUZdRVw%2F6cu1opMrxQ%3D&cdn=akamai-https&tdid=176a8ccd6312a74e2d8d8a7b9384c0f2&origin=anevia&tfa=f0-fc&tttl=1657692084&originBasicUrl=http%3A%2F%2Fedge-cdn.ateme.ais.greenery.ninja
