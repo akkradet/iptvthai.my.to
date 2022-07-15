@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TheMatch2022White2.png",THE MATCH
-http://iptvthai.my.to/aisballthailive.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/Uy6XNlXcW1g/maxresdefault.jpg",Malaysia U19 vs Laos U19
+http://iptvthai.my.to/laostar.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://iptvthai.my.to/logo/Astro-SuperSport.png",ASSP 1
 http://iptvthai.my.to/assp.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://iptvthai.my.to/logo/Astro-SuperSport2.png",ASSP 2
